@@ -1,0 +1,554 @@
+<translations>
+    <entry>
+        <key>Welcome</key>
+        <en>Welcome</en>
+        <ja>ようこそ</ja>
+        <pt>Bem-Vindo</pt>
+        <zh-CN>欢迎</zh-CN>
+        <fr>Bienvenue</fr>
+        <ar>أهلا بك</ar>
+        <zh-TW>歡迎</zh-TW>
+        <hi>स्वागत हे</hi>
+        <ko>환영</ko>
+        <bn>স্বাগত</bn>
+        <ru>добро пожаловать</ru>
+        <sq>i mirëpritur</sq>
+        <it>benvenuto</it>
+        <de>Herzlich willkommen</de>
+        <it>benvenuto</it>
+        <ur>خوش آمدید</ur>
+    </entry>
+    <entry>
+        <key>Notifications</key>
+        <en>Notifications</en>
+        <ja>お知らせ</ja>
+        <pt>Notificações</pt>
+        <zh-CN>通知</zh-CN>
+        <fr>Notifications</fr>
+        <ar>الإشعارات</ar>
+        <zh-TW>通知</zh-TW>
+        <hi>सूचनाएं</hi>
+        <ko>알림</ko>
+        <bn>বিজ্ঞপ্তিগুলি</bn>
+        <ru>Уведомления</ru>
+        <sq>Njoftime</sq>
+        <it>notifiche</it>
+        <de>Benachrichtigungen</de>
+        <it>notifiche</it>
+        <ur>نوٹیفیکیشن</ur>
+    </entry>
+    <entry>
+        <key>Optimized Publisher</key>
+        <en>Optimized Publisher</en>
+        <ja>最適化パブリッシャー</ja>
+        <pt>Publicador Otimizado</pt>
+        <zh-CN>优化出版商</zh-CN>
+        <fr>Optimisé Editeur</fr>
+        <ar>الناشر الأمثل</ar>
+        <zh-TW>優化出版商</zh-TW>
+        <hi>अनुकूलित प्रकाशक</hi>
+        <ko>최적화 된 게시자</ko>
+        <bn>অপ্টিমাইজ প্রকাশক</bn>
+        <ru>Оптимизированный Издатель</ru>
+        <sq>optimizuar Botues</sq>
+        <it>Ottimizzato Editore</it>
+        <de>Optimierte Verlag</de>
+        <it>Ottimizzato Editore</it>
+        <ur>آپٹمائزڈ پبلیشر</ur>
+    </entry>
+    <entry>
+        <key>Listen</key>
+        <en>Listen</en>
+        <ja>動向チェック</ja>
+        <pt>Tendências</pt>
+        <zh-CN>听</zh-CN>
+        <fr>écouter</fr>
+        <ar>استمع</ar>
+        <zh-TW>聽</zh-TW>
+        <hi>बात सुनो</hi>
+        <ko>들리다</ko>
+        <bn>শোনা</bn>
+        <ru>Слушать</ru>
+        <sq>dëgjoj</sq>
+        <it>Ascolta</it>
+        <de>Hören</de>
+        <it>Ascolta</it>
+        <ur>سنیے</ur>
+    </entry>
+    <entry>
+        <key>Reports</key>
+        <en>Reports</en>
+        <ja>レポート</ja>
+        <pt>Relatórios</pt>
+        <zh-CN>报告</zh-CN>
+        <fr>Rapports</fr>
+        <ar>تقارير</ar>
+        <zh-TW>報告</zh-TW>
+        <hi>रिपोर्ट</hi>
+        <ko>보고서</ko>
+        <bn>প্রতিবেদন</bn>
+        <ru>Отчеты</ru>
+        <sq>raportet</sq>
+        <it>Rapporti</it>
+        <de>Berichte</de>
+        <it>Rapporti</it>
+        <ur>رپورٹس</ur>
+    </entry>
+    <entry>
+        <key>Link Shortening</key>
+        <en>Link Shortening</en>
+        <ja>リンク短縮</ja>
+        <pt>Encurtador de Links</pt>
+        <zh-CN>缩短链接</zh-CN>
+        <fr>Lien Raccourcissement</fr>
+        <ar>رابط تقصير</ar>
+        <zh-TW>縮短鏈接</zh-TW>
+        <hi>लिंक छोटा</hi>
+        <ko>링크 단축</ko>
+        <bn>লিঙ্ক সংক্ষেপিত</bn>
+        <ru>Ссылка Укорочение</ru>
+        <sq>Link shkurtimin</sq>
+        <it>collegamento accorciamento</it>
+        <de>Link-Verkürzungs</de>
+        <it>collegamento accorciamento</it>
+        <ur>لنک قصر</ur>
+    </entry>
+    <entry>
+        <key>Dashboard</key>
+        <en>Dashboard</en>
+        <ja>ダッシュボード</ja>
+        <pt>Painel</pt>
+        <zh-CN>仪表板</zh-CN>
+        <fr>Tableau de bord</fr>
+        <ar>لوحة القيادة</ar>
+        <zh-TW>儀表板</zh-TW>
+        <hi>डैशबोर्ड</hi>
+        <ko>계기반</ko>
+        <bn>ড্যাশবোর্ড</bn>
+        <ru>Панель приборов</ru>
+        <sq>baltëpritëse</sq>
+        <it>scrivania</it>
+        <de>Instrumententafel</de>
+        <it>scrivania</it>
+        <ur>ڈیش بورڈ</ur>
+    </entry>
+    <entry>
+        <key>Performance Report</key>
+        <en>Performance Report</en>
+        <ja>パフォーマンスレポート</ja>
+        <pt>Relatório de Desempenho</pt>
+        <zh-CN>业绩报告</zh-CN>
+        <fr>Rapport de perfomance</fr>
+        <ar>تقرير الأداء</ar>
+        <zh-TW>業績報告</zh-TW>
+        <hi>प्रदर्शन रिपोर्ट</hi>
+        <ko>실적 보고서</ko>
+        <bn>কর্মদক্ষতার প্রতিবেদন</bn>
+        <ru>Отчет о производительности</ru>
+        <sq>Raporti i Performancës</sq>
+        <it>Rapporto sul rendimento</it>
+        <de>Leistungsbericht</de>
+        <it>Rapporto sul rendimento</it>
+        <ur>کارکردگی کی رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Downloadable and Saved Reports</key>
+        <en>Downloadable and Saved Reports</en>
+        <ja>ダウンロード版および保存済レポート</ja>
+        <pt>Relatórios Salvos e Para Download</pt>
+        <zh-CN>下载和保存的报告</zh-CN>
+        <fr>Rapports téléchargeables et sauvegardées</fr>
+        <ar>تقارير تحميل وحفظ</ar>
+        <zh-TW>下載和保存的報告</zh-TW>
+        <hi>डाउनलोड करें और सहेजी गई रिपोर्टों</hi>
+        <ko>다운로드 및 저장된 보고서</ko>
+        <bn>ডাউনলোড এবং সংরক্ষিত রিপোর্ট</bn>
+        <ru>Загруженные и сохраненные отчеты</ru>
+        <sq>Shkarkohen dhe të ruajtura Raportet</sq>
+        <it>Scaricabili e rapporti salvati</it>
+        <de>Zum Herunterladen und Gespeicherte Berichte</de>
+        <it>Scaricabili e rapporti salvati</it>
+        <ur>ڈاؤن لوڈ کے قابل ہے اور محفوظ شدہ رپورٹیں</ur>
+    </entry>
+    <entry>
+        <key>Settings</key>
+        <en>Settings</en>
+        <ja>設定</ja>
+        <pt>Configurações</pt>
+        <zh-CN>设置</zh-CN>
+        <fr>Paramètres</fr>
+        <ar>إعدادات</ar>
+        <zh-TW>設置</zh-TW>
+        <hi>सेटिंग्स</hi>
+        <ko>설정</ko>
+        <bn>সেটিংস</bn>
+        <ru>настройки</ru>
+        <sq>Cilësimet</sq>
+        <it>impostazioni</it>
+        <de>Einstellungen</de>
+        <it>impostazioni</it>
+        <ur>ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>User Account</key>
+        <en>User Account</en>
+        <ja>ユーザーアカウント</ja>
+        <pt>Conta do Usuário</pt>
+        <zh-CN>用户帐号</zh-CN>
+        <fr>Compte d'utilisateur</fr>
+        <ar>حساب المستخدم</ar>
+        <zh-TW>用戶帳號</zh-TW>
+        <hi>उपभोक्ता खाता</hi>
+        <ko>사용자 계정</ko>
+        <bn>ব্যবহারকারীর অ্যাকাউন্ট</bn>
+        <ru>Учетная запись пользователя</ru>
+        <sq>Llogari perdoruesi</sq>
+        <it>Account utente</it>
+        <de>Benutzerkonto</de>
+        <it>Account utente</it>
+        <ur>صارف کے اکاؤنٹ</ur>
+    </entry>
+    <entry>
+        <key>Application</key>
+        <en>Application</en>
+        <ja>アプリケーション</ja>
+        <pt>Aplicativo</pt>
+        <zh-CN>应用</zh-CN>
+        <fr>Application</fr>
+        <ar>تطبيق</ar>
+        <zh-TW>應用</zh-TW>
+        <hi>आवेदन</hi>
+        <ko>신청</ko>
+        <bn>আবেদন</bn>
+        <ru>заявка</ru>
+        <sq>Aplikacion</sq>
+        <it>Applicazione</it>
+        <de>Anwendung</de>
+        <it>Applicazione</it>
+        <ur>درخواست</ur>
+    </entry>
+    <entry>
+        <key>Social Accounts</key>
+        <en>Social Accounts</en>
+        <ja>ソーシャルアカウント</ja>
+        <pt>Contas Sociais</pt>
+        <zh-CN>社交帐户</zh-CN>
+        <fr>Comptes sociaux</fr>
+        <ar>الحسابات الاجتماعية</ar>
+        <zh-TW>社交帳戶</zh-TW>
+        <hi>सामाजिक लेखा</hi>
+        <ko>사회 계정</ko>
+        <bn>সামাজিক অ্যাকাউন্টস</bn>
+        <ru>социальных счетов</ru>
+        <sq>Llogaritë sociale</sq>
+        <it>Conti sociali</it>
+        <de>Social Accounts</de>
+        <it>Conti sociali</it>
+        <ur>سماجی اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Content Sources</key>
+        <en>Content Sources</en>
+        <ja>コンテンツソース</ja>
+        <pt>Fontes de Conteúdo</pt>
+        <zh-CN>内容来源</zh-CN>
+        <fr>Sources de contenu</fr>
+        <ar>مصادر المحتوى</ar>
+        <zh-TW>內容來源</zh-TW>
+        <hi>सामग्री सूत्रों का कहना है</hi>
+        <ko>콘텐츠 소스</ko>
+        <bn>বিষয়বস্তু সোর্স</bn>
+        <ru>Источники контента</ru>
+        <sq>Burimet Përmbajtja</sq>
+        <it>Fonti di contenuti</it>
+        <de>Inhaltsquellen</de>
+        <it>Fonti di contenuti</it>
+        <ur>مواد کے ذرائع</ur>
+    </entry>
+    <entry>
+        <key>Tracking and Analytics</key>
+        <en>Tracking and Analytics</en>
+        <ja>トラッキングおよび分析</ja>
+        <pt>Monitoramento e Análise</pt>
+        <zh-CN>跟踪和分析</zh-CN>
+        <fr>Suivi et analyse</fr>
+        <ar>تتبع وتحليلات</ar>
+        <zh-TW>跟踪和分析</zh-TW>
+        <hi>ट्रैकिंग और एनालिटिक्स</hi>
+        <ko>추적 및 분석</ko>
+        <bn>ট্র্যাকিং এবং অ্যানালিটিক্স</bn>
+        <ru>Отслеживание и аналитика</ru>
+        <sq>Ndjekja dhe Analytics</sq>
+        <it>Monitoraggio e analisi</it>
+        <de>Tracking und Analytics</de>
+        <it>Monitoraggio e analisi</it>
+        <ur>ٹریکنگ اور تجزیات</ur>
+    </entry>
+    <entry>
+        <key>Apps</key>
+        <en>Apps</en>
+        <ja>アプリ</ja>
+        <pt>Apps</pt>
+        <zh-CN>应用</zh-CN>
+        <fr>Applications</fr>
+        <ar>التطبيقات</ar>
+        <zh-TW>應用</zh-TW>
+        <hi>Apps</hi>
+        <ko>앱</ko>
+        <bn>অ্যাপস</bn>
+        <ru>Программы</ru>
+        <sq>Apps</sq>
+        <it>applicazioni</it>
+        <de>Apps</de>
+        <it>applicazioni</it>
+        <ur>آپلیکیشنز</ur>
+    </entry>
+    <entry>
+        <key>Admin</key>
+        <en>Admin</en>
+        <ja>管理者</ja>
+        <pt>Administrador</pt>
+        <zh-CN>联系</zh-CN>
+        <fr>Administrateur</fr>
+        <ar>مشرف</ar>
+        <zh-TW>聯繫</zh-TW>
+        <hi>व्यवस्थापक</hi>
+        <ko>관리자</ko>
+        <bn>অ্যাডমিন</bn>
+        <ru>Администратор</ru>
+        <sq>admin</sq>
+        <it>Admin</it>
+        <de>Administrator</de>
+        <it>Admin</it>
+        <ur>ایڈمن</ur>
+    </entry>
+    <entry>
+        <key>Account and Billing</key>
+        <en>Account and Billing</en>
+        <ja>アカウントおよび請求情報</ja>
+        <pt>Conta e Faturamento</pt>
+        <zh-CN>帐户和帐单</zh-CN>
+        <fr>Compte et facturation</fr>
+        <ar>الحساب والفواتير</ar>
+        <zh-TW>帳戶和帳單</zh-TW>
+        <hi>खाता और बिलिंग</hi>
+        <ko>계정 및 결제</ko>
+        <bn>অ্যাকাউন্ট ও বিলিং</bn>
+        <ru>Учет и биллинг</ru>
+        <sq>Llogaria dhe Faturimi</sq>
+        <it>Account e fatturazione</it>
+        <de>Account- und Rechnungs</de>
+        <it>Account e fatturazione</it>
+        <ur>اکاؤنٹ اور بلنگ</ur>
+    </entry>
+    <entry>
+        <key>Users and Permissions</key>
+        <en>Users and Permissions</en>
+        <ja>ユーザーおよび権限管理</ja>
+        <pt>Usuários e Permissões</pt>
+        <zh-CN>用户和权限</zh-CN>
+        <fr>Utilisateurs et autorisations</fr>
+        <ar>المستخدمين وضوابط</ar>
+        <zh-TW>用戶和權限</zh-TW>
+        <hi>उपयोगकर्ता और अनुमतियाँ</hi>
+        <ko>사용자 및 권한</ko>
+        <bn>ব্যবহারকারী এবং অনুমতিসমূহ</bn>
+        <ru>Пользователи и права доступа</ru>
+        <sq>Përdoruesit dhe Permissions</sq>
+        <it>Utenti e autorizzazioni</it>
+        <de>Benutzer und Berechtigungen</de>
+        <it>Utenti e autorizzazioni</it>
+        <ur>صارفین اور اجازت</ur>
+    </entry>
+    <entry>
+        <key>Upgrade</key>
+        <en>Upgrade</en>
+        <ja>アップグレード</ja>
+        <pt>Upgrade</pt>
+        <zh-CN>升级</zh-CN>
+        <fr>Surclassement</fr>
+        <ar>تطوير</ar>
+        <zh-TW>升級</zh-TW>
+        <hi>नवीनीकरण</hi>
+        <ko>업그레이드</ko>
+        <bn>আপগ্রেড</bn>
+        <ru>Обновить</ru>
+        <sq>upgrade</sq>
+        <it>aggiornamento</it>
+        <de>Aktualisierung</de>
+        <it>aggiornamento</it>
+        <ur>اپ گریڈ</ur>
+    </entry>
+    <entry>
+        <key>About Us</key>
+        <en>About Us</en>
+        <ja>当社について</ja>
+        <pt>Sobre Nós</pt>
+        <zh-CN>关于我们</zh-CN>
+        <fr>À propos de nous</fr>
+        <ar>معلومات عنا</ar>
+        <zh-TW>關於我們</zh-TW>
+        <hi>हमारे बारे में</hi>
+        <ko>회사 소개</ko>
+        <bn>আমাদের সম্পর্কে</bn>
+        <ru>О нас</ru>
+        <sq>Rreth nesh</sq>
+        <it>Riguardo a noi</it>
+        <de>Über uns</de>
+        <it>Riguardo a noi</it>
+        <ur>ہمارے متعلق</ur>
+    </entry>
+    <entry>
+        <key>Careers</key>
+        <en>Careers</en>
+        <ja>人材採用</ja>
+        <pt>Carreiras</pt>
+        <zh-CN>招聘</zh-CN>
+        <fr>Carrières</fr>
+        <ar>وظائف</ar>
+        <zh-TW>招聘</zh-TW>
+        <hi>करियर</hi>
+        <ko>채용 정보</ko>
+        <bn>ক্যারিয়ার</bn>
+        <ru>Карьера</ru>
+        <sq>Karriera</sq>
+        <it>Opportunità di lavoro</it>
+        <de>Karriere</de>
+        <it>Opportunità di lavoro</it>
+        <ur>کیریئرز</ur>
+    </entry>
+    <entry>
+        <key>Terms</key>
+        <en>Terms</en>
+        <ja>利用規約</ja>
+        <pt>Termos</pt>
+        <zh-CN>条款</zh-CN>
+        <fr>termes</fr>
+        <ar>شروط</ar>
+        <zh-TW>條款</zh-TW>
+        <hi>नियम</hi>
+        <ko>자귀</ko>
+        <bn>শর্তাবলী</bn>
+        <ru>сроки</ru>
+        <sq>Kushtet</sq>
+        <it>condizioni</it>
+        <de>Bedingungen</de>
+        <it>condizioni</it>
+        <ur>شرائط</ur>
+    </entry>
+    <entry>
+        <key>Privacy Policy</key>
+        <en>Privacy Policy</en>
+        <ja>プライバシーポリシー</ja>
+        <pt>Política de Privacidade</pt>
+        <zh-CN>隐私政策</zh-CN>
+        <fr>Politique de confidentialité</fr>
+        <ar>سياسة الخصوصية</ar>
+        <zh-TW>隱私政策</zh-TW>
+        <hi>गोपनीयता नीति</hi>
+        <ko>개인 정보 정책</ko>
+        <bn>গোপনীয়তা নীতি</bn>
+        <ru>политика конфиденциальности</ru>
+        <sq>Politika e privatësisë</sq>
+        <it>politica sulla riservatezza</it>
+        <de>Datenschutz-Bestimmungen</de>
+        <it>politica sulla riservatezza</it>
+        <ur>رازداری کی پالیسی</ur>
+    </entry>
+    <entry>
+        <key>Contact</key>
+        <en>Contact</en>
+        <ja>お問合せ</ja>
+        <pt>Contato</pt>
+        <zh-CN>联系</zh-CN>
+        <fr>Contact</fr>
+        <ar>اتصال</ar>
+        <zh-TW>聯繫</zh-TW>
+        <hi>संपर्क करें</hi>
+        <ko>접촉</ko>
+        <bn>যোগাযোগ</bn>
+        <ru>контакт</ru>
+        <sq>kontakt</sq>
+        <it>contatto</it>
+        <de>Kontakt</de>
+        <it>contatto</it>
+        <ur>رابطہ کریں</ur>
+    </entry>
+    <entry>
+        <key>Support</key>
+        <en>Support</en>
+        <ja>サポート</ja>
+        <pt>Apoio</pt>
+        <zh-CN>支持</zh-CN>
+        <fr>Soutien</fr>
+        <ar>الدعم</ar>
+        <zh-TW>支持</zh-TW>
+        <hi>समर्थन</hi>
+        <ko>지원하다</ko>
+        <bn>সমর্থন</bn>
+        <ru>Поддержка</ru>
+        <sq>mbështetje</sq>
+        <it>Supporto</it>
+        <de>Unterstützen</de>
+        <it>Supporto</it>
+        <ur>سپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Account Settings</key>
+        <en>Account Settings</en>
+        <ja>アカウント設定</ja>
+        <pt>Configurações da Conta</pt>
+        <zh-CN>帐号设定</zh-CN>
+        <fr>Paramètres du compte</fr>
+        <ar>إعدادت الحساب</ar>
+        <zh-TW>帳號設定</zh-TW>
+        <hi>अकाउंट सेटिंग</hi>
+        <ko>계정 설정</ko>
+        <bn>অ্যাকাউন্ট সেটিংস</bn>
+        <ru>Настройки аккаунта</ru>
+        <sq>Cilësimet e llogarisë</sq>
+        <it>Impostazioni dell 'account</it>
+        <de>Account Einstellungen</de>
+        <it>Impostazioni dell 'account</it>
+        <ur>اکاؤنٹ کی ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Log Out</key>
+        <en>Log Out</en>
+        <ja>ログアウト</ja>
+        <pt>Desconectar</pt>
+        <zh-CN>登出</zh-CN>
+        <fr>Se déconnecter</fr>
+        <ar>خروج</ar>
+        <zh-TW>登出</zh-TW>
+        <hi>लोग आउट</hi>
+        <ko>로그 아웃</ko>
+        <bn>প্রস্থান</bn>
+        <ru>Выйти</ru>
+        <sq>Shkyç</sq>
+        <it>Disconnettersi</it>
+        <de>Ausloggen</de>
+        <it>Disconnettersi</it>
+        <ur>لاگ آوٹ</ur>
+    </entry>
+    <entry>
+        <key>Help</key>
+        <en>Help</en>
+        <ja>サポート</ja>
+        <pt>Ajuda</pt>
+        <zh-CN>支持</zh-CN>
+        <fr>Aidez-moi</fr>
+        <ar>مساعدة</ar>
+        <zh-TW>幫幫我</zh-TW>
+        <hi>मदद</hi>
+        <ko>도움</ko>
+        <bn>সাহায্য</bn>
+        <ru>Помогите</ru>
+        <sq>Ndihmë</sq>
+        <it>Aiuto</it>
+        <de>Hilfe</de>
+        <it>Aiuto</it>
+        <ur>مدد</ur>
+    </entry>
+    <section>navigation</section>
+</translations>

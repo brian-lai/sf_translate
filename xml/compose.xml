@@ -1,0 +1,489 @@
+<translations>
+    <entry>
+        <key>Compose</key>
+        <en>Compose</en>
+        <ja>メッセージ作成</ja>
+        <pt>Compôr</pt>
+        <zh-CN>撰写</zh-CN>
+        <fr>Composer</fr>
+        <ar>تشكل</ar>
+        <zh-TW>撰寫</zh-TW>
+        <hi>लिखना</hi>
+        <ko>짓다</ko>
+        <bn>রচনা করা</bn>
+        <ru>компоновать</ru>
+        <sq>kompozoj</sq>
+        <de>Komponieren</de>
+        <it>Comporre</it>
+        <ur>تحریر کریں</ur>
+    </entry>
+    <entry>
+        <key>Publish to these accounts</key>
+        <en>Publish to these accounts</en>
+        <ja>以下のアカウントに投稿</ja>
+        <pt>Publicar nestas contas </pt>
+        <zh-CN>发布到这些帐户</zh-CN>
+        <fr>Publier sur ces comptes</fr>
+        <ar>نشر لهذه الحسابات</ar>
+        <zh-TW>發布到這些帳戶</zh-TW>
+        <hi>इन खातों को प्रकाशित</hi>
+        <ko>이 계정에 게시</ko>
+        <bn>এই হিসাব প্রকাশ</bn>
+        <ru>Публикация этих счетов</ru>
+        <sq>Publikojë të këtyre llogarive</sq>
+        <de>Veröffentlichen Sie auf diese Konten</de>
+        <it>Pubblica su questi conti</it>
+        <ur>ان اکاؤنٹس پر شائع کریں</ur>
+    </entry>
+    <entry>
+        <key>Time Zone:</key>
+        <en>Time Zone:</en>
+        <ja>タイムゾーン:</ja>
+        <pt>Fuso horário</pt>
+        <zh-CN>时区：</zh-CN>
+        <fr>Fuseau horaire:</fr>
+        <ar>المنطقة الزمنية:</ar>
+        <zh-TW>時區：</zh-TW>
+        <hi>समय क्षेत्र:</hi>
+        <ko>시간대 :</ko>
+        <bn>সময় অঞ্চল:</bn>
+        <ru>Часовой пояс:</ru>
+        <sq>Zona kohore:</sq>
+        <de>Zeitzone:</de>
+        <it>Fuso orario:</it>
+        <ur>ٹائم زون:</ur>
+    </entry>
+    <entry>
+        <key>Optimize</key>
+        <en>Optimize</en>
+        <ja>最適化</ja>
+        <pt>Otimizar</pt>
+        <zh-CN>优化</zh-CN>
+        <fr>Optimiser</fr>
+        <ar>تحسين</ar>
+        <zh-TW>優化</zh-TW>
+        <hi>अनुकूलन</hi>
+        <ko>최적화</ko>
+        <bn>অপ্টিমিজ</bn>
+        <ru>оптимизировать</ru>
+        <sq>jam optimist</sq>
+        <de>Optimieren</de>
+        <it>Ottimizzare</it>
+        <ur>اصلاح کریں</ur>
+    </entry>
+    <entry>
+        <key>Publish</key>
+        <en>Publish</en>
+        <ja>投稿</ja>
+        <pt>Publicar</pt>
+        <zh-CN>发布</zh-CN>
+        <fr>Publier</fr>
+        <ar>نشر</ar>
+        <zh-TW>發布</zh-TW>
+        <hi>प्रकाशित करना</hi>
+        <ko>게시</ko>
+        <bn>প্রকাশ করা</bn>
+        <ru>Публиковать</ru>
+        <sq>publikoj</sq>
+        <de>Veröffentlichen</de>
+        <it>Pubblicare</it>
+        <ur>شائع کریں</ur>
+    </entry>
+    <entry>
+        <key>Schedule</key>
+        <en>Schedule</en>
+        <ja>予約</ja>
+        <pt>Agendar</pt>
+        <zh-CN>安排</zh-CN>
+        <fr>Programme</fr>
+        <ar>جدول</ar>
+        <zh-TW>時間表</zh-TW>
+        <hi>अनुसूची</hi>
+        <ko>시간표</ko>
+        <bn>তফসিল</bn>
+        <ru>График</ru>
+        <sq>Orar</sq>
+        <de>Zeitplan</de>
+        <it>programma</it>
+        <ur>شیڈول</ur>
+    </entry>
+    <entry>
+        <key>Hold</key>
+        <en>Hold</en>
+        <ja>保留</ja>
+        <pt>Aguardar</pt>
+        <zh-CN>保留</zh-CN>
+        <fr>Tenir</fr>
+        <ar>عقد</ar>
+        <zh-TW>保持</zh-TW>
+        <hi>पकड़</hi>
+        <ko>보류</ko>
+        <bn>রাখা</bn>
+        <ru>Держать</ru>
+        <sq>mbaj</sq>
+        <de>Halten</de>
+        <it>tenere</it>
+        <ur>پکڑو</ur>
+    </entry>
+    <entry>
+        <key>Can Send</key>
+        <en>Can Send</en>
+        <ja>投稿許可</ja>
+        <pt>Pode Enviar</pt>
+        <zh-CN>能够发送</zh-CN>
+        <fr>Peut envoyer</fr>
+        <ar>يمكن إرسال</ar>
+        <zh-TW>可以發送</zh-TW>
+        <hi>भेज सकते हैं</hi>
+        <ko>보낼 수 있습니다</ko>
+        <bn>পাঠাতে পারেন</bn>
+        <ru>Может отправить</ru>
+        <sq>mund Dërgo</sq>
+        <de>Kann senden</de>
+        <it>Posso inviare</it>
+        <ur>بھیج سکتا</ur>
+    </entry>
+    <entry>
+        <key>Must Send</key>
+        <en>Must Send</en>
+        <ja>必ず投稿</ja>
+        <pt>Deve Enviar</pt>
+        <zh-CN>必须发送</zh-CN>
+        <fr>Doit Envoyer</fr>
+        <ar>يجب إرسال</ar>
+        <zh-TW>必須發送</zh-TW>
+        <hi>भेजना होगा</hi>
+        <ko>전송해야</ko>
+        <bn>পাঠাতে হবে</bn>
+        <ru>Должен Отправить</ru>
+        <sq>duhet Dërgo</sq>
+        <de>Muss senden</de>
+        <it>deve inviare</it>
+        <ur>ضرور بھیجیں</ur>
+    </entry>
+    <entry>
+        <key>from</key>
+        <en>from</en>
+        <ja>期間</ja>
+        <pt>de</pt>
+        <zh-CN>从</zh-CN>
+        <fr>de</fr>
+        <ar>من عند</ar>
+        <zh-TW>從</zh-TW>
+        <hi>से</hi>
+        <ko>...에서</ko>
+        <bn>থেকে</bn>
+        <ru>из</ru>
+        <sq>nga</sq>
+        <de>von</de>
+        <it>da parte di</it>
+        <ur>سے</ur>
+    </entry>
+    <entry>
+        <key>Now</key>
+        <en>Now</en>
+        <ja>現在時刻</ja>
+        <pt>Agora</pt>
+        <zh-CN>现在</zh-CN>
+        <fr>Maintenant</fr>
+        <ar>الآن</ar>
+        <zh-TW>現在</zh-TW>
+        <hi>अभी</hi>
+        <ko>지금</ko>
+        <bn>এখন</bn>
+        <ru>Теперь</ru>
+        <sq>tani</sq>
+        <de>Jetzt</de>
+        <it>Adesso</it>
+        <ur>ابھی</ur>
+    </entry>
+    <entry>
+        <key>to</key>
+        <en>to</en>
+        <ja>～</ja>
+        <pt>até</pt>
+        <zh-CN>至</zh-CN>
+        <fr>à</fr>
+        <ar>إلى</ar>
+        <zh-TW>至</zh-TW>
+        <hi>सेवा मेरे</hi>
+        <ko>에</ko>
+        <bn>থেকে</bn>
+        <ru>к</ru>
+        <sq>te</sq>
+        <de>nach</de>
+        <it>a</it>
+        <ur>کرنے</ur>
+    </entry>
+    <entry>
+        <key>Any Time</key>
+        <en>Any Time</en>
+        <ja>指定なし</ja>
+        <pt>Qualquer Hora</pt>
+        <zh-CN>任何时候</zh-CN>
+        <fr>À tout moment</fr>
+        <ar>أي وقت</ar>
+        <zh-TW>任何時候</zh-TW>
+        <hi>किसी भी समय</hi>
+        <ko>모든 시간</ko>
+        <bn>যে কোন সময়</bn>
+        <ru>В любой момент</ru>
+        <sq>Kurdo</sq>
+        <de>Jederzeit</de>
+        <it>qualsiasi Tempo</it>
+        <ur>کسی بھی وقت</ur>
+    </entry>
+    <entry>
+        <key>Send within</key>
+        <en>Send within</en>
+        <ja>簡易期間設定</ja>
+        <pt>Enviar em</pt>
+        <zh-CN>在此时间内发送</zh-CN>
+        <fr>Envoyer au sein</fr>
+        <ar>إرسال في غضون</ar>
+        <zh-TW>在發送</zh-TW>
+        <hi>भीतर भेजें</hi>
+        <ko>내 보내기</ko>
+        <bn>মধ্যে পাঠান</bn>
+        <ru>Отправить в</ru>
+        <sq>Dërgo brenda</sq>
+        <de>senden innerhalb</de>
+        <it>Invia all'interno</it>
+        <ur>کے اندر اندر بھیج</ur>
+    </entry>
+    <entry>
+        <key>1 hour</key>
+        <en>1 hour</en>
+        <ja>1 時間以内</ja>
+        <pt>1 hora</pt>
+        <zh-CN>1个小时</zh-CN>
+        <fr>1 heure</fr>
+        <ar>1 ساعة</ar>
+        <zh-TW>1小時</zh-TW>
+        <hi>1 घंटा</hi>
+        <ko>1 시간</ko>
+        <bn>1 ঘন্টা</bn>
+        <ru>1 час</ru>
+        <sq>1 orë</sq>
+        <de>1 Stunde</de>
+        <it>1 ora</it>
+        <ur>1 گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>3 hours</key>
+        <en>3 hours</en>
+        <ja>3 時間以内</ja>
+        <pt>3 horas</pt>
+        <zh-CN>3个小时</zh-CN>
+        <fr>3 heures</fr>
+        <ar>3 ساعات</ar>
+        <zh-TW>3小時</zh-TW>
+        <hi>तीन घंटे</hi>
+        <ko>3 시간</ko>
+        <bn>3 ঘন্টা</bn>
+        <ru>3 часа</ru>
+        <sq>3 ore</sq>
+        <de>3 Stunden</de>
+        <it>3 ore</it>
+        <ur>3 گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>1 day</key>
+        <en>1 day</en>
+        <ja>1 日以内</ja>
+        <pt>1 dia</pt>
+        <zh-CN>1天</zh-CN>
+        <fr>Un jour</fr>
+        <ar>يوم 1</ar>
+        <zh-TW>1天</zh-TW>
+        <hi>एक दिन</hi>
+        <ko>1 일</ko>
+        <bn>1 দিন</bn>
+        <ru>1 день</ru>
+        <sq>1 dite</sq>
+        <de>1 Tag</de>
+        <it>1 giorno</it>
+        <ur>1 دن</ur>
+    </entry>
+    <entry>
+        <key>3 days</key>
+        <en>3 days</en>
+        <ja>3 日以内</ja>
+        <pt>3 dias</pt>
+        <zh-CN>3天</zh-CN>
+        <fr>3 jours</fr>
+        <ar>3 أيام</ar>
+        <zh-TW>3天</zh-TW>
+        <hi>3 दिन</hi>
+        <ko>3 일</ko>
+        <bn>3 দিন</bn>
+        <ru>3 дня</ru>
+        <sq>3 ditë</sq>
+        <de>3 Tage</de>
+        <it>3 giorni</it>
+        <ur>3 دن</ur>
+    </entry>
+    <entry>
+        <key>1 week</key>
+        <en>1 week</en>
+        <ja>1 週間以内</ja>
+        <pt>1 semana</pt>
+        <zh-CN>1个星期</zh-CN>
+        <fr>1 semaine</fr>
+        <ar>أسبوع 1</ar>
+        <zh-TW>1週</zh-TW>
+        <hi>1 सप्ताह</hi>
+        <ko>일주</ko>
+        <bn>1 সপ্তাহ</bn>
+        <ru>1 неделя</ru>
+        <sq>1 javë</sq>
+        <de>1 Woche</de>
+        <it>1 settimana</it>
+        <ur>1 ہفتہ</ur>
+    </entry>
+    <entry>
+        <key>2 weeks</key>
+        <en>2 weeks</en>
+        <ja>2 週間以内</ja>
+        <pt>2 semanas</pt>
+        <zh-CN>2个星期</zh-CN>
+        <fr>2 semaines</fr>
+        <ar>2 أسابيع</ar>
+        <zh-TW>2週</zh-TW>
+        <hi>2 सप्ताह</hi>
+        <ko>이주</ko>
+        <bn>২ সপ্তাহ</bn>
+        <ru>2 недели</ru>
+        <sq>2 javë</sq>
+        <de>2 Wochen</de>
+        <it>2 settimane</it>
+        <ur>2 ہفتے</ur>
+    </entry>
+    <entry>
+        <key>Cancel</key>
+        <en>Cancel</en>
+        <ja>キャンセル</ja>
+        <pt>Cancelar</pt>
+        <zh-CN>取消</zh-CN>
+        <fr>Annuler</fr>
+        <ar>إلغاء</ar>
+        <zh-TW>取消</zh-TW>
+        <hi>रद्द करना</hi>
+        <ko>취소하다</ko>
+        <bn>বাতিল</bn>
+        <ru>Отмена</ru>
+        <sq>anuloj</sq>
+        <de>Stornieren</de>
+        <it>Annulla</it>
+        <ur>منسوخ کریں</ur>
+    </entry>
+    <entry>
+        <key>Resonance Prediction</key>
+        <en>Resonance Prediction</en>
+        <ja>反響予測スコア</ja>
+        <pt>Previsor de Ressonância</pt>
+        <zh-CN>共振预测分数</zh-CN>
+        <fr>Resonance Prediction</fr>
+        <ar>صدى التنبؤ</ar>
+        <zh-TW>共振預測</zh-TW>
+        <hi>अनुनाद भविष्यवाणी</hi>
+        <ko>공명 예측</ko>
+        <bn>অনুরণন প্রেডিক্সন</bn>
+        <ru>Резонанс Предсказание</ru>
+        <sq>Resonance Prediction</sq>
+        <de>Resonance Prediction</de>
+        <it>Resonance Prediction</it>
+        <ur>گونج پیشن گوئی</ur>
+    </entry>
+    <entry>
+        <key>Shorten Links</key>
+        <en>Shorten Links</en>
+        <ja>リンクを短縮</ja>
+        <pt>Encurtar links</pt>
+        <zh-CN>缩短网站链接</zh-CN>
+        <fr>Raccourcir Liens</fr>
+        <ar>اختصار الروابط</ar>
+        <zh-TW>縮短鏈接</zh-TW>
+        <hi>लिंक छोटा</hi>
+        <ko>링크를 단축</ko>
+        <bn>লিংক কমান</bn>
+        <ru>Сократите Ссылки</ru>
+        <sq>shkurtuar Links</sq>
+        <de>kürzen Verbindungen</de>
+        <it>accorciare Link</it>
+        <ur>روابط قصر</ur>
+    </entry>
+    <entry>
+        <key>Note: Links are shortened at publication</key>
+        <en>Note: Links are shortened at publication</en>
+        <ja>注釈: 公開時にリンクが短縮されます</ja>
+        <pt>Nota: links são encurtados ao publicar</pt>
+        <zh-CN>注意：发布时链接会缩短</zh-CN>
+        <fr>Note: Les liens sont raccourcies à la publication</fr>
+        <ar>وتقصير الروابط في نشر ملاحظة:</ar>
+        <zh-TW>注：鏈接以縮短出版</zh-TW>
+        <hi>नोट: लिंक प्रकाशन पर छोटा कर रहे हैं</hi>
+        <ko>참고 : 링크는 출판에 짧게</ko>
+        <bn>নোট: লিংক প্রকাশনার খাটো করা হয়</bn>
+        <ru>Примечание: Ссылки укорочены на публикации</ru>
+        <sq>Shënim: Lidhjet janë shkurtuar në publikim</sq>
+        <de>Hinweis: Die Links werden bei Veröffentlichung verkürzt</de>
+        <it>Nota: I link sono accorciati a pubblicazione</it>
+        <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر کر رہے ہیں</ur>
+    </entry>
+    <entry>
+        <key>Time Zone: New York</key>
+        <en>Time Zone: New York</en>
+        <ja>タイムゾーン: ニューヨーク</ja>
+        <pt>Fuso horário: Nova York</pt>
+        <zh-CN>时区：纽约</zh-CN>
+        <fr>Time Zone: New York</fr>
+        <ar>المنطقة الزمنية: نيويورك</ar>
+        <zh-TW>時區：紐約</zh-TW>
+        <hi>समय क्षेत्र: न्यूयॉर्क</hi>
+        <ko>시간대 : 뉴욕</ko>
+        <bn>টাইম জোন: নিউ ইয়র্ক</bn>
+        <ru>Часовой пояс: Нью-Йорк</ru>
+        <sq>Zona kohore: New York</sq>
+        <de>Time Zone: New York</de>
+        <it>Fuso orario: New York</it>
+        <ur>ٹائم زون: نیویارک</ur>
+    </entry>
+    <entry>
+        <key>Reset All</key>
+        <en>Reset All</en>
+        <ja>全てリセット</ja>
+        <pt>Redefinir tudo</pt>
+        <zh-CN>重置全部</zh-CN>
+        <fr>Tout recommencer</fr>
+        <ar>إعادة ضبط الجميع</ar>
+        <zh-TW>重置全部</zh-TW>
+        <hi>सभी को रीसेट करें</hi>
+        <ko>모든 재설정</ko>
+        <bn>সব রিসেট</bn>
+        <ru>Сбросить все</ru>
+        <sq>Reset All</sq>
+        <de>Alles zurücksetzen</de>
+        <it>Resetta tutto</it>
+        <ur>تمام ری سیٹ کر دیں</ur>
+    </entry>
+    <entry>
+        <key>Finish</key>
+        <en>Finish</en>
+        <ja>完了</ja>
+        <pt>Terminar</pt>
+        <zh-CN>完</zh-CN>
+        <fr>terminer</fr>
+        <ar>نهاية</ar>
+        <zh-TW>完</zh-TW>
+        <hi>समाप्त</hi>
+        <ko>끝</ko>
+        <bn>শেষ</bn>
+        <ru>Конец</ru>
+        <sq>fund</sq>
+        <de>Fertig</de>
+        <it>finire</it>
+        <ur>ختم</ur>
+    </entry>
+    <section>compose</section>
+</translations>

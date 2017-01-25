@@ -1,0 +1,725 @@
+<translations>
+    <entry>
+        <key>Client Account Setttings</key>
+        <en>Client Account Setttings</en>
+        <ja>クライアントアカウント設定</ja>
+        <pt>Configurações da Conta do Cliente</pt>
+        <zh-CN>客户账户Setttings</zh-CN>
+        <fr>Setttings de compte client</fr>
+        <ar>Setttings حساب العميل</ar>
+        <zh-TW>客戶賬戶Setttings</zh-TW>
+        <hi>ग्राहक खाते setttings</hi>
+        <ko>클라이언트 계정 Setttings</ko>
+        <bn>ক্লায়েন্ট অ্যাকাউন্ট Setttings</bn>
+        <ru>Setttings учетной записи клиента</ru>
+        <sq>Setttings llogarisë klient</sq>
+        <it>Setttings account cliente</it>
+        <de>Kunden-Account Setttings</de>
+        <it>Setttings account cliente</it>
+        <ur>کلائنٹ اکاؤنٹ Setttings</ur>
+    </entry>
+    <entry>
+        <key>Company Name</key>
+        <en>Company Name</en>
+        <ja>会社名</ja>
+        <pt>Nome da Empresa</pt>
+        <zh-CN>公司名</zh-CN>
+        <fr>Nom de la compagnie</fr>
+        <ar>اسم الشركة</ar>
+        <zh-TW>公司名</zh-TW>
+        <hi>कंपनी का नाम</hi>
+        <ko>회사 이름</ko>
+        <bn>কোমপানির নাম</bn>
+        <ru>название компании</ru>
+        <sq>Emri i Kompanise</sq>
+        <it>Nome della ditta</it>
+        <de>Name der Firma</de>
+        <it>Nome della ditta</it>
+        <ur>کمپنی کا نام</ur>
+    </entry>
+    <entry>
+        <key>Billing Contact</key>
+        <en>Billing Contact</en>
+        <ja>請求先</ja>
+        <pt>Contato de Faturamento</pt>
+        <zh-CN>付款联系人</zh-CN>
+        <fr>Contact de facturation</fr>
+        <ar>الفواتير الاتصال</ar>
+        <zh-TW>付款聯繫人</zh-TW>
+        <hi>भुगतान संपर्क</hi>
+        <ko>결제 연락</ko>
+        <bn>বিলিং যোগাযোগ</bn>
+        <ru>Контакт для расчетов</ru>
+        <sq>Faturimi Kontakt</sq>
+        <it>Contatto per la fatturazione</it>
+        <de>Rechnungskontakt</de>
+        <it>Contatto per la fatturazione</it>
+        <ur>بلنگ رابطہ</ur>
+    </entry>
+    <entry>
+        <key>(none)</key>
+        <en>(none)</en>
+        <ja>( なし )</ja>
+        <pt>(nenhum)</pt>
+        <zh-CN>（没有）</zh-CN>
+        <fr>(aucun)</fr>
+        <ar>(لا يوجد)</ar>
+        <zh-TW>（沒有）</zh-TW>
+        <hi>(कोई नहीं)</hi>
+        <ko>(없음)</ko>
+        <bn>(কিছুই নয়)</bn>
+        <ru>(никто)</ru>
+        <sq>(asnje)</sq>
+        <it>(nessuna)</it>
+        <de>(keiner)</de>
+        <it>(nessuna)</it>
+        <ur>(کوئی نہیں)</ur>
+    </entry>
+    <entry>
+        <key>Select User</key>
+        <en>Select User</en>
+        <ja>ユーザーを選択</ja>
+        <pt>Selecionar Usuário</pt>
+        <zh-CN>选择用户</zh-CN>
+        <fr>Sélectionnez l'utilisateur</fr>
+        <ar>حدد العضو</ar>
+        <zh-TW>選擇用戶</zh-TW>
+        <hi>उपयोगकर्ता का चयन करें</hi>
+        <ko>사용자 선택</ko>
+        <bn>ব্যবহারকারী নির্বাচন</bn>
+        <ru>Выбор пользователя</ru>
+        <sq>Zgjidh User</sq>
+        <it>Selezionare utente</it>
+        <de>Wählen Sie Benutzer</de>
+        <it>Selezionare utente</it>
+        <ur>صارف منتخب کریں</ur>
+    </entry>
+    <entry>
+        <key>Client Account Administrator</key>
+        <en>Client Account Administrator</en>
+        <ja>クライアントアカウント管理者</ja>
+        <pt>Administrador da Conta do Cliente</pt>
+        <zh-CN>客户账户管理</zh-CN>
+        <fr>Administrateur de compte client</fr>
+        <ar>مدير حساب العميل</ar>
+        <zh-TW>客戶賬戶管理</zh-TW>
+        <hi>हमारे ग्राहकों का खाता व्यवस्थापक</hi>
+        <ko>클라이언트 계정 관리자</ko>
+        <bn>ক্লায়েন্ট অ্যাকাউন্ট প্রশাসক</bn>
+        <ru>Администратор учетной записи клиента</ru>
+        <sq>Klienti Administrator llogari</sq>
+        <it>Administrator Account client</it>
+        <de>Kunden-Account-Administrator</de>
+        <it>Administrator Account client</it>
+        <ur>کلائنٹ اکاؤنٹ ایڈمنسٹریٹر</ur>
+    </entry>
+    <entry>
+        <key>Select User</key>
+        <en>Select User</en>
+        <ja>ユーザーを選択</ja>
+        <pt>Selecionar Usuário</pt>
+        <zh-CN>选择用户</zh-CN>
+        <fr>Sélectionnez l'utilisateur</fr>
+        <ar>حدد العضو</ar>
+        <zh-TW>選擇用戶</zh-TW>
+        <hi>उपयोगकर्ता का चयन करें</hi>
+        <ko>사용자 선택</ko>
+        <bn>ব্যবহারকারী নির্বাচন</bn>
+        <ru>Выбор пользователя</ru>
+        <sq>Zgjidh User</sq>
+        <it>Selezionare utente</it>
+        <de>Wählen Sie Benutzer</de>
+        <it>Selezionare utente</it>
+        <ur>صارف منتخب کریں</ur>
+    </entry>
+    <entry>
+        <key>Billing Preferences</key>
+        <en>Billing Preferences</en>
+        <ja>請求情報</ja>
+        <pt>Preferências de Faturamento</pt>
+        <zh-CN>结算首选项</zh-CN>
+        <fr>Préférences de facturation</fr>
+        <ar>تفضيلات الفواتير</ar>
+        <zh-TW>結算首選項</zh-TW>
+        <hi>बिलिंग प्राथमिकताएं</hi>
+        <ko>결제 환경 설정</ko>
+        <bn>বিলিং পছন্দসমূহ</bn>
+        <ru>Платежная</ru>
+        <sq>Parapëlqime faturimit</sq>
+        <it>Preferenze di fatturazione</it>
+        <de>Rechnungseinstellungen</de>
+        <it>Preferenze di fatturazione</it>
+        <ur>بلنگ کی ترجیحات</ur>
+    </entry>
+    <entry>
+        <key>Client Since</key>
+        <en>Client Since</en>
+        <ja>顧客登録日</ja>
+        <pt>Cliente Desde</pt>
+        <zh-CN>由于客户端</zh-CN>
+        <fr>Depuis client</fr>
+        <ar>العميل منذ</ar>
+        <zh-TW>由於客戶端</zh-TW>
+        <hi>क्लायंट के बाद</hi>
+        <ko>클라이언트 이후</ko>
+        <bn>ক্লায়েন্ট যেহেতু</bn>
+        <ru>Клиент С</ru>
+        <sq>klienti Që</sq>
+        <it>Dal client</it>
+        <de>-Client Da</de>
+        <it>Dal client</it>
+        <ur>کلائنٹ کے بعد سے</ur>
+    </entry>
+    <entry>
+        <key>Service Tier</key>
+        <en>Service Tier</en>
+        <ja>サービスレベル</ja>
+        <pt>Nível de Serviço</pt>
+        <zh-CN>服务层</zh-CN>
+        <fr>service Tier</fr>
+        <ar>الفئة الخدمة</ar>
+        <zh-TW>服務層</zh-TW>
+        <hi>सेवा टीयर</hi>
+        <ko>서비스 등급</ko>
+        <bn>পরিষেবা টিয়ার</bn>
+        <ru>Услуги уровня</ru>
+        <sq>Tier shërbimit</sq>
+        <it>Livello di servizio</it>
+        <de>Service-Tier</de>
+        <it>Livello di servizio</it>
+        <ur>سروس ٹائیر</ur>
+    </entry>
+    <entry>
+        <key>Enterprise Plan</key>
+        <en>Enterprise Plan</en>
+        <ja>エンタープライズプラン</ja>
+        <pt>Plano Empresa</pt>
+        <zh-CN>企业计划</zh-CN>
+        <fr>Plan d'entreprise</fr>
+        <ar>خطة الشركة</ar>
+        <zh-TW>企業計劃</zh-TW>
+        <hi>Enterprise योजना</hi>
+        <ko>기업 계획</ko>
+        <bn>এন্টারপ্রাইজ পরিকল্পনা</bn>
+        <ru>План предприятия</ru>
+        <sq>Plan Enterprise</sq>
+        <it>Enterprise Piano</it>
+        <de>Unternehmen planen</de>
+        <it>Enterprise Piano</it>
+        <ur>انٹرپرائز کی منصوبہ بندی</ur>
+    </entry>
+    <entry>
+        <key>Business Plan</key>
+        <en>Business Plan</en>
+        <ja>ビジネスプラン</ja>
+        <pt>Plano Negócios</pt>
+        <zh-CN>商业计划</zh-CN>
+        <fr>Plan d'affaires</fr>
+        <ar>خطة عمل</ar>
+        <zh-TW>商業計劃</zh-TW>
+        <hi>व्यापार की योजना</hi>
+        <ko>사업 계획</ko>
+        <bn>ব্যবসায়িক পরিকল্পনা</bn>
+        <ru>Бизнес-план</ru>
+        <sq>Plan biznesi</sq>
+        <it>business Plan</it>
+        <de>Geschäftsplan</de>
+        <it>business Plan</it>
+        <ur>کاروبار کی منصوبہ بندی</ur>
+    </entry>
+    <entry>
+        <key>Standard</key>
+        <en>Standard</en>
+        <ja>スタンダード</ja>
+        <pt>Padrão</pt>
+        <zh-CN>标准</zh-CN>
+        <fr>Standard</fr>
+        <ar>معيار</ar>
+        <zh-TW>標準</zh-TW>
+        <hi>मानक</hi>
+        <ko>표준</ko>
+        <bn>মান</bn>
+        <ru>стандарт</ru>
+        <sq>standard</sq>
+        <it>Standard</it>
+        <de>Standard</de>
+        <it>Standard</it>
+        <ur>سٹینڈرڈ</ur>
+    </entry>
+    <entry>
+        <key>Next Bill Dates</key>
+        <en>Next Bill Dates</en>
+        <ja>次回請求日</ja>
+        <pt>Próximas Datas de Faturamento</pt>
+        <zh-CN>下一个帐单日期</zh-CN>
+        <fr>Dates de Bill Suivant</fr>
+        <ar>تواريخ بيل القادمة</ar>
+        <zh-TW>下一個帳單日期</zh-TW>
+        <hi>अगले बिल तारीखें</hi>
+        <ko>다음 빌 날짜</ko>
+        <bn>পরবর্তী বিল তারিখগুলি</bn>
+        <ru>Следующий счет Даты</ru>
+        <sq>Datat e ardhshme Bill</sq>
+        <it>Prossima fattura Date</it>
+        <de>Weiter Bill Termine</de>
+        <it>Prossima fattura Date</it>
+        <ur>اگلے بل تواریخ</ur>
+    </entry>
+    <entry>
+        <key>Reciept Recipients</key>
+        <en>Reciept Recipients</en>
+        <ja>領収書受取人名:</ja>
+        <pt>Recipientes do Recibo</pt>
+        <zh-CN>单据收件人</zh-CN>
+        <fr>Destinataires reciept</fr>
+        <ar>المستلمين Reciept</ar>
+        <zh-TW>收據接收者</zh-TW>
+        <hi>रसीद प्राप्तकर्ताओं</hi>
+        <ko>Reciept받는 사람</ko>
+        <bn>Reciept প্রাপক</bn>
+        <ru>Reciept Получатели</ru>
+        <sq>Marrësit Reciept</sq>
+        <it>Destinatari ricevuta</it>
+        <de>reciept Empfänger</de>
+        <it>Destinatari ricevuta</it>
+        <ur>Reciept وصول کنندگان</ur>
+    </entry>
+    <entry>
+        <key>Receipts</key>
+        <en>Receipts</en>
+        <ja>領収書</ja>
+        <pt>Recibos</pt>
+        <zh-CN>单据</zh-CN>
+        <fr>Recettes</fr>
+        <ar>المبالغ المستلمة</ar>
+        <zh-TW>收</zh-TW>
+        <hi>प्राप्तियां</hi>
+        <ko>영수증</ko>
+        <bn>প্রাপ্তি</bn>
+        <ru>денежные поступления</ru>
+        <sq>Pranimet</sq>
+        <it>ricevute</it>
+        <de>Einkünfte</de>
+        <it>ricevute</it>
+        <ur>رسیدیں</ur>
+    </entry>
+    <entry>
+        <key>Download</key>
+        <en>Download</en>
+        <ja>ダウンロード</ja>
+        <pt>Download</pt>
+        <zh-CN>下载</zh-CN>
+        <fr>Télécharger</fr>
+        <ar>تحميل</ar>
+        <zh-TW>下載</zh-TW>
+        <hi>डाउनलोड</hi>
+        <ko>다운로드</ko>
+        <bn>ডাউনলোড</bn>
+        <ru>Скачать</ru>
+        <sq>Shkarko</sq>
+        <it>Scaricare</it>
+        <de>Herunterladen</de>
+        <it>Scaricare</it>
+        <ur>لوڈ</ur>
+    </entry>
+    <entry>
+        <key>Cancel SocialFlow</key>
+        <en>Cancel SocialFlow</en>
+        <ja>SocialFlow の使用を中止</ja>
+        <pt>Cancelar SocialFlow</pt>
+        <zh-CN>取消SocialFlow</zh-CN>
+        <fr>Annuler SocialFlow</fr>
+        <ar>إلغاء SocialFlow</ar>
+        <zh-TW>取消SocialFlow</zh-TW>
+        <hi>रद्द SocialFlow</hi>
+        <ko>SocialFlow 취소</ko>
+        <bn>বাতিল SocialFlow</bn>
+        <ru>Отменить SocialFlow</ru>
+        <sq>Anulo SocialFlow</sq>
+        <it>Annulla SocialFlow</it>
+        <de>Abbrechen SocialFlow</de>
+        <it>Annulla SocialFlow</it>
+        <ur>SocialFlow منسوخ</ur>
+    </entry>
+    <entry>
+        <key>Things not working out for you?</key>
+        <en>Things not working out for you?</en>
+        <ja>よい効果が得られませんでしたか?</ja>
+        <pt>Não está funcionando bem para você?</pt>
+        <zh-CN>事情不工作了的吗？</zh-CN>
+        <fr>Les choses ne fonctionnent pas pour vous?</fr>
+        <ar>أشياء لا يعمل بها بالنسبة لك؟</ar>
+        <zh-TW>事情不工作了的嗎？</zh-TW>
+        <hi>चीजें आप के लिए बाहर काम नहीं कर रहा?</hi>
+        <ko>상황이 당신을 위해 밖으로 작동하지?</ko>
+        <bn>আপনার জন্য কিছু কাজ করছে না?</bn>
+        <ru>Вещи не работает для вас?</ru>
+        <sq>Gjërat nuk punojnë për ju?</sq>
+        <it>Le cose non funziona per voi?</it>
+        <de>Die Dinge sind nicht das Ausarbeiten für Sie?</de>
+        <it>Le cose non funziona per voi?</it>
+        <ur>چیزیں آپ کے لئے باہر کام نہیں؟</ur>
+    </entry>
+    <entry>
+        <key>Cancel SocialFlow</key>
+        <en>Cancel SocialFlow</en>
+        <ja>SocialFlow を使用中止</ja>
+        <pt>Cancelar SocialFlow</pt>
+        <zh-CN>取消SocialFlow</zh-CN>
+        <fr>Annuler SocialFlow</fr>
+        <ar>إلغاء SocialFlow</ar>
+        <zh-TW>取消SocialFlow</zh-TW>
+        <hi>रद्द SocialFlow</hi>
+        <ko>SocialFlow 취소</ko>
+        <bn>বাতিল SocialFlow</bn>
+        <ru>Отменить SocialFlow</ru>
+        <sq>Anulo SocialFlow</sq>
+        <it>Annulla SocialFlow</it>
+        <de>Abbrechen SocialFlow</de>
+        <it>Annulla SocialFlow</it>
+        <ur>SocialFlow منسوخ</ur>
+    </entry>
+    <entry>
+        <key>Payment Methods</key>
+        <en>Payment Methods</en>
+        <ja>支払方法</ja>
+        <pt>Métodos de Pagamento</pt>
+        <zh-CN>支付方式</zh-CN>
+        <fr>Moyens de paiement</fr>
+        <ar>طرق الدفع</ar>
+        <zh-TW>支付方式</zh-TW>
+        <hi>भुगतान की विधि</hi>
+        <ko>지불 방법</ko>
+        <bn>মুল্য পরিশোধ পদ্ধতি</bn>
+        <ru>Способы оплаты</ru>
+        <sq>Mënyra pagese</sq>
+        <it>Modalità di pagamento</it>
+        <de>Zahlungsarten</de>
+        <it>Modalità di pagamento</it>
+        <ur>ادائیگی کے طریقے</ur>
+    </entry>
+    <entry>
+        <key>Add Payment Method</key>
+        <en>Add Payment Method</en>
+        <ja>支払方法の追加</ja>
+        <pt>Adicionar Método de Pagamento</pt>
+        <zh-CN>新增付款方式</zh-CN>
+        <fr>Ajouter une méthode de paiement</fr>
+        <ar>إضافة طريقة الدفع</ar>
+        <zh-TW>新增付款方式</zh-TW>
+        <hi>जोड़े भुगतान की विधि</hi>
+        <ko>결제 방법 추가</ko>
+        <bn>যোগ পেমেন্ট পদ্ধতি</bn>
+        <ru>Добавить способ оплаты</ru>
+        <sq>Shto Metoda e pagesës</sq>
+        <it>Aggiungere metodo di pagamento</it>
+        <de>Zahlungsmethode hinzufügen</de>
+        <it>Aggiungere metodo di pagamento</it>
+        <ur>ادائیگی کا طریقہ شامل</ur>
+    </entry>
+    <entry>
+        <key>Credit Card Number</key>
+        <en>Credit Card Number</en>
+        <ja>クレジットカード番号</ja>
+        <pt>Número do Cartão de Crédito</pt>
+        <zh-CN>信用卡号码</zh-CN>
+        <fr>Numéro de carte de crédit</fr>
+        <ar>رقم بطاقة الائتمان</ar>
+        <zh-TW>信用卡號碼</zh-TW>
+        <hi>क्रेडिट कार्ड नंबर</hi>
+        <ko>신용 카드 번호</ko>
+        <bn>ক্রেডিট কার্ড নম্বর</bn>
+        <ru>Номер кредитной карты</ru>
+        <sq>Numri i kartës së kreditit</sq>
+        <it>Numero di carta di credito</it>
+        <de>Kreditkartennummer</de>
+        <it>Numero di carta di credito</it>
+        <ur>کریڈٹ کارڈ نمبر</ur>
+    </entry>
+    <entry>
+        <key>Name on Card</key>
+        <en>Name on Card</en>
+        <ja>カード名義</ja>
+        <pt>Nome no Cartão</pt>
+        <zh-CN>卡片上的名字</zh-CN>
+        <fr>Nom sur carte</fr>
+        <ar>الاسم على البطاقة</ar>
+        <zh-TW>卡片上的名字</zh-TW>
+        <hi>कार्ड पर नाम</hi>
+        <ko>카드에 이름</ko>
+        <bn>কার্ডের ওপর নাম</bn>
+        <ru>Имя на карте</ru>
+        <sq>Emri ne karte</sq>
+        <it>Nome sulla carta</it>
+        <de>Name auf der Karte</de>
+        <it>Nome sulla carta</it>
+        <ur>کارڈ پہ درج نام</ur>
+    </entry>
+    <entry>
+        <key>*Expiration</key>
+        <en>*Expiration</en>
+        <ja>* 有効期限</ja>
+        <pt>*Expira em</pt>
+        <zh-CN>*到期</zh-CN>
+        <fr>*Expiration</fr>
+        <ar>*انتهاء</ar>
+        <zh-TW>*到期</zh-TW>
+        <hi>* समय सीमा समाप्त</hi>
+        <ko>*만료</ko>
+        <bn>* মেয়াদপূর্তির</bn>
+        <ru>* Действительно</ru>
+        <sq>* Skadimit</sq>
+        <it>*Scadenza</it>
+        <de>*Ablauf</de>
+        <it>*Scadenza</it>
+        <ur>* میعاد ختم ہونے کی</ur>
+    </entry>
+    <entry>
+        <key>Month</key>
+        <en>Month</en>
+        <ja>月</ja>
+        <pt>Mês</pt>
+        <zh-CN>月</zh-CN>
+        <fr>Mois</fr>
+        <ar>شهر</ar>
+        <zh-TW>月</zh-TW>
+        <hi>महीना</hi>
+        <ko>달</ko>
+        <bn>মাস</bn>
+        <ru>Месяц</ru>
+        <sq>Muaj</sq>
+        <it>Mese</it>
+        <de>Monat</de>
+        <it>Mese</it>
+        <ur>مہینہ</ur>
+    </entry>
+    <entry>
+        <key>Year</key>
+        <en>Year</en>
+        <ja>年</ja>
+        <pt>Ano</pt>
+        <zh-CN>年</zh-CN>
+        <fr>An</fr>
+        <ar>عام</ar>
+        <zh-TW>年</zh-TW>
+        <hi>साल</hi>
+        <ko>년</ko>
+        <bn>বছর</bn>
+        <ru>Год</ru>
+        <sq>vit</sq>
+        <it>Anno</it>
+        <de>Jahr</de>
+        <it>Anno</it>
+        <ur>سال</ur>
+    </entry>
+    <entry>
+        <key>Select Country</key>
+        <en>Select Country</en>
+        <ja>国名を選択</ja>
+        <pt>Selecionar País</pt>
+        <zh-CN>选择国家</zh-CN>
+        <fr>Sélectionner le pays</fr>
+        <ar>حدد الدولة</ar>
+        <zh-TW>選擇國家</zh-TW>
+        <hi>देश चुनिए</hi>
+        <ko>국가 선택</ko>
+        <bn>দেশ নির্বাচন করুন</bn>
+        <ru>Выберите страну</ru>
+        <sq>Zgjidh Shtetin</sq>
+        <it>Seleziona il paese</it>
+        <de>Land auswählen</de>
+        <it>Seleziona il paese</it>
+        <ur>ملک کا انتخاب کریں</ur>
+    </entry>
+    <entry>
+        <key>Zip Code</key>
+        <en>Zip Code</en>
+        <ja>郵便番号</ja>
+        <pt>Código Postal</pt>
+        <zh-CN>邮政编码</zh-CN>
+        <fr>Code postal</fr>
+        <ar>الرمز البريدي</ar>
+        <zh-TW>郵政編碼</zh-TW>
+        <hi>पिन कोड</hi>
+        <ko>우편 번호</ko>
+        <bn>পোস্টাল কোড</bn>
+        <ru>Почтовый Индекс</ru>
+        <sq>Kodi Postal</sq>
+        <it>Cap</it>
+        <de>Postleitzahl</de>
+        <it>Cap</it>
+        <ur>زپ کوڈ</ur>
+    </entry>
+    <entry>
+        <key>Address 1</key>
+        <en>Address 1</en>
+        <ja>住所 1</ja>
+        <pt>Endereço 1</pt>
+        <zh-CN>地址1</zh-CN>
+        <fr>Adresse 1</fr>
+        <ar>العنوان 1</ar>
+        <zh-TW>地址1</zh-TW>
+        <hi>पता 1</hi>
+        <ko>주소 1</ko>
+        <bn>ঠিকানা 1</bn>
+        <ru>адрес 1</ru>
+        <sq>adresa 1</sq>
+        <it>Indirizzo 1</it>
+        <de>Adresse 1</de>
+        <it>Indirizzo 1</it>
+        <ur>پتہ 1</ur>
+    </entry>
+    <entry>
+        <key>Address 2</key>
+        <en>Address 2</en>
+        <ja>住所 2</ja>
+        <pt>Endereço 2</pt>
+        <zh-CN>地址2</zh-CN>
+        <fr>Adresse 2</fr>
+        <ar>العنوان 2</ar>
+        <zh-TW>地址2</zh-TW>
+        <hi>पता द्वितीय</hi>
+        <ko>주소 2</ko>
+        <bn>ঠিকানা ২</bn>
+        <ru>Адрес 2</ru>
+        <sq>adresa 2</sq>
+        <it>Indirizzo 2</it>
+        <de>Adresse 2</de>
+        <it>Indirizzo 2</it>
+        <ur>ایڈریس 2</ur>
+    </entry>
+    <entry>
+        <key>City</key>
+        <en>City</en>
+        <ja>市町村</ja>
+        <pt>Cidade</pt>
+        <zh-CN>城市</zh-CN>
+        <fr>Ville</fr>
+        <ar>مدينة</ar>
+        <zh-TW>市</zh-TW>
+        <hi>शहर</hi>
+        <ko>시티</ko>
+        <bn>শহর</bn>
+        <ru>город</ru>
+        <sq>qytet</sq>
+        <it>Città</it>
+        <de>Stadt</de>
+        <it>Città</it>
+        <ur>شہر</ur>
+    </entry>
+    <entry>
+        <key>State</key>
+        <en>State</en>
+        <ja>都道府県</ja>
+        <pt>Estado</pt>
+        <zh-CN>州</zh-CN>
+        <fr>Etat</fr>
+        <ar>حالة</ar>
+        <zh-TW>州</zh-TW>
+        <hi>राज्य</hi>
+        <ko>상태</ko>
+        <bn>রাষ্ট্র</bn>
+        <ru>состояние</ru>
+        <sq>shtet</sq>
+        <it>Stato</it>
+        <de>Bundesland</de>
+        <it>Stato</it>
+        <ur>حالت</ur>
+    </entry>
+    <entry>
+        <key>Select a State</key>
+        <en>Select a State</en>
+        <ja>都道府県名を選択</ja>
+        <pt>Selecione um Estado</pt>
+        <zh-CN>选择一个州</zh-CN>
+        <fr>Sélectionner un état</fr>
+        <ar>اختر ولاية</ar>
+        <zh-TW>選擇一個國家</zh-TW>
+        <hi>एक राज्य का चयन करें</hi>
+        <ko>국가를 선택하십시오</ko>
+        <bn>একটি রাজ্য নির্বাচন</bn>
+        <ru>Выберите государство</ru>
+        <sq>Zgjidh një shtet</sq>
+        <it>Scegli uno Stato</it>
+        <de>Wähle einen Staat</de>
+        <it>Scegli uno Stato</it>
+        <ur>کسی ریاست کریں</ur>
+    </entry>
+    <entry>
+        <key>Primary Payment Method</key>
+        <en>Primary Payment Method</en>
+        <ja>優先支払い方法</ja>
+        <pt>Método de Pagamento Primário</pt>
+        <zh-CN>主要付款方式</zh-CN>
+        <fr>Mode de paiement principal</fr>
+        <ar>طريقة الدفع الأساسية</ar>
+        <zh-TW>主要付款方式</zh-TW>
+        <hi>प्राथमिक भुगतान विधि</hi>
+        <ko>기본 결제 방법</ko>
+        <bn>প্রাথমিক পেমেন্ট পদ্ধতি</bn>
+        <ru>Основной метод оплаты</ru>
+        <sq>Metoda e pagesës Primar</sq>
+        <it>Metodo di pagamento principale</it>
+        <de>Primäre Zahlungsmethode</de>
+        <it>Metodo di pagamento principale</it>
+        <ur>بنیادی ادائیگی کے طریقے</ur>
+    </entry>
+    <entry>
+        <key>No Card Found</key>
+        <en>No Card Found</en>
+        <ja>カードの登録がありません</ja>
+        <pt>Nenhum Cartão Encontrado</pt>
+        <zh-CN>没有找到卡</zh-CN>
+        <fr>Aucune carte Trouvé</fr>
+        <ar>لا توجد بطاقة</ar>
+        <zh-TW>沒有找到卡</zh-TW>
+        <hi>कोई कार्ड मिला</hi>
+        <ko>찾을 수 없음 카드 없음</ko>
+        <bn>কোন কার্ড পাওয়া</bn>
+        <ru>Нет карты Найдено</ru>
+        <sq>No Card Found</sq>
+        <it>No Card Trovato</it>
+        <de>Keine Karte gefunden</de>
+        <it>No Card Trovato</it>
+        <ur>کوئی کارڈ نہیں ملا</ur>
+    </entry>
+    <entry>
+        <key>Additional Payment Method</key>
+        <en>Additional Payment Method</en>
+        <ja>追加の支払方法</ja>
+        <pt>Método de Pagamento Adicional</pt>
+        <zh-CN>其他支付方式</zh-CN>
+        <fr>Méthode de paiement supplémentaire</fr>
+        <ar>طريقة الدفع إضافية</ar>
+        <zh-TW>其他支付方式</zh-TW>
+        <hi>अतिरिक्त भुगतान की विधि</hi>
+        <ko>추가 지불 방법</ko>
+        <bn>অতিরিক্ত পেমেন্ট পদ্ধতি</bn>
+        <ru>Дополнительный способ оплаты</ru>
+        <sq>Metoda e pagesës shtesë</sq>
+        <it>Ulteriori Metodo di pagamento</it>
+        <de>Zusätzliche Zahlungsmethode</de>
+        <it>Ulteriori Metodo di pagamento</it>
+        <ur>ایڈیشنل ادائیگی کا طریقہ</ur>
+    </entry>
+    <entry>
+        <key>Make Primary</key>
+        <en>Make Primary</en>
+        <ja>優先設定する</ja>
+        <pt>Tornar Primário</pt>
+        <zh-CN>使主</zh-CN>
+        <fr>Faire primaire</fr>
+        <ar>اتخذ الاولويه</ar>
+        <zh-TW>使主</zh-TW>
+        <hi>प्राथमिक बनाएं</hi>
+        <ko>기본으로 만드는</ko>
+        <bn>প্রাথমিক করা</bn>
+        <ru>Сделать начальное</ru>
+        <sq>bëni fillore</sq>
+        <it>Rendi principale</it>
+        <de>Make Primary</de>
+        <it>Rendi principale</it>
+        <ur>پرائمری بنائیں</ur>
+    </entry>
+    <section>settings_admin_account_and_bill</section>
+</translations>

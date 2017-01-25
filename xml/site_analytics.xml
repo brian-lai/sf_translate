@@ -1,0 +1,345 @@
+<translations>
+    <entry>
+        <key>Site Analytics</key>
+        <en>Site Analytics</en>
+        <ja>サイト分析</ja>
+        <pt>Análise do Site</pt>
+        <zh-CN>网站分析</zh-CN>
+        <fr>Analytics du site</fr>
+        <ar>تحليلات الموقع</ar>
+        <zh-TW>網站分析</zh-TW>
+        <hi>साइट विश्लेषण</hi>
+        <ko>사이트 분석</ko>
+        <bn>সাইট অ্যানালিটিক্স</bn>
+        <ru>Аналитика сайта</ru>
+        <sq>Analytics Site</sq>
+        <it>analisi del sito</it>
+        <de>Site Analytics</de>
+        <it>analisi del sito</it>
+        <ur>سائٹ کے تجزیے</ur>
+    </entry>
+    <entry>
+        <key>Authorize Another Domain</key>
+        <en>Authorize Another Domain</en>
+        <ja>別のドメインを認証</ja>
+        <pt>Autorizar Outro Domínio</pt>
+        <zh-CN>委托他人域名</zh-CN>
+        <fr>Autorisez un autre domaine</fr>
+        <ar>يأذن مجال آخر</ar>
+        <zh-TW>委託他人域名</zh-TW>
+        <hi>अधिकृत अन्य डोमेन</hi>
+        <ko>또 다른 도메인 권한을 부여</ko>
+        <bn>অনুমোদন দেয় আরেকটি ডোমেন</bn>
+        <ru>Уполномочить другого домена</ru>
+        <sq>Autorizojë tjetër Domain</sq>
+        <it>Autorizzare un altro dominio</it>
+        <de>Autorisieren einer anderen Domäne</de>
+        <it>Autorizzare un altro dominio</it>
+        <ur>دوسرے ڈومین اختیار</ur>
+    </entry>
+    <entry>
+        <key>Visits</key>
+        <en>Visits</en>
+        <ja>訪問数</ja>
+        <pt>Visitas</pt>
+        <zh-CN>访问</zh-CN>
+        <fr>Visites</fr>
+        <ar>مرة</ar>
+        <zh-TW>訪問</zh-TW>
+        <hi>दर्शक</hi>
+        <ko>방문</ko>
+        <bn>ভিজিট</bn>
+        <ru>просмотров</ru>
+        <sq>vizita</sq>
+        <it>visite</it>
+        <de>Besuche</de>
+        <it>visite</it>
+        <ur>دورہ</ur>
+    </entry>
+    <entry>
+        <key>Page Views</key>
+        <en>Page Views</en>
+        <ja>ページビュー</ja>
+        <pt>Visualizações da Página</pt>
+        <zh-CN>页面访问量</zh-CN>
+        <fr>page Vues</fr>
+        <ar>المشاهدات</ar>
+        <zh-TW>頁面訪問量</zh-TW>
+        <hi>पृष्ठ दृश्य</hi>
+        <ko>페이지보기</ko>
+        <bn>পাতা দেখেছে</bn>
+        <ru>Просмотры страниц</ru>
+        <sq>Faqe Views</sq>
+        <it>Visualizzazioni della pagina</it>
+        <de>Seitenaufrufe</de>
+        <it>Visualizzazioni della pagina</it>
+        <ur>صفحہ مناظر</ur>
+    </entry>
+    <entry>
+        <key>Time on Site</key>
+        <en>Time on Site</en>
+        <ja>サイト滞在時間</ja>
+        <pt>Tempo no Site</pt>
+        <zh-CN>网站停留时间</zh-CN>
+        <fr>Temps sur le site</fr>
+        <ar>الوقت في الموقع</ar>
+        <zh-TW>網站停留時間</zh-TW>
+        <hi>साइट पर समय</hi>
+        <ko>사이트에 머문 시간</ko>
+        <bn>সাইট টাইম</bn>
+        <ru>Время пребывания на сайте</ru>
+        <sq>Koha në Site</sq>
+        <it>Tempo sul sito</it>
+        <de>Zeit auf der Website</de>
+        <it>Tempo sul sito</it>
+        <ur>سائٹ پر وقت</ur>
+    </entry>
+    <entry>
+        <key>% Bounce Rate</key>
+        <en>% Bounce Rate</en>
+        <ja>% 直帰率</ja>
+        <pt>% Taxa de Rejeição</pt>
+        <zh-CN>％跳出率</zh-CN>
+        <fr>% Taux de rebond</fr>
+        <ar>٪ معدل الارتداد</ar>
+        <zh-TW>％跳出率</zh-TW>
+        <hi>% उछाल दर</hi>
+        <ko>% 이탈률</ko>
+        <bn>% বহিষ্কারের হার</bn>
+        <ru>% Отказов</ru>
+        <sq>% Vlerësoni Kthimeve</sq>
+        <it>% Frequenza di rimbalzo</it>
+        <de>% Absprungrate</de>
+        <it>% Frequenza di rimbalzo</it>
+        <ur>٪ اچھال کی شرح</ur>
+    </entry>
+    <entry>
+        <key>% New Visits</key>
+        <en>% New Visits</en>
+        <ja>% 新規訪問率</ja>
+        <pt>% Novas Visitas</pt>
+        <zh-CN>％新造访</zh-CN>
+        <fr>% Nouvelles visites</fr>
+        <ar>٪ الزيارات جديدة</ar>
+        <zh-TW>％新造訪</zh-TW>
+        <hi>% नए दर्शक</hi>
+        <ko>신규 방문 비율 (%)</ko>
+        <bn>% নিউ ভিজিট</bn>
+        <ru>% новых посещений</ru>
+        <sq>% Vizitat e reja</sq>
+        <it>% nuove visite</it>
+        <de>% Neue Besuche</de>
+        <it>% nuove visite</it>
+        <ur>٪ نئے ملاحظات</ur>
+    </entry>
+    <entry>
+        <key>Events</key>
+        <en>Events</en>
+        <ja>イベント</ja>
+        <pt>Eventos</pt>
+        <zh-CN>活动</zh-CN>
+        <fr>Événements</fr>
+        <ar>أحداث</ar>
+        <zh-TW>活動</zh-TW>
+        <hi>आयोजन</hi>
+        <ko>이벤트</ko>
+        <bn>ঘটনাবলী</bn>
+        <ru>Мероприятия</ru>
+        <sq>Ngjarje</sq>
+        <it>eventi</it>
+        <de>Veranstaltungen</de>
+        <it>eventi</it>
+        <ur>تقریبات</ur>
+    </entry>
+    <entry>
+        <key>Visits</key>
+        <en>Visits</en>
+        <ja>訪問数</ja>
+        <pt>Visitas</pt>
+        <zh-CN>访问</zh-CN>
+        <fr>Visites</fr>
+        <ar>مرة</ar>
+        <zh-TW>訪問</zh-TW>
+        <hi>दर्शक</hi>
+        <ko>방문</ko>
+        <bn>ভিজিট</bn>
+        <ru>просмотров</ru>
+        <sq>vizita</sq>
+        <it>visite</it>
+        <de>Besuche</de>
+        <it>visite</it>
+        <ur>دورہ</ur>
+    </entry>
+    <entry>
+        <key>Total</key>
+        <en>Total</en>
+        <ja>合計</ja>
+        <pt>Total</pt>
+        <zh-CN>总</zh-CN>
+        <fr>Total</fr>
+        <ar>مجموع</ar>
+        <zh-TW>總</zh-TW>
+        <hi>कुल</hi>
+        <ko>합계</ko>
+        <bn>মোট</bn>
+        <ru>Всего</ru>
+        <sq>Total</sq>
+        <it>Totale</it>
+        <de>Gesamt</de>
+        <it>Totale</it>
+        <ur>کل</ur>
+    </entry>
+    <entry>
+        <key>Twitter (All Tweets)</key>
+        <en>Twitter (All Tweets)</en>
+        <ja>Twitter ( 全ツイート )</ja>
+        <pt>Twitter (Todos os Tweets)</pt>
+        <zh-CN>Twitter（所有Tweet）</zh-CN>
+        <fr>Twitter (Tous les tweets)</fr>
+        <ar>تويتر (جميع تغريدات)</ar>
+        <zh-TW>推特（所有推文）</zh-TW>
+        <hi>ट्विटर (सभी ट्वीट्स)</hi>
+        <ko>트위터 (모든 트윗)</ko>
+        <bn>টুইটার (সকল টুইট)</bn>
+        <ru>Twitter (All Tweets)</ru>
+        <sq>Twitter (All Tweets)</sq>
+        <it>Twitter (Tutti i tweet)</it>
+        <de>Twitter (Alle Tweets)</de>
+        <it>Twitter (Tutti i tweet)</it>
+        <ur>ٹویٹر (تمام ٹویٹس)</ur>
+    </entry>
+    <entry>
+        <key>Facebook (All Post)</key>
+        <en>Facebook (All Post)</en>
+        <ja>Facebook ( 全投稿 )</ja>
+        <pt>Facebook (Todas as Postagens)</pt>
+        <zh-CN>Facebook（所有帖子）</zh-CN>
+        <fr>Facebook (All Post)</fr>
+        <ar>الفيسبوك (كل بوست)</ar>
+        <zh-TW>Facebook的（所有郵政）</zh-TW>
+        <hi>फेसबुक (सभी पोस्ट)</hi>
+        <ko>페이스 북 (모든 포스트)</ko>
+        <bn>ফেসবুক (সকল পোস্ট)</bn>
+        <ru>Facebook (все сообщения)</ru>
+        <sq>Facebook (All Post)</sq>
+        <it>Facebook (Tutti Post)</it>
+        <de>Facebook (Alle Post)</de>
+        <it>Facebook (Tutti Post)</it>
+        <ur>فیس بک (تمام پوسٹ)</ur>
+    </entry>
+    <entry>
+        <key>Other</key>
+        <en>Other</en>
+        <ja>その他</ja>
+        <pt>Outro</pt>
+        <zh-CN>其他</zh-CN>
+        <fr>Autre</fr>
+        <ar>آخر</ar>
+        <zh-TW>其他</zh-TW>
+        <hi>अन्य</hi>
+        <ko>다른</ko>
+        <bn>অন্যান্য</bn>
+        <ru>Другие</ru>
+        <sq>tjetër</sq>
+        <it>Altro</it>
+        <de>Andere</de>
+        <it>Altro</it>
+        <ur>دیگر</ur>
+    </entry>
+    <entry>
+        <key>Sources</key>
+        <en>Sources</en>
+        <ja>訪問元</ja>
+        <pt>Fontes</pt>
+        <zh-CN>来源</zh-CN>
+        <fr>Sources</fr>
+        <ar>مصادر</ar>
+        <zh-TW>來源</zh-TW>
+        <hi>सूत्रों का कहना है</hi>
+        <ko>소스</ko>
+        <bn>সোর্স</bn>
+        <ru>источники</ru>
+        <sq>burimet</sq>
+        <it>fonti</it>
+        <de>Quellen</de>
+        <it>fonti</it>
+        <ur>ذرائع</ur>
+    </entry>
+    <entry>
+        <key>Visits</key>
+        <en>Visits</en>
+        <ja>訪問数</ja>
+        <pt>Visitas</pt>
+        <zh-CN>访问</zh-CN>
+        <fr>Visites</fr>
+        <ar>مرة</ar>
+        <zh-TW>訪問</zh-TW>
+        <hi>दर्शक</hi>
+        <ko>방문</ko>
+        <bn>ভিজিট</bn>
+        <ru>просмотров</ru>
+        <sq>vizita</sq>
+        <it>visite</it>
+        <de>Besuche</de>
+        <it>visite</it>
+        <ur>دورہ</ur>
+    </entry>
+    <entry>
+        <key>% Visits</key>
+        <en>% Visits</en>
+        <ja>% 訪問率</ja>
+        <pt>% Visitas</pt>
+        <zh-CN>% 参观</zh-CN>
+        <fr>% Visites</fr>
+        <ar>الزيارات٪</ar>
+        <zh-TW>參觀％</zh-TW>
+        <hi>% दर्शक</hi>
+        <ko>% 방문</ko>
+        <bn>% ভিজিট</bn>
+        <ru>% просмотров</ru>
+        <sq>Vizitat%</sq>
+        <it>Visite%</it>
+        <de>% Besuche</de>
+        <it>Visite%</it>
+        <ur>٪ دورہ</ur>
+    </entry>
+    <entry>
+        <key>No Data Available!</key>
+        <en>No Data Available!</en>
+        <ja>利用可能なデータがありません!</ja>
+        <pt>Dados não disponíveis!</pt>
+        <zh-CN>无可用数据！</zh-CN>
+        <fr>Pas de données disponibles!</fr>
+        <ar>لا تتوافر بيانات!</ar>
+        <zh-TW>無可用數據！</zh-TW>
+        <hi>कोई डेटा उपलब्ध नहीं है!</hi>
+        <ko>데이터가 없습니다!</ko>
+        <bn>কোন তথ্য নেই!</bn>
+        <ru>Данные недоступны!</ru>
+        <sq>Nuk ka të dhëna!</sq>
+        <it>Nessun dato disponibile!</it>
+        <de>Keine Daten verfügbar!</de>
+        <it>Nessun dato disponibile!</it>
+        <ur>کوئی ڈیٹا دستیاب نہیں!</ur>
+    </entry>
+    <entry>
+        <key>Please choose a different time range or metric.</key>
+        <en>Please choose a different time range or metric.</en>
+        <ja>異なる時間範囲か測定基準を選択してください。</ja>
+        <pt>Por favor, escolha um intervalo de tempo ou métrica diferentes.</pt>
+        <zh-CN>请选择一个不同的时间范围或指标。</zh-CN>
+        <fr>S'il vous plaît choisir un intervalle de temps différent ou métrique.</fr>
+        <ar>الرجاء اختيار نطاق زمني مختلف أو متري.</ar>
+        <zh-TW>請選擇一個不同的時間範圍或指標。</zh-TW>
+        <hi>कृपया एक अलग समय सीमा या मीट्रिक चुनें।</hi>
+        <ko>다른 시간 범위 또는 메트릭을 선택하세요.</ko>
+        <bn>দয়া করে একটি ভিন্ন সময় পরিসীমা বা মেট্রিক চয়ন.</bn>
+        <ru>Пожалуйста, выберите другой диапазон времени или метрики.</ru>
+        <sq>Ju lutemi zgjidhni një gamë të ndryshme kohore ose metrikë.</sq>
+        <it>Scegliere un intervallo di tempo diverso o metrica.</it>
+        <de>Bitte wählen Sie einen anderen Zeitbereich oder Metrik.</de>
+        <it>Scegliere un intervallo di tempo diverso o metrica.</it>
+        <ur>ایک مختلف وقت کی حد یا میٹرک منتخب کریں.</ur>
+    </entry>
+    <section>site_analytics</section>
+</translations>

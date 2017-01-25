@@ -1,0 +1,465 @@
+<translations>
+    <entry>
+        <key>Create Report</key>
+        <en>Create Report</en>
+        <ja>レポートを作成</ja>
+        <pt>Criar Relatório</pt>
+        <zh-CN>创建报告</zh-CN>
+        <fr>Créer un rapport</fr>
+        <ar>إنشاء تقرير</ar>
+        <zh-TW>創建報告</zh-TW>
+        <hi>रिपोर्ट बनाएं</hi>
+        <ko>보고서 작성</ko>
+        <bn>প্রতিবেদন তৈরি করুন</bn>
+        <ru>Создать отчет</ru>
+        <sq>Krijo Raportin</sq>
+        <it>Crea rapporto</it>
+        <de>Bericht erstellen</de>
+        <it>Crea rapporto</it>
+        <ur>رپورٹ تشکیل دیں</ur>
+    </entry>
+    <entry>
+        <key>Report Type</key>
+        <en>Report Type</en>
+        <ja>レポートの種類</ja>
+        <pt>Tipo de Relatório</pt>
+        <zh-CN>报告类型</zh-CN>
+        <fr>Type de rapport</fr>
+        <ar>نوع التقرير</ar>
+        <zh-TW>報告類型</zh-TW>
+        <hi>रिपोर्ट का प्रकार</hi>
+        <ko>보고서 유형</ko>
+        <bn>প্রতিবেদনের প্রকার</bn>
+        <ru>Тип отчета</ru>
+        <sq>Raporti Lloji</sq>
+        <it>Tipo di rapporto</it>
+        <de>Berichtstyp</de>
+        <it>Tipo di rapporto</it>
+        <ur>رپورٹ کی قسم</ur>
+    </entry>
+    <entry>
+        <key>Message Report</key>
+        <en>Message Report</en>
+        <ja>メッセージレポート</ja>
+        <pt>Relatório de Mensagem</pt>
+        <zh-CN>信息报告</zh-CN>
+        <fr>Message Signaler</fr>
+        <ar>تقرير رسالة</ar>
+        <zh-TW>發消息舉報</zh-TW>
+        <hi>संदेश की रिपोर्ट</hi>
+        <ko>메시지 보고서</ko>
+        <bn>বার্তা প্রতিবেদন</bn>
+        <ru>Сообщение Отчет</ru>
+        <sq>mesazh Report</sq>
+        <it>Segnala il messaggio</it>
+        <de>Ignorierter</de>
+        <it>Segnala il messaggio</it>
+        <ur>پیغام کی رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Monthly Aggregate Report</key>
+        <en>Monthly Aggregate Report</en>
+        <ja>月間統合レポート</ja>
+        <pt>Relatório Agregado Mensal</pt>
+        <zh-CN>月度报表汇总</zh-CN>
+        <fr>Rapport complet mensuel</fr>
+        <ar>تقرير الركام الشهري</ar>
+        <zh-TW>月度報表匯總</zh-TW>
+        <hi>मासिक सकल रिपोर्ट</hi>
+        <ko>월별 집계 보고서</ko>
+        <bn>মাসিক মোট রিপোর্ট</bn>
+        <ru>Ежемесячный сводный отчет</ru>
+        <sq>Raport Mujor Agregati</sq>
+        <it>Rapporto mensile aggregata</it>
+        <de>Monatliche Gesamtbericht</de>
+        <it>Rapporto mensile aggregata</it>
+        <ur>ماہانہ مجموعی رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Label Report</key>
+        <en>Label Report</en>
+        <ja>ラベルレポート</ja>
+        <pt>Relatório de Rótulo</pt>
+        <zh-CN>标签报告</zh-CN>
+        <fr>Étiquette Rapport</fr>
+        <ar>تقرير التسمية</ar>
+        <zh-TW>標籤報告</zh-TW>
+        <hi>लेबल रिपोर्ट</hi>
+        <ko>라벨 보고서</ko>
+        <bn>ট্যাগ প্রতিবেদন</bn>
+        <ru>Отчет по ярлыкам</ru>
+        <sq>Label Raporti</sq>
+        <it>etichetta Rapporto</it>
+        <de>Label-Bericht</de>
+        <it>etichetta Rapporto</it>
+        <ur>لیبل رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Report Name</key>
+        <en>Report Name</en>
+        <ja>レポート名</ja>
+        <pt>Nome do Relatório</pt>
+        <zh-CN>报告名称</zh-CN>
+        <fr>Nom du rapport</fr>
+        <ar>تقرير اسم</ar>
+        <zh-TW>報告名稱</zh-TW>
+        <hi>रिपोर्ट नाम</hi>
+        <ko>보고서 이름</ko>
+        <bn>গালাগাল প্রতিবেদন নাম</bn>
+        <ru>Имя отчета</ru>
+        <sq>Raporti Emri</sq>
+        <it>rapporto Nome</it>
+        <de>Berichtsname</de>
+        <it>rapporto Nome</it>
+        <ur>رپورٹ کا نام</ur>
+    </entry>
+    <entry>
+        <key>Name your report</key>
+        <en>Name your report</en>
+        <ja>レポート名を入力</ja>
+        <pt>Dê um nome ao seu relatório</pt>
+        <zh-CN>报告命名</zh-CN>
+        <fr>Nommez votre rapport</fr>
+        <ar>اسم التقرير الخاص بك</ar>
+        <zh-TW>報告命名</zh-TW>
+        <hi>अपनी रिपोर्ट को नाम</hi>
+        <ko>보고서의 이름을</ko>
+        <bn>আপনার প্রতিবেদন নাম</bn>
+        <ru>Назовите свой доклад</ru>
+        <sq>Emri raportin tuaj</sq>
+        <it>Un nome al rapporto</it>
+        <de>Nennen Sie Ihren Bericht</de>
+        <it>Un nome al rapporto</it>
+        <ur>اپنی رپورٹ کو نام دیں</ur>
+    </entry>
+    <entry>
+        <key>Account(s)</key>
+        <en>Account(s)</en>
+        <ja>アカウント</ja>
+        <pt>Conta(s)</pt>
+        <zh-CN>帐户</zh-CN>
+        <fr>Comptes)</fr>
+        <ar>حساب (ق)</ar>
+        <zh-TW>帳戶</zh-TW>
+        <hi>हिसाब किताब)</hi>
+        <ko>계정 (들)</ko>
+        <bn>অ্যাকাউন্ট (গুলি)</bn>
+        <ru>Счета)</ru>
+        <sq>Llogaria (s)</sq>
+        <it>Account (s)</it>
+        <de>Account (s)</de>
+        <it>Account (s)</it>
+        <ur>اکاؤنٹ (زبانیں)</ur>
+    </entry>
+    <entry>
+        <key>Label(s)</key>
+        <en>Label(s)</en>
+        <ja>ラベル</ja>
+        <pt>Rótulo(s)</pt>
+        <zh-CN>标签</zh-CN>
+        <fr>Étiquettes)</fr>
+        <ar>تسميات)</ar>
+        <zh-TW>標籤）</zh-TW>
+        <hi>लेबल (एस)</hi>
+        <ko>라벨 (들)</ko>
+        <bn>লেবেল)</bn>
+        <ru>Этикетка (ы)</ru>
+        <sq>Etiketë (s)</sq>
+        <it>Label (s)</it>
+        <de>Label (s)</de>
+        <it>Label (s)</it>
+        <ur>لیبل (ے)</ur>
+    </entry>
+    <entry>
+        <key>Timeframe</key>
+        <en>Timeframe</en>
+        <ja>時間枠</ja>
+        <pt>Período de Tempo</pt>
+        <zh-CN>时间段</zh-CN>
+        <fr>Délai</fr>
+        <ar>إطار زمني</ar>
+        <zh-TW>大體時間</zh-TW>
+        <hi>समय सीमा</hi>
+        <ko>기간</ko>
+        <bn>টাইমফ্রেম</bn>
+        <ru>Период времени</ru>
+        <sq>Afati</sq>
+        <it>Lasso di tempo</it>
+        <de>Zeitrahmen</de>
+        <it>Lasso di tempo</it>
+        <ur>وقت کی حد</ur>
+    </entry>
+    <entry>
+        <key>Generate Report</key>
+        <en>Generate Report</en>
+        <ja>レポートを生成</ja>
+        <pt>Gerar Relatório</pt>
+        <zh-CN>生成报告</zh-CN>
+        <fr>Générer un rapport</fr>
+        <ar>أنشئ تقرير</ar>
+        <zh-TW>生成報告</zh-TW>
+        <hi>रिपोर्ट तैयार करना</hi>
+        <ko>보고서 생성</ko>
+        <bn>গালাগাল প্রতিবেদন জেনারেট করুন</bn>
+        <ru>Создать отчет</ru>
+        <sq>Generate Raportin</sq>
+        <it>Genera rapporto</it>
+        <de>Bericht generieren</de>
+        <it>Genera rapporto</it>
+        <ur>رپورٹ پیدا</ur>
+    </entry>
+    <entry>
+        <key>Pick start date</key>
+        <en>Pick start date</en>
+        <ja>開始日を選択</ja>
+        <pt>Escolher data de início</pt>
+        <zh-CN>选择开始日期</zh-CN>
+        <fr>Choisissez la date de début</fr>
+        <ar>اختيار تاريخ بدء</ar>
+        <zh-TW>匹克開始日期</zh-TW>
+        <hi>आरंभ तिथि लेते हैं</hi>
+        <ko>시작 날짜를 선택</ko>
+        <bn>শুরুর তারিখ বাছুন</bn>
+        <ru>Выберите дату начала</ru>
+        <sq>Marr datën e fillimit</sq>
+        <it>Scegli data di inizio</it>
+        <de>Wählen Sie Starttermin</de>
+        <it>Scegli data di inizio</it>
+        <ur>شروع کرنے کی تاریخ اٹھاو</ur>
+    </entry>
+    <entry>
+        <key>Pick end date</key>
+        <en>Pick end date</en>
+        <ja>終了日を選択</ja>
+        <pt>Escolher data de término</pt>
+        <zh-CN>选择结束日期</zh-CN>
+        <fr>Choisissez la date de fin</fr>
+        <ar>اختيار تاريخ انتهاء</ar>
+        <zh-TW>挑選結束日期</zh-TW>
+        <hi>अंतिम तिथि को चुनें</hi>
+        <ko>종료 날짜를 선택</ko>
+        <bn>শেষ তারিখ বাছুন</bn>
+        <ru>Выберите дату окончания</ru>
+        <sq>Marr datën e përfundimit</sq>
+        <it>Scegli la data di fine</it>
+        <de>Wählen Sie das Enddatum</de>
+        <it>Scegli la data di fine</it>
+        <ur>آخر تاریخ اٹھاو</ur>
+    </entry>
+    <entry>
+        <key>Date Saved</key>
+        <en>Date Saved</en>
+        <ja>保存日</ja>
+        <pt>Salvo em</pt>
+        <zh-CN>保存日期</zh-CN>
+        <fr>Date de Saved</fr>
+        <ar>تاريخ الحفظ</ar>
+        <zh-TW>保存日期</zh-TW>
+        <hi>दिनांक को बचाया</hi>
+        <ko>날짜 저장</ko>
+        <bn>তারিখ সংরক্ষিত</bn>
+        <ru>Дата Сохранено</ru>
+        <sq>Data ruajtura</sq>
+        <it>data salvata</it>
+        <de>Datum gespeichert</de>
+        <it>data salvata</it>
+        <ur>تاریخ کی محفوظ کردہ</ur>
+    </entry>
+    <entry>
+        <key>Time Period</key>
+        <en>Time Period</en>
+        <ja>期間</ja>
+        <pt>Período de Tempo</pt>
+        <zh-CN>时间段</zh-CN>
+        <fr>Période de temps</fr>
+        <ar>فترة زمنية</ar>
+        <zh-TW>時間段</zh-TW>
+        <hi>समय सीमा</hi>
+        <ko>시간주기</ko>
+        <bn>সময় কাল</bn>
+        <ru>Временной период</ru>
+        <sq>Periudha kohore</sq>
+        <it>Periodo di tempo</it>
+        <de>Zeitperiode</de>
+        <it>Periodo di tempo</it>
+        <ur>وقت کی مدت</ur>
+    </entry>
+    <entry>
+        <key>Format</key>
+        <en>Format</en>
+        <ja>形式</ja>
+        <pt>Formato</pt>
+        <zh-CN>格式</zh-CN>
+        <fr>Format</fr>
+        <ar>شكل</ar>
+        <zh-TW>格式</zh-TW>
+        <hi>प्रारूप</hi>
+        <ko>체재</ko>
+        <bn>বিন্যাস</bn>
+        <ru>Формат</ru>
+        <sq>format</sq>
+        <it>Formato</it>
+        <de>Format</de>
+        <it>Formato</it>
+        <ur>ڈاک</ur>
+    </entry>
+    <entry>
+        <key>Actions</key>
+        <en>Actions</en>
+        <ja>アクション</ja>
+        <pt>Ações</pt>
+        <zh-CN>行动</zh-CN>
+        <fr>actes</fr>
+        <ar>الإجراءات</ar>
+        <zh-TW>操作</zh-TW>
+        <hi>प्रक्रिया</hi>
+        <ko>행위</ko>
+        <bn>ক্রিয়াকলাপ</bn>
+        <ru>действия</ru>
+        <sq>veprimet</sq>
+        <it>azioni</it>
+        <de>Aktionen</de>
+        <it>azioni</it>
+        <ur>عوامل</ur>
+    </entry>
+    <entry>
+        <key>Complete</key>
+        <en>Complete</en>
+        <ja>完了</ja>
+        <pt>Completo</pt>
+        <zh-CN>完成</zh-CN>
+        <fr>Achevée</fr>
+        <ar>كامل</ar>
+        <zh-TW>完成</zh-TW>
+        <hi>पूर्ण</hi>
+        <ko>완전한</ko>
+        <bn>সম্পূর্ণ</bn>
+        <ru>полный</ru>
+        <sq>i plotë</sq>
+        <it>Completare</it>
+        <de>Komplett</de>
+        <it>Completare</it>
+        <ur>مکمل</ur>
+    </entry>
+    <entry>
+        <key>Generating</key>
+        <en>Generating</en>
+        <ja>生成中</ja>
+        <pt>Gerando</pt>
+        <zh-CN>生成</zh-CN>
+        <fr>Générateur</fr>
+        <ar>توليد</ar>
+        <zh-TW>發電</zh-TW>
+        <hi>उत्पादक</hi>
+        <ko>생성</ko>
+        <bn>উৎপাদক</bn>
+        <ru>порождающий</ru>
+        <sq>Gjenerimi</sq>
+        <it>Generazione</it>
+        <de>Generieren</de>
+        <it>Generazione</it>
+        <ur>جنیریٹنگ</ur>
+    </entry>
+    <entry>
+        <key>Bookmarks</key>
+        <en>Bookmarks</en>
+        <ja>ブックマーク</ja>
+        <pt>Favoritos</pt>
+        <zh-CN>书签</zh-CN>
+        <fr>Bookmarks</fr>
+        <ar>إرسال</ar>
+        <zh-TW>書籤</zh-TW>
+        <hi>बुकमार्क्स</hi>
+        <ko>즐겨 찾기</ko>
+        <bn>বুকমার্ক</bn>
+        <ru>закладки</ru>
+        <sq>bookmarks</sq>
+        <it>Preferiti</it>
+        <de>Lesezeichen</de>
+        <it>Preferiti</it>
+        <ur>بک مارک</ur>
+    </entry>
+    <entry>
+        <key>Date Saved</key>
+        <en>Date Saved</en>
+        <ja>保存日</ja>
+        <pt>Salvo em</pt>
+        <zh-CN>保存日期</zh-CN>
+        <fr>Date de Saved</fr>
+        <ar>تاريخ الحفظ</ar>
+        <zh-TW>保存日期</zh-TW>
+        <hi>दिनांक को बचाया</hi>
+        <ko>날짜 저장</ko>
+        <bn>তারিখ সংরক্ষিত</bn>
+        <ru>Дата Сохранено</ru>
+        <sq>Data ruajtura</sq>
+        <it>data salvata</it>
+        <de>Datum gespeichert</de>
+        <it>data salvata</it>
+        <ur>تاریخ کی محفوظ کردہ</ur>
+    </entry>
+    <entry>
+        <key>&lt;date time&gt; am pm</key>
+        <en>&lt;date time&gt; am pm</en>
+        <ja>&lt;date time&gt; am pm</ja>
+        <pt>&lt;date time&gt; am pm</pt>
+    </entry>
+    <entry>
+        <key>Actions</key>
+        <en>Actions</en>
+        <ja>アクション</ja>
+        <pt>Ações</pt>
+        <zh-CN>操作</zh-CN>
+        <fr>actes</fr>
+        <ar>الإجراءات</ar>
+        <zh-TW>操作</zh-TW>
+        <hi>प्रक्रिया</hi>
+        <ko>행위</ko>
+        <bn>ক্রিয়াকলাপ</bn>
+        <ru>действия</ru>
+        <sq>veprimet</sq>
+        <it>azioni</it>
+        <de>Aktionen</de>
+        <it>azioni</it>
+        <ur>عوامل</ur>
+    </entry>
+    <entry>
+        <key>View</key>
+        <en>View</en>
+        <ja>見る</ja>
+        <pt>Ver</pt>
+        <zh-CN>视图</zh-CN>
+        <fr>Vue</fr>
+        <ar>رأي</ar>
+        <zh-TW>視圖</zh-TW>
+        <hi>राय</hi>
+        <ko>전망</ko>
+        <bn>দৃশ্য</bn>
+        <ru>Посмотреть</ru>
+        <sq>Pamje</sq>
+        <it>vista</it>
+        <de>Aussicht</de>
+        <it>vista</it>
+        <ur>لنک</ur>
+    </entry>
+    <entry>
+        <key>This file is provided in .xls format. You can open it in Microsoft Excel or an equivalent program.</key>
+        <en>This file is provided in .xls format. You can open it in Microsoft Excel or an equivalent program.</en>
+        <ja>ファイルは .xls形式で提供されます。マイクロソフトExcel又は同等のプログラムで開くことができます。</ja>
+        <pt>Este arquivo é fornecido em formato .xls. Você pode abri-lo no Microsoft Excel ou em um programa equivalente.</pt>
+        <zh-CN>此文件.xls格式提供。您可以在Microsoft Excel或等效的程序打开它。</zh-CN>
+        <fr>Ce fichier est fourni au format .xls. Vous pouvez l'ouvrir dans un programme équivalent Microsoft Excel ou.</fr>
+        <ar>يتم توفير هذا الملف في شكل. XLS. يمكنك فتحه في Microsoft Excel أو برنامج مكافئ.</ar>
+        <zh-TW>此文件.xls格式提供。您可以在Microsoft Excel或等效的程序打開它。</zh-TW>
+        <hi>इस फ़ाइल में .xls प्रारूप में प्रदान की जाती है। आप माइक्रोसॉफ्ट एक्सेल या समकक्ष कार्यक्रम में खोल सकते हैं।</hi>
+        <ko>이 파일은 .XLS 형식으로 제공된다. 당신은 Microsoft Excel 또는 이에 상응하는 프로그램에서 열 수 있습니다.</ko>
+        <bn>এই ফাইলটি .xls ফর্ম্যাটে সরবরাহ করা হয়. আপনি মাইক্রোসফট এক্সেল বা একটি সমতুল্য প্রোগ্রাম খুলতে পারে.</bn>
+        <ru>Этот файл предоставлен в формате .xls. Вы можете открыть его в Microsoft Excel или эквивалентной программы.</ru>
+        <sq>Kjo skedë është dhënë në formatin xls. Ju mund të hapur atë në Microsoft Excel ose një program ekuivalent.</sq>
+        <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
+        <de>Diese Datei wird im XLS-Format zur Verfügung gestellt. Sie können es in Microsoft Excel oder einem gleichwertigen Programm öffnen.</de>
+        <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
+        <ur>یہ فائل .xls کی شکل میں فراہم کی جاتی ہے. آپ کو مائیکروسافٹ ایکسل یا ایک برابر کے پروگرام میں اسے کھول سکتے ہیں.</ur>
+    </entry>
+    <section>downloadable_and_saved_reports</section>
+</translations>

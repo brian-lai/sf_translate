@@ -1,0 +1,421 @@
+<translations>
+    <entry>
+        <key>Scheduled</key>
+        <en>Scheduled</en>
+        <ja>予約</ja>
+        <pt>Agendados</pt>
+        <zh-CN>计划</zh-CN>
+        <fr>Prévu</fr>
+        <ar>المقرر</ar>
+        <zh-TW>計劃</zh-TW>
+        <hi>अनुसूचित</hi>
+        <ko>예약</ko>
+        <bn>তালিকাভুক্ত</bn>
+        <ru>Запланированное</ru>
+        <sq>planifikuar</sq>
+        <it>In programma</it>
+        <de>Geplant</de>
+        <it>In programma</it>
+        <ur>تخسوچت</ur>
+    </entry>
+    <entry>
+        <key>Trending Candidates on Hold</key>
+        <en>Trending Candidates on Hold</en>
+        <ja>件：トレンド中保留中メッセージ</ja>
+        <pt>Candidatos a Trending Aguardando</pt>
+        <zh-CN>持考生趋势</zh-CN>
+        <fr>Les candidats Trending en suspens</fr>
+        <ar>تتجه المرشحين على عقد</ar>
+        <zh-TW>持考生趨勢</zh-TW>
+        <hi>पकड़ो पर रुझान उम्मीदवारों</hi>
+        <ko>대기에 인기 급상승 후보</ko>
+        <bn>স্থগিত এ প্রবণতা প্রার্থীদের</bn>
+        <ru>Актуальные Кандидаты на удержание</ru>
+        <sq>Trending Kandidatët në pritje</sq>
+        <it>Trend I candidati in attesa</it>
+        <de>Trending Kandidaten in die Warteschleife</de>
+        <it>Trend I candidati in attesa</it>
+        <ur>ہولڈ پر رجحان ساز امیدوار</ur>
+    </entry>
+    <entry>
+        <key>Manage Queue</key>
+        <en>Manage Queue</en>
+        <ja>待機中メッセージの管理</ja>
+        <pt>Gerir Fila</pt>
+        <zh-CN>管理队列</zh-CN>
+        <fr>Gérer la file d'attente</fr>
+        <ar>إدارة قائمة الانتظار</ar>
+        <zh-TW>管理隊列</zh-TW>
+        <hi>लाइन का प्रबंधन</hi>
+        <ko>큐 관리</ko>
+        <bn>সারি পরিচালনা</bn>
+        <ru>Управление очередью</ru>
+        <sq>Menaxho Radhë</sq>
+        <it>Gestisci coda</it>
+        <de>Warteschlange verwalten</de>
+        <it>Gestisci coda</it>
+        <ur>قطار انتظام کریں</ur>
+    </entry>
+    <entry>
+        <key>Average Per Post</key>
+        <en>Average Per Post</en>
+        <ja>：投稿1件あたり</ja>
+        <pt>Média Por Postagem</pt>
+        <zh-CN>平均每个帖子</zh-CN>
+        <fr>Moyenne Per Post</fr>
+        <ar>متوسط ​​نصيب المشاركة</ar>
+        <zh-TW>平均每個職位</zh-TW>
+        <hi>औसत प्रति पोस्ट</hi>
+        <ko>평균 당 포스트</ko>
+        <bn>গড়ে পোস্ট</bn>
+        <ru>Среднее количество очков за сообщение</ru>
+        <sq>Mesatare Per Post</sq>
+        <it>Media per messaggio</it>
+        <de>Durchschnitt pro Beitrag</de>
+        <it>Media per messaggio</it>
+        <ur>اوسط فی پوسٹ</ur>
+    </entry>
+    <entry>
+        <key>Average Per Audience Member</key>
+        <en>Average Per Audience Member</en>
+        <ja>：オーディエンス1人あたり</ja>
+        <pt>Média Por Membro da Audiência</pt>
+        <zh-CN>平均每观众</zh-CN>
+        <fr>Moyen par Membre de l'audience</fr>
+        <ar>متوسط ​​لكل الجمهور الأعضاء</ar>
+        <zh-TW>平均每觀眾</zh-TW>
+        <hi>औसत प्रति दर्शकों के सदस्य</hi>
+        <ko>평균 당 잠재 고객 회원</ko>
+        <bn>গড়ে শ্রোতা সদস্য</bn>
+        <ru>Среднедушевые зрительница</ru>
+        <sq>Mesatare Per Anëtar Audience</sq>
+        <it>Media A Membro del pubblico</it>
+        <de>Das durchschnittliche Pro-Zuschauer</de>
+        <it>Media A Membro del pubblico</it>
+        <ur>اوسط فی سامعین رکن</ur>
+    </entry>
+    <entry>
+        <key>Interactions</key>
+        <en>Interactions</en>
+        <ja>インタラクション数</ja>
+        <pt>Interações</pt>
+        <zh-CN>互动</zh-CN>
+        <fr>Interactions</fr>
+        <ar>التفاعلات</ar>
+        <zh-TW>互動</zh-TW>
+        <hi>सहभागिता</hi>
+        <ko>상호 작용</ko>
+        <bn>মিথস্ক্রিয়া</bn>
+        <ru>взаимодействия</ru>
+        <sq>ndërveprimet</sq>
+        <it>interazioni</it>
+        <de>Wechselwirkungen</de>
+        <it>interazioni</it>
+        <ur>سہباگتا</ur>
+    </entry>
+    <entry>
+        <key>Average Per Post</key>
+        <en>Average Per Post</en>
+        <ja>：投稿1件あたり</ja>
+        <pt>Média Por Postagem</pt>
+        <zh-CN>平均每个帖子</zh-CN>
+        <fr>Moyenne Per Post</fr>
+        <ar>متوسط ​​نصيب المشاركة</ar>
+        <zh-TW>平均每個職位</zh-TW>
+        <hi>औसत प्रति पोस्ट</hi>
+        <ko>평균 당 포스트</ko>
+        <bn>গড়ে পোস্ট</bn>
+        <ru>Среднее количество очков за сообщение</ru>
+        <sq>Mesatare Per Post</sq>
+        <it>Media per messaggio</it>
+        <de>Durchschnitt pro Beitrag</de>
+        <it>Media per messaggio</it>
+        <ur>اوسط فی پوسٹ</ur>
+    </entry>
+    <entry>
+        <key>Average Per Audience Member</key>
+        <en>Average Per Audience Member</en>
+        <ja>：オーディエンス1人あたり</ja>
+        <pt>Média Por Membro da Audiência</pt>
+        <zh-CN>平均每观众</zh-CN>
+        <fr>Moyen par Membre de l'audience</fr>
+        <ar>متوسط ​​لكل الجمهور الأعضاء</ar>
+        <zh-TW>平均每觀眾</zh-TW>
+        <hi>औसत प्रति दर्शकों के सदस्य</hi>
+        <ko>평균 당 잠재 고객 회원</ko>
+        <bn>গড়ে শ্রোতা সদস্য</bn>
+        <ru>Среднедушевые зрительница</ru>
+        <sq>Mesatare Per Anëtar Audience</sq>
+        <it>Media A Membro del pubblico</it>
+        <de>Das durchschnittliche Pro-Zuschauer</de>
+        <it>Media A Membro del pubblico</it>
+        <ur>اوسط فی سامعین رکن</ur>
+    </entry>
+    <entry>
+        <key>Total Audience</key>
+        <en>Total Audience</en>
+        <ja>オーディエンス数</ja>
+        <pt>Audiência Total</pt>
+        <zh-CN>观众总数</zh-CN>
+        <fr>Audience totale</fr>
+        <ar>إجمالي الجمهور</ar>
+        <zh-TW>觀眾總數</zh-TW>
+        <hi>कुल दर्शकों</hi>
+        <ko>총 대상</ko>
+        <bn>মোট দর্শকের</bn>
+        <ru>Общая аудитория</ru>
+        <sq>Audienca Total</sq>
+        <it>pubblico totale</it>
+        <de>insgesamt Publikum</de>
+        <it>pubblico totale</it>
+        <ur>کل سامعین</ur>
+    </entry>
+    <entry>
+        <key>New</key>
+        <en>New</en>
+        <ja>人：新規獲得オーディエンス</ja>
+        <pt>Novos</pt>
+        <zh-CN>新</zh-CN>
+        <fr>Nouveau</fr>
+        <ar>جديد</ar>
+        <zh-TW>新</zh-TW>
+        <hi>नया</hi>
+        <ko>새로운</ko>
+        <bn>নতুন</bn>
+        <ru>новый</ru>
+        <sq>I ri</sq>
+        <it>Nuovo</it>
+        <de>Neu</de>
+        <it>Nuovo</it>
+        <ur>نئی</ur>
+    </entry>
+    <entry>
+        <key>Messages Sent:</key>
+        <en>Messages Sent:</en>
+        <ja>送信済メッセージ数:</ja>
+        <pt>Mensagens Enviadas:</pt>
+        <zh-CN>邮件发送的：</zh-CN>
+        <fr>Messages envoyés:</fr>
+        <ar>الرسائل المرسلة:</ar>
+        <zh-TW>郵件發送的：</zh-TW>
+        <hi>संदेश भेजा:</hi>
+        <ko>메시지 전송 :</ko>
+        <bn>বার্তা পাঠানো হয়েছে:</bn>
+        <ru>Отправлено Сообщений:</ru>
+        <sq>Mesazhet e Dërguar:</sq>
+        <it>Messaggi inviati:</it>
+        <de>Gesendete Nachrichten:</de>
+        <it>Messaggi inviati:</it>
+        <ur>پیغامات بھیجے:</ur>
+    </entry>
+    <entry>
+        <key>Clicks:</key>
+        <en>Clicks:</en>
+        <ja>クリック:</ja>
+        <pt>Cliques:</pt>
+        <zh-CN>点击次数：</zh-CN>
+        <fr>Clics:</fr>
+        <ar>الزيارات:</ar>
+        <zh-TW>點擊次數：</zh-TW>
+        <hi>क्लिकों:</hi>
+        <ko>클릭 수 :</ko>
+        <bn>ক্লিকস:</bn>
+        <ru>Просмотры:</ru>
+        <sq>klikime:</sq>
+        <it>Lettori:</it>
+        <de>Klicks:</de>
+        <it>Lettori:</it>
+        <ur>کلکس:</ur>
+    </entry>
+    <entry>
+        <key>Interactions:</key>
+        <en>Interactions:</en>
+        <ja>インタラクション:</ja>
+        <pt>Interações:</pt>
+        <zh-CN>互动：</zh-CN>
+        <fr>Interactions:</fr>
+        <ar>التفاعلات:</ar>
+        <zh-TW>互動：</zh-TW>
+        <hi>बातचीत:</hi>
+        <ko>상호 작용 :</ko>
+        <bn>ইন্টারনেটে:</bn>
+        <ru>взаимодействия:</ru>
+        <sq>ndërveprimet:</sq>
+        <it>interazioni:</it>
+        <de>Wechselwirkungen:</de>
+        <it>interazioni:</it>
+        <ur>بات چیت:</ur>
+    </entry>
+    <entry>
+        <key>Audience Gains:</key>
+        <en>Audience Gains:</en>
+        <ja>オーディエンス増加数:</ja>
+        <pt>Ganhos de Audiência:</pt>
+        <zh-CN>读者收益：</zh-CN>
+        <fr>Les gains d'audience:</fr>
+        <ar>الأرباح الجمهور:</ar>
+        <zh-TW>讀者收益：</zh-TW>
+        <hi>श्रोतागण लाभ:</hi>
+        <ko>고객의 이익 :</ko>
+        <bn>দর্শকের লাভ:</bn>
+        <ru>Аудитория Прибыли:</ru>
+        <sq>Fitimet Audienca:</sq>
+        <it>Utili Pubblico:</it>
+        <de>Audience Gewinne:</de>
+        <it>Utili Pubblico:</it>
+        <ur>سامعین فوائد:</ur>
+    </entry>
+    <entry>
+        <key>Audience Engagement</key>
+        <en>Audience Engagement</en>
+        <ja>オーディエンスエンゲージメント</ja>
+        <pt>Engajamento da Audiência</pt>
+        <zh-CN>受众参与</zh-CN>
+        <fr>Public engagement</fr>
+        <ar>جمهور المشاركة</ar>
+        <zh-TW>受眾參與</zh-TW>
+        <hi>दर्शकों सगाई</hi>
+        <ko>관객 참여</ko>
+        <bn>শ্রোতার</bn>
+        <ru>Привлечение аудитории</ru>
+        <sq>audienca Engagement</sq>
+        <it>coinvolgimento del pubblico</it>
+        <de>Publikum Engagement</de>
+        <it>coinvolgimento del pubblico</it>
+        <ur>حاضرین کی مشغولیت</ur>
+    </entry>
+    <entry>
+        <key>View Message Report</key>
+        <en>View Message Report</en>
+        <ja>メッセージレポートを見る</ja>
+        <pt>Ver Relatório de Mensagens</pt>
+        <zh-CN>查看留言举报</zh-CN>
+        <fr>Voir le message Signaler</fr>
+        <ar>عرض التقرير رسالة</ar>
+        <zh-TW>查看留言舉報</zh-TW>
+        <hi>देखें संदेश की रिपोर्ट</hi>
+        <ko>보기 메시지 보고서</ko>
+        <bn>দেখুন বার্তা প্রতিবেদন</bn>
+        <ru>Посмотреть сообщение Отчет</ru>
+        <sq>Shiko Mesazh Report</sq>
+        <it>Vista Segnala</it>
+        <de>Nachricht anzeigen Bericht</de>
+        <it>Vista Segnala</it>
+        <ur>پیغام نظارہ رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>Twitter</key>
+        <en>Twitter</en>
+        <ja>Twitter</ja>
+        <pt>Twitter</pt>
+        <zh-CN>Twitter</zh-CN>
+        <fr>Gazouillement</fr>
+        <ar>تغريد</ar>
+        <zh-TW>推特</zh-TW>
+        <hi>ट्विटर</hi>
+        <ko>지저귀다</ko>
+        <bn>টুইটার</bn>
+        <ru>щебетать</ru>
+        <sq>Cicëroj</sq>
+        <it>Twitter</it>
+        <de>zwitschern</de>
+        <it>Twitter</it>
+        <ur>ٹویٹر</ur>
+    </entry>
+    <entry>
+        <key>Previous Clicks</key>
+        <en>Previous Clicks</en>
+        <ja>以前のクリック数</ja>
+        <pt>Cliques Passados</pt>
+        <zh-CN>上一页点击</zh-CN>
+        <fr>Clicks Précédent</fr>
+        <ar>الزيارات السابقة</ar>
+        <zh-TW>上一頁點擊</zh-TW>
+        <hi>पिछला क्लिक्स</hi>
+        <ko>이전 클릭</ko>
+        <bn>পূর্ববর্তী ক্লিকস</bn>
+        <ru>Предыдущие Clicks</ru>
+        <sq>Clicks mëparshme</sq>
+        <it>Clic precedenti</it>
+        <de>Zurück Klicks</de>
+        <it>Clic precedenti</it>
+        <ur>پچھلا کلکس</ur>
+    </entry>
+    <entry>
+        <key>Adjust your report timeframe and show performance indicators compared to previous timeframe if data is available.</key>
+        <en>Adjust your report timeframe and show performance indicators compared to previous timeframe if data is available.</en>
+        <ja>レポートの時間枠を調整すると、以前の時間枠と比較して実績指標を表示できます (データがあれば)。</ja>
+        <pt>Ajuste o intervalo de tempo de seu relatório e mostre indicadores de desempenho comparados a intervalos de tempo anteriores, se os dados estiverem disponíveis.</pt>
+        <zh-CN>调整你的报告时限，并显示相对于以前的时间内，如果数据是可用的绩效指标。</zh-CN>
+        <fr>Ajustez votre rapport calendrier et montrer des indicateurs de performance par rapport à période précédente si les données sont disponibles.</fr>
+        <ar>ضبط زمني التقرير الخاص بك وتظهر مؤشرات الأداء مقارنة مع الفترة الزمنية السابقة إذا كانت البيانات المتاحة.</ar>
+        <zh-TW>調整你的報告時限，並顯示相對於以前的時間內，如果數據是可用的績效指標。</zh-TW>
+        <hi>अपनी रिपोर्ट समय सीमा को समायोजित करें और पिछले समय सीमा की तुलना में अगर डेटा उपलब्ध है प्रदर्शन संकेतक दिखा।</hi>
+        <ko>보고서 기간을 조정하고 데이터를 사용할 수있는 경우 이전 기간에 비해 성능 지표를 표시합니다.</ko>
+        <bn>আপনার প্রতিবেদন সময়সীমার সামঞ্জস্যবিধান এবং পূর্ববর্তী সময়সীমার তুলনায় যদি তথ্য পাওয়া যায় কর্মসম্পাদক দেন.</bn>
+        <ru>Настройте свой отчет временные рамки и показать показатели производительности по сравнению с предыдущим сроки, если имеются данные.</ru>
+        <sq>Rregulluar raportin afat kohor tuaj dhe të tregojnë treguesit e performancës në krahasim me afat kohor të mëparshëm, nëse të dhënave është në dispozicion.</sq>
+        <it>Regolare il rapporto temporale e mostra indicatori di performance rispetto al periodo precedente, se i dati sono disponibili.</it>
+        <de>Passen Sie Ihren Bericht zeitlichen Rahmen und zeigen Leistungsindikatoren im Vergleich zum vorherigen Zeitraum, wenn Daten verfügbar sind.</de>
+        <it>Regolare il rapporto temporale e mostra indicatori di performance rispetto al periodo precedente, se i dati sono disponibili.</it>
+        <ur>آپ کی رپورٹ ٹائم فریم کو ایڈجسٹ کریں اور اعداد و شمار دستیاب ہے اگر پچھلے ٹائم فریم کے مقابلے میں کارکردگی کے اشارے دکھائے.</ur>
+    </entry>
+    <entry>
+        <key>January, February, March, etc</key>
+        <en>January, February, March, etc</en>
+        <ja>1 月、 2 月、 3 月、等</ja>
+        <pt>Janeiro, Fevereiro, Março, etc.</pt>
+        <zh-CN>一月，二月，三月，等</zh-CN>
+        <fr>Janvier, Février, Mars, etc.</fr>
+        <ar>يناير، فبراير، مارس، الخ</ar>
+        <zh-TW>一月，二月，三月，等</zh-TW>
+        <hi>जनवरी, फरवरी, मार्च, आदि</hi>
+        <ko>1 월, 2 월, 3 월, 등</ko>
+        <bn>জানুয়ারি, ফেব্রুয়ারি, মার্চ, ইত্যাদি</bn>
+        <ru>Январь, февраль, март и т.д.</ru>
+        <sq>Janar, shkurt, mars, etj</sq>
+        <it>Gennaio, Febbraio, Marzo, ecc</it>
+        <de>Januar, Februar, März, etc</de>
+        <it>Gennaio, Febbraio, Marzo, ecc</it>
+        <ur>جنوری، فروری، مارچ، وغیرہ</ur>
+    </entry>
+    <entry>
+        <key>Fans</key>
+        <en>Fans</en>
+        <ja>ファン</ja>
+        <pt>Fãs</pt>
+        <zh-CN>粉丝</zh-CN>
+        <fr>Ventilateurs</fr>
+        <ar>المشجعين</ar>
+        <zh-TW>粉絲</zh-TW>
+        <hi>प्रशंसक</hi>
+        <ko>팬</ko>
+        <bn>ভক্ত</bn>
+        <ru>Поклонники</ru>
+        <sq>Tifozët</sq>
+        <it>Fan</it>
+        <de>Fans</de>
+        <it>Fan</it>
+        <ur>پرستار</ur>
+    </entry>
+    <entry>
+        <key>Followers</key>
+        <en>Followers</en>
+        <ja>フォロワー</ja>
+        <pt>Seguidores</pt>
+        <zh-CN>关注</zh-CN>
+        <fr>Suiveurs</fr>
+        <ar>المتابعون</ar>
+        <zh-TW>關注</zh-TW>
+        <hi>फ़ॉलोअर्स</hi>
+        <ko>팔로워</ko>
+        <bn>অনুসারীবৃন্দ</bn>
+        <ru>Последователи</ru>
+        <sq>Friends</sq>
+        <it>Seguaci</it>
+        <de>Verfolger</de>
+        <it>Seguaci</it>
+        <ur>فالونگ</ur>
+    </entry>
+    <section>reports_dashboard</section>
+</translations>

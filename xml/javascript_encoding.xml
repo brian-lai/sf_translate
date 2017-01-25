@@ -1,0 +1,1883 @@
+<translations>
+    <entry>
+        <key>You need to add a</key>
+        <en>You need to add a</en>
+        <ja>追加する必要があります、</ja>
+        <pt>Você precisa adicionar uma </pt>
+        <zh-CN>您需要添加</zh-CN>
+        <fr>Vous devez ajouter un</fr>
+        <ar>تحتاج إلى إضافة</ar>
+        <zh-TW>您需要添加一個</zh-TW>
+        <hi>आप एक जोड़ने की जरूरत</hi>
+        <ko>당신은 추가해야합니다</ko>
+        <bn>আপনি একটি যোগ করতে হবে</bn>
+        <ru>Вам нужно добавить</ru>
+        <sq>Ju duhet të shtoni një</sq>
+        <it>È necessario aggiungere un</it>
+        <de>Sie müssen hinzufügen</de>
+        <it>È necessario aggiungere un</it>
+        <ur>آپ کو شامل کرنے کی ضرورت</ur>
+    </entry>
+    <entry>
+        <key>social account</key>
+        <en>social account</en>
+        <ja>ソーシャルアカウントを。</ja>
+        <pt>conta social</pt>
+        <zh-CN>社交帐户</zh-CN>
+        <fr>compte sociale</fr>
+        <ar>حساب الاجتماعي</ar>
+        <zh-TW>社交帳戶</zh-TW>
+        <hi>सामाजिक खाते</hi>
+        <ko>소셜 계정</ko>
+        <bn>সামাজিক অ্যাকাউন্ট</bn>
+        <ru>социальные счета</ru>
+        <sq>llogaria social</sq>
+        <it>account di social</it>
+        <de>Sozial Konto</de>
+        <it>account di social</it>
+        <ur>سماجی اکاؤنٹ</ur>
+    </entry>
+    <entry>
+        <key>before this page will work properly.</key>
+        <en>before this page will work properly.</en>
+        <ja>このページを正しく動作させるために。</ja>
+        <pt>para que esta página funcione apropriadamente.</pt>
+        <zh-CN>此页面才能正常工作。</zh-CN>
+        <fr>avant cette page ne fonctionnera pas correctement.</fr>
+        <ar>قبل هذه الصفحة سوف تعمل بشكل صحيح.</ar>
+        <zh-TW>在此之前頁將正常工作。</zh-TW>
+        <hi>पहले इस पेज को ठीक तरह से काम करेगा।</hi>
+        <ko>이 페이지가 제대로 작동하기 전에.</ko>
+        <bn>আগে এই পৃষ্ঠার ঠিকমত কাজ করবে.</bn>
+        <ru>перед тем на этой странице будет работать должным образом.</ru>
+        <sq>para se kjo faqe do të funksionojë si duhet.</sq>
+        <it>prima di questa pagina funzionerà correttamente.</it>
+        <de>bevor diese Seite ordnungsgemäß funktionieren wird.</de>
+        <it>prima di questa pagina funzionerà correttamente.</it>
+        <ur>پہلے اس صفحہ کو مناسب طریقے سے کام کریں گے.</ur>
+    </entry>
+    <entry>
+        <key>Are you sure you want to delete this message?</key>
+        <en>Are you sure you want to delete this message?</en>
+        <ja>本当にこのメッセージを削除してもよろしいですか?</ja>
+        <pt>Você tem certeza que quer excluir esta mensagem?</pt>
+        <zh-CN>您确定要删除这条消息？</zh-CN>
+        <fr>Etes-vous sur de vouloir supprimer ce message?</fr>
+        <ar>هل أنت متأكد أنك تريد حذف هذه الرسالة؟</ar>
+        <zh-TW>你確定要刪除這條消息？</zh-TW>
+        <hi>क्या आप निश्चित रूप से यह संदेश हटाना चाहते हैं?</hi>
+        <ko>이 메시지를 삭제 하시겠습니까?</ko>
+        <bn>যদি আপনি এই বার্তার মুছে ফেলতে চান আপনি কি নিশ্চিত?</bn>
+        <ru>Вы уверены, что хотите удалить это сообщение?</ru>
+        <sq>A jeni i sigurt se doni të fshini këtë mesazh?</sq>
+        <it>Sei sicuro di voler eliminare questo messaggio?</it>
+        <de>Sind Sie sicher, dass Sie diese Nachricht löschen?</de>
+        <it>Sei sicuro di voler eliminare questo messaggio?</it>
+        <ur>اس پیغام کو حذف کرنا چاہتے ہیں؟</ur>
+    </entry>
+    <entry>
+        <key>yes</key>
+        <en>yes</en>
+        <ja>はい</ja>
+        <pt>sim</pt>
+        <zh-CN>是</zh-CN>
+        <fr>Oui</fr>
+        <ar>نعم فعلا</ar>
+        <zh-TW>是</zh-TW>
+        <hi>हाँ</hi>
+        <ko>예</ko>
+        <bn>হাঁ</bn>
+        <ru>да</ru>
+        <sq>po</sq>
+        <it>sì</it>
+        <de>ja</de>
+        <it>sì</it>
+        <ur>جی ہاں</ur>
+    </entry>
+    <entry>
+        <key>no</key>
+        <en>no</en>
+        <ja>いいえ</ja>
+        <pt>não</pt>
+        <zh-CN>不</zh-CN>
+        <fr>non</fr>
+        <ar>لا</ar>
+        <zh-TW>沒有</zh-TW>
+        <hi>नहीं</hi>
+        <ko>아니</ko>
+        <bn>না</bn>
+        <ru>нет</ru>
+        <sq>jo</sq>
+        <it>no</it>
+        <de>Nein</de>
+        <it>no</it>
+        <ur>نہیں</ur>
+    </entry>
+    <entry>
+        <key>This message has already been deleted.</key>
+        <en>This message has already been deleted.</en>
+        <ja>このメッセージはすでに削除されています。</ja>
+        <pt>Esta mensagem já foi excluída.</pt>
+        <zh-CN>这条信息已经删除。</zh-CN>
+        <fr>Ce message a déjà été supprimé.</fr>
+        <ar>تم حذف هذه الرسالة.</ar>
+        <zh-TW>此消息已被刪除。</zh-TW>
+        <hi>यह संदेश पहले ही हटा दिया गया है।</hi>
+        <ko>이 메시지는 이미 삭제되었습니다.</ko>
+        <bn>এই বার্তাটি ইতিমধ্যে মুছে ফেলা হয়েছে.</bn>
+        <ru>Это сообщение уже удалено.</ru>
+        <sq>Ky mesazh tashmë është fshirë.</sq>
+        <it>Questo messaggio è già stato cancellato.</it>
+        <de>Diese Nachricht wurde bereits gelöscht.</de>
+        <it>Questo messaggio è già stato cancellato.</it>
+        <ur>یہ پیغام پہلے ہی حذف کر دیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong deleting your message.</key>
+        <en>Something went wrong deleting your message.</en>
+        <ja>メッセージの削除中に何か問題が発生しました。</ja>
+        <pt>Ocorreu um erro ao excluir sua mensagem.</pt>
+        <zh-CN>删除您的邮件时发生错误。</zh-CN>
+        <fr>Un problème est survenu la suppression de votre message.</fr>
+        <ar>حدث خطأ حذف الرسالة.</ar>
+        <zh-TW>出事了刪除您的郵件。</zh-TW>
+        <hi>कुछ गलत हो अपने संदेश को हटाने चला गया।</hi>
+        <ko>뭔가 잘못된 메시지를 삭제 갔다.</ko>
+        <bn>কিছু ভুল আপনার বার্তা মোছার সময় গিয়েছিলাম.</bn>
+        <ru>Что-то пошло не так как удалить сообщение.</ru>
+        <sq>Diçka nuk shkoi mirë fshirë mesazhin tuaj.</sq>
+        <it>Qualcosa è andato storto cancellando il messaggio.</it>
+        <de>Etwas ging Löschen falsch Ihre Nachricht.</de>
+        <it>Qualcosa è andato storto cancellando il messaggio.</it>
+        <ur>کچھ غلط ہو اپنا پیغام کو حذف کرنے گئے.</ur>
+    </entry>
+    <entry>
+        <key>Sorry, there was an error</key>
+        <en>Sorry, there was an error</en>
+        <ja>申し訳ありませんが、エラーが起こりました</ja>
+        <pt>Desculpe, ocorreu um erro</pt>
+        <zh-CN>对不起，有错误</zh-CN>
+        <fr>Désolé, il y a eu une erreur</fr>
+        <ar>آسف، كان هناك خطأ</ar>
+        <zh-TW>對不起，有錯誤</zh-TW>
+        <hi>क्षमा करें, कोई त्रुटि हुई</hi>
+        <ko>죄송합니다, 오류가 발생했습니다</ko>
+        <bn>দুঃখিত, একটি ত্রুটি ছিল</bn>
+        <ru>Извините, произошла ошибка</ru>
+        <sq>Na vjen keq, nuk ishte një gabim</sq>
+        <it>Spiacente, c'è stato un errore</it>
+        <de>Entschuldigung, da war ein Fehler</de>
+        <it>Spiacente, c'è stato un errore</it>
+        <ur>معذرت، میں ایک خامی تھی</ur>
+    </entry>
+    <entry>
+        <key>Sorry, there was an error</key>
+        <en>Sorry, there was an error</en>
+        <ja>申し訳ありませんが、エラーが起こりました</ja>
+        <pt>Desculpe, ocorreu um erro</pt>
+        <zh-CN>对不起，有错误</zh-CN>
+        <fr>Désolé, il y a eu une erreur</fr>
+        <ar>آسف، كان هناك خطأ</ar>
+        <zh-TW>對不起，有錯誤</zh-TW>
+        <hi>क्षमा करें, कोई त्रुटि हुई</hi>
+        <ko>죄송합니다, 오류가 발생했습니다</ko>
+        <bn>দুঃখিত, একটি ত্রুটি ছিল</bn>
+        <ru>Извините, произошла ошибка</ru>
+        <sq>Na vjen keq, nuk ishte një gabim</sq>
+        <it>Spiacente, c'è stato un errore</it>
+        <de>Entschuldigung, da war ein Fehler</de>
+        <it>Spiacente, c'è stato un errore</it>
+        <ur>معذرت، میں ایک خامی تھی</ur>
+    </entry>
+    <entry>
+        <key>Your message(s) were marked</key>
+        <en>Your message(s) were marked</en>
+        <ja>メッセージがマークされました</ja>
+        <pt>Suas mensagens foram marcadas</pt>
+        <zh-CN>您的信息被标记</zh-CN>
+        <fr>Votre message (s) ont été marqués</fr>
+        <ar>وتميزت رسالة الخاص بك (ق)</ar>
+        <zh-TW>您的留言（S）被標記</zh-TW>
+        <hi>आपका संदेश (s) चिह्नित किया गया</hi>
+        <ko>메시지 (들) 표시된</ko>
+        <bn>আপনার বার্তা (গুলি) চিহ্নিত করা হয়েছিল</bn>
+        <ru>Ваше сообщение (s) были отмечены</ru>
+        <sq>Mesazhi juaj (s) u shënuan</sq>
+        <it>Il tuo messaggio (s) sono stati segnati</it>
+        <de>Ihre Nachricht (en) wurden markiert</de>
+        <it>Il tuo messaggio (s) sono stati segnati</it>
+        <ur>آپ کا پیغام (ے) سے نشان لگا دیا گیا تھا</ur>
+    </entry>
+    <entry>
+        <key>Are you sure you want to </key>
+        <en>Are you sure you want to </en>
+        <ja>本当に次の処理をしてもよろしいですか:</ja>
+        <pt>Você tem certeza que quer</pt>
+        <zh-CN>您确定要</zh-CN>
+        <fr>Êtes-vous sûr de vouloir</fr>
+        <ar>هل أنت متأكد أنك تريد</ar>
+        <zh-TW>您確定要</zh-TW>
+        <hi>क्या आप ऐसा करना के लिए सुनिश्चित है</hi>
+        <ko>당신은 당신이 하시겠습니까?</ko>
+        <bn>তুমি কি নিশ্চিত তুমি কি চাও</bn>
+        <ru>Вы уверены, что хотите этого</ru>
+        <sq>Jeni te sigurte qe doni te</sq>
+        <it>Sei sicuro di volere</it>
+        <de>Bist du sicher, dass du das willst</de>
+        <it>Sei sicuro di volere</it>
+        <ur>کیا آپ واقعی کرنا چاہتے ہیں</ur>
+    </entry>
+    <entry>
+        <key>just now</key>
+        <en>just now</en>
+        <ja>今すぐ</ja>
+        <pt>agora</pt>
+        <zh-CN>现在</zh-CN>
+        <fr>juste maintenant</fr>
+        <ar>الآن فقط</ar>
+        <zh-TW>現在</zh-TW>
+        <hi>अभी</hi>
+        <ko>방금</ko>
+        <bn>এক্ষুনি</bn>
+        <ru>прямо сейчас</ru>
+        <sq>tani</sq>
+        <it>proprio adesso</it>
+        <de>gerade jetzt</de>
+        <it>proprio adesso</it>
+        <ur>ابھی ابھی</ur>
+    </entry>
+    <entry>
+        <key>1 minute</key>
+        <en>1 minute</en>
+        <ja>1分</ja>
+        <pt>1 minuto</pt>
+        <zh-CN>1分钟</zh-CN>
+        <fr>1 minute</fr>
+        <ar>1 دقيقة</ar>
+        <zh-TW>1分鐘</zh-TW>
+        <hi>1 मिनट</hi>
+        <ko>1 분</ko>
+        <bn>1 মিনিট</bn>
+        <ru>1 минута</ru>
+        <sq>1 minutë</sq>
+        <it>1 minuto</it>
+        <de>1 Minute</de>
+        <it>1 minuto</it>
+        <ur>1 منٹ</ur>
+    </entry>
+    <entry>
+        <key>minutes</key>
+        <en>minutes</en>
+        <ja>分</ja>
+        <pt>minutos</pt>
+        <zh-CN>分钟</zh-CN>
+        <fr>minutes</fr>
+        <ar>دقيقة</ar>
+        <zh-TW>分鐘</zh-TW>
+        <hi>मिनटों</hi>
+        <ko>의사록</ko>
+        <bn>মিনিট</bn>
+        <ru>минут</ru>
+        <sq>minuta</sq>
+        <it>minuti</it>
+        <de>Protokoll</de>
+        <it>minuti</it>
+        <ur>منٹ</ur>
+    </entry>
+    <entry>
+        <key>hours</key>
+        <en>hours</en>
+        <ja>時間</ja>
+        <pt>horas</pt>
+        <zh-CN>小时</zh-CN>
+        <fr>heures</fr>
+        <ar>ساعات</ar>
+        <zh-TW>小時</zh-TW>
+        <hi>घंटे</hi>
+        <ko>시간</ko>
+        <bn>ঘন্টার</bn>
+        <ru>часов</ru>
+        <sq>orë</sq>
+        <it>ore</it>
+        <de>Std.</de>
+        <it>ore</it>
+        <ur>گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>days</key>
+        <en>days</en>
+        <ja>日</ja>
+        <pt>dias</pt>
+        <zh-CN>天</zh-CN>
+        <fr>journées</fr>
+        <ar>أيام</ar>
+        <zh-TW>天</zh-TW>
+        <hi>दिन</hi>
+        <ko>일</ko>
+        <bn>দিন</bn>
+        <ru>дней</ru>
+        <sq>ditë</sq>
+        <it>giorni</it>
+        <de>Tage</de>
+        <it>giorni</it>
+        <ur>دن</ur>
+    </entry>
+    <entry>
+        <key>weeks</key>
+        <en>weeks</en>
+        <ja>週</ja>
+        <pt>semanas</pt>
+        <zh-CN>周</zh-CN>
+        <fr>semaines</fr>
+        <ar>أسابيع</ar>
+        <zh-TW>週</zh-TW>
+        <hi>सप्ताह</hi>
+        <ko>주</ko>
+        <bn>সপ্তাহ</bn>
+        <ru>недель</ru>
+        <sq>javë</sq>
+        <it>settimane</it>
+        <de>Wochen</de>
+        <it>settimane</it>
+        <ur>ہفتے</ur>
+    </entry>
+    <entry>
+        <key>1 month</key>
+        <en>1 month</en>
+        <ja>1ヶ月</ja>
+        <pt>1 mês</pt>
+        <zh-CN>1个月</zh-CN>
+        <fr>1 mois</fr>
+        <ar>1 شهر</ar>
+        <zh-TW>1個月</zh-TW>
+        <hi>1 महीना</hi>
+        <ko>1 개월</ko>
+        <bn>1 মাস</bn>
+        <ru>1 месяц</ru>
+        <sq>1 muaj</sq>
+        <it>1 mese</it>
+        <de>1 Monat</de>
+        <it>1 mese</it>
+        <ur>1 مہینہ</ur>
+    </entry>
+    <entry>
+        <key>months</key>
+        <en>months</en>
+        <ja>ヶ月</ja>
+        <pt>meses</pt>
+        <zh-CN>月</zh-CN>
+        <fr>mois</fr>
+        <ar>أشهر</ar>
+        <zh-TW>個月</zh-TW>
+        <hi>महीने</hi>
+        <ko>개월</ko>
+        <bn>মাস</bn>
+        <ru>месяцы</ru>
+        <sq>muaj</sq>
+        <it>mesi</it>
+        <de>Monate</de>
+        <it>mesi</it>
+        <ur>مہینے</ur>
+    </entry>
+    <entry>
+        <key>1 year</key>
+        <en>1 year</en>
+        <ja>1年</ja>
+        <pt>1 ano</pt>
+        <zh-CN>1年</zh-CN>
+        <fr>1 an</fr>
+        <ar>1 سنة</ar>
+        <zh-TW>1年</zh-TW>
+        <hi>1 साल</hi>
+        <ko>일년</ko>
+        <bn>1 বছর</bn>
+        <ru>1 год</ru>
+        <sq>1 vit</sq>
+        <it>1 anno</it>
+        <de>1 Jahr</de>
+        <it>1 anno</it>
+        <ur>1 سال</ur>
+    </entry>
+    <entry>
+        <key>years</key>
+        <en>years</en>
+        <ja>年</ja>
+        <pt>anos</pt>
+        <zh-CN>年</zh-CN>
+        <fr>années</fr>
+        <ar>سنوات</ar>
+        <zh-TW>年份</zh-TW>
+        <hi>वर्षों</hi>
+        <ko>년</ko>
+        <bn>বছর</bn>
+        <ru>лет</ru>
+        <sq>years</sq>
+        <it>anni</it>
+        <de>Jahre</de>
+        <it>anni</it>
+        <ur>سال</ur>
+    </entry>
+    <entry>
+        <key>1 century</key>
+        <en>1 century</en>
+        <ja>1世紀</ja>
+        <pt>1 século</pt>
+        <zh-CN>1世纪</zh-CN>
+        <fr>1 siècle</fr>
+        <ar>1 قرن</ar>
+        <zh-TW>1世紀</zh-TW>
+        <hi>1 शताब्दी</hi>
+        <ko>1 세기</ko>
+        <bn>1 শতাব্দী</bn>
+        <ru>1 век</ru>
+        <sq>1 shekullit</sq>
+        <it>1 ° secolo</it>
+        <de>1 Jahrhundert</de>
+        <it>1 ° secolo</it>
+        <ur>1 صدی</ur>
+    </entry>
+    <entry>
+        <key>ago</key>
+        <en>ago</en>
+        <ja>前</ja>
+        <pt>atrás</pt>
+        <zh-CN>前</zh-CN>
+        <fr>depuis</fr>
+        <ar>منذ</ar>
+        <zh-TW>前</zh-TW>
+        <hi>पूर्व</hi>
+        <ko>...전에</ko>
+        <bn>পূর্বে</bn>
+        <ru>тому назад</ru>
+        <sq>më parë</sq>
+        <it>fa</it>
+        <de>vor</de>
+        <it>fa</it>
+        <ur>پہلے</ur>
+    </entry>
+    <entry>
+        <key>Centuries</key>
+        <en>Centuries</en>
+        <ja>世紀</ja>
+        <pt>Séculos</pt>
+        <zh-CN>世纪</zh-CN>
+        <fr>Des siècles</fr>
+        <ar>قرون</ar>
+        <zh-TW>百年</zh-TW>
+        <hi>सदियों</hi>
+        <ko>세기</ko>
+        <bn>শত শত বছর ধরে</bn>
+        <ru>века</ru>
+        <sq>shekuj</sq>
+        <it>Secoli</it>
+        <de>Jahrhunderte</de>
+        <it>Secoli</it>
+        <ur>صدیوں</ur>
+    </entry>
+    <entry>
+        <key>Something has gone wrong retrieving your timeline.</key>
+        <en>Something has gone wrong retrieving your timeline.</en>
+        <ja>タイムラインの読み出し中に何か問題が発生しました。</ja>
+        <pt>Um erro ocorreu ao recuperar sua linha do tempo</pt>
+        <zh-CN>出了问题检索您的时间表。</zh-CN>
+        <fr>Quelque chose n'a pas récupérer votre calendrier.</fr>
+        <ar>فهناك شيء ما خطأ استرجاع الجدول الزمني الخاص بك.</ar>
+        <zh-TW>出了問題檢索您的時間表。</zh-TW>
+        <hi>कुछ अपने समय को पुन: प्राप्त गलत हो गया है।</hi>
+        <ko>뭔가 타임 라인을 검색하는 문제가 있습니다.</ko>
+        <bn>কোনো কিছু আপনার টাইমলাইনে পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
+        <ru>Что-то пошло не так получение временной шкалы.</ru>
+        <sq>Diçka ka shkuar keq retrieving afat kohor tuaj.</sq>
+        <it>Qualcosa è andato storto recupero vostra timeline.</it>
+        <de>Etwas schief gegangen Timeline abrufen.</de>
+        <it>Qualcosa è andato storto recupero vostra timeline.</it>
+        <ur>کچھ اپنی ٹائم لائن بازگیر غلط چلا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Click to edit title</key>
+        <en>Click to edit title</en>
+        <ja>クリックしてタイトルを編集</ja>
+        <pt>Clique para editar o título</pt>
+        <zh-CN>点击编辑标题</zh-CN>
+        <fr>Cliquez pour modifier le titre</fr>
+        <ar>انقر لتعديل العنوان</ar>
+        <zh-TW>點擊編輯標題</zh-TW>
+        <hi>शीर्षक संपादित करने के लिए क्लिक करें</hi>
+        <ko>제목을 편집하려면 클릭</ko>
+        <bn>শিরোনাম সম্পাদনা করতে ক্লিক</bn>
+        <ru>Нажмите, чтобы изменить название</ru>
+        <sq>Klikoni për të redaktuar titullin</sq>
+        <it>Fare clic per modificare il titolo</it>
+        <de>Klicken Sie auf Titel bearbeiten</de>
+        <it>Fare clic per modificare il titolo</it>
+        <ur>عنوان میں ترمیم کے لئے کلک کریں</ur>
+    </entry>
+    <entry>
+        <key>Click to edit description</key>
+        <en>Click to edit description</en>
+        <ja>クリックして説明を編集</ja>
+        <pt>Clique para editar a descrição</pt>
+        <zh-CN>点击编辑说明</zh-CN>
+        <fr>Cliquez sur pour éditer la description</fr>
+        <ar>انقر لتعديل وصف</ar>
+        <zh-TW>點擊編輯說明</zh-TW>
+        <hi>विवरण को संपादित करने के लिए क्लिक करें</hi>
+        <ko>설명을 편집하려면 클릭</ko>
+        <bn>বর্ণনা ক্ষেত্রটি সম্পাদন করতে ক্লিক করুন</bn>
+        <ru>Нажмите, чтобы изменить описание</ru>
+        <sq>Kliko për të ndryshuar përshkrimin e</sq>
+        <it>Clicca per pubblicare la descrizione</it>
+        <de>Klicken Sie Beschreibung bearbeiten</de>
+        <it>Clicca per pubblicare la descrizione</it>
+        <ur>تفصیل میں ترمیم کریں کرنے کے لئے یہاں دبائیں</ur>
+    </entry>
+    <entry>
+        <key>Promote this Message</key>
+        <en>Promote this Message</en>
+        <ja>このメッセージを宣伝する</ja>
+        <pt>Promover esta Mensagem</pt>
+        <zh-CN>推动这个消息</zh-CN>
+        <fr>Promouvoir ce Message</fr>
+        <ar>تعزيز هذه الرسالة</ar>
+        <zh-TW>推動這個消息</zh-TW>
+        <hi>इस संदेश को बढ़ावा देने</hi>
+        <ko>이 메시지 홍보</ko>
+        <bn>এই বার্তা প্রচার করুন</bn>
+        <ru>Рекламировать сообщение</ru>
+        <sq>Regjistroni këtë mesazh</sq>
+        <it>Promuovi questo Messaggio</it>
+        <de>Fördern Sie diese Nachricht</de>
+        <it>Promuovi questo Messaggio</it>
+        <ur>اس پیغام کو فروغ</ur>
+    </entry>
+    <entry>
+        <key>Added</key>
+        <en>Added</en>
+        <ja>追加された</ja>
+        <pt>Adicionado</pt>
+        <zh-CN>添加</zh-CN>
+        <fr>Ajoutée</fr>
+        <ar>وأضاف</ar>
+        <zh-TW>添加</zh-TW>
+        <hi>जोड़ा</hi>
+        <ko>추가</ko>
+        <bn>যোগ করা</bn>
+        <ru>добавленной</ru>
+        <sq>shtuar</sq>
+        <it>aggiunto</it>
+        <de>Hinzugefügt</de>
+        <it>aggiunto</it>
+        <ur>شامل کر دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>Recycle message</key>
+        <en>Recycle message</en>
+        <ja>メッセージの再利用</ja>
+        <pt>Reciclar mensagem</pt>
+        <zh-CN>回收消息</zh-CN>
+        <fr>message Recycler</fr>
+        <ar>رسالة المهملات</ar>
+        <zh-TW>回收消息</zh-TW>
+        <hi>रीसायकल संदेश</hi>
+        <ko>재활용 메시지</ko>
+        <bn>রিসাইকেল বার্তা</bn>
+        <ru>Переработать сообщение</ru>
+        <sq>mesazhi Recycle</sq>
+        <it>messaggio Riciclare</it>
+        <de>Recycle Nachricht</de>
+        <it>messaggio Riciclare</it>
+        <ur>ردی پیغام</ur>
+    </entry>
+    <entry>
+        <key>Something has gone wrong retrieving your queue.</key>
+        <en>Something has gone wrong retrieving your queue.</en>
+        <ja>待機中メッセージの読み出し中に何か問題が発生しました。</ja>
+        <pt>Um erro ocorreu ao recuperar sua fila.</pt>
+        <zh-CN>出了问题检索您的队列。</zh-CN>
+        <fr>Quelque chose n'a pas récupérer votre file d'attente.</fr>
+        <ar>فهناك شيء ما خطأ استرجاع قائمة الانتظار الخاصة بك.</ar>
+        <zh-TW>出了問題檢索您的隊列。</zh-TW>
+        <hi>कुछ अपने कतार पुन: प्राप्त गलत हो गया है।</hi>
+        <ko>뭔가 대기열을 검색하는 문제가 있습니다.</ko>
+        <bn>কোনো কিছু আপনার কিউ পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
+        <ru>Что-то пошло не так получении вашей очереди.</ru>
+        <sq>Diçka ka shkuar keq retrieving radhë tuaj.</sq>
+        <it>Qualcosa è andato storto recuperare la coda.</it>
+        <de>Etwas schief gegangen Warteschlange abgerufen werden.</de>
+        <it>Qualcosa è andato storto recuperare la coda.</it>
+        <ur>کچھ آپ کی قطار بازگیر غلط چلا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Optimized until</key>
+        <en>Optimized until</en>
+        <ja>最適化終了日時</ja>
+        <pt>Otimizado até</pt>
+        <zh-CN>直到优化</zh-CN>
+        <fr>Optimisé jusqu'à</fr>
+        <ar>الأمثل حتى</ar>
+        <zh-TW>直到優化</zh-TW>
+        <hi>जब तक अनुकूलित</hi>
+        <ko>때까지 최적화</ko>
+        <bn>যতক্ষণ না অনুকূলকৃত</bn>
+        <ru>оптимизировали до</ru>
+        <sq>optimizuar deri</sq>
+        <it>Ottimizzato fino</it>
+        <de>Optimiert bis</de>
+        <it>Ottimizzato fino</it>
+        <ur>جب تک آپٹمائزڈ</ur>
+    </entry>
+    <entry>
+        <key>Optimized from</key>
+        <en>Optimized from</en>
+        <ja>最適化開始日時</ja>
+        <pt>Otimizado de</pt>
+        <zh-CN>从优化</zh-CN>
+        <fr>Optimisé à partir</fr>
+        <ar>الأمثل من</ar>
+        <zh-TW>從優化</zh-TW>
+        <hi>से अनुकूलित</hi>
+        <ko>에서 최적화</ko>
+        <bn>থেকে অপ্টিমাইজ করা</bn>
+        <ru>Оптимизированный из</ru>
+        <sq>optimizuar nga</sq>
+        <it>Ottimizzato da</it>
+        <de>Optimiert aus</de>
+        <it>Ottimizzato da</it>
+        <ur>سے آپٹمائزڈ</ur>
+    </entry>
+    <entry>
+        <key>Scheduled for</key>
+        <en>Scheduled for</en>
+        <ja>予約日時</ja>
+        <pt>Agendado para</pt>
+        <zh-CN>定于</zh-CN>
+        <fr>Planifié pour</fr>
+        <ar>المقرر ل</ar>
+        <zh-TW>定於</zh-TW>
+        <hi>के लिए निर्धारित</hi>
+        <ko>예정</ko>
+        <bn>জন্য নির্ধারিত</bn>
+        <ru>Запланировано на</ru>
+        <sq>planifikuar për</sq>
+        <it>Pianificato per</it>
+        <de>Eingetragen für</de>
+        <it>Pianificato per</it>
+        <ur>کے لئے شیڈول</ur>
+    </entry>
+    <entry>
+        <key>Thumbnails</key>
+        <en>Thumbnails</en>
+        <ja>サムネイル</ja>
+        <pt>Miniaturas</pt>
+        <zh-CN>缩略图</zh-CN>
+        <fr>Miniatures</fr>
+        <ar>الصور المصغرة</ar>
+        <zh-TW>縮略圖</zh-TW>
+        <hi>थम्बनेल</hi>
+        <ko>썸네일</ko>
+        <bn>থাম্বনেল</bn>
+        <ru>Миниатюры</ru>
+        <sq>Tablotë</sq>
+        <it>Miniature</it>
+        <de>thumbnails</de>
+        <it>Miniature</it>
+        <ur>تمبنےل</ur>
+    </entry>
+    <entry>
+        <key>Last edited by</key>
+        <en>Last edited by</en>
+        <ja>最終更新者</ja>
+        <pt>Última edição por</pt>
+        <zh-CN>最后编辑</zh-CN>
+        <fr>Dernière modification par</fr>
+        <ar>التعديل الأخير تم بواسطة</ar>
+        <zh-TW>最後編輯</zh-TW>
+        <hi>पिछले द्वारा संपादित</hi>
+        <ko>마지막 편집</ko>
+        <bn>সর্বশেষ সম্পাদিত</bn>
+        <ru>Последний раз редактировалось</ru>
+        <sq>Fundit edituar nga</sq>
+        <it>Ultima modifica di</it>
+        <de>Zuletzt bearbeitet von</de>
+        <it>Ultima modifica di</it>
+        <ur>آخری کی طرف سے ترمیم</ur>
+    </entry>
+    <entry>
+        <key>Added</key>
+        <en>Added</en>
+        <ja>追加された</ja>
+        <pt>Adicionado</pt>
+        <zh-CN>添加</zh-CN>
+        <fr>Ajoutée</fr>
+        <ar>وأضاف</ar>
+        <zh-TW>添加</zh-TW>
+        <hi>जोड़ा</hi>
+        <ko>추가</ko>
+        <bn>যোগ করা</bn>
+        <ru>добавленной</ru>
+        <sq>shtuar</sq>
+        <it>aggiunto</it>
+        <de>Hinzugefügt</de>
+        <it>aggiunto</it>
+        <ur>شامل کر دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>at</key>
+        <en>at</en>
+        <ja>で</ja>
+        <pt>em</pt>
+        <zh-CN>在</zh-CN>
+        <fr>à</fr>
+        <ar>في</ar>
+        <zh-TW>在</zh-TW>
+        <hi>पर</hi>
+        <ko>...에서</ko>
+        <bn>এ</bn>
+        <ru>в</ru>
+        <sq>në</sq>
+        <it>a</it>
+        <de>beim</de>
+        <it>a</it>
+        <ur>پر</ur>
+    </entry>
+    <entry>
+        <key>Send at</key>
+        <en>Send at</en>
+        <ja>送信日時</ja>
+        <pt>Enviar em</pt>
+        <zh-CN>发送在</zh-CN>
+        <fr>Envoyer à</fr>
+        <ar>إرسال إلى</ar>
+        <zh-TW>在發送</zh-TW>
+        <hi>पर भेजें</hi>
+        <ko>에 보내기</ko>
+        <bn>এ পাঠান</bn>
+        <ru>Отправить в</ru>
+        <sq>Dërgo në</sq>
+        <it>Invia a</it>
+        <de>senden an</de>
+        <it>Invia a</it>
+        <ur>میں ارسال کریں</ur>
+    </entry>
+    <entry>
+        <key>No Search Terms</key>
+        <en>No Search Terms</en>
+        <ja>検索する言葉がありません</ja>
+        <pt>Sem termos de busca</pt>
+        <zh-CN>没有搜索条款</zh-CN>
+        <fr>Aucun Termes de recherche</fr>
+        <ar>لا مصطلحات البحث</ar>
+        <zh-TW>沒有搜索條款</zh-TW>
+        <hi>कोई खोज नियम</hi>
+        <ko>어떤 검색어가 없습니다</ko>
+        <bn>কোন অনুসন্ধান শর্তাবলী</bn>
+        <ru>Нет Условия поиска</ru>
+        <sq>Nuk Kërko Kushtet</sq>
+        <it>Non ci sono termini di ricerca</it>
+        <de>Keine Suchbegriffe</de>
+        <it>Non ci sono termini di ricerca</it>
+        <ur>کوئی تلاش کی شرائط</ur>
+    </entry>
+    <entry>
+        <key>Please enter text to search</key>
+        <en>Please enter text to search</en>
+        <ja>検索する文字を入力してください</ja>
+        <pt>Por favor, insira texto para busca</pt>
+        <zh-CN>请输入要搜索的文本</zh-CN>
+        <fr>S'il vous plaît saisir du texte à la recherche</fr>
+        <ar>الرجاء إدخال النص للبحث</ar>
+        <zh-TW>請輸入要搜索的文本</zh-TW>
+        <hi>खोज करने के लिए पाठ दर्ज करें</hi>
+        <ko>검색 할 텍스트를 입력하세요</ko>
+        <bn>অনুসন্ধান টেক্সট লিখুন দয়া করে</bn>
+        <ru>Пожалуйста, введите текст для поиска</ru>
+        <sq>Ju lutem shkruani tekstin për të kërkuar</sq>
+        <it>Si prega di inserire il testo da ricercare</it>
+        <de>Bitte geben Sie den Text zu suchen</de>
+        <it>Si prega di inserire il testo da ricercare</it>
+        <ur>تلاش کرنے کے لئے متن درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Your message is limited to 140 characters when publishing to Twitter.</key>
+        <en>Your message is limited to 140 characters when publishing to Twitter.</en>
+        <ja>Twitterへ公開する場合、メッセージは140文字に制限されます。</ja>
+        <pt>Sua mensagem é limitada a 140 caracteres ao publicar no Twitter.</pt>
+        <zh-CN>发布到 Twitter 时，你的信息被限制在140个字符。</zh-CN>
+        <fr>Votre message est limité à 140 caractères lors de la publication à Twitter.</fr>
+        <ar>يقتصر رسالة إلى 140 حرفا عند نشر على تويتر.</ar>
+        <zh-TW>發布到Twitter時，你的信息被限制在140個字符。</zh-TW>
+        <hi>जब ट्विटर पर प्रकाशन आपका संदेश 140 अक्षरों तक सीमित है।</hi>
+        <ko>트위터에 게시 할 때 메시지는 140 자로 제한됩니다.</ko>
+        <bn>যখন টুইটারে প্রকাশ আপনার বার্তা 140 অক্ষরের মধ্যে সীমিত আছে.</bn>
+        <ru>Ваше сообщение ограничено 140 символами при публикации в Twitter.</ru>
+        <sq>Mesazhi juaj është e kufizuar në 140 karaktere, kur botuese në Twitter.</sq>
+        <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <de>Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
+        <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <ur>فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
+    </entry>
+    <entry>
+        <key>Message is blank</key>
+        <en>Message is blank</en>
+        <ja>メッセージが空白です</ja>
+        <pt>Mensagem em branco</pt>
+        <zh-CN>信息是空白</zh-CN>
+        <fr>Message est vide</fr>
+        <ar>رسالة فارغة</ar>
+        <zh-TW>信息是空白</zh-TW>
+        <hi>संदेश को खाली है</hi>
+        <ko>메시지가 비어 있습니다</ko>
+        <bn>বার্তা ফাঁকা</bn>
+        <ru>Сообщение пустым</ru>
+        <sq>Mesazhi është bosh</sq>
+        <it>Messaggio è vuoto</it>
+        <de>Nachricht ist leer</de>
+        <it>Messaggio è vuoto</it>
+        <ur>پیغام خالی ہے</ur>
+    </entry>
+    <entry>
+        <key>Please enter a message.</key>
+        <en>Please enter a message.</en>
+        <ja>メッセージを入力してください。</ja>
+        <pt>Por favor, insira uma mensagem.</pt>
+        <zh-CN>请输入信息。</zh-CN>
+        <fr>S'il vous plaît entrer un message.</fr>
+        <ar>الرجاء إدخال الرسالة.</ar>
+        <zh-TW>請輸入信​​息。</zh-TW>
+        <hi>संदेश दर्ज करें।</hi>
+        <ko>메시지를 입력 해주세요.</ko>
+        <bn>একটি বার্তা লিখুন.</bn>
+        <ru>Пожалуйста, введите сообщение.</ru>
+        <sq>Ju lutem shkruani një mesazh.</sq>
+        <it>Si prega di inserire un messaggio.</it>
+        <de>Bitte geben Sie eine Nachricht.</de>
+        <it>Si prega di inserire un messaggio.</it>
+        <ur>ایک پیغام درج کریں.</ur>
+    </entry>
+    <entry>
+        <key>Please verify your date and time range.</key>
+        <en>Please verify your date and time range.</en>
+        <ja>日付と時間の範囲を確認してください。</ja>
+        <pt>Por favor, verifique seu intervalo de data e hora.</pt>
+        <zh-CN>请验证您的日期和时间范围。</zh-CN>
+        <fr>S'il vous plaît vérifier la date et la plage de temps.</fr>
+        <ar>يرجى التحقق من تاريخ ونطاق الوقت.</ar>
+        <zh-TW>請驗證您的日期和時間範圍。</zh-TW>
+        <hi>अपनी तिथि और समय सीमा की पुष्टि करें।</hi>
+        <ko>날짜와 시간 범위를 확인하십시오.</ko>
+        <bn>আপনার তারিখ এবং সময় পরিসীমা যাচাই করুন.</bn>
+        <ru>Пожалуйста, проверьте дату и интервал времени.</ru>
+        <sq>Ju lutem verifikoni datën tuaj dhe varg kohë.</sq>
+        <it>Si prega di verificare la data e l'intervallo di tempo.</it>
+        <de>Bitte überprüfen Sie das Datum und Zeitbereich.</de>
+        <it>Si prega di verificare la data e l'intervallo di tempo.</it>
+        <ur>آپ کی تاریخ اور وقت کی حد کی تصدیق کریں.</ur>
+    </entry>
+    <entry>
+        <key>Your message is in your queue set to optimized!</key>
+        <en>Your message is in your queue set to optimized!</en>
+        <ja>メッセージは最適化に設定され待機中です!</ja>
+        <pt>Sua mensagem está em sua fila configurada para otimização!</pt>
+        <zh-CN>您的留言在队列设置为优化！</zh-CN>
+        <fr>Votre message est dans la file d'attente réglé optimisé!</fr>
+        <ar>وفي قائمة الانتظار الخاصة بك تحديد رسالتك إلى أقصى حد!</ar>
+        <zh-TW>您的留言在隊列設置為優化！</zh-TW>
+        <hi>आपका संदेश अपने कतार में अनुकूलित करने के लिए सेट किया जाता है!</hi>
+        <ko>귀하의 메시지가 대기열에 최적화 된 설정입니다!</ko>
+        <bn>আপনার বার্তা আপনার কিউ 'র মধ্যে অপ্টিমাইজ করা সেট করা হয়!</bn>
+        <ru>Ваше сообщение в очереди устанавливается оптимизированный!</ru>
+        <sq>Mesazhi juaj është në radhë tuaj të vendosur për të optimizuar!</sq>
+        <it>Il suo messaggio è in coda impostato ottimizzato!</it>
+        <de>Ihre Nachricht wird in die Warteschlange gesetzt optimiert!</de>
+        <it>Il suo messaggio è in coda impostato ottimizzato!</it>
+        <ur>آپ کا پیغام آپ کی قطار میں مرضی کے لئے مقرر کیا جاتا ہے!</ur>
+    </entry>
+    <entry>
+        <key>Your message will publish shortly!</key>
+        <en>Your message will publish shortly!</en>
+        <ja>メッセージはもうすぐ公開されます!</ja>
+        <pt>Sua mensagem será publicada em breve!</pt>
+        <zh-CN>您的留言信息将会很快发布！</zh-CN>
+        <fr>Votre message publiera sous peu!</fr>
+        <ar>سوف تنشر رسالتك قريبا!</ar>
+        <zh-TW>您的留言信息將會很快發布！</zh-TW>
+        <hi>आपका संदेश शीघ्र ही प्रकाशित करेंगे!</hi>
+        <ko>귀하의 메시지가 곧 공개됩니다!</ko>
+        <bn>আপনার বার্তা খুব শীঘ্রই প্রকাশ করা হবে!</bn>
+        <ru>Ваше сообщение будет публиковать в ближайшее время!</ru>
+        <sq>Mesazhi juaj do të publikojë së shpejti!</sq>
+        <it>Il tuo messaggio pubblicherà a breve!</it>
+        <de>Ihre Nachricht wird in Kürze veröffentlichen!</de>
+        <it>Il tuo messaggio pubblicherà a breve!</it>
+        <ur>آپ کا پیغام کچھ ہی دیر شائع کریں گے!</ur>
+    </entry>
+    <entry>
+        <key>Your message has been scheduled!</key>
+        <en>Your message has been scheduled!</en>
+        <ja>メッセージが予約されました!</ja>
+        <pt>Sua mensagem foi agendada!</pt>
+        <zh-CN>您的留言已定！</zh-CN>
+        <fr>Votre message a été prévu!</fr>
+        <ar>وكان من المقرر رسالتك!</ar>
+        <zh-TW>您的留言已定！</zh-TW>
+        <hi>आपका संदेश निर्धारित किया गया है!</hi>
+        <ko>귀하의 메시지가 예약되었습니다!</ko>
+        <bn>আপনার বার্তাটি পূর্বনির্ধারিত হয়েছে!</bn>
+        <ru>Ваше сообщение было запланировано!</ru>
+        <sq>Mesazhi juaj u planifikuar!</sq>
+        <it>Il messaggio è stato programmato!</it>
+        <de>Ihre Nachricht wurde geplant!</de>
+        <it>Il messaggio è stato programmato!</it>
+        <ur>آپ کا پیغام شیڈول کیا گیا ہے!</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong.</key>
+        <en>Something went wrong.</en>
+        <ja>何か問題が発生しました。</ja>
+        <pt>Ocorreu um erro.</pt>
+        <zh-CN>出了些问题。</zh-CN>
+        <fr>Quelque-chose s'est mal passé.</fr>
+        <ar>حدث خطأ.</ar>
+        <zh-TW>出了些問題。</zh-TW>
+        <hi>कुछ गलत हो गया।</hi>
+        <ko>문제가 발생했습니다.</ko>
+        <bn>কিছু ভুল হয়েছে.</bn>
+        <ru>Что-то пошло не так.</ru>
+        <sq>Dicka shkoi keq.</sq>
+        <it>Qualcosa è andato storto.</it>
+        <de>Etwas ist schief gelaufen.</de>
+        <it>Qualcosa è andato storto.</it>
+        <ur>کچھ غلط ہو گیا.</ur>
+    </entry>
+    <entry>
+        <key>Invalid date(s)</key>
+        <en>Invalid date(s)</en>
+        <ja>無効な日付</ja>
+        <pt>Data(s) inválida(s)</pt>
+        <zh-CN>无效日期</zh-CN>
+        <fr>Date non valide (s)</fr>
+        <ar>التاريخ غير صالح (ق)</ar>
+        <zh-TW>無效日期（S）</zh-TW>
+        <hi>अमान्य तिथि (ओं)</hi>
+        <ko>잘못된 날짜 (들)</ko>
+        <bn>অবৈধ তারিখ (গুলি)</bn>
+        <ru>Недопустимая дата (ы)</ru>
+        <sq>date Invalid (s)</sq>
+        <it>Data non valida (s)</it>
+        <de>Datum ungültig (n)</de>
+        <it>Data non valida (s)</it>
+        <ur>غلط تاریخ (ے)</ur>
+    </entry>
+    <entry>
+        <key>There was a problem scraping this page.</key>
+        <en>There was a problem scraping this page.</en>
+        <ja>このページのスクラップ中に問題が発生しました。</ja>
+        <pt>Houve um problema ao descartar esta página.</pt>
+        <zh-CN>有刮此页面有问题。</zh-CN>
+        <fr>Il y avait un problème de raclage cette page.</fr>
+        <ar>كانت هناك مشكلة كشط هذه الصفحة.</ar>
+        <zh-TW>有刮此頁面有問題。</zh-TW>
+        <hi>एक समस्या यह पेज स्क्रैप था।</hi>
+        <ko>이 페이지를 긁어 문제가 발생했습니다.</ko>
+        <bn>একটি সমস্যা এই পৃষ্ঠার চাঁচুনি ছিল.</bn>
+        <ru>Существовал проблема выскабливание эту страницу.</ru>
+        <sq>Pati një problem scraping këtë faqe.</sq>
+        <it>C'è stato un problema raschiando questa pagina.</it>
+        <de>Es gab ein Problem Diese Seite Schaben.</de>
+        <it>C'è stato un problema raschiando questa pagina.</it>
+        <ur>اس صفحے scraping کی ایک دشواری تھی.</ur>
+    </entry>
+    <entry>
+        <key>Please check the link and try again.</key>
+        <en>Please check the link and try again.</en>
+        <ja>リンクを確認してもう一度お試しください。</ja>
+        <pt>Por favor, verifique o link e tente novamente.</pt>
+        <zh-CN>请检查连接，然后重试。</zh-CN>
+        <fr>S'il vous plaît vérifier le lien et essayez à nouveau.</fr>
+        <ar>يرجى الاطلاع على الرابط وحاول مرة أخرى.</ar>
+        <zh-TW>請檢查連接，然後重試。</zh-TW>
+        <hi>लिंक की जाँच करें और फिर कोशिश करें।</hi>
+        <ko>링크를 확인하고 다시 시도하십시오.</ko>
+        <bn>লিংক পরীক্ষা করে আবার চেষ্টা করুন.</bn>
+        <ru>Пожалуйста, проверьте ссылку и попробуйте еще раз.</ru>
+        <sq>Ju lutem kontrolloni lidhjen dhe provoni përsëri.</sq>
+        <it>Si prega di verificare il link e riprova.</it>
+        <de>Bitte überprüfen Sie den Link und versuchen Sie es erneut.</de>
+        <it>Si prega di verificare il link e riprova.</it>
+        <ur>لنک کو چیک کریں اور دوبارہ کوشش کریں براہ مہربانی.</ur>
+    </entry>
+    <entry>
+        <key>You must specify the country.</key>
+        <en>You must specify the country.</en>
+        <ja>国を特定する必要があります。</ja>
+        <pt>Você deve especificar o país.</pt>
+        <zh-CN>您必须指定的国家。</zh-CN>
+        <fr>Vous devez spécifier le pays.</fr>
+        <ar>يجب عليك تحديد البلد.</ar>
+        <zh-TW>您必須指定的國家。</zh-TW>
+        <hi>आप देश निर्दिष्ट करना होगा।</hi>
+        <ko>당신은 국가를 지정해야합니다.</ko>
+        <bn>আপনি দেশের উল্লেখ করতে হবে.</bn>
+        <ru>Необходимо указать страну.</ru>
+        <sq>Ju duhet të specifikoni vendin.</sq>
+        <it>È necessario specificare il paese.</it>
+        <de>Sie müssen das Land angeben.</de>
+        <it>È necessario specificare il paese.</it>
+        <ur>آپ ملک کی وضاحت لازمی ہے.</ur>
+    </entry>
+    <entry>
+        <key>There was an error uploading your image.</key>
+        <en>There was an error uploading your image.</en>
+        <ja>イメージのアップロード中に問題が発生しました。</ja>
+        <pt>Houve um erro ao carregar sua imagem.</pt>
+        <zh-CN>有一个错误上传您的图片。</zh-CN>
+        <fr>Il y avait une erreur de télécharger votre image.</fr>
+        <ar>كان هناك خطأ في تحميل الصورة.</ar>
+        <zh-TW>有一個錯誤上傳您的圖片。</zh-TW>
+        <hi>अपनी छवि को अपलोड करने में कोई त्रुटि थी।</hi>
+        <ko>이미지를 업로드하는 중에 오류가 발생했습니다.</ko>
+        <bn>আপনার ইমেজ আপলোড করার সময় একটি ত্রুটি হয়েছিল.</bn>
+        <ru>Был Ошибка при загрузке изображения.</ru>
+        <sq>Pati një gabim gjatë ngarkimit imazhin tuaj.</sq>
+        <it>Si è verificato un errore durante il caricamento delle immagini.</it>
+        <de>Es ist ein Fehler aufgetreten Bild hochladen.</de>
+        <it>Si è verificato un errore durante il caricamento delle immagini.</it>
+        <ur>آپ کی تصویر اپ لوڈ کرنے میں ایک خامی تھی.</ur>
+    </entry>
+    <entry>
+        <key>Please try again.</key>
+        <en>Please try again.</en>
+        <ja>もう一度試してみてください。</ja>
+        <pt>Por favor, tente novamente.</pt>
+        <zh-CN>请再试一次。</zh-CN>
+        <fr>Veuillez réessayer.</fr>
+        <ar>حاول مرة اخرى.</ar>
+        <zh-TW>請再試一次。</zh-TW>
+        <hi>कृपया पुन: प्रयास करें।</hi>
+        <ko>다시 시도하십시오.</ko>
+        <bn>অনুগ্রহপূর্বক আবার চেষ্টা করুন.</bn>
+        <ru>Пожалуйста, попробуйте еще раз.</ru>
+        <sq>Ju lutemi provoni përsëri.</sq>
+        <it>Riprova.</it>
+        <de>Bitte versuche es erneut.</de>
+        <it>Riprova.</it>
+        <ur>دوبارہ کوشش کریں.</ur>
+    </entry>
+    <entry>
+        <key>Hmmmm...</key>
+        <en>Hmmmm...</en>
+        <ja>うーん...</ja>
+        <pt>Hum...</pt>
+        <zh-CN>嗯...</zh-CN>
+        <fr>Hmmmm ...</fr>
+        <ar>همم ...</ar>
+        <zh-TW>嗯...</zh-TW>
+        <hi>Hmmmm ...</hi>
+        <ko>흠 ...</ko>
+        <bn>Hmmmm ...</bn>
+        <ru>Хммм ...</ru>
+        <sq>Hmmmm ...</sq>
+        <it>Hmmmm ...</it>
+        <de>Hmmmm ...</de>
+        <it>Hmmmm ...</it>
+        <ur>Hmmmm میں ...</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong.</key>
+        <en>Something went wrong.</en>
+        <ja>何か問題が発生しました。</ja>
+        <pt>Um erro ocorreu.</pt>
+        <zh-CN>出了些问题。</zh-CN>
+        <fr>Quelque-chose s'est mal passé.</fr>
+        <ar>حدث خطأ.</ar>
+        <zh-TW>出了些問題。</zh-TW>
+        <hi>कुछ गलत हो गया।</hi>
+        <ko>문제가 발생했습니다.</ko>
+        <bn>কিছু ভুল হয়েছে.</bn>
+        <ru>Что-то пошло не так.</ru>
+        <sq>Dicka shkoi keq.</sq>
+        <it>Qualcosa è andato storto.</it>
+        <de>Etwas ist schief gelaufen.</de>
+        <it>Qualcosa è andato storto.</it>
+        <ur>کچھ غلط ہو گیا.</ur>
+    </entry>
+    <entry>
+        <key>Message is blank</key>
+        <en>Message is blank</en>
+        <ja>メッセージが空白です</ja>
+        <pt>A mensagem está em branco</pt>
+        <zh-CN>信息是空白</zh-CN>
+        <fr>Message est vide</fr>
+        <ar>رسالة فارغة</ar>
+        <zh-TW>信息是空白</zh-TW>
+        <hi>संदेश को खाली है</hi>
+        <ko>메시지가 비어 있습니다</ko>
+        <bn>বার্তা ফাঁকা</bn>
+        <ru>Сообщение пустым</ru>
+        <sq>Mesazhi është bosh</sq>
+        <it>Messaggio è vuoto</it>
+        <de>Nachricht ist leer</de>
+        <it>Messaggio è vuoto</it>
+        <ur>پیغام خالی ہے</ur>
+    </entry>
+    <entry>
+        <key>Please enter a message</key>
+        <en>Please enter a message</en>
+        <ja>メッセージを入力してください</ja>
+        <pt>Por favor, insira uma mensagem</pt>
+        <zh-CN>请输入信息</zh-CN>
+        <fr>S'il vous plaît entrer un message</fr>
+        <ar>الرجاء إدخال رسالة</ar>
+        <zh-TW>請輸入信​​息</zh-TW>
+        <hi>संदेश दर्ज करें</hi>
+        <ko>메시지를 입력하세요</ko>
+        <bn>একটি বার্তা লিখুন দয়া করে</bn>
+        <ru>Пожалуйста, введите сообщение</ru>
+        <sq>Ju lutem shkruani një mesazh</sq>
+        <it>Si prega di inserire un messaggio</it>
+        <de>Bitte geben Sie eine Nachricht</de>
+        <it>Si prega di inserire un messaggio</it>
+        <ur>ایک پیغام درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Schedule date is empty</key>
+        <en>Schedule date is empty</en>
+        <ja>予約日が空です</ja>
+        <pt>A data de agendamento está vazia</pt>
+        <zh-CN>附表日期为空</zh-CN>
+        <fr>date de l'annexe est vide</fr>
+        <ar>تاريخ جدول فارغ</ar>
+        <zh-TW>附表日期為空</zh-TW>
+        <hi>अनुसूची तारीख खाली है</hi>
+        <ko>일정 날짜가 비어 있습니다</ko>
+        <bn>সূচি তারিখ খালি</bn>
+        <ru>дата Расписание пуст</ru>
+        <sq>date Orari është bosh</sq>
+        <it>data di pianificazione è vuota</it>
+        <de>Geplantes Datum ist leer</de>
+        <it>data di pianificazione è vuota</it>
+        <ur>تاریخ کے شیڈول خالی ہے</ur>
+    </entry>
+    <entry>
+        <key>Please enter a schedule date</key>
+        <en>Please enter a schedule date</en>
+        <ja>予約日を入力してください</ja>
+        <pt>Por favor, insira uma data de agendamento</pt>
+        <zh-CN>请输入日期时间表</zh-CN>
+        <fr>S'il vous plaît entrer une date de calendrier</fr>
+        <ar>يرجى إدخال تاريخ الجدول الزمني</ar>
+        <zh-TW>請輸入日期時間表</zh-TW>
+        <hi>एक कार्यक्रम की तारीख दर्ज करें</hi>
+        <ko>일정 날짜를 입력 해주세요</ko>
+        <bn>একটি সময়সূচী তারিখ লিখুন দয়া করে</bn>
+        <ru>Пожалуйста, введите дату расписания</ru>
+        <sq>Ju lutem shkruani një datë orar</sq>
+        <it>Si prega di inserire una data di pianificazione</it>
+        <de>Bitte geben Sie einen Zeitplan Datum</de>
+        <it>Si prega di inserire una data di pianificazione</it>
+        <ur>ایک شیڈول کوڈ داخل کریں.</ur>
+    </entry>
+    <entry>
+        <key>Your message will publish ASAP!</key>
+        <en>Your message will publish ASAP!</en>
+        <ja>メッセージは早急に公開されます!</ja>
+        <pt>Sua mensagem será publicada o mais breve possível!</pt>
+        <zh-CN>您的留言信息将会尽快公布！</zh-CN>
+        <fr>Votre message publiera dès que possible!</fr>
+        <ar>سوف تنشر الرسالة في اسرع وقت ممكن!</ar>
+        <zh-TW>您的留言信息將會盡快公佈！</zh-TW>
+        <hi>आपका संदेश ASAP के प्रकाशित करेंगे!</hi>
+        <ko>귀하의 메시지가 최대한 빨리 게시됩니다!</ko>
+        <bn>আপনার বার্তা যত শীঘ্র সম্ভব প্রকাশ করা হবে!</bn>
+        <ru>Ваше сообщение будет публиковать как можно скорее!</ru>
+        <sq>Mesazhi juaj do të publikojë ASAP!</sq>
+        <it>Il tuo messaggio pubblicherà al più presto!</it>
+        <de>Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
+        <it>Il tuo messaggio pubblicherà al più presto!</it>
+        <ur>آپ کا پیغام ASAP شائع کریں گے!</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong...</key>
+        <en>Something went wrong...</en>
+        <ja>何か問題が発生しました...</ja>
+        <pt>Um erro ocorreu...</pt>
+        <zh-CN>出了些问题...</zh-CN>
+        <fr>Quelque-chose s'est mal passé...</fr>
+        <ar>حدث خطأ ...</ar>
+        <zh-TW>出了些問題...</zh-TW>
+        <hi>कुछ गलत हो गया...</hi>
+        <ko>문제가 발생했습니다 ...</ko>
+        <bn>কিছু ভুল হয়েছে...</bn>
+        <ru>Что-то пошло не так...</ru>
+        <sq>Dicka shkoi keq...</sq>
+        <it>Qualcosa è andato storto...</it>
+        <de>Etwas ist schief gelaufen...</de>
+        <it>Qualcosa è andato storto...</it>
+        <ur>کچھ غلط ہو گیا...</ur>
+    </entry>
+    <entry>
+        <key>Error</key>
+        <en>Error</en>
+        <ja>エラー</ja>
+        <pt>Erro</pt>
+        <zh-CN>错误</zh-CN>
+        <fr>Erreur</fr>
+        <ar>خطأ</ar>
+        <zh-TW>錯誤</zh-TW>
+        <hi>त्रुटि</hi>
+        <ko>오류</ko>
+        <bn>ভুল</bn>
+        <ru>ошибка</ru>
+        <sq>gabim</sq>
+        <it>Errore</it>
+        <de>Fehler</de>
+        <it>Errore</it>
+        <ur>خرابی</ur>
+    </entry>
+    <entry>
+        <key>Authorizing your website Google Analytics account(s)</key>
+        <en>Authorizing your website Google Analytics account(s)</en>
+        <ja>あなたのウェブサイトのGoogle Analyticsアカウントを認証する</ja>
+        <pt>Autorizando a(s) conta(s) do Google Analytics de seu site</pt>
+        <zh-CN>授权您的网站 Google Analytics 帐户</zh-CN>
+        <fr>Autorisant votre site compte (s) Google Analytics</fr>
+        <ar>يجيز موقع الويب الخاص بك حساب Google Analytics (ق)</ar>
+        <zh-TW>授權您的網站谷歌Analytics帳戶（S）</zh-TW>
+        <hi>अपनी वेबसाइट को अधिकृत गूगल एनालिटिक्स खाते (खातों)</hi>
+        <ko>당신의 웹 사이트를 권한 부여 Google 웹 로그 분석 계정 (들)</ko>
+        <bn>আপনার ওয়েবসাইটে অনুমোদিত Google এনালিটিক্স অ্যাকাউন্ট (গুলি)</bn>
+        <ru>Авторизация свой веб-сайт Google Analytics счет (ы)</ru>
+        <sq>Autorizues faqen tuaj te llogaria (s) Google Analytics</sq>
+        <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
+        <de>Berechtigen Ihre Website Google Analytics-Konto (en)</de>
+        <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
+        <ur>اپنی ویب سائٹ اختیار تجزیاتی گوگل اکاؤنٹ (زبانیں)</ur>
+    </entry>
+    <entry>
+        <key>Authorizing your website Google Analytics account(s) will help us better optimize your messages by</key>
+        <en>Authorizing your website Google Analytics account(s) will help us better optimize your messages by</en>
+        <ja>あなたのウェブサイトのGoogle Analyticsアカウントを認証すれば、メッセージをさらに最適化する役に立ちます。</ja>
+        <pt>Autorizar a(s) conta(s) do Google Analytics de seu site nos ajudará a otimizar ainda mais suas mensagens,</pt>
+        <zh-CN>授权您的网站 Google Analytics 帐户将帮助我们更好地优化您的留言</zh-CN>
+        <fr>Autorisant votre site compte (s) Google Analytics nous permettra de mieux optimiser vos messages par</fr>
+        <ar>ويجيز موقع الويب الخاص بك حساب Google Analytics (ق) تساعدنا على تحسين المستوى الأمثل رسائلك</ar>
+        <zh-TW>授權您的網站谷歌Analytics帳戶（S）將幫助我們更好地優化您的留言</zh-TW>
+        <hi>अपनी वेबसाइट गूगल एनालिटिक्स खाते (एस) को अधिकृत हमें बेहतर करने में मदद करेगा द्वारा अपने संदेशों का अनुकूलन</hi>
+        <ko>귀하의 웹 사이트에 Google 웹 로그 분석 계정을 승인하는 것은 더 나은 우리를 도와하여 메시지를 최적화합니다</ko>
+        <bn>আপনার ওয়েবসাইটটি Google এনালিটিক্স অ্যাকাউন্ট (গুলি) অনুমোদিত আমাদের ভাল সাহায্য করবে দ্বারা আপনার বার্তা নিখুত</bn>
+        <ru>Авторизация веб-сайт Google Analytics счета (ов) поможет нам лучше оптимизировать ваши сообщения,</ru>
+        <sq>Autorizues faqen llogarinë tuaj Google Analytics (s) do të na ndihmojë më mirë zgjedh mesazhet nga</sq>
+        <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
+        <de>Berechtigen Ihre Website Google Analytics-Konto (en) wird uns helfen, besser optimieren Sie Ihre Nachrichten</de>
+        <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
+        <ur>آپ کی ویب سائٹ گوگل کے تجزیات کے اکاؤنٹ (زبانیں) اختیار بہتر ہمیں مدد کی طرف سے آپ کے پیغامات کو بہتر بنانے گا</ur>
+    </entry>
+    <entry>
+        <key>giving us a better understanding of how your messages affect your site performance.</key>
+        <en>giving us a better understanding of how your messages affect your site performance.</en>
+        <ja>メッセージがサイトのパフォーマンスにどのような影響を与えるかより良く理解することができるからです。</ja>
+        <pt>nos dando um entendimento melhor de como suas mensagens afetam o desempenho de seu site.</pt>
+        <zh-CN>让我们更好地了解您的消息如何影响你的站点的性能。</zh-CN>
+        <fr>nous donner une meilleure compréhension de la façon dont vos messages affectent les performances de votre site.</fr>
+        <ar>يعطينا فهما أفضل لكيفية تأثير رسائلك أداء موقعك.</ar>
+        <zh-TW>讓我們更好地了解您的消息如何影響你的站點的性能。</zh-TW>
+        <hi>हमें कैसे अपने संदेशों को अपनी साइट के प्रदर्शन को प्रभावित करने का एक बेहतर समझ दे रही है।</hi>
+        <ko>우리에게 당신의 메시지를 사이트 성능에 영향을 미치는 방법에 대한 더 나은 이해를 제공합니다.</ko>
+        <bn>আমাদের কিভাবে আপনার বার্তা আপনার সাইটে কর্মক্ষমতা প্রভাবিত একটি ভাল বুঝতে প্রদান.</bn>
+        <ru>дает нам лучшее понимание того, как ваши сообщения влияют на производительность сайта.</ru>
+        <sq>duke na dhënë një kuptim më të mirë se sa mesazhet ndikojë në punën faqen tuaj.</sq>
+        <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
+        <de>die uns ein besseres Verständnis, wie Ihre Nachrichten die Leistung Ihrer Website beeinflussen.</de>
+        <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
+        <ur>ہمیں کس طرح آپ کے پیغامات آپ کی ویب سائٹ کی کارکردگی کو متاثر کی بہتر تفہیم دینے کے.</ur>
+    </entry>
+    <entry>
+        <key>Authorize Google Analytics!</key>
+        <en>Authorize Google Analytics!</en>
+        <ja>Google Analyticsを認証する!</ja>
+        <pt>Autorize o Google Analytics!</pt>
+        <zh-CN>授权 Google Analytics（分析）！</zh-CN>
+        <fr>Autorisez Google Analytics!</fr>
+        <ar>يأذن جوجل تحليلات!</ar>
+        <zh-TW>授權谷歌Analytics（分析）！</zh-TW>
+        <hi>गूगल एनालिटिक्स अधिकृत करें!</hi>
+        <ko>Google 웹 로그 분석 권한을 부여!</ko>
+        <bn>Google এনালিটিক্স করার অনুমোদন দেয়!</bn>
+        <ru>Авторизоваться Google Analytics!</ru>
+        <sq>Autorizojë Google Analytics!</sq>
+        <it>Autorizzo Google Analytics!</it>
+        <de>Autorisieren Google Analytics!</de>
+        <it>Autorizzo Google Analytics!</it>
+        <ur>گوگل کے تجزیات کی اجازت!</ur>
+    </entry>
+    <entry>
+        <key>No data available for the selected time period.</key>
+        <en>No data available for the selected time period.</en>
+        <ja>選択した期間には利用可能なデータがありません。</ja>
+        <pt>Sem dados disponíveis para o intervalo de tempo selecionado.</pt>
+        <zh-CN>没有可用于所选时间段的数据。</zh-CN>
+        <fr>Aucune donnée disponible pour la période sélectionnée.</fr>
+        <ar>لا توجد بيانات متاحة عن الفترة الزمنية المختارة.</ar>
+        <zh-TW>沒有可用於所選時間段的數據。</zh-TW>
+        <hi>कोई डेटा चयनित समयावधि के लिए उपलब्ध है।</hi>
+        <ko>선택한 기간에 대한 데이터가 없습니다.</ko>
+        <bn>যদি তেমন অবস্থাতেও তথ্য নির্বাচিত সময়ের জন্য পাওয়া যায়.</bn>
+        <ru>Нет доступных для выбранного периода времени данные.</ru>
+        <sq>Nuk ka të dhëna në dispozicion për një periudhë të zgjedhur kohore.</sq>
+        <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
+        <de>Keine Daten für den gewählten Zeitraum.</de>
+        <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
+        <ur>کوئی ڈیٹا نہیں منتخب وقت کی مدت کے لئے دستیاب.</ur>
+    </entry>
+    <entry>
+        <key>Please change your time frame or</key>
+        <en>Please change your time frame or</en>
+        <ja>時間枠を変更するか</ja>
+        <pt>Por favor, modifique seu intervalo de tempo ou</pt>
+        <zh-CN>请改变你的时间框架或</zh-CN>
+        <fr>S'il vous plaît changer votre calendrier ou</fr>
+        <ar>يرجى تغيير إطار زمني أو</ar>
+        <zh-TW>請改變你的時間框架或</zh-TW>
+        <hi>कृपया अपने समय सीमा बदलने के लिए या</hi>
+        <ko>시간 프레임을 변경하거나하세요</ko>
+        <bn>অনুগ্রহ করে আপনার সময় ফ্রেম পরিবর্তন বা</bn>
+        <ru>Пожалуйста, измените временные рамки или</ru>
+        <sq>Ju lutemi të ndryshojë kuadrin kohën tuaj, ose</sq>
+        <it>Si prega di modificare il periodo di tempo o</it>
+        <de>Bitte ändern Sie Ihre Zeitrahmen oder</de>
+        <it>Si prega di modificare il periodo di tempo o</it>
+        <ur>آپ کے وقت کی حد کو تبدیل یا براہ کرم</ur>
+    </entry>
+    <entry>
+        <key>publish some messages</key>
+        <en>publish some messages</en>
+        <ja>SocialFlowを使ってメッセージを公開して下さい</ja>
+        <pt>publique algumas mensagens</pt>
+        <zh-CN>发布一些消息</zh-CN>
+        <fr>publier quelques messages</fr>
+        <ar>نشر بعض الرسائل</ar>
+        <zh-TW>發布一些消息</zh-TW>
+        <hi>कुछ संदेशों को प्रकाशित</hi>
+        <ko>일부 메시지를 게시</ko>
+        <bn>কিছু বার্তা প্রকাশ</bn>
+        <ru>опубликовать некоторые сообщения</ru>
+        <sq>publikojë disa mesazhe</sq>
+        <it>pubblicare alcuni messaggi</it>
+        <de>veröffentlichen einige Nachrichten</de>
+        <it>pubblicare alcuni messaggi</it>
+        <ur>کچھ پیغامات شائع</ur>
+    </entry>
+    <entry>
+        <key>using SocialFlow!</key>
+        <en>using SocialFlow!</en>
+        <ja>!</ja>
+        <pt>usando o SocialFlow!</pt>
+        <zh-CN>使用SocialFlow！</zh-CN>
+        <fr>en utilisant SocialFlow!</fr>
+        <ar>باستخدام SocialFlow!</ar>
+        <zh-TW>使用SocialFlow！</zh-TW>
+        <hi>SocialFlow का उपयोग कर!</hi>
+        <ko>SocialFlow를 사용!</ko>
+        <bn>SocialFlow ব্যবহার!</bn>
+        <ru>используя SocialFlow!</ru>
+        <sq>duke përdorur SocialFlow!</sq>
+        <it>utilizzando SocialFlow!</it>
+        <de>mit SocialFlow!</de>
+        <it>utilizzando SocialFlow!</it>
+        <ur>SocialFlow استعمال کرتے ہوئے!</ur>
+    </entry>
+    <entry>
+        <key>Current Clicks</key>
+        <en>Current Clicks</en>
+        <ja>現在のクリック数</ja>
+        <pt>Cliques Atuais</pt>
+        <zh-CN>当前点击</zh-CN>
+        <fr>Clics actuelles</fr>
+        <ar>الزيارات الحالية</ar>
+        <zh-TW>當前點擊</zh-TW>
+        <hi>वर्तमान क्लिक्स</hi>
+        <ko>현재 클릭</ko>
+        <bn>বর্তমান ক্লিকস</bn>
+        <ru>Текущие клики</ru>
+        <sq>Clicks tanishme</sq>
+        <it>Clic attuali</it>
+        <de>Aktuelle Klicks</de>
+        <it>Clic attuali</it>
+        <ur>موجودہ کلکس</ur>
+    </entry>
+    <entry>
+        <key>Current Audience Gains</key>
+        <en>Current Audience Gains</en>
+        <ja>現在のオーディエンス増加数</ja>
+        <pt>Ganhos de Audiência Atuais</pt>
+        <zh-CN>目前观众收益</zh-CN>
+        <fr>Les gains d'audience actuels</fr>
+        <ar>الأرباح الجمهور الحالية</ar>
+        <zh-TW>目前觀眾收益</zh-TW>
+        <hi>वर्तमान श्रोतागण लाभ</hi>
+        <ko>현재 대상의 이득</ko>
+        <bn>বর্তমান শ্রোতা লাভ</bn>
+        <ru>В настоящее время прирост аудитории</ru>
+        <sq>Fitimet e tanishme Audienca</sq>
+        <it>Utili pubblico attuale</it>
+        <de>Aktuelle Audience Gewinne</de>
+        <it>Utili pubblico attuale</it>
+        <ur>موجودہ سامعین فوائد</ur>
+    </entry>
+    <entry>
+        <key>Past Audience Gains</key>
+        <en>Past Audience Gains</en>
+        <ja>過去のオーディエンス増加数</ja>
+        <pt>Ganhos de Audiência Passados</pt>
+        <zh-CN>过去观众收益</zh-CN>
+        <fr>Les gains d'audience passées</fr>
+        <ar>الأرباح الجمهور الماضية</ar>
+        <zh-TW>過去觀眾收益</zh-TW>
+        <hi>विगत श्रोतागण लाभ</hi>
+        <ko>과거의 시청자 이익</ko>
+        <bn>অতীত শ্রোতা লাভ</bn>
+        <ru>Прошлые Доходы аудитории</ru>
+        <sq>Fitimet e kaluara Audienca</sq>
+        <it>Utili Pubblico passati</it>
+        <de>Vergangene Publikum Gewinne</de>
+        <it>Utili Pubblico passati</it>
+        <ur>ماضی سامعین فوائد</ur>
+    </entry>
+    <entry>
+        <key>Current Interactions</key>
+        <en>Current Interactions</en>
+        <ja>現在のインタラクション数</ja>
+        <pt>Interações Atuais</pt>
+        <zh-CN>流相互作用</zh-CN>
+        <fr>Interactions actuelles</fr>
+        <ar>التفاعلات الحالية</ar>
+        <zh-TW>流相互作用</zh-TW>
+        <hi>वर्तमान सहभागिता</hi>
+        <ko>현재 상호 작용</ko>
+        <bn>বর্তমান প্রতিক্রিয়া</bn>
+        <ru>Текущие взаимодействий</ru>
+        <sq>Ndërveprimet e tanishme</sq>
+        <it>Interazioni attuali</it>
+        <de>Aktuelle Wechselwirkungen</de>
+        <it>Interazioni attuali</it>
+        <ur>موجودہ سہباگتا</ur>
+    </entry>
+    <entry>
+        <key>Past Interactions</key>
+        <en>Past Interactions</en>
+        <ja>過去のインタラクション数</ja>
+        <pt>Interações Passadas</pt>
+        <zh-CN>过去的相互作用</zh-CN>
+        <fr>Interactions passées</fr>
+        <ar>التفاعلات الماضية</ar>
+        <zh-TW>過去的相互作用</zh-TW>
+        <hi>अतीत बातचीत</hi>
+        <ko>과거 상호 작용</ko>
+        <bn>অতীত ইন্টারঅ্যাকশানের</bn>
+        <ru>Прошлые взаимодействия</ru>
+        <sq>Ndërveprimet e kaluara</sq>
+        <it>interazioni passate</it>
+        <de>Historische Wechselwirkungen</de>
+        <it>interazioni passate</it>
+        <ur>سابقہ ​​تعامل</ur>
+    </entry>
+    <entry>
+        <key>Please select a social account to view.</key>
+        <en>Please select a social account to view.</en>
+        <ja>閲覧するソーシャルアカウントを選択してください。</ja>
+        <pt>Por favor, selecione uma conta social para visualizar.</pt>
+        <zh-CN>请选择一个社会的帐户进行查看。</zh-CN>
+        <fr>S'il vous plaît sélectionner un compte social pour voir.</fr>
+        <ar>يرجى تحديد حساب الاجتماعي لعرضها.</ar>
+        <zh-TW>請選擇一個社會的帳戶進行查看。</zh-TW>
+        <hi>कृपया देखने के लिए एक सामाजिक खाते का चयन करें।</hi>
+        <ko>볼 수있는 소셜 계정을 선택하시기 바랍니다.</ko>
+        <bn>অনুগ্রহ করে দেখার জন্য একটি সামাজিক অ্যাকাউন্ট নির্বাচন করুন.</bn>
+        <ru>Пожалуйста, выберите социальную учетную запись для просмотра.</ru>
+        <sq>Ju lutem, përzgjidhni një llogari shoqëror për të parë.</sq>
+        <it>Si prega di selezionare un account di social per visualizzare.</it>
+        <de>Bitte wählen Sie einen sozialen Konto anzuzeigen.</de>
+        <it>Si prega di selezionare un account di social per visualizzare.</it>
+        <ur>دیکھنے کے لئے ایک سماجی اکاؤنٹ منتخب کیجیے.</ur>
+    </entry>
+    <entry>
+        <key>No Social Accounts Available</key>
+        <en>No Social Accounts Available</en>
+        <ja>利用可能なソーシャルアカウントがありません</ja>
+        <pt>Nenhuma Conta Social Disponível</pt>
+        <zh-CN>没有社会提供的帐户</zh-CN>
+        <fr>Aucun Comptes sociaux disponibles</fr>
+        <ar>لا الحسابات الاجتماعية المتوفرة</ar>
+        <zh-TW>沒有社會提供的帳戶</zh-TW>
+        <hi>कोई सामाजिक खाते उपलब्ध</hi>
+        <ko>사용할 수있는 소셜 계정 없음</ko>
+        <bn>কোন সামাজিক একাউন্ট পাওয়া যায়</bn>
+        <ru>Нет социальных счетов Доступные</ru>
+        <sq>Asnjë Llogaritë sociale në dispozicion</sq>
+        <it>Nessun account sociali disponibili</it>
+        <de>Keine Social Accounts verfügbar</de>
+        <it>Nessun account sociali disponibili</it>
+        <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Please click here to authorize your Social Accounts!</key>
+        <en>Please click here to authorize your Social Accounts!</en>
+        <ja>ここをクリックしてソーシャルアカウントを認証してください!</ja>
+        <pt>Por favor, clique aqui para autorizar suas Contas Sociais!</pt>
+        <zh-CN>请点击此处授权您的社交帐户！</zh-CN>
+        <fr>S'il vous plaît cliquez ici pour autoriser vos comptes sociaux!</fr>
+        <ar>الرجاء الضغط هنا أن يأذن الحسابات الاجتماعية الخاصة بك!</ar>
+        <zh-TW>請點擊此處授權您的社交帳戶！</zh-TW>
+        <hi>अपने सामाजिक खातों को अधिकृत करने के लिए यहाँ क्लिक करें!</hi>
+        <ko>소셜 계정 권한을 부여하려면 여기를 클릭하십시오!</ko>
+        <bn>আপনার সামাজিক হিসাব অনুমোদন করার জন্য এখানে ক্লিক করুন!</bn>
+        <ru>Пожалуйста, нажмите здесь, чтобы разрешить свои социальные счета!</ru>
+        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë sociale tuaj!</sq>
+        <it>Clicca qui per autorizzare account di social!</it>
+        <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
+        <it>Clicca qui per autorizzare account di social!</it>
+        <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
+    </entry>
+    <entry>
+        <key>Loading Event Data</key>
+        <en>Loading Event Data</en>
+        <ja>イベントデータの読込中</ja>
+        <pt>Carregando Dados de Evento</pt>
+        <zh-CN>加载事件数据</zh-CN>
+        <fr>Chargement des données de l'événement</fr>
+        <ar>تحميل بيانات الحدث</ar>
+        <zh-TW>加載事件數據</zh-TW>
+        <hi>लोड हो रहा इवेंट डेटा</hi>
+        <ko>이벤트 데이터 로딩</ko>
+        <bn>লোড করা হচ্ছে ইভেন্ট তথ্য</bn>
+        <ru>Загрузка данных событий</ru>
+        <sq>Loading të dhënave Event</sq>
+        <it>Caricamento Dati evento</it>
+        <de>Laden von Ereignisdaten</de>
+        <it>Caricamento Dati evento</it>
+        <ur>واقعہ ڈیٹا لوڈ</ur>
+    </entry>
+    <entry>
+        <key>Loading Click Data</key>
+        <en>Loading Click Data</en>
+        <ja>クリック数データの読込中</ja>
+        <pt>Carregando Dados de Cliques</pt>
+        <zh-CN>加载点击数据</zh-CN>
+        <fr>Chargement Cliquez données</fr>
+        <ar>تحميل اضغط البيانات</ar>
+        <zh-TW>loading點擊數據</zh-TW>
+        <hi>लोड हो रहा है डेटा क्लिक करें</hi>
+        <ko>로드를 클릭 데이터</ko>
+        <bn>লোড হচ্ছে ডেটা ক্লিক করুন</bn>
+        <ru>Загрузка данных Нажмите</ru>
+        <sq>Loading Kliko Data</sq>
+        <it>Loading Clicca Dati</it>
+        <de>Laden Klicken Sie auf Daten</de>
+        <it>Loading Clicca Dati</it>
+        <ur>لوڈ کر رہا ہے پر کلک ڈیٹا</ur>
+    </entry>
+    <entry>
+        <key>Loading Interactions Data</key>
+        <en>Loading Interactions Data</en>
+        <ja>インタラクション数データの読込中</ja>
+        <pt>Carregando Dados de Interação</pt>
+        <zh-CN>加载数据交互</zh-CN>
+        <fr>Chargement des données Interactions</fr>
+        <ar>تحميل البيانات التفاعلات</ar>
+        <zh-TW>加載數據交互</zh-TW>
+        <hi>लोड हो रहा है सहभागिता डेटा</hi>
+        <ko>상호 작용 데이터 로딩</ko>
+        <bn>লোড হচ্ছে প্রতিক্রিয়া ডেটা</bn>
+        <ru>Загрузка данных взаимодействий</ru>
+        <sq>Loading Interactions të dhënave</sq>
+        <it>Caricamento Interazioni dati</it>
+        <de>Laden Wechselwirkungen Daten</de>
+        <it>Caricamento Interazioni dati</it>
+        <ur>سہباگتا ڈیٹا لوڈ</ur>
+    </entry>
+    <entry>
+        <key>Loading Audience Data</key>
+        <en>Loading Audience Data</en>
+        <ja>閲覧者数データの読込中</ja>
+        <pt>Carregando Dados de Audiência</pt>
+        <zh-CN>加载受众群体数据</zh-CN>
+        <fr>Chargement des données d'audience</fr>
+        <ar>بيانات التحميل الجمهور</ar>
+        <zh-TW>裝載觀眾數據</zh-TW>
+        <hi>श्रोतागण डेटा लोड हो रहा</hi>
+        <ko>로드 대상 데이터</ko>
+        <bn>দর্শকের লোড ডেটা</bn>
+        <ru>Загрузка Данные по аудитории</ru>
+        <sq>Loading Audienca e të dhënave</sq>
+        <it>Caricamento Pubblico dati</it>
+        <de>Laden Publikumsdaten</de>
+        <it>Caricamento Pubblico dati</it>
+        <ur>لوڈ ہو رہا ہے سامعین ڈیٹا</ur>
+    </entry>
+    <entry>
+        <key>Missing Title</key>
+        <en>Missing Title</en>
+        <ja>タイトルがありません</ja>
+        <pt>Sem Título</pt>
+        <zh-CN>缺少标题</zh-CN>
+        <fr>Titre manquant</fr>
+        <ar>عنوان مفقود</ar>
+        <zh-TW>缺少標題</zh-TW>
+        <hi>गुम शीर्षक</hi>
+        <ko>누락 제목</ko>
+        <bn>হারানো শিরোনাম</bn>
+        <ru>Недостающее Название</ru>
+        <sq>Missing Titulli</sq>
+        <it>Titolo mancante</it>
+        <de>Fehlende Titel</de>
+        <it>Titolo mancante</it>
+        <ur>لاپتہ سرخی</ur>
+    </entry>
+    <entry>
+        <key>You can not save a report without a title</key>
+        <en>You can not save a report without a title</en>
+        <ja>タイトルをつけずにレポートを保存することはできません</ja>
+        <pt>Você não pode salvar um relatório sem um título</pt>
+        <zh-CN>您不能保存报表没有标题</zh-CN>
+        <fr>Vous ne pouvez pas enregistrer un rapport sans titre</fr>
+        <ar>لا يمكنك حفظ تقرير بدون عنوان</ar>
+        <zh-TW>你不能保存報表沒有標題</zh-TW>
+        <hi>तुम एक शीर्षक के बिना एक रिपोर्ट को नहीं बचा सकते</hi>
+        <ko>당신은 제목없이 보고서를 저장할 수 없습니다</ko>
+        <bn>আপনাকে অবশ্যই একটি শিরোনাম ছাড়া একটি রিপোর্ট সংরক্ষণ করতে পারবেন না</bn>
+        <ru>Вы не можете сохранить отчет без заголовка</ru>
+        <sq>Ju nuk mund të ruaj një raport pa titull</sq>
+        <it>Non è possibile salvare un report senza un titolo</it>
+        <de>Sie können einen Bericht ohne Titel speichern</de>
+        <it>Non è possibile salvare un report senza un titolo</it>
+        <ur>آپ کو ایک عنوان کے بغیر ایک رپورٹ کر بچا نہیں سکتا</ur>
+    </entry>
+    <entry>
+        <key>Your information has been saved!</key>
+        <en>Your information has been saved!</en>
+        <ja>情報が保存されました!</ja>
+        <pt>Sua informação foi salva!</pt>
+        <zh-CN>您的信息已保存！</zh-CN>
+        <fr>Vos informations ont été sauvés!</fr>
+        <ar>تم حفظ المعلومات الخاصة بك!</ar>
+        <zh-TW>您的信息已保存！</zh-TW>
+        <hi>तुम्हारी सूचना संरक्षित कर ली गयी है!</hi>
+        <ko>귀하의 정보가 저장되었습니다!</ko>
+        <bn>আপনার তথ্য সংরক্ষণ করা হয়েছে!</bn>
+        <ru>Ваша информация была сохранена!</ru>
+        <sq>Informacioni juaj u ruajt!</sq>
+        <it>I tuoi dati è stato salvato!</it>
+        <de>Ihre Angaben wurden gespeichert!</de>
+        <it>I tuoi dati è stato salvato!</it>
+        <ur>آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
+    </entry>
+    <entry>
+        <key>No Social Accounts Available</key>
+        <en>No Social Accounts Available</en>
+        <ja>利用可能なソーシャルアカウントがありません</ja>
+        <pt>Sem Contas Sociais Disponíveis</pt>
+        <zh-CN>没有社会提供的帐户</zh-CN>
+        <fr>Aucun Comptes sociaux disponibles</fr>
+        <ar>لا الحسابات الاجتماعية المتوفرة</ar>
+        <zh-TW>沒有社會提供的帳戶</zh-TW>
+        <hi>कोई सामाजिक खाते उपलब्ध</hi>
+        <ko>사용할 수있는 소셜 계정 없음</ko>
+        <bn>কোন সামাজিক একাউন্ট পাওয়া যায়</bn>
+        <ru>Нет социальных счетов Доступные</ru>
+        <sq>Asnjë Llogaritë sociale në dispozicion</sq>
+        <it>Nessun account sociali disponibili</it>
+        <de>Keine Social Accounts verfügbar</de>
+        <it>Nessun account sociali disponibili</it>
+        <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Please click here to authorize your Social Accounts!</key>
+        <en>Please click here to authorize your Social Accounts!</en>
+        <ja>ここをクリックしてソーシャルアカウントを認証してください!</ja>
+        <pt>Por favor, clique aqui para autorizar suas Contas Sociais!</pt>
+        <zh-CN>请点击此处授权您的社交帐户！</zh-CN>
+        <fr>S'il vous plaît cliquez ici pour autoriser vos comptes sociaux!</fr>
+        <ar>الرجاء الضغط هنا أن يأذن الحسابات الاجتماعية الخاصة بك!</ar>
+        <zh-TW>請點擊此處授權您的社交帳戶！</zh-TW>
+        <hi>अपने सामाजिक खातों को अधिकृत करने के लिए यहाँ क्लिक करें!</hi>
+        <ko>소셜 계정 권한을 부여하려면 여기를 클릭하십시오!</ko>
+        <bn>আপনার সামাজিক হিসাব অনুমোদন করার জন্য এখানে ক্লিক করুন!</bn>
+        <ru>Пожалуйста, нажмите здесь, чтобы разрешить свои социальные счета!</ru>
+        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë sociale tuaj!</sq>
+        <it>Clicca qui per autorizzare account di social!</it>
+        <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
+        <it>Clicca qui per autorizzare account di social!</it>
+        <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
+    </entry>
+    <entry>
+        <key>Please select an account to view.</key>
+        <en>Please select an account to view.</en>
+        <ja>閲覧するアカウントを選択してください。</ja>
+        <pt>Por favor, selecione uma conta para visualizar.</pt>
+        <zh-CN>请选择一个帐户来查看。</zh-CN>
+        <fr>S'il vous plaît sélectionner un compte pour voir.</fr>
+        <ar>الرجاء تحديد حساب لعرضها.</ar>
+        <zh-TW>請選擇一個帳戶來查看。</zh-TW>
+        <hi>कृपया देखने के लिए एक खाता का चयन करें।</hi>
+        <ko>볼 계정을 선택하십시오.</ko>
+        <bn>অনুগ্রহ করে দেখতে একটি অ্যাকাউন্ট নির্বাচন করুন.</bn>
+        <ru>Пожалуйста, выберите учетную запись для просмотра.</ru>
+        <sq>Ju lutem, përzgjidhni një llogari për të parë.</sq>
+        <it>Seleziona un account per visualizzare.</it>
+        <de>Bitte wählen Sie ein Konto anzuzeigen.</de>
+        <it>Seleziona un account per visualizzare.</it>
+        <ur>دیکھنے کیلئے ایک اکاؤنٹ منتخب کیجیے.</ur>
+    </entry>
+    <entry>
+        <key>End date is before your start date!</key>
+        <en>End date is before your start date!</en>
+        <ja>終了日が開始日よりも前になっています!</ja>
+        <pt>Data de término anterior à data de início!</pt>
+        <zh-CN>结束日期开始日期之前！</zh-CN>
+        <fr>Date de fin est avant votre date de début!</fr>
+        <ar>تاريخ الانتهاء قبل تاريخ البدء!</ar>
+        <zh-TW>結束日期開始日期之前！</zh-TW>
+        <hi>आखरी तारीक अपने आरंभ तिथि से पहले है!</hi>
+        <ko>종료 날짜는 시작 날짜 이전입니다!</ko>
+        <bn>শেষ তারিখ আপনার স্টার্ট তারিখের আগে হয়!</bn>
+        <ru>Дата окончания раньше даты начала!</ru>
+        <sq>Data e përfundimit është para datës tuaj të fillojë!</sq>
+        <it>La data di fine è prima della data di inizio!</it>
+        <de>Enddatum ist vor Ihrem Startdatum!</de>
+        <it>La data di fine è prima della data di inizio!</it>
+        <ur>ختم ہونے کی تاریخ آپ کے آغاز کی تاریخ سے پہلے ہے!</ur>
+    </entry>
+    <entry>
+        <key>Please fix the items highlighted in red below.</key>
+        <en>Please fix the items highlighted in red below.</en>
+        <ja>下の赤色でハイライトされた項目を修正してください。</ja>
+        <pt>Por favor, corrija os itens marcados em vermelho abaixo.</pt>
+        <zh-CN>请修正下面红色突出显示的项目。</zh-CN>
+        <fr>S'il vous plaît fixer les éléments mis en surbrillance en rouge ci-dessous.</fr>
+        <ar>يرجى تحديد العناصر المميزة باللون الأحمر أدناه.</ar>
+        <zh-TW>請修正下面紅色突出顯示的項目。</zh-TW>
+        <hi>नीचे लाल रंग में हाइलाइट आइटम को ठीक करें।</hi>
+        <ko>아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
+        <bn>নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
+        <ru>Исправьте элементы, выделенные красным цветом ниже.</ru>
+        <sq>Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
+        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
+    </entry>
+    <entry>
+        <key>Your report has been submitted!</key>
+        <en>Your report has been submitted!</en>
+        <ja>レポートが送信されました!</ja>
+        <pt>Seu relatório foi enviado!</pt>
+        <zh-CN>您的报告已提交！</zh-CN>
+        <fr>Votre rapport a été soumis!</fr>
+        <ar>وقد قدم التقرير الخاص بك!</ar>
+        <zh-TW>您的報告已提交！</zh-TW>
+        <hi>आपकी रिपोर्ट प्रस्तुत किया गया है!</hi>
+        <ko>보고서가 제출되었습니다!</ko>
+        <bn>আপনার প্রতিবেদন জমা দেওয়া হয়েছে!</bn>
+        <ru>Ваш отчет был представлен!</ru>
+        <sq>Raporti juaj është dorëzuar!</sq>
+        <it>Il tuo rapporto è stato presentato!</it>
+        <de>Ihr Bericht wurde vor Ort!</de>
+        <it>Il tuo rapporto è stato presentato!</it>
+        <ur>آپ کی رپورٹ جمع کرائی گئی ہے!</ur>
+    </entry>
+    <entry>
+        <key>Will be complete shortly.</key>
+        <en>Will be complete shortly.</en>
+        <ja>もうすぐ出来上がります。</ja>
+        <pt>Será completado em breve.</pt>
+        <zh-CN>将完成不久。</zh-CN>
+        <fr>Sera complète sous peu.</fr>
+        <ar>سيكتمل قريبا.</ar>
+        <zh-TW>將完成不久。</zh-TW>
+        <hi>शीघ्र ही पूरा हो जाएगा।</hi>
+        <ko>곧 완료됩니다.</ko>
+        <bn>খুব শীঘ্রই সম্পূর্ণ হবে.</bn>
+        <ru>Будет завершена в ближайшее время.</ru>
+        <sq>A do të jetë i plotë shpejti.</sq>
+        <it>Sarà completata a breve.</it>
+        <de>Wird in Kürze abgeschlossen sein.</de>
+        <it>Sarà completata a breve.</it>
+        <ur>کچھ ہی دیر مکمل ہو جائے گا.</ur>
+    </entry>
+    <entry>
+        <key>Pending</key>
+        <en>Pending</en>
+        <ja>保留中</ja>
+        <pt>Pendente</pt>
+        <zh-CN>待定</zh-CN>
+        <fr>en attendant</fr>
+        <ar>ريثما</ar>
+        <zh-TW>有待</zh-TW>
+        <hi>अपूर्ण</hi>
+        <ko>대기 중</ko>
+        <bn>বিচারাধীন</bn>
+        <ru>в ожидании</ru>
+        <sq>në pritje të</sq>
+        <it>in attesa di</it>
+        <de>anstehend</de>
+        <it>in attesa di</it>
+        <ur>زیر التوا</ur>
+    </entry>
+    <entry>
+        <key>Your report has been deleted!</key>
+        <en>Your report has been deleted!</en>
+        <ja>レポートが削除されました!</ja>
+        <pt>Seu relatório foi excluído!</pt>
+        <zh-CN>您的报告已被删除！</zh-CN>
+        <fr>Votre rapport a été supprimée!</fr>
+        <ar>تم حذف التقرير الخاص بك!</ar>
+        <zh-TW>您的報告已被刪除！</zh-TW>
+        <hi>आपकी रिपोर्ट हटा दिया गया है!</hi>
+        <ko>보고서가 삭제되었습니다!</ko>
+        <bn>আপনার প্রতিবেদন মুছে ফেলা হয়েছে!</bn>
+        <ru>Ваш отчет был удален!</ru>
+        <sq>Raporti juaj është fshirë!</sq>
+        <it>Il tuo rapporto è stato cancellato!</it>
+        <de>Ihr Bericht wurde gelöscht!</de>
+        <it>Il tuo rapporto è stato cancellato!</it>
+        <ur>آپ کی رپورٹ پر خارج کر دیا گیا ہے!</ur>
+    </entry>
+    <entry>
+        <key>Incomplete Form!</key>
+        <en>Incomplete Form!</en>
+        <ja>フォームが不完全です!</ja>
+        <pt>Formulário Incompleto!</pt>
+        <zh-CN>不完全型！</zh-CN>
+        <fr>Formulaire incomplet!</fr>
+        <ar>نموذج غير مكتمل!</ar>
+        <zh-TW>不完全型！</zh-TW>
+        <hi>अधूरे रूप!</hi>
+        <ko>불완전한 양식!</ko>
+        <bn>অসম্পূর্ণ ফরম!</bn>
+        <ru>Неполная форма!</ru>
+        <sq>Forma jo e plotë!</sq>
+        <it>Forma incompleta!</it>
+        <de>Unvollständige Formular!</de>
+        <it>Forma incompleta!</it>
+        <ur>نامکمل فارم!</ur>
+    </entry>
+    <entry>
+        <key>Please fix the items highlighted in red below.</key>
+        <en>Please fix the items highlighted in red below.</en>
+        <ja>下の赤色でハイライトされた項目を修正してください。</ja>
+        <pt>Por favor, corrija os itens marcados em vermelho abaixo.</pt>
+        <zh-CN>请修正下面红色突出显示的项目。</zh-CN>
+        <fr>S'il vous plaît fixer les éléments mis en surbrillance en rouge ci-dessous.</fr>
+        <ar>يرجى تحديد العناصر المميزة باللون الأحمر أدناه.</ar>
+        <zh-TW>請修正下面紅色突出顯示的項目。</zh-TW>
+        <hi>नीचे लाल रंग में हाइलाइट आइटम को ठीक करें।</hi>
+        <ko>아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
+        <bn>নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
+        <ru>Исправьте элементы, выделенные красным цветом ниже.</ru>
+        <sq>Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
+        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
+    </entry>
+</translations>

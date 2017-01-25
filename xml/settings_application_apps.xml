@@ -1,0 +1,117 @@
+<translations>
+    <entry>
+        <key>Apps Settings</key>
+        <en>Apps Settings</en>
+        <ja>アプリ設定</ja>
+        <pt>Configurações dos Apps</pt>
+        <zh-CN>应用程序设置</zh-CN>
+        <fr>Paramètres Apps</fr>
+        <ar>إعدادات التطبيقات</ar>
+        <zh-TW>應用程序設置</zh-TW>
+        <hi>Apps सेटिंग</hi>
+        <ko>앱 설정</ko>
+        <bn>অ্যাপ্লিকেশন সেটিংস</bn>
+        <ru>Настройки приложения</ru>
+        <sq>Apps Settings</sq>
+        <it>Impostazioni Applicazioni</it>
+        <de>Apps Einstellungen</de>
+        <it>Impostazioni Applicazioni</it>
+        <ur>آپلیکیشنز ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Label</key>
+        <en>Label</en>
+        <ja>ラベル</ja>
+        <pt>Rótulo</pt>
+        <zh-CN>标签</zh-CN>
+        <fr>Étiquette</fr>
+        <ar>ملصق</ar>
+        <zh-TW>標籤</zh-TW>
+        <hi>लेबल</hi>
+        <ko>상표</ko>
+        <bn>লেবেল</bn>
+        <ru>метка</ru>
+        <sq>etiketë</sq>
+        <it>Etichetta</it>
+        <de>Etikette</de>
+        <it>Etichetta</it>
+        <ur>لیبل</ur>
+    </entry>
+    <entry>
+        <key>Apps Settings</key>
+        <en>Apps Settings</en>
+        <ja>アプリ設定</ja>
+        <pt>Configurações dos Apps</pt>
+        <zh-CN>应用程序设置</zh-CN>
+        <fr>Paramètres Apps</fr>
+        <ar>إعدادات التطبيقات</ar>
+        <zh-TW>應用程序設置</zh-TW>
+        <hi>Apps सेटिंग</hi>
+        <ko>앱 설정</ko>
+        <bn>অ্যাপ্লিকেশন সেটিংস</bn>
+        <ru>Настройки приложения</ru>
+        <sq>Apps Settings</sq>
+        <it>Impostazioni Applicazioni</it>
+        <de>Apps Einstellungen</de>
+        <it>Impostazioni Applicazioni</it>
+        <ur>آپلیکیشنز ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Remove</key>
+        <en>Remove</en>
+        <ja>削除</ja>
+        <pt>Remover</pt>
+        <zh-CN>去掉</zh-CN>
+        <fr>Retirer</fr>
+        <ar>إزالة</ar>
+        <zh-TW>去掉</zh-TW>
+        <hi>हटाना</hi>
+        <ko>없애다</ko>
+        <bn>অপসারণ</bn>
+        <ru>Удалить</ru>
+        <sq>heq</sq>
+        <it>Rimuovere</it>
+        <de>Entfernen</de>
+        <it>Rimuovere</it>
+        <ur>دور</ur>
+    </entry>
+    <entry>
+        <key>Are you sure you want to remove this app?</key>
+        <en>Are you sure you want to remove this app?</en>
+        <ja>本当にこのアプリを削除しますか?</ja>
+        <pt>Você tem certeza que quer remover este app?</pt>
+        <zh-CN>你确定要删除这个程序？</zh-CN>
+        <fr>Êtes-vous sûr de vouloir supprimer cette application?</fr>
+        <ar>هل أنت متأكد أنك تريد إزالة هذا التطبيق؟</ar>
+        <zh-TW>你確定要刪除這個程序？</zh-TW>
+        <hi>आप इस एप्लिकेशन को निकालना चाहते हैं, आप सुनिश्चित हैं?</hi>
+        <ko>이 앱을 삭제 하시겠습니까?</ko>
+        <bn>আপনি এই অ্যাপ্লিকেশন সরাতে চান আপনি কি নিশ্চিত?</bn>
+        <ru>Вы уверены, что хотите удалить это приложение?</ru>
+        <sq>Jeni te sigurte qe doni te hiqni këtë app?</sq>
+        <it>Sei sicuro di voler rimuovere questa applicazione?</it>
+        <de>Sind Sie sicher, dass Sie diese App zu entfernen?</de>
+        <it>Sei sicuro di voler rimuovere questa applicazione?</it>
+        <ur>آپ اس اپلی کیشن کو ہٹانے کے لئے چاہتے ہیں؟</ur>
+    </entry>
+    <entry>
+        <key>App</key>
+        <en>App</en>
+        <ja>アプリ</ja>
+        <pt>App</pt>
+        <zh-CN>应用</zh-CN>
+        <fr>App</fr>
+        <ar>التطبيق</ar>
+        <zh-TW>應用</zh-TW>
+        <hi>ऐप</hi>
+        <ko>앱</ko>
+        <bn>অ্যাপ</bn>
+        <ru>Приложение</ru>
+        <sq>App</sq>
+        <it>App</it>
+        <de>App</de>
+        <it>App</it>
+        <ur>اپلی کیشن</ur>
+    </entry>
+    <section>settings_application_apps</section>
+</translations>

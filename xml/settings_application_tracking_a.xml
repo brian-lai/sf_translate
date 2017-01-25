@@ -1,0 +1,212 @@
+<translations>
+    <entry>
+        <key>Tracking and Analytics Settings</key>
+        <en>Tracking and Analytics Settings</en>
+        <ja>トラッキングおよび分析設定</ja>
+        <pt>Configurações de Monitoramento e Análise</pt>
+        <zh-CN>跟踪和分析设置</zh-CN>
+        <fr>Suivi et Paramètres Analytics</fr>
+        <ar>تتبع وإعدادات Analytics</ar>
+        <zh-TW>跟踪和分析設置</zh-TW>
+        <hi>ट्रैकिंग और विश्लेषण सेटिंग</hi>
+        <ko>추적 및 분석 설정</ko>
+        <bn>ট্র্যাকিং এবং অ্যানালিটিক্স সেটিংস</bn>
+        <ru>Отслеживание и Настройки Google Analytics</ru>
+        <sq>Ndjekja dhe Analytics Settings</sq>
+        <it>Monitoraggio e Impostazioni Analytics</it>
+        <de>Tracking und Analytics-Einstellungen</de>
+        <it>Monitoraggio e Impostazioni Analytics</it>
+        <ur>ٹریکنگ اور تجزیات ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Website Analytics</key>
+        <en>Website Analytics</en>
+        <ja>ウェブサイト分析</ja>
+        <pt>Análise do Site</pt>
+        <zh-CN>网站分析</zh-CN>
+        <fr>Analytics Website</fr>
+        <ar>تحليلات الموقع</ar>
+        <zh-TW>網站分析</zh-TW>
+        <hi>वेबसाइट विश्लेषिकी</hi>
+        <ko>웹 사이트 분석</ko>
+        <bn>ওয়েবসাইট অ্যানালিটিক্স</bn>
+        <ru>Сайт Analytics</ru>
+        <sq>Website Analytics</sq>
+        <it>analisi dei siti web</it>
+        <de>Website Analytics</de>
+        <it>analisi dei siti web</it>
+        <ur>ویب سائٹ کے تجزیات</ur>
+    </entry>
+    <entry>
+        <key>Add Google Analytics</key>
+        <en>Add Google Analytics</en>
+        <ja>Google Analytics を追加</ja>
+        <pt>Adicionar Google Analytics</pt>
+        <zh-CN>加入Google Analytics</zh-CN>
+        <fr>Ajouter Google Analytics</fr>
+        <ar>إضافة تحليلات جوجل</ar>
+        <zh-TW>加入谷歌Analytics（分析）</zh-TW>
+        <hi>गूगल एनालिटिक्स जोड़े</hi>
+        <ko>Google 웹 로그 분석을 추가</ko>
+        <bn>Google Analytics জুড়ুন</bn>
+        <ru>Добавление Google Analytics</ru>
+        <sq>Shto Google Analytics</sq>
+        <it>Aggiungere Google Analytics</it>
+        <de>In Google Analytics</de>
+        <it>Aggiungere Google Analytics</it>
+        <ur>گوگل کے تجزیات کا اضافہ کریں</ur>
+    </entry>
+    <entry>
+        <key>Optimized for</key>
+        <en>Optimized for</en>
+        <ja>最適化指標</ja>
+        <pt>Otimizado para</pt>
+        <zh-CN>优化</zh-CN>
+        <fr>Optimisé pour</fr>
+        <ar>الأمثل ل</ar>
+        <zh-TW>優化</zh-TW>
+        <hi>के लिए अनुकूलित</hi>
+        <ko>에 최적화</ko>
+        <bn>এর জন্য অপ্টিমাইজ করা</bn>
+        <ru>Оптимизированный для</ru>
+        <sq>optimizuar për</sq>
+        <it>Ottimizzato per</it>
+        <de>Optimiert für</de>
+        <it>Ottimizzato per</it>
+        <ur>کے لئے مرضی کے</ur>
+    </entry>
+    <entry>
+        <key>New Visits</key>
+        <en>New Visits</en>
+        <ja>新規訪問者数</ja>
+        <pt>Novas Visitas</pt>
+        <zh-CN>新造访</zh-CN>
+        <fr>Nouvelles visites</fr>
+        <ar>الزيارات جديدة</ar>
+        <zh-TW>新造訪</zh-TW>
+        <hi>न्यू दर्शक</hi>
+        <ko>신규 방문수</ko>
+        <bn>নিউ ভিজিট</bn>
+        <ru>Новые посещения</ru>
+        <sq>Vizitat e reja</sq>
+        <it>nuove visite</it>
+        <de>Neue Besuche</de>
+        <it>nuove visite</it>
+        <ur>نئے ملاحظات</ur>
+    </entry>
+    <entry>
+        <key>Repeat Visits</key>
+        <en>Repeat Visits</en>
+        <ja>リピーター数</ja>
+        <pt>Visitas Repetidas</pt>
+        <zh-CN>重复访问</zh-CN>
+        <fr>visites répétées</fr>
+        <ar>كرر الزيارات</ar>
+        <zh-TW>重複訪問</zh-TW>
+        <hi>दोहराने का दौरा</hi>
+        <ko>반복 방문</ko>
+        <bn>পুনরাবৃত্তি ভিজিট</bn>
+        <ru>Повторные посещения</ru>
+        <sq>Vizitat përsëritur</sq>
+        <it>visite ripetute</it>
+        <de>Wiederholte Besuche</de>
+        <it>visite ripetute</it>
+        <ur>دہرائیں دورہ</ur>
+    </entry>
+    <entry>
+        <key>New Visits</key>
+        <en>New Visits</en>
+        <ja>新規訪問者数</ja>
+        <pt>Novas Visitas</pt>
+        <zh-CN>新造访</zh-CN>
+        <fr>Nouvelles visites</fr>
+        <ar>الزيارات جديدة</ar>
+        <zh-TW>新造訪</zh-TW>
+        <hi>न्यू दर्शक</hi>
+        <ko>신규 방문수</ko>
+        <bn>নিউ ভিজিট</bn>
+        <ru>Новые посещения</ru>
+        <sq>Vizitat e reja</sq>
+        <it>nuove visite</it>
+        <de>Neue Besuche</de>
+        <it>nuove visite</it>
+        <ur>نئے ملاحظات</ur>
+    </entry>
+    <entry>
+        <key>Repeat Visits</key>
+        <en>Repeat Visits</en>
+        <ja>リピーター数</ja>
+        <pt>Visitas Repetidas</pt>
+        <zh-CN>重复访问</zh-CN>
+        <fr>Répétez Visitis</fr>
+        <ar>كرر Visitis</ar>
+        <zh-TW>重複Visitis</zh-TW>
+        <hi>दोहराएँ Visitis</hi>
+        <ko>Visitis을 반복</ko>
+        <bn>পুনরাবৃত্তি Visitis</bn>
+        <ru>Повторить Visitis</ru>
+        <sq>Përsëriteni Visitis</sq>
+        <it>ripetere Visitis</it>
+        <de>Wiederholen Sie Eliophot</de>
+        <it>ripetere Visitis</it>
+        <ur>دہرائیں دورہ</ur>
+    </entry>
+    <entry>
+        <key>You don't have any shorteners yet.</key>
+        <en>You don't have any shorteners yet.</en>
+        <ja>まだリンク短縮サービスがありません。</ja>
+        <pt>Você ainda não tem nenhum encurtador.</pt>
+        <zh-CN>您没有任何缩短服务呢。</zh-CN>
+        <fr>Vous n'avez pas encore shorteners.</fr>
+        <ar>لم يكن لديك أي تقصير حتى الان.</ar>
+        <zh-TW>您沒有任何縮短服務呢。</zh-TW>
+        <hi>आप किसी भी shorteners अभी तक नहीं है।</hi>
+        <ko>당신은 아직 축약이 없습니다.</ko>
+        <bn>আপনি কোন সংক্ষিপ্ত এখনো আছে না.</bn>
+        <ru>У вас нет никакого shorteners еще.</ru>
+        <sq>Ju nuk keni asnjë shorteners ende.</sq>
+        <it>Non ha ancora nessun shorteners.</it>
+        <de>Sie haben noch keine Verkürzungen noch.</de>
+        <it>Non ha ancora nessun shorteners.</it>
+        <ur>ابھی تک آپ کوئی مختصر کرنے کی ضرورت نہیں ہے.</ur>
+    </entry>
+    <entry>
+        <key>optional</key>
+        <en>optional</en>
+        <ja>任意入力</ja>
+        <pt>opcional</pt>
+        <zh-CN>可选的</zh-CN>
+        <fr>optionnel</fr>
+        <ar>اختياري</ar>
+        <zh-TW>可選的</zh-TW>
+        <hi>वैकल्पिक</hi>
+        <ko>선택 과목</ko>
+        <bn>ঐচ্ছিক</bn>
+        <ru>необязательный</ru>
+        <sq>fakultativ</sq>
+        <it>facoltativo</it>
+        <de>optional</de>
+        <it>facoltativo</it>
+        <ur>اختیاری</ur>
+    </entry>
+    <entry>
+        <key>Client Wide</key>
+        <en>Client Wide</en>
+        <ja>クライアント全般</ja>
+        <pt>Todo o Cliente</pt>
+        <zh-CN>客户端宽</zh-CN>
+        <fr>client large</fr>
+        <ar>عميل الشبكة</ar>
+        <zh-TW>客戶端寬</zh-TW>
+        <hi>हमारे ग्राहकों का वाइड</hi>
+        <ko>넓은 클라이언트</ko>
+        <bn>ক্লায়েন্ট ওয়াইড</bn>
+        <ru>Клиент Wide</ru>
+        <sq>klienti Wide</sq>
+        <it>Cliente larga</it>
+        <de>Client-Weit</de>
+        <it>Cliente larga</it>
+        <ur>وائڈ کلائنٹ</ur>
+    </entry>
+    <section>settings_application_tracking_a</section>
+</translations>

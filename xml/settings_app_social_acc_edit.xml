@@ -1,0 +1,839 @@
+<translations>
+    <entry>
+        <key>Social Account:</key>
+        <en>Social Account:</en>
+        <ja>ソーシャルアカウント:</ja>
+        <pt>Conta Social:</pt>
+        <zh-CN>社会帐号：</zh-CN>
+        <fr>Compte social:</fr>
+        <ar>حساب الاجتماعي:</ar>
+        <zh-TW>社會帳號：</zh-TW>
+        <hi>सामाजिक खाता:</hi>
+        <ko>소셜 계정 :</ko>
+        <bn>সামাজিক অ্যাকাউন্ট:</bn>
+        <ru>Социальный счета:</ru>
+        <sq>Llogaria Social:</sq>
+        <it>Conto sociale:</it>
+        <de>Social-Konto:</de>
+        <it>Conto sociale:</it>
+        <ur>سوشل اکاؤنٹ:</ur>
+    </entry>
+    <entry>
+        <key>Social Account Groups</key>
+        <en>Social Account Groups</en>
+        <ja>ソーシャルアカウントグループ</ja>
+        <pt>Grupos de Contas Sociais</pt>
+        <zh-CN>社交帐户组</zh-CN>
+        <fr>Compte Social Groups</fr>
+        <ar>المجموعات الحساب الاجتماعية</ar>
+        <zh-TW>社交帳戶組</zh-TW>
+        <hi>सामाजिक खाते समूह</hi>
+        <ko>소셜 계정 그룹</ko>
+        <bn>সামাজিক অ্যাকাউন্ট গোষ্ঠীসমূহ</bn>
+        <ru>Группы социального счета</ru>
+        <sq>Grupet Llogaria Social</sq>
+        <it>Gruppi di account di social</it>
+        <de>Social Kontengruppen</de>
+        <it>Gruppi di account di social</it>
+        <ur>سماجی اکاؤنٹ گروپس</ur>
+    </entry>
+    <entry>
+        <key>Date Created</key>
+        <en>Date Created</en>
+        <ja>作成日</ja>
+        <pt>Data de Criação</pt>
+        <zh-CN>创建日期</zh-CN>
+        <fr>date de création</fr>
+        <ar>تاريخ الإنشاء</ar>
+        <zh-TW>創建日期</zh-TW>
+        <hi>निर्माण की तिथि</hi>
+        <ko>작성일</ko>
+        <bn>তারিখ তৈরী</bn>
+        <ru>Дата создания</ru>
+        <sq>Data Krijuar</sq>
+        <it>data di creazione</it>
+        <de>Datum erstellt</de>
+        <it>data di creazione</it>
+        <ur>تاریخ کو پیدا کیا</ur>
+    </entry>
+    <entry>
+        <key>You have no account groups</key>
+        <en>You have no account groups</en>
+        <ja>アカウントグループがありません</ja>
+        <pt>Você não tem grupos de contas</pt>
+        <zh-CN>你有没有考虑组</zh-CN>
+        <fr>Vous avez pas de groupes de compte</fr>
+        <ar>لا يوجد لديك حساب المجموعات</ar>
+        <zh-TW>你有沒有考慮組</zh-TW>
+        <hi>आप कोई खाता नहीं है समूहों</hi>
+        <ko>당신은 계정 그룹이 없습니다</ko>
+        <bn>আপনি কোন একাউন্ট গ্রুপ আছে</bn>
+        <ru>У вас нет учетной записи группы</ru>
+        <sq>Nuk keni asnjë faqe grupe llogari</sq>
+        <it>Non ci sono gruppi di account</it>
+        <de>Sie haben keine Kontengruppen</de>
+        <it>Non ci sono gruppi di account</it>
+        <ur>آپ کے پاس کوئی اکاؤنٹ گروپوں ہے</ur>
+    </entry>
+    <entry>
+        <key>Active Content Sources</key>
+        <en>Active Content Sources</en>
+        <ja>アクティブなコンテンツソース</ja>
+        <pt>Fontes de Conteúdo Ativas</pt>
+        <zh-CN>活动内容来源</zh-CN>
+        <fr>Actifs Sources de contenu</fr>
+        <ar>مصادر المحتويات النشطة</ar>
+        <zh-TW>活動內容來源</zh-TW>
+        <hi>सक्रिय सामग्री सूत्रों का कहना है</hi>
+        <ko>액티브 콘텐츠 소스</ko>
+        <bn>সক্রিয় বিষয়বস্তু সোর্স</bn>
+        <ru>Активные Источники контента</ru>
+        <sq>Burimet aktive Përmbajtja</sq>
+        <it>Attivi origini di contenuto</it>
+        <de>Aktive Inhaltsquellen</de>
+        <it>Attivi origini di contenuto</it>
+        <ur>ایکٹو مواد کے ذرائع</ur>
+    </entry>
+    <entry>
+        <key>Manage Content Sources</key>
+        <en>Manage Content Sources</en>
+        <ja>コンテンツソースの管理</ja>
+        <pt>Gerir Fontes de Conteúdo</pt>
+        <zh-CN>管理内容源</zh-CN>
+        <fr>Gérer les sources de contenu</fr>
+        <ar>إدارة مصادر المحتويات</ar>
+        <zh-TW>管理內容源</zh-TW>
+        <hi>सामग्री स्रोतों का प्रबंधन</hi>
+        <ko>콘텐츠 원본 관리</ko>
+        <bn>বিষয়বস্তু সোর্স পরিচালনা</bn>
+        <ru>Управление источниками содержимого</ru>
+        <sq>Menaxho Burimet Përmbajtja</sq>
+        <it>Gestisci origini di contenuto</it>
+        <de>Inhaltsquellen verwalten</de>
+        <it>Gestisci origini di contenuto</it>
+        <ur>مواد کے ذرائع کا انتظام</ur>
+    </entry>
+    <entry>
+        <key>Go to Content Queue</key>
+        <en>Go to Content Queue</en>
+        <ja>待機中のコンテンツへ移動</ja>
+        <pt>Ir para Fila de Conteúdo</pt>
+        <zh-CN>转到内容队列</zh-CN>
+        <fr>Allez à la file d'attente du contenu</fr>
+        <ar>الذهاب إلى قائمة انتظار المحتوى</ar>
+        <zh-TW>轉到內容隊列</zh-TW>
+        <hi>सामग्री कतार में जाओ</hi>
+        <ko>콘텐츠 대기열로 이동</ko>
+        <bn>বিষয়বস্তু সারিতে যান</bn>
+        <ru>Перейти к содержанию очереди</ru>
+        <sq>Shko në radhë Content</sq>
+        <it>Vai a coda di contenuti</it>
+        <de>Zum Inhalt Queue</de>
+        <it>Vai a coda di contenuti</it>
+        <ur>مواد کی قطار پر جائیں</ur>
+    </entry>
+    <entry>
+        <key>Source</key>
+        <en>Source</en>
+        <ja>ソース</ja>
+        <pt>Fonte</pt>
+        <zh-CN>资源</zh-CN>
+        <fr>La source</fr>
+        <ar>مصدر</ar>
+        <zh-TW>資源</zh-TW>
+        <hi>स्रोत</hi>
+        <ko>출처</ko>
+        <bn>উৎস</bn>
+        <ru>Источник</ru>
+        <sq>burim</sq>
+        <it>fonte</it>
+        <de>Quelle</de>
+        <it>fonte</it>
+        <ur>ذریعہ</ur>
+    </entry>
+    <entry>
+        <key>Date Created</key>
+        <en>Date Created</en>
+        <ja>作成日</ja>
+        <pt>Data de Criação</pt>
+        <zh-CN>创建日期</zh-CN>
+        <fr>date de création</fr>
+        <ar>تاريخ الإنشاء</ar>
+        <zh-TW>創建日期</zh-TW>
+        <hi>निर्माण की तिथि</hi>
+        <ko>작성일</ko>
+        <bn>তারিখ তৈরী</bn>
+        <ru>Дата создания</ru>
+        <sq>Data Krijuar</sq>
+        <it>data di creazione</it>
+        <de>Datum erstellt</de>
+        <it>data di creazione</it>
+        <ur>تاریخ کو پیدا کیا</ur>
+    </entry>
+    <entry>
+        <key>Link Shortener</key>
+        <en>Link Shortener</en>
+        <ja>リンク短縮サービス</ja>
+        <pt>Encurtador de Link</pt>
+        <zh-CN>链接缩短</zh-CN>
+        <fr>Lien Shortener</fr>
+        <ar>رابط المقلل</ar>
+        <zh-TW>鏈接縮短</zh-TW>
+        <hi>लिंक Shortener</hi>
+        <ko>링크 Shortener를</ko>
+        <bn>লিংক সংক্ষেপনকারীর</bn>
+        <ru>Ссылка Shortener</ru>
+        <sq>Link Shortener</sq>
+        <it>collegamento Shortener</it>
+        <de>Link-Shortener</de>
+        <it>collegamento Shortener</it>
+        <ur>لنک اختصار</ur>
+    </entry>
+    <entry>
+        <key>You have no content sources</key>
+        <en>You have no content sources</en>
+        <ja>コンテンツソースがありません</ja>
+        <pt>Você não tem fontes de conteúdo</pt>
+        <zh-CN>你没有内容源</zh-CN>
+        <fr>Vous avez pas de sources de contenu</fr>
+        <ar>لا يوجد لديك مصادر المحتوى</ar>
+        <zh-TW>你沒有內容源</zh-TW>
+        <hi>आप कोई सामग्री सूत्रों का कहना है</hi>
+        <ko>당신은 콘텐츠 원본이 없습니다</ko>
+        <bn>আপনি কোন বিষয়বস্তুর উৎস আছে</bn>
+        <ru>У вас нет источников контента</ru>
+        <sq>Ju nuk keni burime përmbajtjes</sq>
+        <it>Non ci sono fonti di contenuti</it>
+        <de>Sie haben keine Inhaltsquellen</de>
+        <it>Non ci sono fonti di contenuti</it>
+        <ur>آپ کے پاس کوئی مواد کے ذرائع ہے</ur>
+    </entry>
+    <entry>
+        <key>You have no link shortener</key>
+        <en>You have no link shortener</en>
+        <ja>リンク短縮サービスがありません</ja>
+        <pt>Você não tem encurtadores de link</pt>
+        <zh-CN>你没有链接缩短</zh-CN>
+        <fr>Vous avez pas de lien shortener</fr>
+        <ar>لا يوجد لديك المقلل صلة</ar>
+        <zh-TW>你有沒有鏈接縮短</zh-TW>
+        <hi>आप कोई लिंक shortener है</hi>
+        <ko>당신은 더 링크 축약이 없습니다</ko>
+        <bn>আপনি কোন লিংক Shortener আছে</bn>
+        <ru>У вас нет ссылки Shortener</ru>
+        <sq>Ju nuk keni Shortener Lidhje</sq>
+        <it>Lei ha alcun legame shortener</it>
+        <de>Sie haben keinen Link Shortener</de>
+        <it>Lei ha alcun legame shortener</it>
+        <ur>آپ کے پاس کوئی لنک اختصار ہے</ur>
+    </entry>
+    <entry>
+        <key>Messages</key>
+        <en>Messages</en>
+        <ja>メッセージ</ja>
+        <pt>Mensagens</pt>
+        <zh-CN>消息</zh-CN>
+        <fr>messages</fr>
+        <ar>رسائل</ar>
+        <zh-TW>消息</zh-TW>
+        <hi>संदेश</hi>
+        <ko>메시지</ko>
+        <bn>বার্তা</bn>
+        <ru>Сообщения</ru>
+        <sq>mesazhet</sq>
+        <it>messaggi</it>
+        <de>Nachrichten</de>
+        <it>messaggi</it>
+        <ur>پیغامات</ur>
+    </entry>
+    <entry>
+        <key>Default Status:</key>
+        <en>Default Status:</en>
+        <ja>デフォルトのステータス:</ja>
+        <pt>Status Padrão:</pt>
+        <zh-CN>默认状态：</zh-CN>
+        <fr>Statut par défaut:</fr>
+        <ar>الافتراضية الحالة:</ar>
+        <zh-TW>默認狀態：</zh-TW>
+        <hi>डिफ़ॉल्ट स्थिति:</hi>
+        <ko>기본 상태 :</ko>
+        <bn>ডিফল্ট স্থিতি:</bn>
+        <ru>По умолчанию Статус:</ru>
+        <sq>Status Default:</sq>
+        <it>Stato di default:</it>
+        <de>Standard Status:</de>
+        <it>Stato di default:</it>
+        <ur>پہلے سے طے شدہ کی حیثیت:</ur>
+    </entry>
+    <entry>
+        <key>Choose Default</key>
+        <en>Choose Default</en>
+        <ja>デフォルトを選択</ja>
+        <pt>Escolher Padrão</pt>
+        <zh-CN>选择默认</zh-CN>
+        <fr>Choisissez Par défaut</fr>
+        <ar>اختيار افتراضي</ar>
+        <zh-TW>選擇默認</zh-TW>
+        <hi>डिफ़ॉल्ट चुनें</hi>
+        <ko>기본 선택</ko>
+        <bn>ডিফল্ট নির্বাচন করুন</bn>
+        <ru>Выберите По умолчанию</ru>
+        <sq>zgjidhni Default</sq>
+        <it>Scegli di default</it>
+        <de>wählen Sie Standard</de>
+        <it>Scegli di default</it>
+        <ur>پہلے سے طے شدہ انتخاب کریں</ur>
+    </entry>
+    <entry>
+        <key>7 Days</key>
+        <en>7 Days</en>
+        <ja>7 日</ja>
+        <pt>7 Dias</pt>
+        <zh-CN>7天</zh-CN>
+        <fr>7 jours</fr>
+        <ar>7 أيام</ar>
+        <zh-TW>7天</zh-TW>
+        <hi>7 दिन</hi>
+        <ko>7 일</ko>
+        <bn>7 দিন</bn>
+        <ru>7 дней</ru>
+        <sq>7 dite</sq>
+        <it>7 giorni</it>
+        <de>7 Tage</de>
+        <it>7 giorni</it>
+        <ur>7 دن</ur>
+    </entry>
+    <entry>
+        <key>14 Days</key>
+        <en>14 Days</en>
+        <ja>14 日</ja>
+        <pt>14 Dias</pt>
+        <zh-CN>14天</zh-CN>
+        <fr>14 jours</fr>
+        <ar>14 يوما</ar>
+        <zh-TW>14天</zh-TW>
+        <hi>14 दिन</hi>
+        <ko>14 일</ko>
+        <bn>14 দিন</bn>
+        <ru>14 дней</ru>
+        <sq>14 ditë</sq>
+        <it>14 giorni</it>
+        <de>14 Tage</de>
+        <it>14 giorni</it>
+        <ur>14 دن</ur>
+    </entry>
+    <entry>
+        <key>Limit Duplication</key>
+        <en>Limit Duplication</en>
+        <ja>重複を制限</ja>
+        <pt>Duplicação do Limite</pt>
+        <zh-CN>限制复制</zh-CN>
+        <fr>Limite Duplication</fr>
+        <ar>الحد الازدواجية</ar>
+        <zh-TW>限制複製</zh-TW>
+        <hi>सीमा दोहराव</hi>
+        <ko>제한 복제</ko>
+        <bn>সীমা প্রতিলিপিকরণ</bn>
+        <ru>предел Дублирование</ru>
+        <sq>Limit dublikim</sq>
+        <it>limite di duplicazione</it>
+        <de>Limit-Vervielfältigung</de>
+        <it>limite di duplicazione</it>
+        <ur>حد تخلپی</ur>
+    </entry>
+    <entry>
+        <key>Title</key>
+        <en>Title</en>
+        <ja>タイトル</ja>
+        <pt>Título</pt>
+        <zh-CN>标题</zh-CN>
+        <fr>Titre</fr>
+        <ar>لقب</ar>
+        <zh-TW>標題</zh-TW>
+        <hi>शीर्षक</hi>
+        <ko>표제</ko>
+        <bn>খেতাব</bn>
+        <ru>заглавие</ru>
+        <sq>titull</sq>
+        <it>Titolo</it>
+        <de>Titel</de>
+        <it>Titolo</it>
+        <ur>عنوان</ur>
+    </entry>
+    <entry>
+        <key>Title or Link</key>
+        <en>Title or Link</en>
+        <ja>タイトルまたはリンク</ja>
+        <pt>Título ou Link</pt>
+        <zh-CN>标题或链接</zh-CN>
+        <fr>Titre ou lien</fr>
+        <ar>عنوان أو وصلة</ar>
+        <zh-TW>標題或鏈接</zh-TW>
+        <hi>शीर्षक या लिंक</hi>
+        <ko>제목 또는 링크</ko>
+        <bn>শিরোনাম বা লিংক</bn>
+        <ru>Название или Ссылка</ru>
+        <sq>Titulli ose Link</sq>
+        <it>Titolo o link</it>
+        <de>Titel oder Link-</de>
+        <it>Titolo o link</it>
+        <ur>عنوان یا لنک</ur>
+    </entry>
+    <entry>
+        <key>None</key>
+        <en>None</en>
+        <ja>なし</ja>
+        <pt>Nenhum</pt>
+        <zh-CN>无</zh-CN>
+        <fr>Aucun</fr>
+        <ar>لا شيء</ar>
+        <zh-TW>沒有</zh-TW>
+        <hi>कोई नहीं</hi>
+        <ko>없음</ko>
+        <bn>না</bn>
+        <ru>Никто</ru>
+        <sq>Asnje</sq>
+        <it>Nessuna</it>
+        <de>Keiner</de>
+        <it>Nessuna</it>
+        <ur>کوئی بھی نہیں</ur>
+    </entry>
+    <entry>
+        <key>Publishing Limits</key>
+        <en>Publishing Limits</en>
+        <ja>投稿制限</ja>
+        <pt>Limites de Publicação</pt>
+        <zh-CN>发布限制</zh-CN>
+        <fr>Limites d'édition</fr>
+        <ar>حدود النشر</ar>
+        <zh-TW>發布限制</zh-TW>
+        <hi>प्रकाशन की सीमाएं</hi>
+        <ko>게시 제한</ko>
+        <bn>প্রকাশনা সীমা</bn>
+        <ru>Публикация Пределы</ru>
+        <sq>Kufijtë botuese</sq>
+        <it>Limiti Editoria</it>
+        <de>Publishing Limits</de>
+        <it>Limiti Editoria</it>
+        <ur>پبلشنگ کی حدود</ur>
+    </entry>
+    <entry>
+        <key>Let us calculate the best time to publish your content</key>
+        <en>Let us calculate the best time to publish your content</en>
+        <ja>最適な時間を私たちが計算して投稿します</ja>
+        <pt>Deixe-nos calcular o melhor momento para publicar seu conteúdo</pt>
+        <zh-CN>让我们计算发布您的内容的最佳时机</zh-CN>
+        <fr>Calculons le meilleur moment pour publier votre contenu</fr>
+        <ar>دعونا حساب أفضل وقت لنشر المحتوى الخاص بك</ar>
+        <zh-TW>讓我們計算發布您的內容的最佳時機</zh-TW>
+        <hi>हमें सबसे अच्छा समय अपनी सामग्री प्रकाशित करने के लिए की गणना करते हैं</hi>
+        <ko>우리는 귀하의 콘텐츠를 게시하는 가장 좋은 시간을 계산하자</ko>
+        <bn>আমাদের শ্রেষ্ঠ সময় আপনার বিষয়বস্তু প্রকাশ গণনা করা যাক</bn>
+        <ru>Давайте вычислим лучшее время, чтобы публиковать свой контент</ru>
+        <sq>Le të llogaritur kohën më të mirë për të publikuar përmbajtjen tuaj</sq>
+        <it>Calcoliamo il momento migliore per pubblicare il contenuto</it>
+        <de>Lassen Sie uns die beste Zeit, berechnen Sie Ihre Inhalte zu veröffentlichen</de>
+        <it>Calcoliamo il momento migliore per pubblicare il contenuto</it>
+        <ur>ہمیں آپ کے مواد شائع کرنے کے لئے بہترین وقت کا حساب دو</ur>
+    </entry>
+    <entry>
+        <key>Max Messages Per Day</key>
+        <en>Max Messages Per Day</en>
+        <ja>1 日あたり最大メッセージ数</ja>
+        <pt>Máximo de Mensagens por Dia</pt>
+        <zh-CN>最大消息每一天</zh-CN>
+        <fr>Max Messages par jour</fr>
+        <ar>max رسائل لكل يوم</ar>
+        <zh-TW>最大消息每一天</zh-TW>
+        <hi>मैक्स संदेश प्रति दिन</hi>
+        <ko>최대 메시지 당 일</ko>
+        <bn>ম্যাক্স বার্তা দিন প্রতি</bn>
+        <ru>Максимальное количество сообщений в день</ru>
+        <sq>Max mesazhe në ditë</sq>
+        <it>Max messaggi al giorno</it>
+        <de>Max Nachrichten pro Tag</de>
+        <it>Max messaggi al giorno</it>
+        <ur>زیادہ سے زیادہ پیغامات فی دن</ur>
+    </entry>
+    <entry>
+        <key>Optimize (time zone: UTC)</key>
+        <en>Optimize (time zone: UTC)</en>
+        <ja>最適化 ( タイムゾーン: UTC )</ja>
+        <pt>Otimizar (fuso horário: UTC)</pt>
+        <zh-CN>优化（时区：UTC）</zh-CN>
+        <fr>Optimiser (fuseau horaire: GMT)</fr>
+        <ar>تحسين (المنطقة الزمنية: UTC)</ar>
+        <zh-TW>優化（時區：UTC）</zh-TW>
+        <hi>अनुकूलन (समय क्षेत्र: यूटीसी)</hi>
+        <ko>최적화 (시간대 : UTC)</ko>
+        <bn>অপ্টিমিজ (সময় জোন: ইউটিসি)</bn>
+        <ru>Оптимизация (часовой пояс: UTC)</ru>
+        <sq>Jam optimist (zonën kohore: UTC)</sq>
+        <it>Ottimizzare (fuso orario: UTC)</it>
+        <de>Optimieren (Zeitzone: UTC)</de>
+        <it>Ottimizzare (fuso orario: UTC)</it>
+        <ur>اصلاح کریں (ٹائم زون: UTC)</ur>
+    </entry>
+    <entry>
+        <key>Publish between</key>
+        <en>Publish between</en>
+        <ja>次の時間帯に公開</ja>
+        <pt>Publicar entre</pt>
+        <zh-CN>之间发布</zh-CN>
+        <fr>Publier entre</fr>
+        <ar>نشر بين</ar>
+        <zh-TW>之間發布</zh-TW>
+        <hi>के बीच प्रकाशित करें</hi>
+        <ko>사이에 게시</ko>
+        <bn>মধ্যে প্রকাশ</bn>
+        <ru>Опубликовать между</ru>
+        <sq>publikojë në mes të</sq>
+        <it>pubblicare tra</it>
+        <de>veröffentlichen zwischen</de>
+        <it>pubblicare tra</it>
+        <ur>درمیان شائع</ur>
+    </entry>
+    <entry>
+        <key>12 am, 12 pm</key>
+        <en>12 am, 12 pm</en>
+        <ja>12 am, 12 pm</ja>
+        <pt>12 am, 12 pm</pt>
+        <zh-CN>午夜，中午</zh-CN>
+        <fr>00 heures, 12 heures</fr>
+        <ar>00:00، 12:00</ar>
+        <zh-TW>上午12點，下午12點</zh-TW>
+        <hi>12 AM से दोपहर 12 बजे</hi>
+        <ko>자정, 정오</ko>
+        <bn>12 টা, 12 টা</bn>
+        <ru>12 утра, 12 вечера</ru>
+        <sq>00:00 12 pm</sq>
+        <it>00:00, 12:00</it>
+        <de>00.00, 12.00</de>
+        <it>00:00, 12:00</it>
+        <ur>12 AM، 12 PM</ur>
+    </entry>
+    <entry>
+        <key>Max Minutes Between Messages</key>
+        <en>Max Minutes Between Messages</en>
+        <ja>最大メッセージ間隔</ja>
+        <pt>Máximo de Minutos Entre Mensagens</pt>
+        <zh-CN>最大分钟之间的消息</zh-CN>
+        <fr>Entrez le nombre de minutes qui doivent s'écouler entre les messages</fr>
+        <ar>أدخل عدد الدقائق التي يجب أن تنقضي بين الرسائل</ar>
+        <zh-TW>輸入必須的信息之間經過的分鐘數</zh-TW>
+        <hi>मिनट है कि संदेशों के बीच बीत जाना चाहिए की संख्या दर्ज</hi>
+        <ko>메시지 사이에 경과해야하는 시간 (분)을 입력합니다</ko>
+        <bn>মিনিট যে বার্তা মধ্যে অতিবাহিত আবশ্যক সংখ্যা লিখুন</bn>
+        <ru>Введите количество минут, которое должно пройти между сообщениями</ru>
+        <sq>Shkruani numrin e minutave që duhet të kalojnë në mes të mesazheve</sq>
+        <it>Inserire il numero di minuti che devono trascorrere tra i messaggi</it>
+        <de>Geben Sie die Anzahl der Minuten, die zwischen den Nachrichten verstreichen muss,</de>
+        <it>Inserire il numero di minuti che devono trascorrere tra i messaggi</it>
+        <ur>میکس منٹس پیغامات درمیان</ur>
+    </entry>
+    <entry>
+        <key>Enter the maximum minutes between messages</key>
+        <en>Enter the maximum minutes between messages</en>
+        <ja>次のメッセージまでの間隔の最大値を分数で入力</ja>
+        <pt>Insira o máximo de minutos entre mensagens</pt>
+        <zh-CN>输入信息间的最大分钟</zh-CN>
+        <fr>Max Minutes Entre Messages</fr>
+        <ar>ماكس دقائق بين الرسائل</ar>
+        <zh-TW>最大分鐘之間的消息</zh-TW>
+        <hi>संदेश के बीच मैक्स मिनट</hi>
+        <ko>최대 분 메시지 사이</ko>
+        <bn>বার্তা মধ্যে সর্বোচ্চ মিনিট</bn>
+        <ru>Максимальное количество минут между сообщениями</ru>
+        <sq>Max Minutes Midis Messages</sq>
+        <it>Max minuti tra i messaggi</it>
+        <de>Max Minuten zwischen Nachrichten</de>
+        <it>Max minuti tra i messaggi</it>
+        <ur>پیغامات درمیان زیادہ سے زیادہ منٹ درج</ur>
+    </entry>
+    <entry>
+        <key>Key - Value</key>
+        <en>Key - Value</en>
+        <ja>キー – 値</ja>
+        <pt>Chave - Valor</pt>
+        <zh-CN>键 - 值</zh-CN>
+        <fr>Entrez le maximum de minutes entre les messages</fr>
+        <ar>أدخل دقيقة كحد أقصى بين الرسائل</ar>
+        <zh-TW>輸入信息間的最大分鐘</zh-TW>
+        <hi>संदेशों के बीच अधिकतम मिनट दर्ज</hi>
+        <ko>메시지들 간의 최대 분 입력</ko>
+        <bn>বার্তা মধ্যে সর্বাধিক মিনিট লিখুন</bn>
+        <ru>Введите максимальное количество минут между сообщениями</ru>
+        <sq>Shkruani minuta maksimale ndërmjet mesazheve</sq>
+        <it>Inserire il numero massimo di minuti tra i messaggi</it>
+        <de>Geben Sie die maximale Minuten zwischen den Meldungen</de>
+        <it>Inserire il numero massimo di minuti tra i messaggi</it>
+        <ur>کلیدی - ویلیو</ur>
+    </entry>
+    <entry>
+        <key>+Add Another Filter</key>
+        <en>+Add Another Filter</en>
+        <ja>+ 別のフィルターを追加</ja>
+        <pt>+Adicionar Outro Filtro</pt>
+        <zh-CN>+添加另一个过滤器</zh-CN>
+        <fr>Valeur clé</fr>
+        <ar>الرئيسية - القيمة</ar>
+        <zh-TW>鍵 - 值</zh-TW>
+        <hi>मौलिक मूल्य</hi>
+        <ko>키 - 값</ko>
+        <bn>প্রকৃত মূল্য</bn>
+        <ru>Ключ - Значение</ru>
+        <sq>Key - Vlera</sq>
+        <it>Valore chiave</it>
+        <de>Schlüsselwert</de>
+        <it>Valore chiave</it>
+        <ur>+ ایک اور فلٹر شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Remove Account</key>
+        <en>Remove Account</en>
+        <ja>アカウントを削除</ja>
+        <pt>Remover Conta</pt>
+        <zh-CN>删除帐户</zh-CN>
+        <fr>+ Ajouter un autre filtre</fr>
+        <ar>+ إضافة عامل تصفية آخر</ar>
+        <zh-TW>+添加另一個過濾器</zh-TW>
+        <hi>+ एक और फ़िल्टर जोड़ें</hi>
+        <ko>+ 또 다른 필터 추가</ko>
+        <bn>+ আরেকটি ফিল্টার যোগ</bn>
+        <ru>+ Добавить еще один фильтр</ru>
+        <sq>+ Shto tjetër Filter</sq>
+        <it>+ Aggiungere un altro filtro</it>
+        <de>+ Weiteren Filter hinzufügen</de>
+        <it>+ Aggiungere un altro filtro</it>
+        <ur>اکاؤنٹ</ur>
+    </entry>
+    <entry>
+        <key>Remove this account</key>
+        <en>Remove this account</en>
+        <ja>このアカウントを削除</ja>
+        <pt>Remover esta conta</pt>
+        <zh-CN>删除此帐号</zh-CN>
+        <fr>Supprimer le compte</fr>
+        <ar>ازالة الحساب</ar>
+        <zh-TW>刪除帳戶</zh-TW>
+        <hi>खाता हटाएं</hi>
+        <ko>계정 제거</ko>
+        <bn>অ্যাকাউন্ট অপসারণ</bn>
+        <ru>Удалить учетную запись</ru>
+        <sq>Hiq Llogari</sq>
+        <it>Rimuovi l'account</it>
+        <de>Konto entfernen</de>
+        <it>Rimuovi l'account</it>
+        <ur>اس اکاؤنٹ</ur>
+    </entry>
+    <entry>
+        <key>Add Content Sources</key>
+        <en>Add Content Sources</en>
+        <ja>コンテンツソースを追加</ja>
+        <pt>Adicionar Fontes de Conteúdo</pt>
+        <zh-CN>添加内容源</zh-CN>
+        <fr>Supprimer ce compte</fr>
+        <ar>إزالة هذا الحساب</ar>
+        <zh-TW>刪除此帳號</zh-TW>
+        <hi>इस खाता</hi>
+        <ko>이 계정 삭제</ko>
+        <bn>এই অ্যাকাউন্ট</bn>
+        <ru>Удалить эту учетную запись</ru>
+        <sq>Hiqe këtë llogari</sq>
+        <it>Rimuovere questo account</it>
+        <de>Entfernen Sie dieses Konto</de>
+        <it>Rimuovere questo account</it>
+        <ur>مواد کے ذرائع کا اضافہ کریں</ur>
+    </entry>
+    <entry>
+        <key>Pause optimized and scheduled publishing</key>
+        <en>Pause optimized and scheduled publishing</en>
+        <ja>最適化および予約投稿の停止</ja>
+        <pt>Pausar publicação otimizada e agendada</pt>
+        <zh-CN>暂停优化，定时发布</zh-CN>
+        <fr>Ajouter des sources de contenu</fr>
+        <ar>إضافة مصادر المحتوى</ar>
+        <zh-TW>添加內容源</zh-TW>
+        <hi>सामग्री सूत्रों जोड़ें</hi>
+        <ko>콘텐츠 원본 추가</ko>
+        <bn>বিষয়বস্তু সোর্স যোগ</bn>
+        <ru>Добавить Источники контента</ru>
+        <sq>Shto Burimet Përmbajtja</sq>
+        <it>Aggiungere origini di contenuto</it>
+        <de>In Inhaltsquellen</de>
+        <it>Aggiungere origini di contenuto</it>
+        <ur>اصلاح اور شیڈول پبلشنگ روک دیں</ur>
+    </entry>
+    <entry>
+        <key>Pause publishing from queue</key>
+        <en>Pause publishing from queue</en>
+        <ja>キューからの投稿を一旦停止</ja>
+        <pt>Pausar publicação da fila</pt>
+        <zh-CN>暂停从队列发布</zh-CN>
+        <fr>Pause édition optimisée et prévue</fr>
+        <ar>وقفة النشر الأمثل والمقرر</ar>
+        <zh-TW>暫停優化，定時發布</zh-TW>
+        <hi>रोकें अनुकूलित और अनुसूचित प्रकाशन</hi>
+        <ko>최적화 및 예약 게시를 일시 중지</ko>
+        <bn>বিরাম অপ্টিমাইজ এবং নির্ধারিত প্রকাশনা</bn>
+        <ru>Пауза и оптимизированный по расписанию публикации</ru>
+        <sq>Ndalo publikimin optimizuar dhe të planifikuar</sq>
+        <it>Pausa pubblicazione ottimizzata e programmata</it>
+        <de>Pause optimiert und geplant Publishing</de>
+        <it>Pausa pubblicazione ottimizzata e programmata</it>
+        <ur>قطار سے شائع کر روک دیں</ur>
+    </entry>
+    <entry>
+        <key>Resume publishing from queue</key>
+        <en>Resume publishing from queue</en>
+        <ja>キューからの投稿を再開する</ja>
+        <pt>Reiniciar publicação da fila</pt>
+        <zh-CN>恢复从队列发布</zh-CN>
+        <fr>Pause la publication de la file d'attente</fr>
+        <ar>وقفة نشر من قائمة الانتظار</ar>
+        <zh-TW>暫停從隊列發布</zh-TW>
+        <hi>कतार से प्रकाशन रोकें</hi>
+        <ko>큐에서 게시 일시 중지</ko>
+        <bn>সারি থেকে প্রকাশ বিরাম</bn>
+        <ru>Пауза публикации из очереди</ru>
+        <sq>Ndalo botuese nga radhë</sq>
+        <it>Pausa pubblicazione dalla coda</it>
+        <de>Pause Veröffentlichung aus der Warteschlange</de>
+        <it>Pausa pubblicazione dalla coda</it>
+        <ur>قطار سے شائع کر دوبارہ شروع</ur>
+    </entry>
+    <entry>
+        <key>Publishing is currently paused for this client service</key>
+        <en>Publishing is currently paused for this client service</en>
+        <ja>このアカウントへの投稿は現在停止中です</ja>
+        <pt>As publicações estão pausadas para este cliente</pt>
+        <zh-CN>出版目前已暂停该客户服务</zh-CN>
+        <fr>Reprendre la publication de la file d'attente</fr>
+        <ar>استئناف إصدار من قائمة الانتظار</ar>
+        <zh-TW>恢復從隊列發布</zh-TW>
+        <hi>कतार से प्रकाशन फिर से शुरू</hi>
+        <ko>큐에서 게시 재개</ko>
+        <bn>সারি থেকে প্রকাশ পুনঃসূচনা</bn>
+        <ru>Резюме публикации из очереди</ru>
+        <sq>Resume botuese nga radhë</sq>
+        <it>Riprendi pubblicazione dalla coda</it>
+        <de>Lebenslauf aus der Warteschlange zu veröffentlichen</de>
+        <it>Riprendi pubblicazione dalla coda</it>
+        <ur>پبلشنگ فی الحال اس کے کلائنٹ کی خدمت کے لئے روک دیا گیا ہے</ur>
+    </entry>
+    <entry>
+        <key>Publishing is on schedule for this client service</key>
+        <en>Publishing is on schedule for this client service</en>
+        <ja>このアカウントへの投稿はスケジュール通り行われています</ja>
+        <pt>As publicações deste cliente estão sendo realizadas como programado</pt>
+        <zh-CN>出版按期进行这项客户服务</zh-CN>
+        <fr>Publishing est actuellement en pause pour ce service client</fr>
+        <ar>بشكل مؤقت النشر حاليا لهذه الخدمة العميل</ar>
+        <zh-TW>出版目前已暫停該客戶服務</zh-TW>
+        <hi>प्रकाशन वर्तमान में इस ग्राहक सेवा के लिए रोक दिया गया है</hi>
+        <ko>출판은 현재이 클라이언트 서비스 일시 중지</ko>
+        <bn>প্রকাশনা বর্তমানে এই গ্রাহক সেবা জন্য বিরতি দেওয়া হয়েছে</bn>
+        <ru>Издательство в настоящее время приостановлена ​​для этого обслуживания клиентов</ru>
+        <sq>Botime aktualisht ndaluar për këtë shërbim të klientit</sq>
+        <it>Publishing è attualmente in pausa per questo servizio clienti</it>
+        <de>Publishing wird zur Zeit für diesen Client-Dienst angehalten</de>
+        <it>Publishing è attualmente in pausa per questo servizio clienti</it>
+        <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے شیڈول کے مطابق ہے</ur>
+    </entry>
+    <entry>
+        <key>Are you sure you want to pause publishing?</key>
+        <en>Are you sure you want to pause publishing?</en>
+        <ja>本当に投稿を停止しますか？</ja>
+        <pt>Você tem certeza que quer pausar as publicações?</pt>
+        <zh-CN>你确定要暂停出版？</zh-CN>
+        <fr>Publishing est le calendrier prévu pour ce service à la clientèle</fr>
+        <ar>نشر في الموعد المحدد لهذه الخدمة العميل</ar>
+        <zh-TW>出版按期進行這項客戶服務</zh-TW>
+        <hi>प्रकाशन इस ग्राहक सेवा के लिए समय पर है</hi>
+        <ko>출판이 클라이언트 서비스 일정에</ko>
+        <bn>প্রকাশনা এই গ্রাহক সেবা জন্য পরিকল্পনাতে হয়</bn>
+        <ru>Издательский идет по графику для данного клиентского сервиса</ru>
+        <sq>Publishing është në plan për këtë shërbim të klientit</sq>
+        <it>La pubblicazione è in programma per questo servizio al cliente</it>
+        <de>Die Veröffentlichung ist im Zeitplan für diesen Client Service</de>
+        <it>La pubblicazione è in programma per questo servizio al cliente</it>
+        <ur>کیا آپ پبلشنگ روکنے کے لئے چاہتے ہیں؟</ur>
+    </entry>
+    <entry>
+        <key>Messages optimized or scheduled to publish will fail to send until normal publishing is resumed.</key>
+        <en>Messages optimized or scheduled to publish will fail to send until normal publishing is resumed.</en>
+        <ja>最適化投稿または予約投稿を選択されたキュー内のメッセージは、通常投稿に戻るまで投稿されません</ja>
+        <pt>Mensagens otimizadas ou agendadas não serão publicadas até que a publicação normal seja reiniciada</pt>
+        <zh-CN>优化或计划的发布将无法要发送的消息，直到正常出版被恢复。</zh-CN>
+        <fr>Etes-vous sûr que vous voulez faire une pause édition?</fr>
+        <ar>هل أنت متأكد أنك تريد قفة النشر؟</ar>
+        <zh-TW>你確定要暫停出版？</zh-TW>
+        <hi>क्या आप वाकई प्रकाशन रोकना चाहते हैं?</hi>
+        <ko>당신은 당신이 게시를 중지 하시겠습니까?</ko>
+        <bn>আপনি কি নিশ্চিত যে আপনি প্রকাশনা বিরাম ইচ্ছুক?</bn>
+        <ru>Вы уверены, что хотите приостановить публикацию?</ru>
+        <sq>Jeni te sigurte qe doni te pauzë botuese?</sq>
+        <it>Sei sicuro che si desidera sospendere la pubblicazione?</it>
+        <de>Sind Sie sicher, dass Sie Publishing pausieren?</de>
+        <it>Sei sicuro che si desidera sospendere la pubblicazione?</it>
+        <ur>جب تک معمول کی پبلشنگ کا سلسلہ دوبارہ شروع کیا ہے مرضی یا ناکام ہو جائے گی میں شائع کرنا شیڈول پیغامات بھیجنے کے.</ur>
+    </entry>
+    <entry>
+        <key>Yes, pause publishing</key>
+        <en>Yes, pause publishing</en>
+        <ja>はい、投稿を停止します</ja>
+        <pt>Sim, pause a publicação</pt>
+        <zh-CN>是的，暂停发布</zh-CN>
+        <fr>Messages optimisés ou programmés pour publier ne parviendra pas à envoyer jusqu'à l'édition normale est reprise.</fr>
+        <ar>رسائل الأمثل أو المقرر ستفشل لنشر لارسال حتى يتم استئناف النشر العادي.</ar>
+        <zh-TW>優化或計劃的發布將無法要發送的消息，直到正常出版被恢復。</zh-TW>
+        <hi>अनुकूलित या असफल हो जायेगी प्रकाशित करने के लिए अनुसूचित संदेश जब तक सामान्य प्रकाशन फिर से शुरू है भेजने के लिए।</hi>
+        <ko>정상 출판이 재개 될 때까지 최적화 또는 실패에 게시 할 예정 메시지를 보낼 수 있습니다.</ko>
+        <bn>অপ্টিমাইজ বা ব্যর্থ হবে প্রকাশ করতে নির্ধারিত বার্তা পর্যন্ত স্বাভাবিক প্রকাশনা পুনরায় শুরু করা পাঠাতে.</bn>
+        <ru>Сообщения Оптимизированные или запланированные публикации не смогут отправить до нормального публикация не будет возобновлена.</ru>
+        <sq>Mesazhet optimizuar ose të planifikuara për të publikuar do të dështojnë për të dërguar derisa botuese normal është rifilloi.</sq>
+        <it>Messaggi ottimizzati o in programma di pubblicare mancherà di inviare fino a quando si riprende la pubblicazione normale.</it>
+        <de>Nachrichten optimiert oder geplant zu veröffentlichen zu senden scheitern, bis die normale Publishing wieder aufgenommen wird.</de>
+        <it>Messaggi ottimizzati o in programma di pubblicare mancherà di inviare fino a quando si riprende la pubblicazione normale.</it>
+        <ur>جی ہاں، توقف پبلشنگ</ur>
+    </entry>
+    <entry>
+        <key>utm_term</key>
+        <en>utm_term</en>
+        <ja>utm_term</ja>
+        <pt>utm_term</pt>
+        <zh-CN>utm_term</zh-CN>
+        <fr>Oui, édition de pause</fr>
+        <ar>نعم، والنشر وقفة</ar>
+        <zh-TW>是的，暫停發布</zh-TW>
+        <hi>हाँ, ठहराव प्रकाशन</hi>
+        <ko>네, 일시 정지 출판</ko>
+        <bn>হ্যাঁ, বিরতি প্রকাশনা</bn>
+        <ru>Да, пауза издательство</ru>
+        <sq>Po, botuese pauzë</sq>
+        <it>Sì, la pubblicazione di pausa</it>
+        <de>Ja, Pause-Publishing</de>
+        <it>Sì, la pubblicazione di pausa</it>
+        <ur>utm_term</ur>
+    </entry>
+    <entry>
+        <key>utm_term</key>
+        <en>utm_term</en>
+        <ja>utm_term</ja>
+        <pt>utm_term</pt>
+        <zh-CN>utm_term</zh-CN>
+        <fr>utm_term</fr>
+        <ar>المتغير utm_term</ar>
+        <zh-TW>utm_term</zh-TW>
+        <hi>utm_term</hi>
+        <ko>utm_term과</ko>
+        <bn>utm_term</bn>
+        <ru>utm_term</ru>
+        <sq>utm_term</sq>
+        <it>utm_term</it>
+        <de>utm_term</de>
+        <it>utm_term</it>
+        <ur>utm_term</ur>
+    </entry>
+    <section>settings_app_social_acc_edit</section>
+</translations>

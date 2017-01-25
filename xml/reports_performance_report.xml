@@ -1,0 +1,782 @@
+<translations>
+    <entry>
+        <key>Save Report</key>
+        <en>Save Report</en>
+        <ja>レポートを保存</ja>
+        <pt>Salvar Relatório</pt>
+        <zh-CN>保存报告</zh-CN>
+        <fr>Enregistrer le rapport</fr>
+        <ar>احفظ التقرير</ar>
+        <zh-TW>保存報告</zh-TW>
+        <hi>बचाने के लिए रिपोर्ट</hi>
+        <ko>보고서 저장</ko>
+        <bn>সংরক্ষণ প্রতিবেদন</bn>
+        <ru>Сохранить отчет</ru>
+        <sq>Save Report</sq>
+        <it>Salva report</it>
+        <de>Bericht speichern</de>
+        <it>Salva report</it>
+        <ur>محفوظ کریں اور رپورٹ</ur>
+    </entry>
+    <entry>
+        <key>More Options</key>
+        <en>More Options</en>
+        <ja>追加オプション</ja>
+        <pt>Mais Opções</pt>
+        <zh-CN>更多的选择</zh-CN>
+        <fr>Plus d'options</fr>
+        <ar>خيارات أخرى</ar>
+        <zh-TW>更多的選擇</zh-TW>
+        <hi>अधिक विकल्प</hi>
+        <ko>추가 옵션</ko>
+        <bn>আরও বিকল্প</bn>
+        <ru>Больше вариантов</ru>
+        <sq>Me shume opsione</sq>
+        <it>Più opzioni</it>
+        <de>Mehr Optionen</de>
+        <it>Più opzioni</it>
+        <ur>مزید زرائے</ur>
+    </entry>
+    <entry>
+        <key>More Options</key>
+        <en>More Options</en>
+        <ja>追加オプション</ja>
+        <pt>Mais Opções</pt>
+        <zh-CN>更多的选择</zh-CN>
+        <fr>Plus d'options</fr>
+        <ar>خيارات أخرى</ar>
+        <zh-TW>更多的選擇</zh-TW>
+        <hi>अधिक विकल्प</hi>
+        <ko>추가 옵션</ko>
+        <bn>আরও বিকল্প</bn>
+        <ru>Больше вариантов</ru>
+        <sq>Me shume opsione</sq>
+        <it>Più opzioni</it>
+        <de>Mehr Optionen</de>
+        <it>Più opzioni</it>
+        <ur>مزید زرائے</ur>
+    </entry>
+    <entry>
+        <key>Accounts</key>
+        <en>Accounts</en>
+        <ja>アカウント</ja>
+        <pt>Contas</pt>
+        <zh-CN>帐号</zh-CN>
+        <fr>Comptes</fr>
+        <ar>حسابات</ar>
+        <zh-TW>帳號</zh-TW>
+        <hi>हिसाब किताब</hi>
+        <ko>계정</ko>
+        <bn>হিসাব</bn>
+        <ru>Счета</ru>
+        <sq>llogaritë</sq>
+        <it>conti</it>
+        <de>Accounts</de>
+        <it>conti</it>
+        <ur>اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Chart Settings</key>
+        <en>Chart Settings</en>
+        <ja>グラフ設定</ja>
+        <pt>Configurações do Gráfico</pt>
+        <zh-CN>图表设置</zh-CN>
+        <fr>Paramètres du tableau</fr>
+        <ar>إعدادات الرسم البياني</ar>
+        <zh-TW>圖表設置</zh-TW>
+        <hi>चार्ट सेटिंग</hi>
+        <ko>차트 설정</ko>
+        <bn>চার্ট সেটিংস</bn>
+        <ru>Параметры диаграммы</ru>
+        <sq>Cilësimet term</sq>
+        <it>Impostazioni grafico</it>
+        <de>Charteinstellungen</de>
+        <it>Impostazioni grafico</it>
+        <ur>چارٹ ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Conversion</key>
+        <en>Conversion</en>
+        <ja>コンバージョン</ja>
+        <pt>Conversão</pt>
+        <zh-CN>转变</zh-CN>
+        <fr>Conversion</fr>
+        <ar>تحويل</ar>
+        <zh-TW>轉變</zh-TW>
+        <hi>रूपांतरण</hi>
+        <ko>변환</ko>
+        <bn>পরিবর্তন</bn>
+        <ru>конверсионный</ru>
+        <sq>konvertimit</sq>
+        <it>Conversione</it>
+        <de>Umwandlung</de>
+        <it>Conversione</it>
+        <ur>تبادلوں سے</ur>
+    </entry>
+    <entry>
+        <key>Contribution</key>
+        <en>Contribution</en>
+        <ja>コントリビューション</ja>
+        <pt>Contribuição</pt>
+        <zh-CN>贡献</zh-CN>
+        <fr>Contribution</fr>
+        <ar>إسهام</ar>
+        <zh-TW>貢獻</zh-TW>
+        <hi>योगदान</hi>
+        <ko>기부</ko>
+        <bn>অবদান</bn>
+        <ru>Вклад</ru>
+        <sq>kontribut</sq>
+        <it>Contributo</it>
+        <de>Beitrag</de>
+        <it>Contributo</it>
+        <ur>شراکت</ur>
+    </entry>
+    <entry>
+        <key>Comments</key>
+        <en>Comments</en>
+        <ja>コメント</ja>
+        <pt>Comentários</pt>
+        <zh-CN>注释</zh-CN>
+        <fr>commentaires</fr>
+        <ar>تعليقات</ar>
+        <zh-TW>註釋</zh-TW>
+        <hi>टिप्पणियाँ</hi>
+        <ko>댓글</ko>
+        <bn>মন্তব্য</bn>
+        <ru>Комментарии</ru>
+        <sq>Comments</sq>
+        <it>Commenti</it>
+        <de>Bemerkungen</de>
+        <it>Commenti</it>
+        <ur>تبصرے</ur>
+    </entry>
+    <entry>
+        <key>Mentions</key>
+        <en>Mentions</en>
+        <ja>メンション</ja>
+        <pt>Menções</pt>
+        <zh-CN>提及</zh-CN>
+        <fr>Mentions</fr>
+        <ar>يذكر</ar>
+        <zh-TW>提及</zh-TW>
+        <hi>उल्लेखों</hi>
+        <ko>언급</ko>
+        <bn>উল্লেখ</bn>
+        <ru>Упоминания</ru>
+        <sq>përmend</sq>
+        <it>menzioni</it>
+        <de>Mentions</de>
+        <it>menzioni</it>
+        <ur>ذکر</ur>
+    </entry>
+    <entry>
+        <key>Likes</key>
+        <en>Likes</en>
+        <ja>いいね!</ja>
+        <pt>Curtidas</pt>
+        <zh-CN>喜欢</zh-CN>
+        <fr>Aime</fr>
+        <ar>الإعجابات</ar>
+        <zh-TW>喜歡</zh-TW>
+        <hi>को यह पसंद है</hi>
+        <ko>좋아</ko>
+        <bn>পছন্দগুলি</bn>
+        <ru>Нравится</ru>
+        <sq>preferencë</sq>
+        <it>Piace</it>
+        <de>Likes</de>
+        <it>Piace</it>
+        <ur>پسندیدگیاں</ur>
+    </entry>
+    <entry>
+        <key>Sharing</key>
+        <en>Sharing</en>
+        <ja>共有</ja>
+        <pt>Compartilhando</pt>
+        <zh-CN>分享</zh-CN>
+        <fr>Partage</fr>
+        <ar>مشاركة</ar>
+        <zh-TW>分享</zh-TW>
+        <hi>शेयरिंग</hi>
+        <ko>공유</ko>
+        <bn>ভাগ করা</bn>
+        <ru>разделение</ru>
+        <sq>Ndarja</sq>
+        <it>compartecipazione</it>
+        <de>teilen</de>
+        <it>compartecipazione</it>
+        <ur>اشتراک کرنا</ur>
+    </entry>
+    <entry>
+        <key>Retweets</key>
+        <en>Retweets</en>
+        <ja>リツイート</ja>
+        <pt>Retweets</pt>
+        <zh-CN>重发</zh-CN>
+        <fr>Retweets</fr>
+        <ar>إعادة مشاركات tweet</ar>
+        <zh-TW>銳推</zh-TW>
+        <hi>रीट्वीट</hi>
+        <ko>리트 윗</ko>
+        <bn>পুন</bn>
+        <ru>ретвитов</ru>
+        <sq>retweets</sq>
+        <it>retweet</it>
+        <de>Retweets</de>
+        <it>retweet</it>
+        <ur>ریٹویٹ</ur>
+    </entry>
+    <entry>
+        <key>Shares</key>
+        <en>Shares</en>
+        <ja>シェア</ja>
+        <pt>Compartilhamentos</pt>
+        <zh-CN>共享</zh-CN>
+        <fr>Actions</fr>
+        <ar>سهم</ar>
+        <zh-TW>分享</zh-TW>
+        <hi>शेयरों</hi>
+        <ko>주식</ko>
+        <bn>শেয়ার</bn>
+        <ru>Акции</ru>
+        <sq>aksionet</sq>
+        <it>azioni</it>
+        <de>Anteile</de>
+        <it>azioni</it>
+        <ur>حصص</ur>
+    </entry>
+    <entry>
+        <key>Audience</key>
+        <en>Audience</en>
+        <ja>オーディエンス</ja>
+        <pt>Audiência</pt>
+        <zh-CN>听众</zh-CN>
+        <fr>Public</fr>
+        <ar>جمهور</ar>
+        <zh-TW>聽眾</zh-TW>
+        <hi>दर्शक</hi>
+        <ko>청중</ko>
+        <bn>পাঠকবর্গ</bn>
+        <ru>Аудитория</ru>
+        <sq>audiencë</sq>
+        <it>Pubblico</it>
+        <de>Publikum</de>
+        <it>Pubblico</it>
+        <ur>سامعین</ur>
+    </entry>
+    <entry>
+        <key>Follows</key>
+        <en>Follows</en>
+        <ja>フォロー</ja>
+        <pt>Seguidores</pt>
+        <zh-CN>如下</zh-CN>
+        <fr>suit</fr>
+        <ar>يتبع</ar>
+        <zh-TW>如下</zh-TW>
+        <hi>इस प्रकार</hi>
+        <ko>다음</ko>
+        <bn>অনুসরণ</bn>
+        <ru>Соблюдает</ru>
+        <sq>ndjek</sq>
+        <it>segue</it>
+        <de>folgt</de>
+        <it>segue</it>
+        <ur>مندرجہ ذیل ہے</ur>
+    </entry>
+    <entry>
+        <key>Page Likes</key>
+        <en>Page Likes</en>
+        <ja>ページの「いいね！」</ja>
+        <pt>Curtidas da Página</pt>
+        <zh-CN>喜欢页</zh-CN>
+        <fr>page Likes</fr>
+        <ar>صفحة المرسل</ar>
+        <zh-TW>喜歡頁</zh-TW>
+        <hi>पेज पसंद</hi>
+        <ko>페이지 '좋아요'</ko>
+        <bn>পাতা পছন্দ</bn>
+        <ru>Симпатии Страница</ru>
+        <sq>Faqe Likes</sq>
+        <it>Mi piace Pagina</it>
+        <de>Seite Likes</de>
+        <it>Mi piace Pagina</it>
+        <ur>صفحہ پسند کرتا ہے</ur>
+    </entry>
+    <entry>
+        <key>(No Data)</key>
+        <en>(No Data)</en>
+        <ja>(データなし)</ja>
+        <pt>(Sem Dados)</pt>
+        <zh-CN>（没有数据）</zh-CN>
+        <fr>(Pas de données)</fr>
+        <ar>(لايوجد بيانات)</ar>
+        <zh-TW>（沒有數據）</zh-TW>
+        <hi>(कोई आकड़ा उपलब्ध नहीं है)</hi>
+        <ko>(데이터 없음)</ko>
+        <bn>(কোন তথ্য)</bn>
+        <ru>(Нет данных)</ru>
+        <sq>(No Data)</sq>
+        <it>(Nessun dato)</it>
+        <de>(Keine Daten)</de>
+        <it>(Nessun dato)</it>
+        <ur>(کوئی مواد نہیں)</ur>
+    </entry>
+    <entry>
+        <key>Accounts</key>
+        <en>Accounts</en>
+        <ja>アカウント</ja>
+        <pt>Contas</pt>
+        <zh-CN>帐号</zh-CN>
+        <fr>Comptes</fr>
+        <ar>حسابات</ar>
+        <zh-TW>帳號</zh-TW>
+        <hi>हिसाब किताब</hi>
+        <ko>계정</ko>
+        <bn>হিসাব</bn>
+        <ru>Счета</ru>
+        <sq>llogaritë</sq>
+        <it>conti</it>
+        <de>Accounts</de>
+        <it>conti</it>
+        <ur>اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Retweets/Shares</key>
+        <en>Retweets/Shares</en>
+        <ja>リツイート/共有</ja>
+        <pt>Retweets/Compartilhamentos</pt>
+        <zh-CN>重发/共享</zh-CN>
+        <fr>Retweets / Actions</fr>
+        <ar>إعادة مشاركات tweet / أسهم</ar>
+        <zh-TW>轉推/股</zh-TW>
+        <hi>रीट्वीट / शेयर</hi>
+        <ko>리트 윗 / 공유</ko>
+        <bn>পুন / শেয়ারগুলি</bn>
+        <ru>Ретвитов / Акции</ru>
+        <sq>Retweets / Aksionet</sq>
+        <it>Retweets / Azioni</it>
+        <de>Retweets / Aktien</de>
+        <it>Retweets / Azioni</it>
+        <ur>ریٹویٹ / حصص</ur>
+    </entry>
+    <entry>
+        <key>Published Date</key>
+        <en>Published Date</en>
+        <ja>投稿日</ja>
+        <pt>Data de Publicação</pt>
+        <zh-CN>发布日期</zh-CN>
+        <fr>date de publication</fr>
+        <ar>تاريخ النشر</ar>
+        <zh-TW>發布日期</zh-TW>
+        <hi>प्रकाशन की तारीख</hi>
+        <ko>게시 된 날짜</ko>
+        <bn>Published তারিখ</bn>
+        <ru>Дата публикации</ru>
+        <sq>publikuar Date</sq>
+        <it>Data pubblicazione</it>
+        <de>Veröffentlichungsdatum</de>
+        <it>Data pubblicazione</it>
+        <ur>اشاعت کی تاریخ</ur>
+    </entry>
+    <entry>
+        <key>Message</key>
+        <en>Message</en>
+        <ja>メッセージ</ja>
+        <pt>Mensagem</pt>
+        <zh-CN>信息</zh-CN>
+        <fr>Message</fr>
+        <ar>الرسالة</ar>
+        <zh-TW>信息</zh-TW>
+        <hi>संदेश</hi>
+        <ko>메시지</ko>
+        <bn>বার্তা</bn>
+        <ru>Сообщение</ru>
+        <sq>mesazh</sq>
+        <it>Messaggio</it>
+        <de>Nachricht</de>
+        <it>Messaggio</it>
+        <ur>پیغام</ur>
+    </entry>
+    <entry>
+        <key>External Message</key>
+        <en>External Message</en>
+        <ja>外部メッセージ</ja>
+        <pt>Mensagem Externa</pt>
+        <zh-CN>外部信息</zh-CN>
+        <fr>message externe</fr>
+        <ar>رسالة خارجية</ar>
+        <zh-TW>外部郵件</zh-TW>
+        <hi>बाहरी संदेश</hi>
+        <ko>외부 메시지</ko>
+        <bn>এক্সটার্নাল পাঠান</bn>
+        <ru>Внешнее сообщение</ru>
+        <sq>Mesazhi i jashtëm</sq>
+        <it>Messaggio esterno</it>
+        <de>Externe Nachricht</de>
+        <it>Messaggio esterno</it>
+        <ur>بیرونی پیغام</ur>
+    </entry>
+    <entry>
+        <key>View Report</key>
+        <en>View Report</en>
+        <ja>レポートを見る</ja>
+        <pt>Ver Relatório</pt>
+        <zh-CN>查看报告</zh-CN>
+        <fr>Voir le rapport</fr>
+        <ar>عرض التقرير</ar>
+        <zh-TW>查看報告</zh-TW>
+        <hi>रिपोर्ट देखें</hi>
+        <ko>보고서보기</ko>
+        <bn>দেখুন রিপোর্ট</bn>
+        <ru>Просмотреть отчет</ru>
+        <sq>Shiko Report</sq>
+        <it>Visualizza rapporto</it>
+        <de>Zeige Bericht</de>
+        <it>Visualizza rapporto</it>
+        <ur>رپورٹ ملاحظہ کریں</ur>
+    </entry>
+    <entry>
+        <key>Accounts</key>
+        <en>Accounts</en>
+        <ja>アカウント</ja>
+        <pt>Contas</pt>
+        <zh-CN>帐号</zh-CN>
+        <fr>Comptes</fr>
+        <ar>حسابات</ar>
+        <zh-TW>帳號</zh-TW>
+        <hi>हिसाब किताब</hi>
+        <ko>계정</ko>
+        <bn>হিসাব</bn>
+        <ru>Счета</ru>
+        <sq>llogaritë</sq>
+        <it>conti</it>
+        <de>Accounts</de>
+        <it>conti</it>
+        <ur>اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>More Options</key>
+        <en>More Options</en>
+        <ja>追加オプション</ja>
+        <pt>Mais Opções</pt>
+        <zh-CN>更多的选择</zh-CN>
+        <fr>Plus d'options</fr>
+        <ar>خيارات أخرى</ar>
+        <zh-TW>更多的選擇</zh-TW>
+        <hi>अधिक विकल्प</hi>
+        <ko>추가 옵션</ko>
+        <bn>আরও বিকল্প</bn>
+        <ru>Больше вариантов</ru>
+        <sq>Me shume opsione</sq>
+        <it>Più opzioni</it>
+        <de>Mehr Optionen</de>
+        <it>Più opzioni</it>
+        <ur>مزید زرائے</ur>
+    </entry>
+    <entry>
+        <key>Adjust your report timeframe.</key>
+        <en>Adjust your report timeframe.</en>
+        <ja>レポートの時間枠を調整</ja>
+        <pt>Ajuste o intervalo de tempo do relatório.</pt>
+        <zh-CN>调整你的报告时间表。</zh-CN>
+        <fr>Ajustez votre rapport délai.</fr>
+        <ar>ضبط زمني التقرير الخاص بك.</ar>
+        <zh-TW>調整你的報告時間表。</zh-TW>
+        <hi>अपनी रिपोर्ट समय सीमा को समायोजित करें।</hi>
+        <ko>보고서 기간을 조정합니다.</ko>
+        <bn>আপনার প্রতিবেদন সময়সীমার সামঞ্জস্যবিধান.</bn>
+        <ru>Настройте свой отчет временной промежуток.</ru>
+        <sq>Rregulluar raportin kohor tuaj.</sq>
+        <it>Regolare il rapporto temporale.</it>
+        <de>Passen Sie Ihren Bericht Zeitrahmen.</de>
+        <it>Regolare il rapporto temporale.</it>
+        <ur>آپ کی رپورٹ ٹائم فریم کو ایڈجسٹ کریں.</ur>
+    </entry>
+    <entry>
+        <key>Select from bar, stacked bar, line or area graphs.</key>
+        <en>Select from bar, stacked bar, line or area graphs.</en>
+        <ja>棒、積み重ね棒、折れ線、面グラフから選択。</ja>
+        <pt>Selecione entre gráficos de barras, barras empilhadas, linha ou área</pt>
+        <zh-CN>从柱状图，堆叠柱状图，线或面图形选择。</zh-CN>
+        <fr>Sélectionnez à partir de barres, barres empilées, ligne ou graphiques de la région.</fr>
+        <ar>اختر من شريط، شريط مكدسة، خط أو الرسوم البيانية المنطقة.</ar>
+        <zh-TW>從柱狀圖，堆疊柱狀圖，線或面圖形選擇。</zh-TW>
+        <hi>बार, स्टैक्ड पट्टी, रेखा या क्षेत्र रेखांकन से चुनें।</hi>
+        <ko>바, 누적 막대, 선 또는 영역 그래프에서 선택합니다.</ko>
+        <bn>বার, স্তুপীকৃত বার, লাইন বা এলাকার গ্রাফ থেকে নির্বাচন করুন.</bn>
+        <ru>Выберите из бара, многоярусные бар, линии или гистограмму.</ru>
+        <sq>Zgjidh nga bar, bar bërë pirg, linjës apo grafikët e zonës.</sq>
+        <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
+        <de>Wählen Sie aus Bar, gestapelt Balken-, Linien- oder Flächendiagramme.</de>
+        <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
+        <ur>بار، سجا دیئے بار، لکیر یا گراف سے منتخب کریں.</ur>
+    </entry>
+    <entry>
+        <key>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance. Learn More about AttentionScore™</key>
+        <en>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance. Learn More about AttentionScore™</en>
+        <ja>SocialFlow のアテンションスコア ™ は、あなたのコンテンツに対する閲覧者の関与度を予測して、 1 から 100 までの数値で表します。予測には、閲覧者があなたのソーシャルアカウントに関わる際の、次の 3 つの要素が考慮されます: 閲覧者のアクティブ度、使用言語履歴分析、リアルタイム反響状況。アテンションスコア ™ についてもっと知る</ja>
+        <pt>O SocialFlow AttentionScore™ classifica o engajamento da audiência previsto para seu conteúdo em uma escala de 1 a 100 relacionando três fatores com suas contas sociais: disponibilidade de audiência; análise histórica de linguagem; e ressonância em tempo real. Aprenda mais sobre o AttentionScore™</pt>
+        <zh-CN>观众可用性，历史语言分析和实时共鸣：本SocialFlow AttentionScore™利率由三个因素看，因为它们与你的社交帐户预测与从1到100的比例你的内容观众参与度。了解更多关于AttentionScore™</zh-CN>
+        <fr>Les taux SocialFlow AttentionScore ™ prédit l'engagement du public avec votre contenu sur une échelle 1-100 en examinant trois facteurs qui se rapportent à vos comptes sociaux: la disponibilité du public, l'analyse historique de la langue, et la résonance en temps réel. En savoir plus sur AttentionScore ™</fr>
+        <ar>وSocialFlow AttentionScore ™ معدلات توقع مشاركة الجمهور مع المحتوى الخاص بك على نطاق 1-100 من خلال النظر في ثلاثة عوامل من حيث صلتها الحسابات الاجتماعية الخاصة بك: توافر جمهور، تحليل اللغة التاريخي، والرنين الحقيقي. تعرف على المزيد حول AttentionScore ™</ar>
+        <zh-TW>觀眾可用性，歷史語言分析和實時共鳴：本SocialFlow AttentionScore™利率由三個因素看，因為它們與你的社交帳戶預測與從1到100的比例你的內容觀眾參與度。了解更多關於AttentionScore™</zh-TW>
+        <hi>दर्शकों की उपलब्धता, ऐतिहासिक भाषा विश्लेषण, और realtime गूंज: SocialFlow AttentionScore ™ दरों तीन कारकों को देख के रूप में वे अपने सामाजिक खातों से संबंधित द्वारा 1 से 100 की एक पैमाने पर अपनी सामग्री के साथ भविष्यवाणी दर्शकों सगाई। AttentionScore ™ के बारे में अधिक जानें</hi>
+        <ko>관객 가용성, 역사적 언어 분석, 실시간 공명을 다음 SocialFlow AttentionScore ™ 가격은 소셜 계정과 관련 세 가지 요소를보고 100-1에서 규모에서 콘텐츠와 관객의 참여를 예상했다. AttentionScore ™에 대해 더 알아보기</ko>
+        <bn>শ্রোতা প্রাপ্যতা, ঐতিহাসিক ভাষা বিশ্লেষণ, এবং রিয়েলটাইম অনুরণন: SocialFlow AttentionScore ™ হার তিন কারণের দিকে তাকালে যেমন তারা আপনার সামাজিক অ্যাকাউন্ট কহা 100 1 থেকে একটি স্কেল উপর আপনার কন্টেন্ট সঙ্গে পূর্বাভাস শ্রোতার. AttentionScore ™ সম্পর্কে আরো জানুন</bn>
+        <ru>Скорости SocialFlow AttentionScore ™ предсказывал взаимодействие с аудиторией с содержанием по шкале от 1 до 100, глядя на три фактора, как они соотносятся с вашими социальными счетами: доступность аудитории, исторический анализ языка, и в режиме реального времени резонанс. Подробнее о AttentionScore ™</ru>
+        <sq>Normat e SocialFlow AttentionScore ™ parashikuar angazhimin e audiencës me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike, dhe realtime rezonancë. Mëso më shumë rreth AttentionScore ™</sq>
+        <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
+        <de>Die SocialFlow AttentionScore ™ Raten von 1 bis 100 durch einen Blick auf drei Faktoren Publikum Engagement mit Ihren Inhalten auf einer Skala vorhergesagt, da sie auf Ihre sozialen Konten beziehen: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-Resonanz. Erfahren Sie mehr über AttentionScore ™</de>
+        <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
+        <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس گونج: SocialFlow AttentionScore ™ ریٹس وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ ناظرین کی سگائ کی پیش گوئی کی. AttentionScore ™ کے بارے میں مزید معلومات حاصل کریں</ur>
+    </entry>
+    <entry>
+        <key>Interactions include retweets, mentions, comments, shares and likes of your content.</key>
+        <en>Interactions include retweets, mentions, comments, shares and likes of your content.</en>
+        <ja>双方向アクションには、あなたのコンテンツへのリツイート、メンション、コメント、共有、いいね! が含まれます。</ja>
+        <pt>Interações incluem retweets, menções, comentários, compartilhamentos e curtidas do seu conteúdo.</pt>
+        <zh-CN>相互作用包括转推，提到，评论，股票和内容的喜欢。</zh-CN>
+        <fr>Les interactions comprennent retweets, mentions, commentaires, actions et goûts de votre contenu.</fr>
+        <ar>وتشمل التفاعلات إعادة مشاركات tweet، ويذكر والتعليقات والمشاركات وأمثال المحتوى الخاص بك.</ar>
+        <zh-TW>相互作用包括轉推，提到，評論，股票和內容的喜歡。</zh-TW>
+        <hi>सहभागिता रीट्वीट, का उल्लेख है, टिप्पणियाँ, शेयर और अपनी सामग्री की पसंद में शामिल हैं।</hi>
+        <ko>상호 작용 리트 윗, 멘션, 댓글, 공유 및 콘텐츠의 좋아하는을 포함한다.</ko>
+        <bn>কথাবার্তাও পুন উল্লেখ, মন্তব্য, শেয়ার এবং আপনার বিষয়বস্তু পছন্দ অন্তর্ভুক্ত.</bn>
+        <ru>Взаимодействия включают ретвитов, упоминает, комментарии, акции и любит вашего контента.</ru>
+        <sq>Ndërveprimet përfshijnë retweets, përmend, komente, aksionet dhe sërën e përmbajtjes tuaj.</sq>
+        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
+        <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
+        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
+        <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
+    </entry>
+    <entry>
+        <key>Chart Settings</key>
+        <en>Chart Settings</en>
+        <ja>グラフ設定</ja>
+        <pt>Configurações do Gráfico</pt>
+        <zh-CN>图表设置</zh-CN>
+        <fr>Paramètres du tableau</fr>
+        <ar>إعدادات الرسم البياني</ar>
+        <zh-TW>圖表設置</zh-TW>
+        <hi>चार्ट सेटिंग</hi>
+        <ko>차트 설정</ko>
+        <bn>চার্ট সেটিংস</bn>
+        <ru>Параметры диаграммы</ru>
+        <sq>Cilësimet term</sq>
+        <it>Impostazioni grafico</it>
+        <de>Charteinstellungen</de>
+        <it>Impostazioni grafico</it>
+        <ur>چارٹ ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Chart Type</key>
+        <en>Chart Type</en>
+        <ja>グラフの種類</ja>
+        <pt>Tipo de Gráfico</pt>
+        <zh-CN>图表类型</zh-CN>
+        <fr>type de graphique</fr>
+        <ar>نوع الرسم البياني</ar>
+        <zh-TW>圖表類型</zh-TW>
+        <hi>चार्ट प्रकार</hi>
+        <ko>차트 종류</ko>
+        <bn>লেখচিত্র ধরন</bn>
+        <ru>Тип диаграммы</ru>
+        <sq>Lloji Chart</sq>
+        <it>Tipo di grafico</it>
+        <de>Diagrammtyp</de>
+        <it>Tipo di grafico</it>
+        <ur>چارٹ کی قسم</ur>
+    </entry>
+    <entry>
+        <key>Lines</key>
+        <en>Lines</en>
+        <ja>折れ線</ja>
+        <pt>Linhas</pt>
+        <zh-CN>行</zh-CN>
+        <fr>Lignes</fr>
+        <ar>خطوط</ar>
+        <zh-TW>行</zh-TW>
+        <hi>पंक्तियां</hi>
+        <ko>윤곽</ko>
+        <bn>রেখাসমূহ</bn>
+        <ru>линии</ru>
+        <sq>Lines</sq>
+        <it>Linee</it>
+        <de>Linien</de>
+        <it>Linee</it>
+        <ur>لکیریں</ur>
+    </entry>
+    <entry>
+        <key>Bars</key>
+        <en>Bars</en>
+        <ja>棒</ja>
+        <pt>Barras</pt>
+        <zh-CN>酒吧</zh-CN>
+        <fr>Bars</fr>
+        <ar>الحانات</ar>
+        <zh-TW>酒吧</zh-TW>
+        <hi>सलाखों</hi>
+        <ko>바</ko>
+        <bn>পানশালা</bn>
+        <ru>брусья</ru>
+        <sq>bare</sq>
+        <it>Barre</it>
+        <de>Riegel</de>
+        <it>Barre</it>
+        <ur>باریں</ur>
+    </entry>
+    <entry>
+        <key>Stacked Bars</key>
+        <en>Stacked Bars</en>
+        <ja>積み重ね棒</ja>
+        <pt>Barras Empilhadas</pt>
+        <zh-CN>堆叠酒吧</zh-CN>
+        <fr>Bars Stacked</fr>
+        <ar>أشرطة مكدسة</ar>
+        <zh-TW>堆疊酒吧</zh-TW>
+        <hi>स्टैक्ड बार्स</hi>
+        <ko>누적 된 바</ko>
+        <bn>স্তুপীকৃত পানশালা</bn>
+        <ru>Уложив Бары</ru>
+        <sq>bërë pirg Bare</sq>
+        <it>Bar Stacked</it>
+        <de>Gestapelte Bars</de>
+        <it>Bar Stacked</it>
+        <ur>انبار باریں</ur>
+    </entry>
+    <entry>
+        <key>Area</key>
+        <en>Area</en>
+        <ja>面</ja>
+        <pt>Área</pt>
+        <zh-CN>区</zh-CN>
+        <fr>Région</fr>
+        <ar>منطقة</ar>
+        <zh-TW>區</zh-TW>
+        <hi>क्षेत्र</hi>
+        <ko>지역</ko>
+        <bn>ফোন</bn>
+        <ru>Площадь</ru>
+        <sq>zonë</sq>
+        <it>La zona</it>
+        <de>Bereich</de>
+        <it>La zona</it>
+        <ur>ایریا</ur>
+    </entry>
+    <entry>
+        <key>Chart Scale</key>
+        <en>Chart Scale</en>
+        <ja>グラフ目盛り</ja>
+        <pt>Escala do Gráfico</pt>
+        <zh-CN>图刻度</zh-CN>
+        <fr>Graphique échelle</fr>
+        <ar>الرسم البياني مقياس</ar>
+        <zh-TW>圖刻度</zh-TW>
+        <hi>चार्ट स्केल</hi>
+        <ko>차트 스케일</ko>
+        <bn>চার্ট আইশের</bn>
+        <ru>масштаб диаграммы</ru>
+        <sq>Scale Chart</sq>
+        <it>scala della carta</it>
+        <de>Kartenmaßstab</de>
+        <it>scala della carta</it>
+        <ur>چارٹ اسکیل</ur>
+    </entry>
+    <entry>
+        <key>Absolute</key>
+        <en>Absolute</en>
+        <ja>絶対値</ja>
+        <pt>Absoluta</pt>
+        <zh-CN>绝对</zh-CN>
+        <fr>Absolu</fr>
+        <ar>مطلق</ar>
+        <zh-TW>絕對</zh-TW>
+        <hi>पूर्ण</hi>
+        <ko>순수한</ko>
+        <bn>পরম</bn>
+        <ru>абсолют</ru>
+        <sq>absolut</sq>
+        <it>Assoluto</it>
+        <de>Absolute</de>
+        <it>Assoluto</it>
+        <ur>مطلق</ur>
+    </entry>
+    <entry>
+        <key>Normalize</key>
+        <en>Normalize</en>
+        <ja>標準化</ja>
+        <pt>Normalizada</pt>
+        <zh-CN>正常化</zh-CN>
+        <fr>Normaliser</fr>
+        <ar>تطبيع</ar>
+        <zh-TW>正常化</zh-TW>
+        <hi>मानक के अनुसार</hi>
+        <ko>정규화</ko>
+        <bn>নিয়মমাফিক করা</bn>
+        <ru>нормировать</ru>
+        <sq>normalizoj</sq>
+        <it>Normalizzare</it>
+        <de>Normalisieren</de>
+        <it>Normalizzare</it>
+        <ur>معمول</ur>
+    </entry>
+    <entry>
+        <key>No data</key>
+        <en>No data</en>
+        <ja>データがありません</ja>
+        <pt>Sem dados</pt>
+        <zh-CN>没有数据</zh-CN>
+        <fr>Pas de données</fr>
+        <ar>لايوجد بيانات</ar>
+        <zh-TW>沒有數據</zh-TW>
+        <hi>कोई आकड़ा उपलब्ध नहीं है</hi>
+        <ko>데이터가 없습니다</ko>
+        <bn>যদি তেমন অবস্থাতেও তথ্য</bn>
+        <ru>Нет данных</ru>
+        <sq>Nuk ka të dhëna</sq>
+        <it>Nessun dato</it>
+        <de>Keine Daten</de>
+        <it>Nessun dato</it>
+        <ur>کوئی مواد نہیں</ur>
+    </entry>
+    <entry>
+        <key>Use this to add, remove and rearrange columns.</key>
+        <en>Use this to add, remove and rearrange columns.</en>
+        <ja>これを使ってコラムを追加、削除、再配置する。</ja>
+        <pt>Use isto para adicionar, remover e rearranjar colunas.</pt>
+        <zh-CN>用它来添加，删除和重新排列列。</zh-CN>
+        <fr>Utilisez cette option pour ajouter, supprimer et réorganiser les colonnes.</fr>
+        <ar>استخدم هذا لإضافة وإزالة وإعادة ترتيب الأعمدة.</ar>
+        <zh-TW>用它來添加，刪除和重新排列列。</zh-TW>
+        <hi>इस का प्रयोग करें जोड़ने, हटाने और पुनर्व्यवस्थित करने के लिए कॉलम।</hi>
+        <ko>열을 추가, 제거 및 다시 정렬하는 데 사용합니다.</ko>
+        <bn>এই ব্যবহার করুন, যোগ অপসারণ এবং নতুন করে সাজানো কলামে.</bn>
+        <ru>Используйте эту функцию, чтобы добавлять, удалять и переставлять столбцы.</ru>
+        <sq>Përdorni këtë për të shtoni, hiqni dhe korrigjoj kolona.</sq>
+        <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
+        <de>Verwenden Sie diese Option zum Hinzufügen, Entfernen und Spalten neu anordnen.</de>
+        <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
+        <ur>، شامل، کو ہٹانے اور پنرویوستیت کالموں کے لیے اس کا استعمال کریں.</ur>
+    </entry>
+    <entry>
+        <key>Interactions include retweets, mentions, comments, shares and likes of your content.</key>
+        <en>Interactions include retweets, mentions, comments, shares and likes of your content.</en>
+        <ja>双方向アクションには、あなたのコンテンツへのリツイート、メンション、コメント、共有、いいね! が含まれます。</ja>
+        <pt>Interactions incluem retweets, menções, comentários, compartilhamentos e curtidas do seu conteúdo.</pt>
+        <zh-CN>相互作用包括转推，提到，评论，股票和内容的喜欢。</zh-CN>
+        <fr>Les interactions comprennent retweets, mentions, commentaires, actions et goûts de votre contenu.</fr>
+        <ar>وتشمل التفاعلات إعادة مشاركات tweet، ويذكر والتعليقات والمشاركات وأمثال المحتوى الخاص بك.</ar>
+        <zh-TW>相互作用包括轉推，提到，評論，股票和內容的喜歡。</zh-TW>
+        <hi>सहभागिता रीट्वीट, का उल्लेख है, टिप्पणियाँ, शेयर और अपनी सामग्री की पसंद में शामिल हैं।</hi>
+        <ko>상호 작용 리트 윗, 멘션, 댓글, 공유 및 콘텐츠의 좋아하는을 포함한다.</ko>
+        <bn>কথাবার্তাও পুন উল্লেখ, মন্তব্য, শেয়ার এবং আপনার বিষয়বস্তু পছন্দ অন্তর্ভুক্ত.</bn>
+        <ru>Взаимодействия включают ретвитов, упоминает, комментарии, акции и любит вашего контента.</ru>
+        <sq>Ndërveprimet përfshijnë retweets, përmend, komente, aksionet dhe sërën e përmbajtjes tuaj.</sq>
+        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
+        <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
+        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
+        <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
+    </entry>
+    <section>reports_performance_report</section>
+</translations>

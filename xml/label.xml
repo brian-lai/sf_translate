@@ -1,0 +1,136 @@
+<translations>
+    <entry>
+        <key>LABEL</key>
+        <en>LABEL</en>
+        <pt>RÓTULO</pt>
+        <ja>ラベル</ja>
+        <zh-CN>标签</zh-CN>
+        <fr>ÉTIQUETTE</fr>
+        <ar>LABEL</ar>
+        <zh-TW>標籤</zh-TW>
+        <hi>लेबल</hi>
+        <ko>상표</ko>
+        <bn>LABEL -এ</bn>
+        <ru>МЕТКА</ru>
+        <sq>LABEL</sq>
+        <it>ETICHETTA</it>
+        <de>ETIKETTE</de>
+        <it>ETICHETTA</it>
+        <ur>LABEL</ur>
+    </entry>
+    <entry>
+        <key>Labels help organize your messages into categories for reporting or to easily find later.</key>
+        <en>Labels help organize your messages into categories for reporting or to easily find later.</en>
+        <pt>Rótulos ajudam a organizar suas mensagens em categorias para criar relatórios ou facilitar a busca no futuro.</pt>
+        <ja>メッセージをカテゴリに分類し、レポート作成や検索を容易にするために、ラベル付けをすることができます。</ja>
+        <zh-CN>标签帮助组织您的信息的类别报告或以后容易地找到。</zh-CN>
+        <fr>Les étiquettes aident à organiser vos messages dans des catégories de rapports ou de trouver facilement plus tard.</fr>
+        <ar>تساعد تسميات تنظيم رسائلك إلى فئات للإبلاغ أو للعثور بسهولة في وقت لاحق.</ar>
+        <zh-TW>標籤幫助組織您的信息的類別報告或以後容易地找到。</zh-TW>
+        <hi>लेबल रिपोर्टिंग या आसानी से बाद में खोजने के लिए श्रेणियों में अपने संदेशों को व्यवस्थित करने में मदद।</hi>
+        <ko>라벨은보고 또는 나중에 쉽게 찾을 수 있도록 카테고리로 메시지를 구성하는 데 도움이.</ko>
+        <bn>লেবেলগুলি রিপোর্ট বা পরে সহজেই খুঁজে পেতে জন্য বিভাগগুলিতে আপনার বার্তা সংগঠিত সাহায্য.</bn>
+        <ru>Этикетки помогают упорядочить сообщения по категориям отчетности или легко найти позже.</ru>
+        <sq>Etiketa të ndihmuar në organizimin mesazhet në kategori për raportim apo të lehtë të gjeni më vonë.</sq>
+        <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
+        <de>Labels helfen, Ihre Nachrichten in Kategorien organisieren für die Berichterstattung oder später leicht zu finden.</de>
+        <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
+        <ur>لیبل رپورٹنگ یا بعد میں آسانی سے تلاش کرنے کے لئے اقسام میں آپ کے پیغامات کو منظم کرنے میں مدد.</ur>
+    </entry>
+    <entry>
+        <key>Labels are not published with your message and can only be seen by you and SocialFlow users accessing this account.</key>
+        <en>Labels are not published with your message and can only be seen by you and SocialFlow users accessing this account.</en>
+        <pt>Os rótulos não são publicados com sua mensagem e só podem ser vistos por você e pelos usuários do SocialFlow que acessam esta conta.</pt>
+        <ja>ラベルはメッセージと一緒に投稿されることはありません。ラベルを見られるのは、SocialFlowのアカウントにログインできるユーザーのみです。</ja>
+        <zh-CN>标签不与你的消息公布，只能由您和 SocialFlow 用户访问该帐户中可以看出。</zh-CN>
+        <fr>Les étiquettes ne sont pas publiés avec votre message et ne peuvent être vus par vous et SocialFlow utilisateurs accédant à ce compte.</fr>
+        <ar>لا تنشر تسميات مع رسالتك، ويمكن مشاهدته إلا من قبلك وSocialFlow للمستخدمين الوصول إلى هذا الحساب.</ar>
+        <zh-TW>標籤不與你的消息公佈，只能由您和SocialFlow用戶訪問該帳戶中可以看出。</zh-TW>
+        <hi>लेबल अपने संदेश के साथ प्रकाशित नहीं कर रहे हैं और केवल आप और SocialFlow उपयोगकर्ताओं को इस खाते तक पहुँचने के द्वारा देखा जा सकता है।</hi>
+        <ko>라벨은 귀하의 메시지와 함께 게시되지 않습니다 만,이 계정에 액세스 당신과 SocialFlow 사용자가 볼 수 있습니다.</ko>
+        <bn>লেবেলগুলি আপনার বার্তা প্রকাশ করা হয় না এবং শুধুমাত্র আপনি এবং SocialFlow ব্যবহারকারীরা এই অ্যাকাউন্টটি অ্যাক্সেস দ্বারা দেখা যাবে.</bn>
+        <ru>Этикетки не публикуются с вашим сообщением и могут быть видны только вам и SocialFlow доступа пользователей к этой учетной записи.</ru>
+        <sq>Etiketa nuk publikohen me mesazhin tuaj dhe mund të shihet vetëm nga ju dhe SocialFlow përdoruesve të hyrë në këtë llogari.</sq>
+        <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
+        <de>Die Etiketten werden nicht mit Ihrer Nachricht veröffentlicht und kann nur von Ihnen und SocialFlow Benutzer Zugriff auf dieses Konto zu sehen.</de>
+        <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
+        <ur>لیبل آپ کے پیغام کے ساتھ شائع نہیں ہیں اور صرف آپ اور SocialFlow اس اکاؤنٹ تک رسائی حاصل صارفین کی طرف سے دیکھا جا سکتا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Label examples: Fall Campaign, favorite, livetweet</key>
+        <en>Label examples: Fall Campaign, favorite, livetweet</en>
+        <pt>Exemplos de rótulos: Campanha de Outono, favorito, livetweet</pt>
+        <ja>ラベルの例：秋のキャンペーン、お気に入り、ライブツイート</ja>
+        <zh-CN>标签的例子：秋季运动，最喜欢的，livetweet</zh-CN>
+        <fr>Exemples d'étiquetage: Campagne d'automne, favori, livetweet</fr>
+        <ar>أمثلة التسمية: حملة الخريف، المفضلة، livetweet</ar>
+        <zh-TW>標籤的例子：秋季運動，最喜歡的，livetweet</zh-TW>
+        <hi>लेबल उदाहरण: पतन अभियान, पसंदीदा, livetweet</hi>
+        <ko>라벨 예 : 가을 캠페인, 좋아하는, livetweet</ko>
+        <bn>ট্যাগ উদাহরণ: পতন, ক্যাম্পেইন প্রিয়, livetweet</bn>
+        <ru>Примеры маркировки: Падение кампании, любимая, livetweet</ru>
+        <sq>Shembuj Label: Fushata Fall, favorite, livetweet</sq>
+        <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
+        <de>Label-Beispiele: Fall-Kampagne, Favorit, livetweet</de>
+        <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
+        <ur>لیبل مثالیں: موسم خزاں مہم، پسندیدہ، livetweet</ur>
+    </entry>
+    <entry>
+        <key>Message has successfully been labeled.</key>
+        <en>Message has successfully been labeled.</en>
+        <pt>A mensagem foi rotulada com sucesso.</pt>
+        <ja>メッセージに正しくラベルが付けられました。</ja>
+        <zh-CN>消息已成功标记。</zh-CN>
+        <fr>Le message a bien été marqué.</fr>
+        <ar>وقد تم بنجاح وصفت الرسالة.</ar>
+        <zh-TW>消息已成功標記。</zh-TW>
+        <hi>संदेश सफलतापूर्वक चिह्नित किया गया है।</hi>
+        <ko>메시지가 성공적으로 표시되었습니다.</ko>
+        <bn>বার্তা সফলভাবে লেবেল করা হয়েছে.</bn>
+        <ru>Сообщение успешно были помечены.</ru>
+        <sq>Mesazhi ka qenë sukses etiketuar.</sq>
+        <it>Il messaggio è stato correttamente etichettati.</it>
+        <de>Nachricht wurde erfolgreich markiert worden.</de>
+        <it>Il messaggio è stato correttamente etichettati.</it>
+        <ur>پیغام کامیابی کا لیبل لگا دیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>This message has already been labeled.</key>
+        <en>This message has already been labeled.</en>
+        <pt>Esta mensagem já foi rotulada.</pt>
+        <ja>メッセージに正しくラベルが付けられました</ja>
+        <zh-CN>此消息已被贴上标签。</zh-CN>
+        <fr>Ce message a déjà été marqué.</fr>
+        <ar>وقد تم بالفعل وصفت هذه الرسالة.</ar>
+        <zh-TW>此消息已被貼上標籤。</zh-TW>
+        <hi>यह संदेश पहले से ही चिह्नित किया गया है।</hi>
+        <ko>이 메시지는 이미 분류되었습니다.</ko>
+        <bn>এই বার্তাটি ইতিমধ্যে লেবেল করা হয়েছে.</bn>
+        <ru>Это сообщение уже помечены.</ru>
+        <sq>Ky mesazh tashmë është emërtuar.</sq>
+        <it>Questo messaggio è già stato etichettato.</it>
+        <de>Diese Nachricht wurde bereits markiert worden.</de>
+        <it>Questo messaggio è già stato etichettato.</it>
+        <ur>یہ پیغام پہلے سے ہی لگا دیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong labeling your message.</key>
+        <en>Something went wrong labeling your message.</en>
+        <pt>Ocorreu um erro ao rotular sua mensagem.</pt>
+        <ja>ラベル付けにおいて何か問題が起こりました。</ja>
+        <zh-CN>出事了标注你的信息。</zh-CN>
+        <fr>Quelque chose est allé mal étiqueter votre message.</fr>
+        <ar>حدث خطأ ما وصفها رسالتك.</ar>
+        <zh-TW>出事了標註你的信息。</zh-TW>
+        <hi>कुछ गलत हो अपने संदेश लेबलिंग चला गया।</hi>
+        <ko>뭔가 잘못된 메시지를 라벨 갔다.</ko>
+        <bn>কিছু ভুল আপনার বার্তা লেবেল গিয়েছিলাম.</bn>
+        <ru>Что-то пошло не маркируя ваше сообщение.</ru>
+        <sq>Diçka nuk shkoi mirë etiketimin mesazhin tuaj.</sq>
+        <it>Qualcosa è andato storto etichettare il messaggio.</it>
+        <de>Etwas ging Beschriftung falsch Ihre Nachricht.</de>
+        <it>Qualcosa è andato storto etichettare il messaggio.</it>
+        <ur>کچھ غلط ہو آپ کا پیغام لیبل گئے.</ur>
+    </entry>
+    <section>label</section>
+</translations>

@@ -1,0 +1,402 @@
+<translations>
+    <entry>
+        <key>Enter a search term</key>
+        <en>Enter a search term</en>
+        <ja>検索ワードを入力</ja>
+        <pt>Insira um termo de busca</pt>
+        <zh-CN>输入搜索词</zh-CN>
+        <fr>Entrez un terme de recherche</fr>
+        <ar>أدخل مصطلح البحث</ar>
+        <zh-TW>輸入搜索詞</zh-TW>
+        <hi>एक खोज शब्द दर्ज करें</hi>
+        <ko>검색어를 입력</ko>
+        <bn>একটি অনুসন্ধান শব্দ লিখুন</bn>
+        <ru>Введите слово для поиска</ru>
+        <sq>Shkruani një term kërkimi</sq>
+        <it>Inserisci un termine di ricerca</it>
+        <de>Geben Sie einen Suchbegriff</de>
+        <it>Inserisci un termine di ricerca</it>
+        <ur>ایک اصطلاح درج کریں</ur>
+    </entry>
+    <entry>
+        <key>days ago</key>
+        <en>days ago</en>
+        <ja>日前</ja>
+        <pt>dias atrás</pt>
+        <zh-CN>天前</zh-CN>
+        <fr>il y a quelques jours</fr>
+        <ar>أيام مضت</ar>
+        <zh-TW>幾天前</zh-TW>
+        <hi>दिन पहले</hi>
+        <ko>며칠 전에</ko>
+        <bn>দিন আগে</bn>
+        <ru>дней назад</ru>
+        <sq>ditë më parë</sq>
+        <it>giorni fa</it>
+        <de>Vor Tagen</de>
+        <it>giorni fa</it>
+        <ur>دنوں پہلے</ur>
+    </entry>
+    <entry>
+        <key>day ago</key>
+        <en>day ago</en>
+        <ja>日前</ja>
+        <pt>dia atrás</pt>
+        <zh-CN>天前</zh-CN>
+        <fr>Il y a jour</fr>
+        <ar>منذ يوم</ar>
+        <zh-TW>天前</zh-TW>
+        <hi>दिन पहले</hi>
+        <ko>일 전</ko>
+        <bn>দিন আগে</bn>
+        <ru>день назад</ru>
+        <sq>ditë më parë</sq>
+        <it>giorni fa</it>
+        <de>vor einem Tag</de>
+        <it>giorni fa</it>
+        <ur>دن پہلے</ur>
+    </entry>
+    <entry>
+        <key>weeks ago</key>
+        <en>weeks ago</en>
+        <ja>週間前</ja>
+        <pt>semanas atrás</pt>
+        <zh-CN>星期前</zh-CN>
+        <fr>il y a des semaines</fr>
+        <ar>منذ أسابيع</ar>
+        <zh-TW>幾週前</zh-TW>
+        <hi>हफ्तों पहले</hi>
+        <ko>몇 주일 전에</ko>
+        <bn>সপ্তাহ আগে</bn>
+        <ru>недель назад</ru>
+        <sq>javë më parë</sq>
+        <it>settimane fa</it>
+        <de>vor Wochen</de>
+        <it>settimane fa</it>
+        <ur>ہفتے پہلے</ur>
+    </entry>
+    <entry>
+        <key>week ago</key>
+        <en>week ago</en>
+        <ja>週間前</ja>
+        <pt>semana atrás</pt>
+        <zh-CN>星期前</zh-CN>
+        <fr>il y a une semaine</fr>
+        <ar>منذ أسبوع</ar>
+        <zh-TW>一周前</zh-TW>
+        <hi>सप्ताह पहले</hi>
+        <ko>주 전</ko>
+        <bn>সপ্তাহ আগে</bn>
+        <ru>неделю назад</ru>
+        <sq>javë më parë</sq>
+        <it>una settimana fa</it>
+        <de>Woche zuvor</de>
+        <it>una settimana fa</it>
+        <ur>ایک ہفتے پہلے</ur>
+    </entry>
+    <entry>
+        <key>months ago</key>
+        <en>months ago</en>
+        <ja>ヶ月前</ja>
+        <pt>meses atrás</pt>
+        <zh-CN>个月前</zh-CN>
+        <fr>il y a des mois</fr>
+        <ar>منذ اشهر</ar>
+        <zh-TW>幾個月前</zh-TW>
+        <hi>महिनो पहले</hi>
+        <ko>몇달 전</ko>
+        <bn>মাস কতক পূর্বে</bn>
+        <ru>несколько месяцев назад</ru>
+        <sq>muaj më parë</sq>
+        <it>mesi fa</it>
+        <de>vor wenigen Monaten</de>
+        <it>mesi fa</it>
+        <ur>مہینوں پہلے</ur>
+    </entry>
+    <entry>
+        <key>month ago</key>
+        <en>month ago</en>
+        <ja>ヶ月前</ja>
+        <pt>mês atrás</pt>
+        <zh-CN>个月前</zh-CN>
+        <fr>il y a un mois</fr>
+        <ar>منذ شهر</ar>
+        <zh-TW>一個月前</zh-TW>
+        <hi>महीने पहले</hi>
+        <ko>한 달 전</ko>
+        <bn>মাস আগে</bn>
+        <ru>месяц назад</ru>
+        <sq>muaj me pare</sq>
+        <it>un mese fa</it>
+        <de>letzten Monat</de>
+        <it>un mese fa</it>
+        <ur>مہینہ پہلے</ur>
+    </entry>
+    <entry>
+        <key>years ago</key>
+        <en>years ago</en>
+        <ja>年前</ja>
+        <pt>anos atrás</pt>
+        <zh-CN>年前</zh-CN>
+        <fr>il y a des années</fr>
+        <ar>سنين مضت</ar>
+        <zh-TW>多年前</zh-TW>
+        <hi>बहुत साल पहले</hi>
+        <ko>여러 해 전에</ko>
+        <bn>অনেক বছর আগে</bn>
+        <ru>много лет назад</ru>
+        <sq>vite më parë</sq>
+        <it>anni fa</it>
+        <de>Jahre zuvor</de>
+        <it>anni fa</it>
+        <ur>کئی برس قبل</ur>
+    </entry>
+    <entry>
+        <key>year ago</key>
+        <en>year ago</en>
+        <ja>年前</ja>
+        <pt>ano atrás</pt>
+        <zh-CN>年前</zh-CN>
+        <fr>il y'a un an</fr>
+        <ar>منذ عام</ar>
+        <zh-TW>一年前</zh-TW>
+        <hi>साल पहले</hi>
+        <ko>년 전</ko>
+        <bn>বছর আগে</bn>
+        <ru>год назад</ru>
+        <sq>vit më parë</sq>
+        <it>anno fa</it>
+        <de>vor einem Jahr</de>
+        <it>anno fa</it>
+        <ur>سال پہلے</ur>
+    </entry>
+    <entry>
+        <key>Want to follow a hashtag or user, keep track of when you are mentioned or retweeted, or track a specific conversation? Click “Manage Columns” tab to the right and add more streams.</key>
+        <en>Want to follow a hashtag or user, keep track of when you are mentioned or retweeted, or track a specific conversation? Click “Manage Columns” tab to the right and add more streams.</en>
+        <ja>ハッシュタグやユーザーをフォローしたり、メンションやリツイートされたことを把握したり、特定の会話を追跡したいですか? 右側の「コラムの管理」タブをクリックして、ストリームを追加してください。</ja>
+        <pt>Quer seguir um hashtag ou usuário, monitorar menções e retweets de seu conteúdo ou monitorar uma conversa específica? Clique na aba "Gerir Colunas" à direita e adicione mais streams.</pt>
+        <zh-CN>要遵循一个主题标签或用户，跟踪，当你提及或转推，或跟踪某个特定的对话？点击“管理列”选项卡中的权利和增加更多流。</zh-CN>
+        <fr>Vous voulez suivre un hashtag ou de l'utilisateur, garder une trace de quand vous êtes mentionné ou retweeté, ou suivre une conversation spécifique? Cliquez sur "Gérer les colonnes" onglet à droite et à ajouter d'autres cours d'eau.</fr>
+        <ar>تريد أن تتبع علامة التصنيف أو المستعمل، تتبع عند ذكرك أو إعادة تغريد، أو تتبع محادثة معينة؟ انقر على "إدارة الأعمدة" علامة التبويب إلى اليمين وإضافة المزيد من تيارات.</ar>
+        <zh-TW>要遵循一個主題標籤或用戶，跟踪，當你提及或轉推，或跟踪某個特定的對話？點擊“管理列”選項卡中的權利和增加更多流。</zh-TW>
+        <hi>, एक हैशटैग या उपयोगकर्ता का पालन का ट्रैक रखने के लिए जब आप का उल्लेख या रीट्वीट किया जाता है, या एक विशिष्ट बातचीत को ट्रैक करने के लिए चाहते हैं? क्लिक करें सही करने के लिए टैब "कॉलम प्रबंधित करें" और अधिक धाराओं जोड़ें।</hi>
+        <ko>, 해시 태그 또는 사용자를 따라 당신이 언급 또는 입소문 때 추적, 또는 특정 대화를 추적하고 싶으십니까? 클릭 오른쪽에 탭 "열 관리"더 많은 스트림을 추가 할 수 있습니다.</ko>
+        <bn>, একটি হ্যাশট্যাগ অথবা ব্যবহারকারীর অনুসরণ ট্র্যাক রাখতে যখন আপনি উল্লেখ বা টুইট করা হয়, বা একটি নির্দিষ্ট কথোপকথন ট্র্যাক করতে চান? ক্লিক ডানদিকে ট্যাব "কলাম পরিচালনা করুন" এবং আরও স্ট্রিম যোগ করুন.</bn>
+        <ru>Хотите следовать хэштегом или пользователя, отслеживать, когда вы упомянули или Процитировал, или отслеживать конкретный разговор? Нажмите кнопку "Управление" на вкладке Столбцы справа и добавьте несколько потоков.</ru>
+        <sq>Duan të ndjekin një hashtag apo përdorues, të mbajtur gjurmët e kur përmenden, ose retweeted, apo udhë një bisedë të veçantë? Kliko "Manage Columns" tab në të djathtë dhe të shtoni më shumë lumenj.</sq>
+        <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
+        <de>Möchten Sie einen Hashtag oder Benutzer zu folgen, zu verfolgen, wenn Sie erwähnt sind oder retweeted oder ein bestimmtes Gespräch verfolgen? Klicken Sie auf "Spalten verwalten" Tab auf der rechten Seite und mehr Streams hinzuzufügen.</de>
+        <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
+        <ur>، ایک hashtag یا صارف کی پیروی کی یاد رکھیں آپ کا ذکر کیا یا ٹویٹ کر رہے ہیں جب، یا ایک مخصوص گفتگو ٹریک کرنا چاہتے ہیں؟ درست کرنے کے لئے ٹیب "کالم انتظام کریں" پر کلک کریں اور زیادہ اسٹریمز میں شامل کریں.</ur>
+    </entry>
+    <entry>
+        <key>Manage Columns</key>
+        <en>Manage Columns</en>
+        <ja>コラムの設定</ja>
+        <pt>Gerir Colunas</pt>
+        <zh-CN>管理列</zh-CN>
+        <fr>Gérer les colonnes</fr>
+        <ar>إدارة أعمدة</ar>
+        <zh-TW>管理列</zh-TW>
+        <hi>कॉलम को प्रबंधित</hi>
+        <ko>열 관리</ko>
+        <bn>কলাম পরিচালনা</bn>
+        <ru>Управление столбцами</ru>
+        <sq>Menaxho Columns</sq>
+        <it>gestire Colonne</it>
+        <de>Spalten verwalten</de>
+        <it>gestire Colonne</it>
+        <ur>کالم انتظام کریں</ur>
+    </entry>
+    <entry>
+        <key>Columns</key>
+        <en>Columns</en>
+        <ja>コラム</ja>
+        <pt>Colunas</pt>
+        <zh-CN>列</zh-CN>
+        <fr>Colonnes</fr>
+        <ar>الأعمدة</ar>
+        <zh-TW>列</zh-TW>
+        <hi>कॉलम</hi>
+        <ko>열</ko>
+        <bn>কলাম</bn>
+        <ru>Колонны</ru>
+        <sq>Columns</sq>
+        <it>colonne</it>
+        <de>Spalten</de>
+        <it>colonne</it>
+        <ur>کالم</ur>
+    </entry>
+    <entry>
+        <key>Live Stream</key>
+        <en>Live Stream</en>
+        <ja>ライブストリーム</ja>
+        <pt>Stream Ao Vivo</pt>
+        <zh-CN>现场直播</zh-CN>
+        <fr>Direct</fr>
+        <ar>البث المباشر</ar>
+        <zh-TW>現場直播</zh-TW>
+        <hi>लाइव स्ट्रीम</hi>
+        <ko>라이브 스트림</ko>
+        <bn>সরাসরি সম্প্রচার</bn>
+        <ru>прямая трансляция</ru>
+        <sq>Stream live</sq>
+        <it>Trasmissione in diretta</it>
+        <de>Live Stream</de>
+        <it>Trasmissione in diretta</it>
+        <ur>لائیو سٹریم</ur>
+    </entry>
+    <entry>
+        <key>Expired</key>
+        <en>Expired</en>
+        <ja>期限切れ</ja>
+        <pt>Expirados</pt>
+        <zh-CN>过期</zh-CN>
+        <fr>Expiré</fr>
+        <ar>منتهية الصلاحية</ar>
+        <zh-TW>過期</zh-TW>
+        <hi>समय सीमा समाप्त</hi>
+        <ko>만료</ko>
+        <bn>মেয়াদোত্তীর্ণ</bn>
+        <ru>Истекший</ru>
+        <sq>Skaduar</sq>
+        <it>Scaduto</it>
+        <de>Abgelaufen</de>
+        <it>Scaduto</it>
+        <ur>میعاد ختم ہوگئی</ur>
+    </entry>
+    <entry>
+        <key>Custom</key>
+        <en>Custom</en>
+        <ja>カスタマイズ</ja>
+        <pt>Personalizado</pt>
+        <zh-CN>习俗</zh-CN>
+        <fr>Coutume</fr>
+        <ar>عرف</ar>
+        <zh-TW>習俗</zh-TW>
+        <hi>रिवाज</hi>
+        <ko>관습</ko>
+        <bn>প্রথা</bn>
+        <ru>изготовленный на заказ</ru>
+        <sq>me porosi</sq>
+        <it>costume</it>
+        <de>Brauch</de>
+        <it>costume</it>
+        <ur>اپنی مرضی کے مطابق</ur>
+    </entry>
+    <entry>
+        <key>Edit and Retweet</key>
+        <en>Edit and Retweet</en>
+        <ja>編集してリツイート</ja>
+        <pt>Editar e Retweet</pt>
+        <zh-CN>编辑和转推</zh-CN>
+        <fr>Modifier et Retweet</fr>
+        <ar>تحرير وإعادة تغريد</ar>
+        <zh-TW>編輯和轉推</zh-TW>
+        <hi>संपादित करें और प्रत्युत्तर</hi>
+        <ko>편집 및 리트 윗</ko>
+        <bn>সম্পাদনা এবং পুন:</bn>
+        <ru>Редактирование и Retweet</ru>
+        <sq>Edit dhe Retweet</sq>
+        <it>Modifica e Retweet</it>
+        <de>Bearbeiten und Retweet</de>
+        <it>Modifica e Retweet</it>
+        <ur>میں ترمیم کریں اور ریٹویٹ</ur>
+    </entry>
+    <entry>
+        <key>Reply</key>
+        <en>Reply</en>
+        <ja>返信</ja>
+        <pt>Responder</pt>
+        <zh-CN>回复</zh-CN>
+        <fr>Répondre</fr>
+        <ar>الرد</ar>
+        <zh-TW>回复</zh-TW>
+        <hi>जवाब दें</hi>
+        <ko>댓글</ko>
+        <bn>উত্তর</bn>
+        <ru>Ответить</ru>
+        <sq>përgjigje</sq>
+        <it>rispondere</it>
+        <de>Antworten</de>
+        <it>rispondere</it>
+        <ur>جواب</ur>
+    </entry>
+    <entry>
+        <key>Wall Posts</key>
+        <en>Wall Posts</en>
+        <ja>ウォールの投稿</ja>
+        <pt>Posts no Mural</pt>
+        <zh-CN>墙贴</zh-CN>
+        <fr>Publications sur le mur</fr>
+        <ar>مشاركات الحائط</ar>
+        <zh-TW>牆貼</zh-TW>
+        <hi>वॉल पोस्ट</hi>
+        <ko>벽 게시물</ko>
+        <bn>ওয়াল পোস্ট</bn>
+        <ru>Посты на стене</ru>
+        <sq>Wall Posts</sq>
+        <it>Messaggi in bacheca</it>
+        <de>Pinnwandeinträge</de>
+        <it>Messaggi in bacheca</it>
+        <ur>وال مراسلات</ur>
+    </entry>
+    <entry>
+        <key>Expand</key>
+        <en>Expand</en>
+        <ja>拡大</ja>
+        <pt>Expandir</pt>
+        <zh-CN>扩大</zh-CN>
+        <fr>Développer</fr>
+        <ar>وسع</ar>
+        <zh-TW>擴大</zh-TW>
+        <hi>विस्तार</hi>
+        <ko>넓히다</ko>
+        <bn>বিস্তৃত করা</bn>
+        <ru>расширять</ru>
+        <sq>zgjeroj</sq>
+        <it>Espandere</it>
+        <de>Erweitern</de>
+        <it>Espandere</it>
+        <ur>پھیلائیں</ur>
+    </entry>
+    <entry>
+        <key>Recent Comments</key>
+        <en>Recent Comments</en>
+        <ja>最近のコメント</ja>
+        <pt>Comentários Recentes</pt>
+        <zh-CN>最新评论</zh-CN>
+        <fr>Commentaires récents</fr>
+        <ar>احدث التعليقات</ar>
+        <zh-TW>最新評論</zh-TW>
+        <hi>हाल की टिप्पणियाँ</hi>
+        <ko>최근 댓글</ko>
+        <bn>সাম্প্রতিক মন্তব্য</bn>
+        <ru>недавние комментарии</ru>
+        <sq>Komentet e fundit</sq>
+        <it>Commenti recenti</it>
+        <de>Letzte Kommentare</de>
+        <it>Commenti recenti</it>
+        <ur>حالیہ تبصرے</ur>
+    </entry>
+    <entry>
+        <key>Sorry, there are no comments</key>
+        <en>Sorry, there are no comments</en>
+        <ja>残念ながらコメントがありません</ja>
+        <pt>Desculpe, não há comentários</pt>
+        <zh-CN>对不起，没有意见</zh-CN>
+        <fr>Désolé, il n'y a pas de commentaires</fr>
+        <ar>آسف، لا توجد تعليقات</ar>
+        <zh-TW>對不起，沒有意見</zh-TW>
+        <hi>क्षमा करें, कोई टिप्पणियां नहीं हैं</hi>
+        <ko>죄송합니다, 댓글이 없습니다</ko>
+        <bn>দুঃখিত, কোন মন্তব্য নেই</bn>
+        <ru>К сожалению, нет никаких комментариев</ru>
+        <sq>Na vjen keq, nuk ka komente</sq>
+        <it>Siamo spiacenti, non ci sono commenti</it>
+        <de>Leider gibt es keine Kommentare</de>
+        <it>Siamo spiacenti, non ci sono commenti</it>
+        <ur>معذرت، کوئی تبصرے نہیں ہیں</ur>
+    </entry>
+    <section>listen</section>
+</translations>

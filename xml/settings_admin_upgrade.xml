@@ -1,0 +1,383 @@
+<translations>
+    <entry>
+        <key>Enterprise Upgrade</key>
+        <en>Enterprise Upgrade</en>
+        <ja>企業アップグレード</ja>
+        <pt>Upgrade de Empresa</pt>
+        <zh-CN>企业升级</zh-CN>
+        <fr>Enterprise Upgrade</fr>
+        <ar>ترقية المشاريع</ar>
+        <zh-TW>企業升級</zh-TW>
+        <hi>Enterprise अपग्रेड</hi>
+        <ko>엔터프라이즈 업그레이드</ko>
+        <bn>এন্টারপ্রাইজ আপগ্রেড</bn>
+        <ru>Enterprise Upgrade</ru>
+        <sq>Enterprise Upgrade</sq>
+        <it>Enterprise aggiornamento</it>
+        <de>Enterprise-Upgrade-</de>
+        <it>Enterprise aggiornamento</it>
+        <ur>انٹرپرائز اپ گریڈ</ur>
+    </entry>
+    <entry>
+        <key>Contact Information</key>
+        <en>Contact Information</en>
+        <ja>連絡先情報</ja>
+        <pt>Informação de Contato</pt>
+        <zh-CN>联系信息</zh-CN>
+        <fr>Coordonnées</fr>
+        <ar>معلومات الاتصال</ar>
+        <zh-TW>聯繫信息</zh-TW>
+        <hi>संपर्क जानकारी</hi>
+        <ko>연락처 정보</ko>
+        <bn>যোগাযোগের তথ্য</bn>
+        <ru>Контактная информация</ru>
+        <sq>Të dhënat e kontaktit</sq>
+        <it>Informazioni sui contatti</it>
+        <de>Kontakt Informationen</de>
+        <it>Informazioni sui contatti</it>
+        <ur>رابطے کی معلومات</ur>
+    </entry>
+    <entry>
+        <key>Phone</key>
+        <en>Phone</en>
+        <ja>電話番号</ja>
+        <pt>Telefone</pt>
+        <zh-CN>电话号码</zh-CN>
+        <fr>Téléphone</fr>
+        <ar>هاتف</ar>
+        <zh-TW>電話</zh-TW>
+        <hi>फ़ोन</hi>
+        <ko>전화</ko>
+        <bn>ফোন</bn>
+        <ru>Телефон</ru>
+        <sq>telefon</sq>
+        <it>Telefono</it>
+        <de>Telefon</de>
+        <it>Telefono</it>
+        <ur>فون</ur>
+    </entry>
+    <entry>
+        <key>Account types:</key>
+        <en>Account types:</en>
+        <ja>アカウントの種類 :</ja>
+        <pt>Tipos de Conta:</pt>
+        <zh-CN>帐户类型：</zh-CN>
+        <fr>types de compte:</fr>
+        <ar>أنواع الحسابات:</ar>
+        <zh-TW>帳戶類型：</zh-TW>
+        <hi>खाता प्रकार:</hi>
+        <ko>계정 유형 :</ko>
+        <bn>অ্যাকাউন্ট ধরনের:</bn>
+        <ru>Типы счетов:</ru>
+        <sq>Llojet e llogarisë:</sq>
+        <it>tipi di account:</it>
+        <de>Kontotypen:</de>
+        <it>tipi di account:</it>
+        <ur>اکاؤنٹ کی اقسام:</ur>
+    </entry>
+    <entry>
+        <key>Company type:</key>
+        <en>Company type:</en>
+        <ja>会社の業種 :</ja>
+        <pt>Tipo de Empresa:</pt>
+        <zh-CN>公司类型：</zh-CN>
+        <fr>Type de compagnie:</fr>
+        <ar>نوع الشركة:</ar>
+        <zh-TW>公司類型：</zh-TW>
+        <hi>कंपनी के प्रकार:</hi>
+        <ko>회사 유형 :</ko>
+        <bn>অধিদপ্তরের ধরণ:</bn>
+        <ru>Тип компании:</ru>
+        <sq>Lloji i kompanisë:</sq>
+        <it>Tipo di azienda:</it>
+        <de>Branche:</de>
+        <it>Tipo di azienda:</it>
+        <ur>کمپنی کی قسم:</ur>
+    </entry>
+    <entry>
+        <key>Goals:</key>
+        <en>Goals:</en>
+        <ja>目標 :</ja>
+        <pt>Metas:</pt>
+        <zh-CN>目标：</zh-CN>
+        <fr>Buts:</fr>
+        <ar>الأهداف:</ar>
+        <zh-TW>目標：</zh-TW>
+        <hi>लक्ष्य:</hi>
+        <ko>목표 :</ko>
+        <bn>গোল:</bn>
+        <ru>Голы:</ru>
+        <sq>qëllimet:</sq>
+        <it>obiettivi:</it>
+        <de>Ziele:</de>
+        <it>obiettivi:</it>
+        <ur>مقاصد:</ur>
+    </entry>
+    <entry>
+        <key>Plan Overview</key>
+        <en>Plan Overview</en>
+        <ja>プランの概要</ja>
+        <pt>Visão Geral do Plano</pt>
+        <zh-CN>计划概述</zh-CN>
+        <fr>Aperçu du plan</fr>
+        <ar>خطة لمحة عامة</ar>
+        <zh-TW>計劃概述</zh-TW>
+        <hi>योजना अवलोकन</hi>
+        <ko>계획 개요</ko>
+        <bn>পরিকল্পনা সংক্ষিপ্ত বিবরণ</bn>
+        <ru>План Обзор</ru>
+        <sq>Përmbledhje Plan</sq>
+        <it>Quadro</it>
+        <de>Planübersicht</de>
+        <it>Quadro</it>
+        <ur>پلان کا جائزہ</ur>
+    </entry>
+    <entry>
+        <key>SocialFlow Enterprise</key>
+        <en>SocialFlow Enterprise</en>
+        <ja>SocialFlow エンタープライズ</ja>
+        <pt>SocialFlow Empresa</pt>
+        <zh-CN>SocialFlow企业</zh-CN>
+        <fr>SocialFlow Enterprise</fr>
+        <ar>SocialFlow المؤسسة</ar>
+        <zh-TW>SocialFlow企業</zh-TW>
+        <hi>SocialFlow एंटरप्राइज</hi>
+        <ko>SocialFlow 기업</ko>
+        <bn>SocialFlow এন্টারপ্রাইজ</bn>
+        <ru>SocialFlow Enterprise</ru>
+        <sq>Enterprise SocialFlow</sq>
+        <it>SocialFlow Enterprise</it>
+        <de>SocialFlow Unternehmen</de>
+        <it>SocialFlow Enterprise</it>
+        <ur>SocialFlow انٹرپرائز</ur>
+    </entry>
+    <entry>
+        <key>10+ Accounts</key>
+        <en>10+ Accounts</en>
+        <ja>10+ アカウント</ja>
+        <pt>Mais de 10 Contas</pt>
+        <zh-CN>10+ 账户</zh-CN>
+        <fr>10+ Comptes</fr>
+        <ar>10+ الحسابات</ar>
+        <zh-TW>10+賬戶</zh-TW>
+        <hi>10 + लेखा</hi>
+        <ko>10 + 계정</ko>
+        <bn>10+ অ্যাকাউন্টস</bn>
+        <ru>10+ счетов</ru>
+        <sq>10+ Llogaritë</sq>
+        <it>10+ Conti</it>
+        <de>10+ Accounts</de>
+        <it>10+ Conti</it>
+        <ur>10+ اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Custom setup</key>
+        <en>Custom setup</en>
+        <ja>カスタム設定</ja>
+        <pt>Configuração Personalizada</pt>
+        <zh-CN>自定义安装</zh-CN>
+        <fr>Configuration personnalisée</fr>
+        <ar>إعداد مخصص</ar>
+        <zh-TW>自定義安裝</zh-TW>
+        <hi>अनुकूलित स्थापना</hi>
+        <ko>사용자 지정 설치</ko>
+        <bn>কাস্টম সেটআপ</bn>
+        <ru>настройка пользовательских</ru>
+        <sq>Setup Custom</sq>
+        <it>Installazione personalizzata</it>
+        <de>Benutzerdefinierte Einrichtung</de>
+        <it>Installazione personalizzata</it>
+        <ur>اپنی مرضی کے سیٹ اپ</ur>
+    </entry>
+    <entry>
+        <key>Optimized Publishing</key>
+        <en>Optimized Publishing</en>
+        <ja>最適化パブリッシャー</ja>
+        <pt>Publicação Otimizada</pt>
+        <zh-CN>优化出版</zh-CN>
+        <fr>Optimisé Publishing</fr>
+        <ar>النشر الأمثل</ar>
+        <zh-TW>優化出版</zh-TW>
+        <hi>अनुकूलित प्रकाशन</hi>
+        <ko>최적화 된 출판</ko>
+        <bn>অপ্টিমাইজ প্রকাশনা</bn>
+        <ru>Оптимизированный Publishing</ru>
+        <sq>Botime optimizuar</sq>
+        <it>Editoria ottimizzata</it>
+        <de>Optimierte Publishing</de>
+        <it>Editoria ottimizzata</it>
+        <ur>آپٹمائزڈ پبلشنگ</ur>
+    </entry>
+    <entry>
+        <key>Custom Reports</key>
+        <en>Custom Reports</en>
+        <ja>カスタムレポート</ja>
+        <pt>Relatórios Personalizados</pt>
+        <zh-CN>自定义报告</zh-CN>
+        <fr>Rapports personnalisés</fr>
+        <ar>تقارير مخصصة</ar>
+        <zh-TW>自定義報告</zh-TW>
+        <hi>कस्टम रिपोर्ट</hi>
+        <ko>사용자 정의 보고서</ko>
+        <bn>কাস্টম রিপোর্ট</bn>
+        <ru>Пользовательские отчеты</ru>
+        <sq>Raportet Custom</sq>
+        <it>Rapporti personalizzati</it>
+        <de>Benutzerdefinierte Berichte</de>
+        <it>Rapporti personalizzati</it>
+        <ur>اپنی مرضی کی رپورٹیں</ur>
+    </entry>
+    <entry>
+        <key>Enterprise-level support</key>
+        <en>Enterprise-level support</en>
+        <ja>エンタープライズレベル サポート</ja>
+        <pt>Apoio de Nível Empresarial</pt>
+        <zh-CN>企业级支持</zh-CN>
+        <fr>soutien au niveau de l'entreprise</fr>
+        <ar>دعم على مستوى المؤسسة</ar>
+        <zh-TW>企業級支持</zh-TW>
+        <hi>उद्यम स्तर समर्थन</hi>
+        <ko>기업 수준의 지원</ko>
+        <bn>এন্টারপ্রাইজ স্তরের সমর্থন</bn>
+        <ru>Поддержка корпоративного уровня</ru>
+        <sq>Mbështetja në nivel ndërmarrje</sq>
+        <it>supporto di livello enterprise</it>
+        <de>Enterprise-Level-Support</de>
+        <it>supporto di livello enterprise</it>
+        <ur>انٹرپرائز کی سطح کی حمایت</ur>
+    </entry>
+    <entry>
+        <key>Submit</key>
+        <en>Submit</en>
+        <ja>送信</ja>
+        <pt>Enviar</pt>
+        <zh-CN>提交</zh-CN>
+        <fr>Soumettre</fr>
+        <ar>عرض</ar>
+        <zh-TW>提交</zh-TW>
+        <hi>जमा करें</hi>
+        <ko>제출</ko>
+        <bn>জমা দিন</bn>
+        <ru>Отправить</ru>
+        <sq>paraqes</sq>
+        <it>invio</it>
+        <de>einreichen</de>
+        <it>invio</it>
+        <ur>جمع کرائیں</ur>
+    </entry>
+    <entry>
+        <key>Choose One</key>
+        <en>Choose One</en>
+        <ja>選んでください</ja>
+        <pt>Escolha Um</pt>
+        <zh-CN>选一个</zh-CN>
+        <fr>Choisissez-en un</fr>
+        <ar>اختيار واحد</ar>
+        <zh-TW>選一個</zh-TW>
+        <hi>एक चुनो</hi>
+        <ko>하나를 선택</ko>
+        <bn>একটা পছন্দ কর</bn>
+        <ru>Выбери один</ru>
+        <sq>Zgjidh nje</sq>
+        <it>Scegline uno</it>
+        <de>Wähle ein</de>
+        <it>Scegline uno</it>
+        <ur>ایک کا انتخاب کریں</ur>
+    </entry>
+    <entry>
+        <key>Facebook</key>
+        <en>Facebook</en>
+        <ja>Facebook</ja>
+        <pt>Facebook</pt>
+        <zh-CN>Facebook</zh-CN>
+        <fr>Facebook</fr>
+        <ar>فيس بوك</ar>
+        <zh-TW>Facebook的</zh-TW>
+        <hi>फेसबुक</hi>
+        <ko>페이스 북</ko>
+        <bn>ফেসবুক</bn>
+        <ru>facebook</ru>
+        <sq>Facebook</sq>
+        <it>Facebook</it>
+        <de>Facebook</de>
+        <it>Facebook</it>
+        <ur>فیس بک</ur>
+    </entry>
+    <entry>
+        <key>Both</key>
+        <en>Both</en>
+        <ja>両方</ja>
+        <pt>Ambos</pt>
+        <zh-CN>两个</zh-CN>
+        <fr>Tous les deux</fr>
+        <ar>على حد سواء</ar>
+        <zh-TW>都</zh-TW>
+        <hi>दोनों</hi>
+        <ko>양자 모두</ko>
+        <bn>উভয়</bn>
+        <ru>И то и другое</ru>
+        <sq>të dy</sq>
+        <it>Entrambi</it>
+        <de>Beide</de>
+        <it>Entrambi</it>
+        <ur>دونوں</ur>
+    </entry>
+    <entry>
+        <key>Retail</key>
+        <en>Retail</en>
+        <ja>小売業</ja>
+        <pt>Varejo</pt>
+        <zh-CN>零售</zh-CN>
+        <fr>Vente au détail</fr>
+        <ar>التجزئة</ar>
+        <zh-TW>零售</zh-TW>
+        <hi>खुदरा</hi>
+        <ko>소매</ko>
+        <bn>খুচরা</bn>
+        <ru>Розничная торговля</ru>
+        <sq>me pakicë</sq>
+        <it>Al dettaglio</it>
+        <de>Verkauf</de>
+        <it>Al dettaglio</it>
+        <ur>پرچون</ur>
+    </entry>
+    <entry>
+        <key>Brand Marketer</key>
+        <en>Brand Marketer</en>
+        <ja>ブランドマーケッター</ja>
+        <pt>Comerciante de Marca</pt>
+        <zh-CN>品牌营销</zh-CN>
+        <fr>Marque Marketer</fr>
+        <ar>المسوق العلامة التجارية</ar>
+        <zh-TW>品牌營銷</zh-TW>
+        <hi>ब्रांड का विपणन</hi>
+        <ko>브랜드 마케팅</ko>
+        <bn>ব্র্যান্ড Marketer</bn>
+        <ru>Марка Маркетолог</ru>
+        <sq>markë Marketer</sq>
+        <it>Marca Marketer</it>
+        <de>Marke Marketer</de>
+        <it>Marca Marketer</it>
+        <ur>برانڈ مارکیٹر</ur>
+    </entry>
+    <entry>
+        <key>Agency</key>
+        <en>Agency</en>
+        <ja>代理店</ja>
+        <pt>Agência</pt>
+        <zh-CN>机构</zh-CN>
+        <fr>Agence</fr>
+        <ar>وكالة</ar>
+        <zh-TW>機構</zh-TW>
+        <hi>एजेंसी</hi>
+        <ko>대리점</ko>
+        <bn>এজেন্সি</bn>
+        <ru>Агентство</ru>
+        <sq>agjenci</sq>
+        <it>Agenzia</it>
+        <de>Agentur</de>
+        <it>Agenzia</it>
+        <ur>ایجنسی</ur>
+    </entry>
+    <section>settings_admin_upgrade</section>
+</translations>

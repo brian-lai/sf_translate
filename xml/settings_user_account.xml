@@ -1,0 +1,326 @@
+<translations>
+    <entry>
+        <key>User Account Settings</key>
+        <en>User Account Settings</en>
+        <ja>ユーザーアカウント設定</ja>
+        <pt>Configurações da Conta de Usuário</pt>
+        <zh-CN>用户帐户设置</zh-CN>
+        <fr>Paramètres du compte de l'utilisateur</fr>
+        <ar>إعدادات حساب المستخدم</ar>
+        <zh-TW>用戶帳戶設置</zh-TW>
+        <hi>उपयोगकर्ता खाता सेटिंग</hi>
+        <ko>사용자 계정 설정</ko>
+        <bn>ব্যবহারকারীর অ্যাকাউন্ট সেটিংস</bn>
+        <ru>Настройки учетных записей пользователей</ru>
+        <sq>Cilësimet e llogarisë User</sq>
+        <it>Impostazioni account utente</it>
+        <de>Benutzerkonto-Einstellungen</de>
+        <it>Impostazioni account utente</it>
+        <ur>صارف اکاؤنٹ کی ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Name (First Last)</key>
+        <en>Name (First Last)</en>
+        <ja>名前 ( 名 姓 )</ja>
+        <pt>Nome (Primeiro Último)</pt>
+        <zh-CN>名字（名姓）</zh-CN>
+        <fr>Nom (Prénom)</fr>
+        <ar>اسم (الأولى الأخيرة)</ar>
+        <zh-TW>名字（名姓）</zh-TW>
+        <hi>पहला अंतिम नाम)</hi>
+        <ko>이름 (우선 성)</ko>
+        <bn>নাম (প্রথম সর্বশেষ)</bn>
+        <ru>Имя (First Last)</ru>
+        <sq>Emri (First Last)</sq>
+        <it>Nome (Nome Cognome)</it>
+        <de>Namen (Vorname Nachname)</de>
+        <it>Nome (Nome Cognome)</it>
+        <ur>نام (سب سے پہلے آخری)</ur>
+    </entry>
+    <entry>
+        <key>Email Address</key>
+        <en>Email Address</en>
+        <ja>メールアドレス</ja>
+        <pt>Endereço de Email</pt>
+        <zh-CN>电子邮件地址</zh-CN>
+        <fr>Adresse e-mail</fr>
+        <ar>عنوان البريد الإلكتروني</ar>
+        <zh-TW>電子郵件地址</zh-TW>
+        <hi>ईमेल पता</hi>
+        <ko>이메일 주소</ko>
+        <bn>ই-মেইল ঠিকানা</bn>
+        <ru>Адрес электронной почты</ru>
+        <sq>Email Adresa</sq>
+        <it>Indirizzo email</it>
+        <de>E-Mail-Addresse</de>
+        <it>Indirizzo email</it>
+        <ur>ای میل اڈریس</ur>
+    </entry>
+    <entry>
+        <key>Password</key>
+        <en>Password</en>
+        <ja>パスワード</ja>
+        <pt>Senha</pt>
+        <zh-CN>密码</zh-CN>
+        <fr>Mot de passe</fr>
+        <ar>كلمه السر</ar>
+        <zh-TW>密碼</zh-TW>
+        <hi>पासवर्ड</hi>
+        <ko>암호</ko>
+        <bn>পাসওয়ার্ড</bn>
+        <ru>пароль</ru>
+        <sq>fjalëkalim</sq>
+        <it>parola d'ordine</it>
+        <de>Passwort</de>
+        <it>parola d'ordine</it>
+        <ur>پاس ورڈ</ur>
+    </entry>
+    <entry>
+        <key>Current Password</key>
+        <en>Current Password</en>
+        <ja>現在のパスワード</ja>
+        <pt>Senha Atual</pt>
+        <zh-CN>当前密码</zh-CN>
+        <fr>Mot de passe actuel</fr>
+        <ar>كلمة السر الحالية</ar>
+        <zh-TW>當前密碼</zh-TW>
+        <hi>वर्तमान पासवर्ड</hi>
+        <ko>현재 비밀번호</ko>
+        <bn>বর্তমান পাসওয়ার্ড</bn>
+        <ru>текущий пароль</ru>
+        <sq>Fjalëkalimi aktual</sq>
+        <it>Password attuale</it>
+        <de>Aktuelles Passwort</de>
+        <it>Password attuale</it>
+        <ur>موجودہ خفیہ لفظ</ur>
+    </entry>
+    <entry>
+        <key>New Password</key>
+        <en>New Password</en>
+        <ja>新しいパスワード</ja>
+        <pt>Nova Senha</pt>
+        <zh-CN>新密码</zh-CN>
+        <fr>nouveau mot de passe</fr>
+        <ar>كلمة السر الجديدة</ar>
+        <zh-TW>新密碼</zh-TW>
+        <hi>नया पासवर्ड</hi>
+        <ko>새 비밀번호</ko>
+        <bn>নতুন পাসওয়ার্ড</bn>
+        <ru>новый пароль</ru>
+        <sq>Fjalëkalim i ri</sq>
+        <it>nuova password</it>
+        <de>Neues Kennwort</de>
+        <it>nuova password</it>
+        <ur>نیا پاس ورڈ</ur>
+    </entry>
+    <entry>
+        <key>Confirm New Password</key>
+        <en>Confirm New Password</en>
+        <ja>新しいパスワードの確認</ja>
+        <pt>Confirmar a Nova Senha</pt>
+        <zh-CN>确认新密码</zh-CN>
+        <fr>Confirmer le nouveau mot de passe</fr>
+        <ar>تأكيد كلمة المرور الجديدة</ar>
+        <zh-TW>確認新密碼</zh-TW>
+        <hi>नए पासवर्ड की पुष्टि करें</hi>
+        <ko>새 암호를 확인합니다</ko>
+        <bn>নিশ্চিত কর নতুন গোপননম্বর</bn>
+        <ru>Подтвердите новый пароль</ru>
+        <sq>Konfirmo fjalëkalimin e ri</sq>
+        <it>Conferma la nuova password</it>
+        <de>Neues Passwort bestätigen</de>
+        <it>Conferma la nuova password</it>
+        <ur>نئے پاس ورڈ کی توثیق کریں</ur>
+    </entry>
+    <entry>
+        <key>Time Zone</key>
+        <en>Time Zone</en>
+        <ja>タイムゾーン</ja>
+        <pt>Fuso Horário</pt>
+        <zh-CN>时区</zh-CN>
+        <fr>Fuseau horaire</fr>
+        <ar>منطقة زمنية</ar>
+        <zh-TW>時區</zh-TW>
+        <hi>समय क्षेत्र</hi>
+        <ko>시간대</ko>
+        <bn>সময় অঞ্চল</bn>
+        <ru>Часовой пояс</ru>
+        <sq>Time Zone</sq>
+        <it>Fuso orario</it>
+        <de>Zeitzone</de>
+        <it>Fuso orario</it>
+        <ur>ٹائم زون</ur>
+    </entry>
+    <entry>
+        <key>Location</key>
+        <en>Location</en>
+        <ja>場所</ja>
+        <pt>Localidade</pt>
+        <zh-CN>位置</zh-CN>
+        <fr>Emplacement</fr>
+        <ar>موقع</ar>
+        <zh-TW>位置</zh-TW>
+        <hi>स्थान</hi>
+        <ko>위치</ko>
+        <bn>অবস্থান</bn>
+        <ru>Место нахождения</ru>
+        <sq>vend</sq>
+        <it>luogo</it>
+        <de>Ort</de>
+        <it>luogo</it>
+        <ur>مقام</ur>
+    </entry>
+    <entry>
+        <key>Phone Number</key>
+        <en>Phone Number</en>
+        <ja>電話番号</ja>
+        <pt>Número de Telefone</pt>
+        <zh-CN>电话号码</zh-CN>
+        <fr>Numéro de téléphone</fr>
+        <ar>رقم الهاتف</ar>
+        <zh-TW>電話號碼</zh-TW>
+        <hi>फ़ोन नंबर</hi>
+        <ko>전화 번호</ko>
+        <bn>ফোন নম্বর</bn>
+        <ru>Номер телефона</ru>
+        <sq>Numri i telefonit</sq>
+        <it>Numero di telefono</it>
+        <de>Telefonnummer</de>
+        <it>Numero di telefono</it>
+        <ur>فون نمبر</ur>
+    </entry>
+    <entry>
+        <key>Subscriptions</key>
+        <en>Subscriptions</en>
+        <ja>購読</ja>
+        <pt>Inscrições</pt>
+        <zh-CN>订阅</zh-CN>
+        <fr>Abonnements</fr>
+        <ar>الاشتراكات</ar>
+        <zh-TW>訂閱</zh-TW>
+        <hi>सदस्यताएँ</hi>
+        <ko>구독</ko>
+        <bn>সাবস্ক্রিপশন</bn>
+        <ru>Подписки</ru>
+        <sq>Abonimet</sq>
+        <it>Sottoscrizioni</it>
+        <de>Abonnements</de>
+        <it>Sottoscrizioni</it>
+        <ur>سبسکرپشنز</ur>
+    </entry>
+    <entry>
+        <key>Promotable Message Emails</key>
+        <en>Promotable Message Emails</en>
+        <ja>宣伝を含むメッセージメール</ja>
+        <pt>Emails, incluindo publicidade</pt>
+        <zh-CN>提升的留言电子邮件</zh-CN>
+        <fr>Les e-mails de message promouvables</fr>
+        <ar>رسائل البريد الإلكتروني رسالة للترقية</ar>
+        <zh-TW>提升的留言電子郵件</zh-TW>
+        <hi>Promotable संदेश ईमेल</hi>
+        <ko>승격 메시지 이메일</ko>
+        <bn>Promotable বার্তা ইমেইল</bn>
+        <ru>Сообщения электронной почты Сообщение перспективными</ru>
+        <sq>Emails Promotable Mesazh</sq>
+        <it>Messaggi di posta elettronica messaggi promotable</it>
+        <de>Heraufstufbare Nachricht E-Mails</de>
+        <it>Messaggi di posta elettronica messaggi promotable</it>
+        <ur>Promotable پیغام ای میلز</ur>
+    </entry>
+    <entry>
+        <key>Client Accounts</key>
+        <en>Client Accounts</en>
+        <ja>クライアントアカウント</ja>
+        <pt>Contas de Clientes</pt>
+        <zh-CN>客户账户</zh-CN>
+        <fr>Comptes clients</fr>
+        <ar>حسابات العملاء</ar>
+        <zh-TW>客戶賬戶</zh-TW>
+        <hi>ग्राहक खातों</hi>
+        <ko>클라이언트 계정</ko>
+        <bn>ক্লায়েন্ট অ্যাকাউন্টস</bn>
+        <ru>Счета клиента</ru>
+        <sq>Llogaritë Klienti</sq>
+        <it>account cliente</it>
+        <de>Kundenkonten</de>
+        <it>account cliente</it>
+        <ur>کلائنٹ اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>You have access to work on the following clients account(s)</key>
+        <en>You have access to work on the following clients account(s)</en>
+        <ja>以下のクライアントアカウントにアクセスして作業することができます</ja>
+        <pt>Você tem permissão para trabalhar nas seguintes contas</pt>
+        <zh-CN>您可以访问以下的客户帐户工作</zh-CN>
+        <fr>Vous avez accès à travailler sur le compte des clients suivants (s)</fr>
+        <ar>لديك حق الوصول إلى العمل على حساب عملاء (s) التالية</ar>
+        <zh-TW>您可以訪問以下的客戶帳戶工作（S）</zh-TW>
+        <hi>आप निम्नलिखित ग्राहकों अकाउंट में काम करने के लिए उपयोग किया है (s)</hi>
+        <ko>다음과 같은 클라이언트 계정에 작업을 액세스 할 수 있습니다 (들)</ko>
+        <bn>আপনি নিম্নলিখিত ক্লায়েন্টদের অ্যাকাউন্টে কাজ এক্সেস আছে (গুলি)</bn>
+        <ru>У вас есть доступ к работе на следующий счет клиентов (ы)</ru>
+        <sq>Ju keni qasje të punojnë në klientët llogarinë e mëposhtme (s)</sq>
+        <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
+        <de>Sie haben Zugriff auf die folgenden Kunden Rechnung zu arbeiten (s)</de>
+        <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
+        <ur>آپ مندرجہ ذیل گاہکوں کے اکاؤنٹ پر کام تک رسائی حاصل کریں (ے)</ur>
+    </entry>
+    <entry>
+        <key>Enabled Publishing Accounts</key>
+        <en>Enabled Publishing Accounts</en>
+        <ja>使用可能な公開用アカウント</ja>
+        <pt>Contas Disponíveis para Publicação</pt>
+        <zh-CN>启用发布帐户</zh-CN>
+        <fr>Comptes Publication Enabled</fr>
+        <ar>الحسابات النشر تمكين</ar>
+        <zh-TW>啟用發布帳戶</zh-TW>
+        <hi>सक्षम प्रकाशन लेखा</hi>
+        <ko>사용 출판 계정</ko>
+        <bn>Enabled প্রকাশনা অ্যাকাউন্টস</bn>
+        <ru>Включенные счетов Издательства</ru>
+        <sq>Llogaritë enabled Botime</sq>
+        <it>Conti Editoria abilitati</it>
+        <de>Aktiviert Publishing-Konten</de>
+        <it>Conti Editoria abilitati</it>
+        <ur>قابل بنایا پبلشنگ اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Resign</key>
+        <en>Resign</en>
+        <ja>放棄</ja>
+        <pt>Abandonar</pt>
+        <zh-CN>辞职</zh-CN>
+        <fr>Démissionner</fr>
+        <ar>استقال</ar>
+        <zh-TW>辭職</zh-TW>
+        <hi>त्यागपत्र देना</hi>
+        <ko>사직하다</ko>
+        <bn>পদত্যাগ করা</bn>
+        <ru>В отставку</ru>
+        <sq>japë dorëheqjen</sq>
+        <it>Dare le dimissioni</it>
+        <de>Zurücktreten</de>
+        <it>Dare le dimissioni</it>
+        <ur>مستعفی</ur>
+    </entry>
+    <entry>
+        <key>Unable to Resign</key>
+        <en>Unable to Resign</en>
+        <ja>放棄できません</ja>
+        <pt>Impossível Abandonar</pt>
+        <zh-CN>无法辞职</zh-CN>
+        <fr>Impossible de démissionner</fr>
+        <ar>غير قادر على الاستقالة</ar>
+        <zh-TW>無法辭職</zh-TW>
+        <hi>इस्तीफा देने में असमर्थ</hi>
+        <ko>사임 할 수 없습니다</ko>
+        <bn>পদত্যাগ করতে অক্ষম</bn>
+        <ru>Невозможно уйти в отставку</ru>
+        <sq>Në gjendje të japë dorëheqjen</sq>
+        <it>Impossibile dare le dimissioni</it>
+        <de>Kann nicht resignieren</de>
+        <it>Impossibile dare le dimissioni</it>
+        <ur>استعفی دینے سے قاصر ہے</ur>
+    </entry>
+    <section>settings_user_account</section>
+</translations>

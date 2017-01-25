@@ -1,0 +1,326 @@
+<translations>
+    <entry>
+        <key>Social Account Settings</key>
+        <en>Social Account Settings</en>
+        <ja>ソーシャルアカウント設定</ja>
+        <pt>Configurações de Conta Social</pt>
+        <zh-CN>社交帐户设置</zh-CN>
+        <fr>Paramètres du compte social</fr>
+        <ar>إعدادات الحساب الاجتماعي</ar>
+        <zh-TW>社交帳戶設置</zh-TW>
+        <hi>सामाजिक खाता सेटिंग्स</hi>
+        <ko>소셜 계정 설정</ko>
+        <bn>সামাজিক অ্যাকাউন্ট সেটিংস</bn>
+        <ru>Настройки социального счета</ru>
+        <sq>Cilësimet e llogarisë Social</sq>
+        <it>Impostazioni account sociale</it>
+        <de>Social-Kontoeinstellungen</de>
+        <it>Impostazioni account sociale</it>
+        <ur>سوشل اکاؤنٹ کی ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Add Social Account</key>
+        <en>Add Social Account</en>
+        <ja>ソーシャルアカウントを追加</ja>
+        <pt>Adicionar Conta Social</pt>
+        <zh-CN>添加社交帐户</zh-CN>
+        <fr>Ajouter un compte social</fr>
+        <ar>إضافة حساب الاجتماعي</ar>
+        <zh-TW>添加社交帳戶</zh-TW>
+        <hi>सामाजिक खाता जोड़ें</hi>
+        <ko>소셜 계정 추가</ko>
+        <bn>সামাজিক অ্যাকাউন্ট যোগ করুন</bn>
+        <ru>Добавить Социальный аккаунт</ru>
+        <sq>Shto Llogari Social</sq>
+        <it>Aggiungi account sociale</it>
+        <de>In Social Konto</de>
+        <it>Aggiungi account sociale</it>
+        <ur>سوشل اکاؤنٹ شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Add Group</key>
+        <en>Add Group</en>
+        <ja>グループを追加</ja>
+        <pt>Adicionar Grupo</pt>
+        <zh-CN>添加组</zh-CN>
+        <fr>Ajouter un groupe</fr>
+        <ar>إضافة مجموعة</ar>
+        <zh-TW>添加組</zh-TW>
+        <hi>समूह जोड़ें</hi>
+        <ko>그룹 추가</ko>
+        <bn>গ্রুপ যোগ</bn>
+        <ru>Добавить группу</ru>
+        <sq>Shto Grupi</sq>
+        <it>Aggiungere gruppo</it>
+        <de>Gruppe hinzufügen</de>
+        <it>Aggiungere gruppo</it>
+        <ur>گروپ میں شامل</ur>
+    </entry>
+    <entry>
+        <key>Add Social Accounts ( Available | Upgrade)</key>
+        <en>Add Social Accounts ( Available | Upgrade)</en>
+        <ja>ソーシャルアカウントを追加 ( 個まで | アップグレード)</ja>
+        <pt>Adicionar Conta Social ( Disponível | Upgrade)</pt>
+        <zh-CN>加入社交帐户（可用 | 升级）</zh-CN>
+        <fr>Ajouter des comptes sociaux (Disponible | Mise à jour)</fr>
+        <ar>إضافة الحسابات الاجتماعية (متوفر | ترقية)</ar>
+        <zh-TW>加入社交帳戶（|升級）</zh-TW>
+        <hi>सामाजिक लेखा जोड़ें (उपलब्ध | अपग्रेड)</hi>
+        <ko>소셜 계정 추가 (가능 | 업그레이드)</ko>
+        <bn>সামাজিক অ্যাকাউন্টস যোগ (উপলভ্য | আপগ্রেড)</bn>
+        <ru>Добавить социальных счетов (Доступно | Обновление)</ru>
+        <sq>Shto Llogaritë Social (Available | Upgrade)</sq>
+        <it>Aggiungere Conti sociali (Disponibile | Upgrade)</it>
+        <de>In Social-Accounts (| Aktualisierung)</de>
+        <it>Aggiungere Conti sociali (Disponibile | Upgrade)</it>
+        <ur>سماجی اکاؤنٹس شامل کریں (دستیاب | اپ ڈیٹ کریں)</ur>
+    </entry>
+    <entry>
+        <key>Authorize</key>
+        <en>Authorize</en>
+        <ja>認証</ja>
+        <pt>Autorizar</pt>
+        <zh-CN>授权</zh-CN>
+        <fr>Autoriser</fr>
+        <ar>يأذن</ar>
+        <zh-TW>授權</zh-TW>
+        <hi>अधिकृत करें</hi>
+        <ko>권한 부여</ko>
+        <bn>অনুমোদন করা</bn>
+        <ru>санкционировать</ru>
+        <sq>Autorizoj</sq>
+        <it>Autorizzare</it>
+        <de>Autorisieren</de>
+        <it>Autorizzare</it>
+        <ur>اجازت دیں</ur>
+    </entry>
+    <entry>
+        <key>Your Current Publishing Accounts</key>
+        <en>Your Current Publishing Accounts</en>
+        <ja>現在の公開用アカウント</ja>
+        <pt>Contas Atuais para Publicação</pt>
+        <zh-CN>您当前出版账户</zh-CN>
+        <fr>Vos comptes d'édition en cours</fr>
+        <ar>لديك حسابات النشر الحالية</ar>
+        <zh-TW>您當前出版賬戶</zh-TW>
+        <hi>आपका वर्तमान प्रकाशन लेखा</hi>
+        <ko>귀하의 현재 출판 계정</ko>
+        <bn>আপনার বর্তমান প্রকাশনা অ্যাকাউন্টস</bn>
+        <ru>Ваши текущие счета Издательства</ru>
+        <sq>Tuaj Llogaritë rrjedhëse Botime</sq>
+        <it>Il tuo account di pubblicazione corrente</it>
+        <de>Ihre aktuelle Publishing-Konten</de>
+        <it>Il tuo account di pubblicazione corrente</it>
+        <ur>اپنے موجودہ پبلشنگ اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Type</key>
+        <en>Type</en>
+        <ja>種類</ja>
+        <pt>Tipo</pt>
+        <zh-CN>类型</zh-CN>
+        <fr>Type</fr>
+        <ar>اكتب</ar>
+        <zh-TW>類型</zh-TW>
+        <hi>प्रकार</hi>
+        <ko>유형</ko>
+        <bn>আদর্শ</bn>
+        <ru>Тип</ru>
+        <sq>lloj</sq>
+        <it>Digitare</it>
+        <de>Art</de>
+        <it>Digitare</it>
+        <ur>قسم</ur>
+    </entry>
+    <entry>
+        <key>Name</key>
+        <en>Name</en>
+        <ja>名前</ja>
+        <pt>Nome</pt>
+        <zh-CN>名称</zh-CN>
+        <fr>prénom</fr>
+        <ar>اسم</ar>
+        <zh-TW>名稱</zh-TW>
+        <hi>नाम</hi>
+        <ko>이름</ko>
+        <bn>নাম</bn>
+        <ru>имя</ru>
+        <sq>emër</sq>
+        <it>Nome</it>
+        <de>Name</de>
+        <it>Nome</it>
+        <ur>نام</ur>
+    </entry>
+    <entry>
+        <key>Status</key>
+        <en>Status</en>
+        <ja>ステータス</ja>
+        <pt>Status</pt>
+        <zh-CN>状态</zh-CN>
+        <fr>statut</fr>
+        <ar>الحالة</ar>
+        <zh-TW>狀態</zh-TW>
+        <hi>स्थिति</hi>
+        <ko>지위</ko>
+        <bn>অবস্থা</bn>
+        <ru>Положение дел</ru>
+        <sq>status</sq>
+        <it>Stato</it>
+        <de>Status</de>
+        <it>Stato</it>
+        <ur>سٹیٹس</ur>
+    </entry>
+    <entry>
+        <key>Date Added</key>
+        <en>Date Added</en>
+        <ja>追加日</ja>
+        <pt>Adicionada em</pt>
+        <zh-CN>添加日期</zh-CN>
+        <fr>date ajoutée</fr>
+        <ar>تم إضافة التاريخ</ar>
+        <zh-TW>添加日期</zh-TW>
+        <hi>तारीख संकलित हुई</hi>
+        <ko>날짜 추가</ko>
+        <bn>তারিখ যোগ করা হয়েছে</bn>
+        <ru>Дата Добавлена</ru>
+        <sq>Date Added</sq>
+        <it>data aggiunta</it>
+        <de>Datum hinzugefügt</de>
+        <it>data aggiunta</it>
+        <ur>تاریخ شامل کر دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>Edit</key>
+        <en>Edit</en>
+        <ja>編集</ja>
+        <pt>Editar</pt>
+        <zh-CN>编辑</zh-CN>
+        <fr>modifier</fr>
+        <ar>تحرير</ar>
+        <zh-TW>編輯</zh-TW>
+        <hi>संपादित करें</hi>
+        <ko>편집하다</ko>
+        <bn>সম্পাদন করা</bn>
+        <ru>редактировать</ru>
+        <sq>redaktoj</sq>
+        <it>Modifica</it>
+        <de>Bearbeiten</de>
+        <it>Modifica</it>
+        <ur>تصیح</ur>
+    </entry>
+    <entry>
+        <key>Delete</key>
+        <en>Delete</en>
+        <ja>削除</ja>
+        <pt>Excluir</pt>
+        <zh-CN>删除</zh-CN>
+        <fr>Effacer</fr>
+        <ar>حذف</ar>
+        <zh-TW>刪除</zh-TW>
+        <hi>मिटाना</hi>
+        <ko>지우다</ko>
+        <bn>মুছে ফেলা</bn>
+        <ru>Удалить</ru>
+        <sq>fshij</sq>
+        <it>cancellare</it>
+        <de>Löschen</de>
+        <it>cancellare</it>
+        <ur>حذف کریں</ur>
+    </entry>
+    <entry>
+        <key>Loading pages...</key>
+        <en>Loading pages...</en>
+        <ja>ページの読込中...</ja>
+        <pt>Carregando páginas...</pt>
+        <zh-CN>加载页面...</zh-CN>
+        <fr>Chargement des pages ...</fr>
+        <ar>تحميل الصفحات ...</ar>
+        <zh-TW>加載頁面...</zh-TW>
+        <hi>पृष्ठों लोड हो रहा है ...</hi>
+        <ko>로드 페이지 ...</ko>
+        <bn>পৃষ্ঠাগুলি লোড হচ্ছে ...</bn>
+        <ru>Загрузка страницы ...</ru>
+        <sq>faqe Loading ...</sq>
+        <it>Caricamento pagine ...</it>
+        <de>Laden Seiten ...</de>
+        <it>Caricamento pagine ...</it>
+        <ur>لوڈنگ کے صفحات ...</ur>
+    </entry>
+    <entry>
+        <key>Choose which Facebook pages you want to use for publishing.</key>
+        <en>Choose which Facebook pages you want to use for publishing.</en>
+        <ja>公開に使用したいページを選択。</ja>
+        <pt>Escolha que páginas do Facebook você quer usar para publicar.</pt>
+        <zh-CN>选择您要使用哪个发布Facebook页面。</zh-CN>
+        <fr>Choisissez les pages Facebook que vous souhaitez utiliser pour la publication.</fr>
+        <ar>اختيار الصفحات الفيسبوك الذي تريد استخدامه للنشر.</ar>
+        <zh-TW>選擇您要使用哪個發布Facebook頁面。</zh-TW>
+        <hi>चुनें जो फेसबुक पेज आप प्रकाशित करने के लिए उपयोग करना चाहते हैं।</hi>
+        <ko>당신이 게시에 사용하고자하는 페이스 북 페이지를 선택합니다.</ko>
+        <bn>নির্বাচন ফেসবুক পেজ আপনি প্রকাশনার জন্য ব্যবহার করতে চান.</bn>
+        <ru>Выберите, какие страницы Facebook вы хотите использовать для публикации.</ru>
+        <sq>Zgjidhni cilat Facebook faqe ju dëshironi të përdorni për publikim.</sq>
+        <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
+        <de>Wählen Sie die Facebook-Seiten, die Sie für die Veröffentlichung verwenden möchten.</de>
+        <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
+        <ur>آپ پبلشنگ کے لئے استعمال کرنا چاہتے ہیں جس کے فیس بک کے صفحات میں سے انتخاب کریں.</ur>
+    </entry>
+    <entry>
+        <key>Add Now</key>
+        <en>Add Now</en>
+        <ja>今すぐ追加</ja>
+        <pt>Adicionar Agora</pt>
+        <zh-CN>现在加入</zh-CN>
+        <fr>Ajouter maintenant</fr>
+        <ar>إضافة الآن</ar>
+        <zh-TW>現在加入</zh-TW>
+        <hi>अभी जोड़ें</hi>
+        <ko>지금 추가</ko>
+        <bn>এখন যোগ</bn>
+        <ru>Добавить сейчас</ru>
+        <sq>Shto Tani</sq>
+        <it>Aggiungere ora</it>
+        <de>Jetzt hinzufügen</de>
+        <it>Aggiungere ora</it>
+        <ur>ابھی شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Finished</key>
+        <en>Finished</en>
+        <ja>完了</ja>
+        <pt>Terminado</pt>
+        <zh-CN>完</zh-CN>
+        <fr>Fini</fr>
+        <ar>تم الانتهاء من</ar>
+        <zh-TW>完</zh-TW>
+        <hi>ख़त्म होना</hi>
+        <ko>끝마친</ko>
+        <bn>সমাপ্ত</bn>
+        <ru>Законченный</ru>
+        <sq>përfunduar</sq>
+        <it>Finito</it>
+        <de>Fertig</de>
+        <it>Finito</it>
+        <ur>ختم</ur>
+    </entry>
+    <entry>
+        <key>Are you sure you want to perform this action?</key>
+        <en>Are you sure you want to perform this action?</en>
+        <ja>本当にこのアクションを実行しますか?</ja>
+        <pt>Você tem certeza que quer executar esta ação?</pt>
+        <zh-CN>你确定要执行此操作？</zh-CN>
+        <fr>Etes-vous sûr de vouloir effectuer cette action?</fr>
+        <ar>هل أنت متأكد أنك تريد تنفيذ هذا الإجراء؟</ar>
+        <zh-TW>你確定要執行此操作？</zh-TW>
+        <hi>आप इस क्रिया को निष्पादित करने के लिए चाहते हैं आप सुनिश्चित हैं?</hi>
+        <ko>당신은이 작업을 수행 하시겠습니까?</ko>
+        <bn>আপনি এই কর্ম সম্পাদন করতে চান আপনি কি নিশ্চিত?</bn>
+        <ru>Вы уверены, что хотите выполнить это действие?</ru>
+        <sq>Jeni te sigurte qe doni ta bëni këtë?</sq>
+        <it>Sei sicuro di voler eseguire questa azione?</it>
+        <de>Sind Sie sicher, dass Sie diese Aktion durchführen?</de>
+        <it>Sei sicuro di voler eseguire questa azione?</it>
+        <ur>آپ کو یہ فعل انجام دینے کے لئے چاہتے ہیں؟</ur>
+    </entry>
+    <section>settings_app_social_account_set</section>
+</translations>

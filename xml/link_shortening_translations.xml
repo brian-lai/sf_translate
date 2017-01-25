@@ -1,0 +1,762 @@
+<translations>
+    <entry>
+        <key>Long URL:</key>
+        <en>Long URL:</en>
+        <ja>もとの長いURL</ja>
+        <pt>URL longa:</pt>
+        <zh-CN>长网址：</zh-CN>
+        <fr>URL longue:</fr>
+        <ar>العنوان الطويل:</ar>
+        <zh-TW>長URL：</zh-TW>
+        <hi>लंबे यूआरएल:</hi>
+        <ko>긴 URL :</ko>
+        <bn>দীর্ঘ URL:</bn>
+        <ru>Длинный URL:</ru>
+        <sq>Të gjatë URL:</sq>
+        <it>URL lungo:</it>
+        <de>Lange URL:</de>
+        <it>URL lungo:</it>
+        <ur>لانگ URL:</ur>
+    </entry>
+    <entry>
+        <key>Created:</key>
+        <en>Created:</en>
+        <ja>作成日</ja>
+        <pt>Criado:</pt>
+        <zh-CN>创建：</zh-CN>
+        <fr>Créé:</fr>
+        <ar>مكون:</ar>
+        <zh-TW>創建：</zh-TW>
+        <hi>बनाया था:</hi>
+        <ko>만들어진:</ko>
+        <bn>তৈরী করা হয়েছে:</bn>
+        <ru>Создано:</ru>
+        <sq>krijuar:</sq>
+        <it>Creato:</it>
+        <de>Erstellt:</de>
+        <it>Creato:</it>
+        <ur>اپ ڈیٹ:</ur>
+    </entry>
+    <entry>
+        <key>Clicks</key>
+        <en>Clicks</en>
+        <ja>クリック</ja>
+        <pt>Cliques:</pt>
+        <zh-CN>点击</zh-CN>
+        <fr>Clics</fr>
+        <ar>نقرات</ar>
+        <zh-TW>點擊</zh-TW>
+        <hi>क्लिक्स</hi>
+        <ko>클릭</ko>
+        <bn>ক্লিকস</bn>
+        <ru>щелчки</ru>
+        <sq>klikime</sq>
+        <it>clic</it>
+        <de>Klicks</de>
+        <it>clic</it>
+        <ur>کلکس</ur>
+    </entry>
+    <entry>
+        <key>Total:</key>
+        <en>Total:</en>
+        <ja>合計</ja>
+        <pt>Total:</pt>
+        <zh-CN>总：</zh-CN>
+        <fr>Total:</fr>
+        <ar>مجموع:</ar>
+        <zh-TW>總：</zh-TW>
+        <hi>कुल:</hi>
+        <ko>합계:</ko>
+        <bn>মোট:</bn>
+        <ru>Всего:</ru>
+        <sq>Total:</sq>
+        <it>Totale:</it>
+        <de>Gesamt:</de>
+        <it>Totale:</it>
+        <ur>کل:</ur>
+    </entry>
+    <entry>
+        <key>All Time</key>
+        <en>All Time</en>
+        <ja>履歴すべて</ja>
+        <pt>Sempre</pt>
+        <zh-CN>整天</zh-CN>
+        <fr>Tout le temps</fr>
+        <ar>كل الوقت</ar>
+        <zh-TW>整天</zh-TW>
+        <hi>पूरा समय</hi>
+        <ko>모든 시간</ko>
+        <bn>সব সময়</bn>
+        <ru>Все время</ru>
+        <sq>Gjithe kohes</sq>
+        <it>Tutto il Tempo</it>
+        <de>all Time</de>
+        <it>Tutto il Tempo</it>
+        <ur>تمام وقت</ur>
+    </entry>
+    <entry>
+        <key>7d</key>
+        <en>7d</en>
+        <ja>7日</ja>
+        <pt>7d</pt>
+        <zh-CN>7天</zh-CN>
+        <fr>7d</fr>
+        <ar>7D</ar>
+        <zh-TW>7D</zh-TW>
+        <hi>7 दिन</hi>
+        <ko>7D</ko>
+        <bn>7D</bn>
+        <ru>7d</ru>
+        <sq>7d</sq>
+        <it>7d</it>
+        <de>7d</de>
+        <it>7d</it>
+        <ur>7D</ur>
+    </entry>
+    <entry>
+        <key>14d</key>
+        <en>14d</en>
+        <ja>14日</ja>
+        <pt>14d</pt>
+        <zh-CN>14天</zh-CN>
+        <fr>14d</fr>
+        <ar>14D</ar>
+        <zh-TW>14D</zh-TW>
+        <hi>14D</hi>
+        <ko>14D</ko>
+        <bn>14d</bn>
+        <ru>14d</ru>
+        <sq>14d</sq>
+        <it>14d</it>
+        <de>14d</de>
+        <it>14d</it>
+        <ur>14D</ur>
+    </entry>
+    <entry>
+        <key>30d</key>
+        <en>30d</en>
+        <ja>30日</ja>
+        <pt>30d</pt>
+        <zh-CN>30天</zh-CN>
+        <fr>30d</fr>
+        <ar>30D</ar>
+        <zh-TW>30D</zh-TW>
+        <hi>30D</hi>
+        <ko>30D</ko>
+        <bn>30d</bn>
+        <ru>30d</ru>
+        <sq>30d</sq>
+        <it>30d</it>
+        <de>30d</de>
+        <it>30d</it>
+        <ur>30D</ur>
+    </entry>
+    <entry>
+        <key>Manage Links</key>
+        <en>Manage Links</en>
+        <ja>リンク管理</ja>
+        <pt>Gerir Links</pt>
+        <zh-CN>管理链接</zh-CN>
+        <fr>Gérer les liens</fr>
+        <ar>إدارة سريعة</ar>
+        <zh-TW>管理鏈接</zh-TW>
+        <hi>लिंक का प्रबंधन</hi>
+        <ko>링크 관리</ko>
+        <bn>লিংক পরিচালনা</bn>
+        <ru>Управление ссылками</ru>
+        <sq>Menaxho Links</sq>
+        <it>Gestisci collegamenti</it>
+        <de>Links verwalten</de>
+        <it>Gestisci collegamenti</it>
+        <ur>روابط انتظام کریں</ur>
+    </entry>
+    <entry>
+        <key>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</key>
+        <en>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</en>
+        <ja>リンク短縮サービスを使えば、クリック、リファラその他オーディエンスに関する詳細な追跡が可能となります。</ja>
+        <pt>Usar um serviço de encurtamento de links permite monitoramento detalhado de cliques, referrers, e outros detalhes sobre sua audiência.</pt>
+        <zh-CN>使用链接缩短服务能够点击，引荐和你的受众的其他细节的详细跟踪。</zh-CN>
+        <fr>L'utilisation d'un service de liaison de raccourcissement permet un suivi détaillé des clics, référenceurs, et d'autres détails au sujet de votre auditoire.</fr>
+        <ar>باستخدام خدمة ارتباط تقصير يمكن تتبع مفصل من النقرات، المشيرين، وغيرها من التفاصيل عن جمهورك.</ar>
+        <zh-TW>使用鏈接縮短服務能夠點擊，引薦和你的受眾的其他細節的詳細跟踪。</zh-TW>
+        <hi>एक लिंक को छोटा सेवा का उपयोग क्लिक करता है, सन्दर्भदाता, और अपने दर्शकों के बारे में अन्य विवरण की विस्तृत ट्रैकिंग सक्षम बनाता है।</hi>
+        <ko>링크 단축 서비스를 사용하여 클릭, 참조 자, 잠재 고객에 대한 기타 세부 사항에 대한 자세한 추적을 할 수 있습니다.</ko>
+        <bn>একটি লিঙ্ক সংকুচিতকারী সেবা ব্যবহার ক্লিকের, রেফারার, এবং আপনার শ্রোতাদের অন্য বিবরণ বিস্তারিত ট্র্যাকিং সম্ভব.</bn>
+        <ru>Использование службы ссылка укорочение позволяет организовать отслеживание кликов, ссылающихся и другие сведения о вашей аудитории.</ru>
+        <sq>Duke përdorur një shërbim lidhje shkurtimin mundëson gjurmimin detajuar të klikimeve, referrers, dhe detaje të tjera në lidhje me audiencën tuaj.</sq>
+        <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
+        <de>einen Link Verkürzung Dienstes ermöglicht eine detaillierte Verfolgung von Klicks, Referrer und andere Details zu Ihrem Publikum.</de>
+        <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
+        <ur>ایک لنک کمی سروس کا استعمال کرتے ہوئے کلکس، تجویز کنندگان، اور اپنے ناظرین کے بارے میں دیگر تفصیلات کی تفصیلی نظر رکھنے کے قابل بناتا ہے.</ur>
+    </entry>
+    <entry>
+        <key>With SocialFlow, you can track links with our own trib.al or sflow.us shorteners; authorize a</key>
+        <en>With SocialFlow, you can track links with our own trib.al or sflow.us shorteners; authorize a</en>
+        <ja>SocialFlowでは、独自のtrib.al またはsflow.us の短縮リンクを使って追跡できます。</ja>
+        <pt>Com o SocialFlow, você pode monitorar links com seus encurtadores trib.al ou sflow.us; autorize uma conta</pt>
+        <zh-CN>随着 SocialFlow，您可以跟踪我们自己的 trib.al 或 sflow.us 缩短服务的链接。授权</zh-CN>
+        <fr>Avec SocialFlow, vous pouvez suivre les liens avec notre propre trib.al ou shorteners sflow.us; autoriser un</fr>
+        <ar>مع SocialFlow، يمكنك تتبع الروابط مع trib.al منطقتنا أو تقصير sflow.us. تخويل</ar>
+        <zh-TW>隨著SocialFlow，您可以跟踪我們自己的trib.al或sflow.us縮短服務的鏈接;授權</zh-TW>
+        <hi>SocialFlow के साथ, आप अपने स्वयं के trib.al या sflow.us shorteners के साथ लिंक को ट्रैक कर सकते हैं; प्राधिकृत एक</hi>
+        <ko>SocialFlow, 당신은 우리 자신의 trib.al 또는 sflow.us 축약와 링크를 추적 할 수 있습니다; 인증</ko>
+        <bn>SocialFlow সঙ্গে, আপনি আমাদের নিজের trib.al বা sflow.us সংক্ষিপ্ত সঙ্গে সংযোগগুলি ট্র্যাক করতে পারেন; ক্ষমতাপ্রদান একটি</bn>
+        <ru>С SocialFlow, вы можете отслеживать связь с нашей собственной trib.al или sflow.us shorteners; уполномочить</ru>
+        <sq>Me SocialFlow, ju mund të gjetur lidhje me vetë trib.al tona ose shorteners sflow.us; autorizojë një</sq>
+        <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
+        <de>Mit SocialFlow können Sie Links mit unseren eigenen trib.al oder sflow.us Shortener verfolgen; ermächtigen, eine</de>
+        <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
+        <ur>SocialFlow ساتھ، آپ کو ہماری اپنی trib.al یا sflow.us کو مختصر کرنے کے ساتھ روابط کو ٹریک کر سکتے ہیں؛ اختیار ایک</ur>
+    </entry>
+    <entry>
+        <key>bitly</key>
+        <en>bitly</en>
+        <ja>bitly</ja>
+        <pt>bitly</pt>
+        <zh-CN>bitly</zh-CN>
+        <fr>bitly</fr>
+        <ar>bitly</ar>
+        <zh-TW>bitly</zh-TW>
+        <hi>Bitly</hi>
+        <ko>bitly</ko>
+        <bn>bitly</bn>
+        <ru>Bitly</ru>
+        <sq>bitly</sq>
+        <it>bitly</it>
+        <de>bitly</de>
+        <it>bitly</it>
+        <ur>ہے bitly</ur>
+    </entry>
+    <entry>
+        <key>or</key>
+        <en>or</en>
+        <ja>または</ja>
+        <pt>ou</pt>
+        <zh-CN>或者</zh-CN>
+        <fr>ou</fr>
+        <ar>أو</ar>
+        <zh-TW>要么</zh-TW>
+        <hi>या</hi>
+        <ko>또는</ko>
+        <bn>অথবা</bn>
+        <ru>или</ru>
+        <sq>ose</sq>
+        <it>o</it>
+        <de>oder</de>
+        <it>o</it>
+        <ur>یا</ur>
+    </entry>
+    <entry>
+        <key>goo.gl</key>
+        <en>goo.gl</en>
+        <ja>goo.gl</ja>
+        <pt>goo.gl</pt>
+        <zh-CN>goo.gl</zh-CN>
+        <fr>goo.gl</fr>
+        <ar>goo.gl</ar>
+        <zh-TW>goo.gl</zh-TW>
+        <hi>goo.gl</hi>
+        <ko>goo.gl</ko>
+        <bn>goo.gl</bn>
+        <ru>goo.gl</ru>
+        <sq>goo.gl</sq>
+        <it>goo.gl</it>
+        <de>goo.gl</de>
+        <it>goo.gl</it>
+        <ur>goo.gl</ur>
+    </entry>
+    <entry>
+        <key>account, or shorten with your own custom domain (provided you control DNS for that domain). You can shorten any link here; we also shorten links published to Twitter or Facebook by SocialFlow.</key>
+        <en>account, or shorten with your own custom domain (provided you control DNS for that domain). You can shorten any link here; we also shorten links published to Twitter or Facebook by SocialFlow.</en>
+        <ja>のアカウントを認証するか、あなただけのカスタムドメインをお使いください。（カスタムドメインの場合は、当該ドメインのDNSをあなたが管理することが前提です。）ここでは、どんなリンクも短縮することができます。SocialFlowから、Twitter やFacebookに短縮後すでに投稿されたリンクも改めて短縮できます。</ja>
+        <pt>ou encurte com seu próprio domínio personalizado (contanto que você controle o DNS deste domínio). Você pode encurtar qualquer link aqui; nós também encurtamos links publicados no Twitter ou Facebook pelo SocialFlow.</pt>
+        <zh-CN>帐户，或与您自己的自定义域缩短了（前提是你的DNS控制该域）。你可以在这里缩短任何链接;我们还通过缩短出版 SocialFlow 到 Twitter 或 Facebook 链接。</zh-CN>
+        <fr>compte ou raccourcir avec votre propre nom de domaine personnalisé (à condition que vous contrôlez DNS pour ce domaine). Vous pouvez abréger tout lien ici; on raccourcit également des liens publiés sur Twitter ou Facebook par SocialFlow.</fr>
+        <ar>حساب، أو تقصير مع نطاق المخصصة الخاصة بك (شريطة أن تحكم DNS لهذا المجال). يمكنك تقصير أي رابط هنا. نحن أيضا تقصير الروابط المنشورة على تويتر أو الفيسبوك من قبل SocialFlow.</ar>
+        <zh-TW>帳戶，或與您自己的自定義域縮短了（前提是你的DNS控制該域）。你可以在這裡縮短任何鏈接;我們還通過縮短出版SocialFlow到Twitter或Facebook鏈接。</zh-TW>
+        <hi>खाते, या अपने स्वयं के कस्टम डोमेन के साथ छोटा (बशर्ते आप कि डोमेन के लिए DNS नियंत्रण)। आप किसी भी लिंक यहाँ छोटा कर सकते हैं; हम भी SocialFlow द्वारा ट्विटर या फेसबुक पर प्रकाशित कड़ियों छोटा।</hi>
+        <ko>계정, 또는 (해당 도메인에 대한 DNS를 제어 제공) 사용자 정의 도메인으로 단축. 현재 모든 링크를 단축 할 수 있습니다; 우리는 또한 SocialFlow으로 트위터 나 페이스 북에 게시 된 링크를 단축.</ko>
+        <bn>অ্যাকাউন্ট, বা আপনার নিজস্ব ডোমেইন সঙ্গে কমান (প্রদত্ত আপনি যে ডোমেইন এর DNS নিয়ন্ত্রণ). আপনি কোন লিংক এখানে খাটো করতে পারেন; আমরা SocialFlow টুইটারে বা ফেসবুকে প্রকাশিত সংযোগগুলি কমান.</bn>
+        <ru>счет, или сократить с собственным пользовательским доменом (при условии, вы управляете DNS для этого домена). Вы можете сократить любую ссылку здесь; мы также сократить ссылки, опубликованные на Twitter или Facebook с помощью SocialFlow.</ru>
+        <sq>llogari, ose të shkurtojnë me domenin tuaj custom (me kusht që ju të kontrolluar DNS për këtë fushë). Ju mund të shkurtojnë çdo lidhje këtu; ne gjithashtu shkurtojnë lidhjet e publikuara në Twitter apo Facebook nga SocialFlow.</sq>
+        <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
+        <de>Konto oder mit Ihrem eigenen Domain verkürzen (vorausgesetzt, Sie DNS-Steuerung für die Domäne). Sie können einen beliebigen Link hier zu verkürzen; wir verkürzen auch auf Twitter oder Facebook von SocialFlow veröffentlichten Links.</de>
+        <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
+        <ur>اکاؤنٹ، یا آپ اپنی مرضی ڈومین کے ساتھ قصر (بشرطیکہ آپ اس ڈومین کے لئے DNS کنٹرول). آپ یہاں کسی بھی لنک قصر کر سکتے ہیں؛ ہم نے SocialFlow طرف سے ٹویٹر یا فیس بک پر شائع لنکس قصر.</ur>
+    </entry>
+    <entry>
+        <key>Shorten Link</key>
+        <en>Shorten Link</en>
+        <ja>リンク短縮</ja>
+        <pt>Encurtar Link</pt>
+        <zh-CN>缩短链接</zh-CN>
+        <fr>Raccourcir Lien</fr>
+        <ar>تقصير رابط</ar>
+        <zh-TW>縮短鏈接</zh-TW>
+        <hi>लिंक छोटा</hi>
+        <ko>링크를 단축</ko>
+        <bn>কমান লিংক</bn>
+        <ru>Сократите Ссылка</ru>
+        <sq>shkurtuar Lidhje</sq>
+        <it>accorciare link</it>
+        <de>kürzen Verbindung</de>
+        <it>accorciare link</it>
+        <ur>لنک قصر</ur>
+    </entry>
+    <entry>
+        <key>Add Custom Domain</key>
+        <en>Add Custom Domain</en>
+        <ja>カスタムドメイン追加</ja>
+        <pt>Adicionar Domínio Personalizado</pt>
+        <zh-CN>添加自定义域</zh-CN>
+        <fr>Ajouter Domaine personnalisé</fr>
+        <ar>إضافة مجال مخصص</ar>
+        <zh-TW>添加自定義域</zh-TW>
+        <hi>कस्टम डोमेन जोड़ें</hi>
+        <ko>사용자 지정 도메인 추가</ko>
+        <bn>কাস্টম ডোমেন যোগ</bn>
+        <ru>Добавление пользовательского домена</ru>
+        <sq>Shto Custom Domain</sq>
+        <it>Aggiungere dominio personalizzato</it>
+        <de>Hinzufügen von benutzerdefinierten Domain</de>
+        <it>Aggiungere dominio personalizzato</it>
+        <ur>اپنی مرضی ڈومین کا اضافہ کریں</ur>
+    </entry>
+    <entry>
+        <key>Select Domain:</key>
+        <en>Select Domain:</en>
+        <ja>ドメイン選択</ja>
+        <pt>Selecionar Domínio:</pt>
+        <zh-CN>选择域：</zh-CN>
+        <fr>Sélectionnez Domaine:</fr>
+        <ar>اختر المجال:</ar>
+        <zh-TW>選擇域：</zh-TW>
+        <hi>डोमेन का चयन करें:</hi>
+        <ko>도메인을 선택합니다 :</ko>
+        <bn>ডোমেন নির্বাচন করুন:</bn>
+        <ru>Выберите домен:</ru>
+        <sq>Zgjidhni Domain:</sq>
+        <it>Seleziona Dominio:</it>
+        <de>Wählen Sie Domain:</de>
+        <it>Seleziona Dominio:</it>
+        <ur>ڈومین کا انتخاب کریں:</ur>
+    </entry>
+    <entry>
+        <key>trib.al</key>
+        <en>trib.al</en>
+        <ja>trib.al</ja>
+        <pt>trib.al</pt>
+        <zh-CN>trib.al</zh-CN>
+        <fr>tribal</fr>
+        <ar>trib.al</ar>
+        <zh-TW>trib.al</zh-TW>
+        <hi>trib.al</hi>
+        <ko>trib.al</ko>
+        <bn>trib.al</bn>
+        <ru>trib.al</ru>
+        <sq>trib.al</sq>
+        <it>trib.al</it>
+        <de>trib.al</de>
+        <it>trib.al</it>
+        <ur>trib.al</ur>
+    </entry>
+    <entry>
+        <key>dev.trib.al</key>
+        <en>dev.trib.al</en>
+        <ja>dev.trib.al</ja>
+        <pt>dev.trib.al</pt>
+        <zh-CN>dev.trib.al</zh-CN>
+        <fr>dev.trib.al</fr>
+        <ar>dev.trib.al</ar>
+        <zh-TW>dev.trib.al</zh-TW>
+        <hi>dev.trib.al</hi>
+        <ko>dev.trib.al</ko>
+        <bn>dev.trib.al</bn>
+        <ru>dev.trib.al</ru>
+        <sq>dev.trib.al</sq>
+        <it>dev.trib.al</it>
+        <de>dev.trib.al</de>
+        <it>dev.trib.al</it>
+        <ur>dev.trib.al</ur>
+    </entry>
+    <entry>
+        <key>Today</key>
+        <en>Today</en>
+        <ja>今日</ja>
+        <pt>Hoje</pt>
+        <zh-CN>今天</zh-CN>
+        <fr>Aujourd'hui</fr>
+        <ar>اليوم</ar>
+        <zh-TW>今天</zh-TW>
+        <hi>आज</hi>
+        <ko>오늘</ko>
+        <bn>আজ</bn>
+        <ru>Cегодня</ru>
+        <sq>sot</sq>
+        <it>Oggi</it>
+        <de>Heute</de>
+        <it>Oggi</it>
+        <ur>آج</ur>
+    </entry>
+    <entry>
+        <key>7d</key>
+        <en>7d</en>
+        <ja>7日</ja>
+        <pt>7d</pt>
+        <zh-CN>7天</zh-CN>
+        <fr>7d</fr>
+        <ar>7D</ar>
+        <zh-TW>7D</zh-TW>
+        <hi>7 दिन</hi>
+        <ko>7D</ko>
+        <bn>7D</bn>
+        <ru>7d</ru>
+        <sq>7d</sq>
+        <it>7d</it>
+        <de>7d</de>
+        <it>7d</it>
+        <ur>7D</ur>
+    </entry>
+    <entry>
+        <key>14d</key>
+        <en>14d</en>
+        <ja>14日</ja>
+        <pt>14d</pt>
+        <zh-CN>14天</zh-CN>
+        <fr>14d</fr>
+        <ar>14D</ar>
+        <zh-TW>14D</zh-TW>
+        <hi>14D</hi>
+        <ko>14D</ko>
+        <bn>14d</bn>
+        <ru>14d</ru>
+        <sq>14d</sq>
+        <it>14d</it>
+        <de>14d</de>
+        <it>14d</it>
+        <ur>14D</ur>
+    </entry>
+    <entry>
+        <key>30d</key>
+        <en>30d</en>
+        <ja>30日</ja>
+        <pt>30d</pt>
+        <zh-CN>30天</zh-CN>
+        <fr>30d</fr>
+        <ar>30D</ar>
+        <zh-TW>30D</zh-TW>
+        <hi>30D</hi>
+        <ko>30D</ko>
+        <bn>30d</bn>
+        <ru>30d</ru>
+        <sq>30d</sq>
+        <it>30d</it>
+        <de>30d</de>
+        <it>30d</it>
+        <ur>30D</ur>
+    </entry>
+    <entry>
+        <key>Date</key>
+        <en>Date</en>
+        <ja>日付</ja>
+        <pt>Data</pt>
+        <zh-CN>日期</zh-CN>
+        <fr>date</fr>
+        <ar>تاريخ</ar>
+        <zh-TW>日期</zh-TW>
+        <hi>तारीख</hi>
+        <ko>날짜</ko>
+        <bn>তারিখ</bn>
+        <ru>Дата</ru>
+        <sq>data</sq>
+        <it>Data</it>
+        <de>Datum</de>
+        <it>Data</it>
+        <ur>تاریخ</ur>
+    </entry>
+    <entry>
+        <key>Clicks</key>
+        <en>Clicks</en>
+        <ja>クリック</ja>
+        <pt>Cliques</pt>
+        <zh-CN>点击</zh-CN>
+        <fr>Clics</fr>
+        <ar>نقرات</ar>
+        <zh-TW>點擊</zh-TW>
+        <hi>क्लिक्स</hi>
+        <ko>클릭</ko>
+        <bn>ক্লিকস</bn>
+        <ru>щелчки</ru>
+        <sq>klikime</sq>
+        <it>clic</it>
+        <de>Klicks</de>
+        <it>clic</it>
+        <ur>کلکس</ur>
+    </entry>
+    <entry>
+        <key>Action</key>
+        <en>Action</en>
+        <ja>オプション</ja>
+        <pt>Ação</pt>
+        <zh-CN>行动</zh-CN>
+        <fr>action</fr>
+        <ar>عمل</ar>
+        <zh-TW>行動</zh-TW>
+        <hi>कार्य</hi>
+        <ko>동작</ko>
+        <bn>কর্ম</bn>
+        <ru>действие</ru>
+        <sq>veprim</sq>
+        <it>Azione</it>
+        <de>Aktion</de>
+        <it>Azione</it>
+        <ur>عمل</ur>
+    </entry>
+    <entry>
+        <key>Manage Shorteners</key>
+        <en>Manage Shorteners</en>
+        <ja>短縮サービス管理</ja>
+        <pt>Gerir Encurtadores</pt>
+        <zh-CN>管理缩短服务</zh-CN>
+        <fr>Gérer shorteners</fr>
+        <ar>إدارة تقصير</ar>
+        <zh-TW>管理縮短服務</zh-TW>
+        <hi>shorteners प्रबंधित</hi>
+        <ko>축약 관리</ko>
+        <bn>সংক্ষিপ্ত পরিচালনা</bn>
+        <ru>Управление Shorteners</ru>
+        <sq>Menaxho Shorteners</sq>
+        <it>gestire shorteners</it>
+        <de>verwalten Shorteners</de>
+        <it>gestire shorteners</it>
+        <ur>مختصر کرنے کا انتظام کریں</ur>
+    </entry>
+    <entry>
+        <key>Link Shorteners</key>
+        <en>Link Shorteners</en>
+        <ja>リンク短縮サービス</ja>
+        <pt>Encurtadores de Link</pt>
+        <zh-CN>链接缩短服务</zh-CN>
+        <fr>Lien shorteners</fr>
+        <ar>رابط تقصير</ar>
+        <zh-TW>鏈接縮短服務</zh-TW>
+        <hi>लिंक shorteners</hi>
+        <ko>링크 축약</ko>
+        <bn>লিংক সংক্ষিপ্ত করা</bn>
+        <ru>Ссылка Shorteners</ru>
+        <sq>Link Shorteners</sq>
+        <it>collegamento shorteners</it>
+        <de>Link Shorteners</de>
+        <it>collegamento shorteners</it>
+        <ur>لنک کو مختصر کرنے</ur>
+    </entry>
+    <entry>
+        <key>Service</key>
+        <en>Service</en>
+        <ja>サービス</ja>
+        <pt>Serviço</pt>
+        <zh-CN>服务</zh-CN>
+        <fr>Un service</fr>
+        <ar>خدمة</ar>
+        <zh-TW>服務</zh-TW>
+        <hi>सर्विस</hi>
+        <ko>서비스</ko>
+        <bn>সেবা</bn>
+        <ru>обслуживание</ru>
+        <sq>shërbim</sq>
+        <it>Servizio</it>
+        <de>Bedienung</de>
+        <it>Servizio</it>
+        <ur>سروس</ur>
+    </entry>
+    <entry>
+        <key>Bitly</key>
+        <en>Bitly</en>
+        <ja>Bitly</ja>
+        <pt>Bitly</pt>
+        <zh-CN>Bitly</zh-CN>
+        <fr>Bitly</fr>
+        <ar>Bitly</ar>
+        <zh-TW>Bitly</zh-TW>
+        <hi>Bitly</hi>
+        <ko>Bitly</ko>
+        <bn>Bitly</bn>
+        <ru>Bitly</ru>
+        <sq>Bitly</sq>
+        <it>bitly</it>
+        <de>Bitly</de>
+        <it>bitly</it>
+        <ur>ہے bitly</ur>
+    </entry>
+    <entry>
+        <key>Account Name</key>
+        <en>Account Name</en>
+        <ja>アカウント名</ja>
+        <pt>Nome da Conta</pt>
+        <zh-CN>用户名</zh-CN>
+        <fr>Nom du compte</fr>
+        <ar>أسم الحساب</ar>
+        <zh-TW>用戶名</zh-TW>
+        <hi>खाते का नाम</hi>
+        <ko>계정 이름</ko>
+        <bn>হিসাবের নাম</bn>
+        <ru>Имя пользователя</ru>
+        <sq>Emri i llogarise</sq>
+        <it>Nome utente</it>
+        <de>Kontobezeichnung</de>
+        <it>Nome utente</it>
+        <ur>کھاتے کا نام</ur>
+    </entry>
+    <entry>
+        <key>Domain</key>
+        <en>Domain</en>
+        <ja>ドメイン</ja>
+        <pt>Domínio</pt>
+        <zh-CN>互联网域名</zh-CN>
+        <fr>Domaine</fr>
+        <ar>نطاق</ar>
+        <zh-TW>域</zh-TW>
+        <hi>डोमेन</hi>
+        <ko>도메인</ko>
+        <bn>ডোমেইন</bn>
+        <ru>Домен</ru>
+        <sq>fushë</sq>
+        <it>Dominio</it>
+        <de>Domain</de>
+        <it>Dominio</it>
+        <ur>ڈومین</ur>
+    </entry>
+    <entry>
+        <key>API Key</key>
+        <en>API Key</en>
+        <ja>APIキー</ja>
+        <pt>Chave API</pt>
+        <zh-CN>API密钥</zh-CN>
+        <fr>clé API</fr>
+        <ar>مفتاح API</ar>
+        <zh-TW>API密鑰</zh-TW>
+        <hi>एपीआई कुंजी</hi>
+        <ko>API 키</ko>
+        <bn>API কী</bn>
+        <ru>Ключ API</ru>
+        <sq>API Key</sq>
+        <it>API Key</it>
+        <de>API-Schlüssel</de>
+        <it>API Key</it>
+        <ur>API کلید</ur>
+    </entry>
+    <entry>
+        <key>Add Link Shortener</key>
+        <en>Add Link Shortener</en>
+        <ja>リンク短縮サービス追加</ja>
+        <pt>Adicionar Encurtador de Link</pt>
+        <zh-CN>添加链接缩短</zh-CN>
+        <fr>Ajouter un lien Shortener</fr>
+        <ar>إضافة رابط المقلل</ar>
+        <zh-TW>添加鏈接縮短</zh-TW>
+        <hi>लिंक Shortener जोड़े</hi>
+        <ko>링크 Shortener를 추가</ko>
+        <bn>লিংক সংক্ষেপনকারীর যোগ</bn>
+        <ru>Добавить Link Shortener</ru>
+        <sq>Shto Link Shortener</sq>
+        <it>Aggiungi link Shortener</it>
+        <de>Link hinzufügen Shortener</de>
+        <it>Aggiungi link Shortener</it>
+        <ur>لنک اختصار شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Service</key>
+        <en>Service</en>
+        <ja>サービス</ja>
+        <pt>Serviço</pt>
+        <zh-CN>服务</zh-CN>
+        <fr>Un service</fr>
+        <ar>خدمة</ar>
+        <zh-TW>服務</zh-TW>
+        <hi>सर्विस</hi>
+        <ko>서비스</ko>
+        <bn>সেবা</bn>
+        <ru>обслуживание</ru>
+        <sq>shërbim</sq>
+        <it>Servizio</it>
+        <de>Bedienung</de>
+        <it>Servizio</it>
+        <ur>سروس</ur>
+    </entry>
+    <entry>
+        <key>Domain</key>
+        <en>Domain</en>
+        <ja>ドメイン</ja>
+        <pt>Domínio</pt>
+        <zh-CN>域</zh-CN>
+        <fr>Domaine</fr>
+        <ar>نطاق</ar>
+        <zh-TW>域</zh-TW>
+        <hi>डोमेन</hi>
+        <ko>도메인</ko>
+        <bn>ডোমেইন</bn>
+        <ru>Домен</ru>
+        <sq>fushë</sq>
+        <it>Dominio</it>
+        <de>Domain</de>
+        <it>Dominio</it>
+        <ur>ڈومین</ur>
+    </entry>
+    <entry>
+        <key>Username</key>
+        <en>Username</en>
+        <ja>ユーザ名</ja>
+        <pt>Nome de Usuário</pt>
+        <zh-CN>用户名</zh-CN>
+        <fr>Nom d'utilisateur</fr>
+        <ar>اسم المستخدم</ar>
+        <zh-TW>用戶名</zh-TW>
+        <hi>उपयोगकर्ता नाम</hi>
+        <ko>사용자 이름</ko>
+        <bn>ব্যবহারকারীর নাম</bn>
+        <ru>Имя пользователя</ru>
+        <sq>Emri i përdoruesit</sq>
+        <it>Nome utente</it>
+        <de>Benutzername</de>
+        <it>Nome utente</it>
+        <ur>صارف کا نام</ur>
+    </entry>
+    <entry>
+        <key>API Key</key>
+        <en>API Key</en>
+        <ja>APIキー</ja>
+        <pt>Chave API</pt>
+        <zh-CN>API密钥</zh-CN>
+        <fr>clé API</fr>
+        <ar>مفتاح API</ar>
+        <zh-TW>API密鑰</zh-TW>
+        <hi>एपीआई कुंजी</hi>
+        <ko>API 키</ko>
+        <bn>API কী</bn>
+        <ru>Ключ API</ru>
+        <sq>API Key</sq>
+        <it>API Key</it>
+        <de>API-Schlüssel</de>
+        <it>API Key</it>
+        <ur>API کلید</ur>
+    </entry>
+    <entry>
+        <key>Associated Social Account</key>
+        <en>Associated Social Account</en>
+        <ja>関連づけられたソーシャルアカウント</ja>
+        <pt>Conta Social Associada</pt>
+        <zh-CN>相关的社会账户</zh-CN>
+        <fr>Associated compte Social</fr>
+        <ar>الحساب الاجتماعية المرتبطة</ar>
+        <zh-TW>相關的社會賬戶</zh-TW>
+        <hi>एसोसिएटेड सामाजिक खाते</hi>
+        <ko>관련 사회 계정</ko>
+        <bn>অ্যাসোসিয়েটেড সামাজিক অ্যাকাউন্ট</bn>
+        <ru>Associated Social Account</ru>
+        <sq>Llogaria Social Associated</sq>
+        <it>Associated account di social</it>
+        <de>Assoziierte Sozial Konto</de>
+        <it>Associated account di social</it>
+        <ur>ایسوسی سماجی اکاؤنٹ</ur>
+    </entry>
+</translations>

@@ -1,0 +1,598 @@
+<translations>
+    <entry>
+        <key>Hmmmmm... Something has gone wrong retrieving your queue.</key>
+        <en>Hmmmmm... Something has gone wrong retrieving your queue.</en>
+        <ja>うーん … 待機中メッセージの読み出しに失敗しました。</ja>
+        <pt>Hum... Um erro ocorreu ao recuperar sua fila.</pt>
+        <zh-CN>嗯... 有错误发生检索您的队列。</zh-CN>
+        <fr>Hmmmmm ... Quelque chose ne va pas récupérer votre file d'attente.</fr>
+        <ar>همممم ... فهناك شيء ما خطأ استرجاع قائمة الانتظار الخاصة بك.</ar>
+        <zh-TW>Hmmmmm ......有錯誤發生檢索您的隊列。</zh-TW>
+        <hi>Hmmmmm ... कुछ अपने कतार पुन: प्राप्त गलत हो गया है।</hi>
+        <ko>멀게 ... 뭔가 대기열을 검색하는 문제가 있습니다.</ko>
+        <bn>Hmmmmm ... কোনো কিছু আপনার কিউ পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
+        <ru>Hmmmmm ... Что-то пошло не так получении вашей очереди.</ru>
+        <sq>Hmmmmm ... Diçka ka shkuar keq retrieving radhë tuaj.</sq>
+        <it>Hmmmmm ... Qualcosa è andato storto recuperare la coda.</it>
+        <de>Hmmmmm ... Etwas schief gegangen Warteschlange abgerufen werden.</de>
+        <it>Hmmmmm ... Qualcosa è andato storto recuperare la coda.</it>
+        <ur>Hmmmmm ... کچھ آپ کی قطار بازگیر غلط چلا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Hmmmmm... You must add a name for your group.</key>
+        <en>Hmmmmm... You must add a name for your group.</en>
+        <ja>うーん … グループに名前を付ける必要があります。</ja>
+        <pt>Hum... Você deve adicionar um nome para seu grupo.</pt>
+        <zh-CN>嗯... 你必须为你的组添加一个名字。</zh-CN>
+        <fr>Hmmmmm ... Vous devez ajouter un nom pour votre groupe.</fr>
+        <ar>همممم ... يجب إضافة اسم لمجموعتك.</ar>
+        <zh-TW>Hmmmmm ...你必須為你的組添加一個名字。</zh-TW>
+        <hi>Hmmmmm ... आप अपने समूह के लिए एक नाम जोड़ना होगा।</hi>
+        <ko>멀게 ... 당신은 그룹의 이름을 추가해야합니다.</ko>
+        <bn>Hmmmmm ... আপনি আপনার দলের জন্য একটি নাম যোগ করতে হবে.</bn>
+        <ru>Hmmmmm ... Вы должны добавить имя для вашей группы.</ru>
+        <sq>Hmmmmm ... Ju duhet të shtoni një emër për grupin tuaj.</sq>
+        <it>Hmmmmm ... È necessario aggiungere un nome per il gruppo.</it>
+        <de>Hmmmmm ... Sie müssen einen Namen für die Gruppe hinzufügen.</de>
+        <it>Hmmmmm ... È necessario aggiungere un nome per il gruppo.</it>
+        <ur>Hmmmmm ... آپ اپنے گروپ کے لئے ایک نام شامل کرنا ضروری ہے.</ur>
+    </entry>
+    <entry>
+        <key>You are at your account limit. Please click the upgrade button to add more accounts.</key>
+        <en>You are at your account limit. Please click the upgrade button to add more accounts.</en>
+        <ja>アカウント数の上限に達しました。アップグレードボタンをクリックして、アカウント数を増やしてください。</ja>
+        <pt>Você está no limite de suas contas. Por favor, clique no botão de upgrade para adicionar mais contas.</pt>
+        <zh-CN>你在你的帐户的限制。请点击升级按钮来添加更多的帐户。</zh-CN>
+        <fr>Vous êtes à la limite de votre compte. S'il vous plaît cliquer sur le bouton de mise à niveau pour ajouter d'autres comptes.</fr>
+        <ar>كنت في الحد حسابك. الرجاء الضغط على زر التحديث لإضافة المزيد من الحسابات.</ar>
+        <zh-TW>你在你的帳戶的限制。請點擊升級按鈕來添加更多的帳戶。</zh-TW>
+        <hi>आप अपने खाते में सीमा पर हैं। अधिक खाते जोड़ने के लिए उन्नयन बटन पर क्लिक करें।</hi>
+        <ko>당신은 당신의 계정 제한에 있습니다. 계정을 추가하는 업그레이드 버튼을 클릭하십시오.</ko>
+        <bn>আপনি আপনার একাউন্ট সীমাতে রয়েছেন. আরো অ্যাকাউন্ট যোগ করার জন্য আপগ্রেড বাটন ক্লিক করুন.</bn>
+        <ru>Вы находитесь на свой лимит счета. Пожалуйста, нажмите кнопку обновления, чтобы добавить несколько учетных записей.</ru>
+        <sq>Ju jeni në kufirin e llogarisë suaj. Ju lutem klikoni butonin përmirësuar për të shtuar më shumë llogari.</sq>
+        <it>Sei al tuo limite conto. Si prega di fare clic sul pulsante di aggiornamento per aggiungere più account.</it>
+        <de>Sie befinden sich in Ihrem Konto zu begrenzen. Bitte klicken Sie auf die Schaltfläche Upgrade, um weitere Konten hinzufügen.</de>
+        <it>Sei al tuo limite conto. Si prega di fare clic sul pulsante di aggiornamento per aggiungere più account.</it>
+        <ur>آپ اپنے اکاؤنٹ کی حد میں ہیں. مزید اکاؤنٹس شامل کرنے کے لئے اپ گریڈ کے بٹن پر کلک کریں براہ مہربانی.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your message will publish ASAP!</key>
+        <en>Success! Your message will publish ASAP!</en>
+        <ja>成功しました ! メッセージはできる限り速やかに公開されます !</ja>
+        <pt>Sucesso! Sua mensagem será publicada o mais breve possível!</pt>
+        <zh-CN>成功！您的留言信息将会尽快公布！</zh-CN>
+        <fr>Le succès! Votre message publiera dès que possible!</fr>
+        <ar>نجاح! سوف تنشر الرسالة في اسرع وقت ممكن!</ar>
+        <zh-TW>成功！您的留言信息將會盡快公佈！</zh-TW>
+        <hi>सफलता! आपका संदेश ASAP के प्रकाशित करेंगे!</hi>
+        <ko>성공! 귀하의 메시지가 최대한 빨리 게시됩니다!</ko>
+        <bn>সাফল্য! আপনার বার্তা যত শীঘ্র সম্ভব প্রকাশ করা হবে!</bn>
+        <ru>Успех! Ваше сообщение будет публиковать как можно скорее!</ru>
+        <sq>Sukses! Mesazhi juaj do të publikojë ASAP!</sq>
+        <it>Successo! Il tuo messaggio pubblicherà al più presto!</it>
+        <de>Erfolg! Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
+        <it>Successo! Il tuo messaggio pubblicherà al più presto!</it>
+        <ur>کامیابی! آپ کا پیغام ASAP شائع کریں گے!</ur>
+    </entry>
+    <entry>
+        <key>Success! Your information has been saved!</key>
+        <en>Success! Your information has been saved!</en>
+        <ja>成功しました ! メッセージは保存されました !</ja>
+        <pt>Sucesso! Sua informação foi salva!</pt>
+        <zh-CN>成功！您的信息已保存！</zh-CN>
+        <fr>Le succès! Vos informations ont été sauvés!</fr>
+        <ar>نجاح! تم حفظ المعلومات الخاصة بك!</ar>
+        <zh-TW>成功！您的信息已保存！</zh-TW>
+        <hi>सफलता! तुम्हारी सूचना संरक्षित कर ली गयी है!</hi>
+        <ko>성공! 귀하의 정보가 저장되었습니다!</ko>
+        <bn>সাফল্য! আপনার তথ্য সংরক্ষণ করা হয়েছে!</bn>
+        <ru>Успех! Ваша информация была сохранена!</ru>
+        <sq>Sukses! Informacioni juaj u ruajt!</sq>
+        <it>Successo! I tuoi dati è stato salvato!</it>
+        <de>Erfolg! Ihre Angaben wurden gespeichert!</de>
+        <it>Successo! I tuoi dati è stato salvato!</it>
+        <ur>کامیابی! آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
+    </entry>
+    <entry>
+        <key>Hmmmmm... Something has gone wrong.</key>
+        <en>Hmmmmm... Something has gone wrong.</en>
+        <ja>うーん … うまく処理できませんでした。</ja>
+        <pt>Hum... Um erro ocorreu.</pt>
+        <zh-CN>嗯... 有错误发生。</zh-CN>
+        <fr>Hmmmmm ... Quelque chose a mal tourné.</fr>
+        <ar>همممم ... فهناك شيء ما خطأ.</ar>
+        <zh-TW>Hmmmmm ......有錯誤發生。</zh-TW>
+        <hi>Hmmmmm ... कुछ गलत हो गया है।</hi>
+        <ko>멀게 ... 뭔가 잘못왔다.</ko>
+        <bn>Hmmmmm ... কিছু ভুল হয়েছে.</bn>
+        <ru>Hmmmmm ... Что-то пошло не так.</ru>
+        <sq>Hmmmmm ... Diçka ka shkuar keq.</sq>
+        <it>Hmmmmm ... Qualcosa è andato storto.</it>
+        <de>Hmmmmm ... Etwas schief gegangen ist.</de>
+        <it>Hmmmmm ... Qualcosa è andato storto.</it>
+        <ur>Hmmmmm ... کچھ غلط چلا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>User Saved. Settings for this user have been saved.</key>
+        <en>User Saved. Settings for this user have been saved.</en>
+        <ja>ユーザーの保存完了。このユーザーの設定は保存されました。</ja>
+        <pt>Usuário Salvo. Configurações para este usuário foram salvas.</pt>
+        <zh-CN>用户保存。这个用户设置已保存。</zh-CN>
+        <fr>L'utilisateur enregistré. Réglages pour cet utilisateur ont été enregistrées.</fr>
+        <ar>المستخدم المحفوظة. تم حفظ الإعدادات لهذا المستخدم.</ar>
+        <zh-TW>用戶保存。這個用戶設置已保存。</zh-TW>
+        <hi>उपयोगकर्ता बचा लिया। इस उपयोगकर्ता के लिए सेटिंग्स बचा लिया गया है।</hi>
+        <ko>사용자는 저장합니다. 이 사용자에 대한 설정이 저장되었습니다.</ko>
+        <bn>ব্যবহারকারী সংরক্ষিত. এই ব্যবহারকারীর জন্য সেটিংস সংরক্ষণ করা হয়েছে.</bn>
+        <ru>Сохраненный пользователя. Настройки для этого пользователя сохранены.</ru>
+        <sq>User ruajtura. Cilësimet për këtë përdorues kanë qenë të ruajtur.</sq>
+        <it>Salvato utente. Le impostazioni per questo utente sono state salvate.</it>
+        <de>Benutzer gespeichert. Einstellungen für diesen Benutzer gespeichert wurden.</de>
+        <it>Salvato utente. Le impostazioni per questo utente sono state salvate.</it>
+        <ur>یوزر بچا لیا. اس صارف کیلئے ترتیبات محفوظ ہوگئی ہیں.</ur>
+    </entry>
+    <entry>
+        <key>Your message is too long.  Your message is limited to 140 characters when publishing to Twitter.</key>
+        <en>Your message is too long.  Your message is limited to 140 characters when publishing to Twitter.</en>
+        <ja>メッセージが長過ぎます。 Twitter で公開するメッセージは最長 140 文字までです。</ja>
+        <pt>Sua mensagem é muito longa. Sua mensagem é limitada a 140 caracteres ao publicar no Twitter.</pt>
+        <zh-CN>您的留言太长。发布到Twitter时，你的信息被限制在140个字符。</zh-CN>
+        <fr>Votre message est trop long. Votre message est limité à 140 caractères lors de la publication à Twitter.</fr>
+        <ar>رسالتك طويلة جدا. يقتصر رسالة إلى 140 حرفا عند نشر على تويتر.</ar>
+        <zh-TW>您的留言太長。發布到Twitter時，你的信息被限制在140個字符。</zh-TW>
+        <hi>आपका संदेश बहुत लंबा है। जब ट्विटर पर प्रकाशन आपका संदेश 140 अक्षरों तक सीमित है।</hi>
+        <ko>귀하의 메시지가 너무 깁니다. 트위터에 게시 할 때 메시지는 140 자로 제한됩니다.</ko>
+        <bn>আপনার বার্তাটি অত্যন্ত দীর্ঘ. যখন টুইটারে প্রকাশ আপনার বার্তা 140 অক্ষরের মধ্যে সীমিত আছে.</bn>
+        <ru>Ваше сообщение слишком длинное. Ваше сообщение ограничено 140 символами при публикации в Twitter.</ru>
+        <sq>Mesazhi juaj është shumë e gjatë. Mesazhi juaj është e kufizuar në 140 karaktere, kur botuese në Twitter.</sq>
+        <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <de>Ihre Nachricht ist zu lang. Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
+        <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <ur>آپ کا پیغام بہت طویل ہے. فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your messages were deleted.</key>
+        <en>Success! Your messages were deleted.</en>
+        <ja>成功! メッセージが削除されました。</ja>
+        <pt>Sucesso. Suas mensagens foram excluídas.</pt>
+        <zh-CN>成功! 您的消息被删除。</zh-CN>
+        <fr>Le succès de vos messages ont été supprimés.</fr>
+        <ar>نجاح تم حذف الرسائل الخاصة بك.</ar>
+        <zh-TW>成功的消息被刪除。</zh-TW>
+        <hi>सफलता अपने संदेशों को नष्ट कर दिया गया।</hi>
+        <ko>성공 메시지가 삭제되었습니다.</ko>
+        <bn>সাফল্য আপনার বার্তা মুছে ফেলা হয়েছে.</bn>
+        <ru>Успех ваши сообщения были удалены.</ru>
+        <sq>Suksesi mesazhet janë fshirë.</sq>
+        <it>Successo i messaggi sono stati cancellati.</it>
+        <de>Erfolg Ihre Nachrichten wurden gelöscht.</de>
+        <it>Successo i messaggi sono stati cancellati.</it>
+        <ur>کامیابی! آپ کے پیغامات کو خارج کر دیا گیا تھا.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your messages were marked hold.</key>
+        <en>Success! Your messages were marked hold.</en>
+        <ja>成功 メッセージが保留にマークされました。</ja>
+        <pt>Sucesso. Suas mensagens foram marcadas para aguardar.</pt>
+        <zh-CN>成功! 您的消息被标记为搁置。</zh-CN>
+        <fr>Success vos messages ont été marqués en attente.</fr>
+        <ar>وتميزت نجاح رسائلك الانتظار.</ar>
+        <zh-TW>成功的消息被標記為擱置。</zh-TW>
+        <hi>सफलता अपने संदेशों को पकड़ चिह्नित किया गया।</hi>
+        <ko>성공 메시지 보류를 표시했다.</ko>
+        <bn>সাফল্য আপনার বার্তা ধরে চিহ্নিত করা হয়েছিল.</bn>
+        <ru>Успех ваши сообщения были отмечены захват.</ru>
+        <sq>Suksesi mesazhet u shënuan mbajë.</sq>
+        <it>Successo tuoi messaggi sono stati contrassegnati attesa.</it>
+        <de>Erfolg Ihre Nachrichten wurden markiert halten.</de>
+        <it>Successo tuoi messaggi sono stati contrassegnati attesa.</it>
+        <ur>کامیابی! آپ کے پیغامات پکڑ نشان لگا دیا گیا تھا.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your messages were marked optimized.</key>
+        <en>Success! Your messages were marked optimized.</en>
+        <ja>成功! メッセージが最適化にマークされました。</ja>
+        <pt>Sucesso! Suas mensagens foram marcadas para otimização.</pt>
+        <zh-CN>成功! 您的邮件被标记了优化。</zh-CN>
+        <fr>Successed vous envoyer de messages ont été marqués optimisé.</fr>
+        <ar>وتميزت الأمثل الرسائل Successed لك.</ar>
+        <zh-TW>Successed你的郵件被標記了優化。</zh-TW>
+        <hi>Successed आप संदेशों को अनुकूलित चिह्नित किया गया।</hi>
+        <ko>Successed 당신이 메시지는 최적화 된 표시했다.</ko>
+        <bn>Successed আপনাকে বার্তা অপ্টিমাইজ চিহ্নিত করা হয়েছিল.</bn>
+        <ru>Вам сообщения В случае успешного были отмечены оптимизированы.</ru>
+        <sq>ju mesazhe successed u shënuan optimizuar.</sq>
+        <it>Successed messaggi che sono stati segnati ottimizzato.</it>
+        <de>Successed Sie Nachrichten wurden optimiert markiert.</de>
+        <it>Successed messaggi che sono stati segnati ottimizzato.</it>
+        <ur>کامیابی! آپ کے پیغامات مرضی کے نشان لگا دیا گیا تھا.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your message has been scheduled.</key>
+        <en>Success! Your message has been scheduled.</en>
+        <ja>成功 メッセージが予約されました。</ja>
+        <pt>Sucesso. Suas mensagens foram agendadas.</pt>
+        <zh-CN>成功! 您的消息已定。</zh-CN>
+        <fr>Succès Votre message a été prévu.</fr>
+        <ar>وكان من المقرر نجاح رسالتك.</ar>
+        <zh-TW>成功的消息已定。</zh-TW>
+        <hi>सफलता के लिए अपने संदेश निर्धारित किया गया है।</hi>
+        <ko>성공 메시지가 예정되어 있습니다.</ko>
+        <bn>সাফল্য আপনার বার্তা নির্ধারিত হয়েছে.</bn>
+        <ru>Успех ваше сообщение было запланировано.</ru>
+        <sq>Suksesi mesazhi juaj ka qenë e planifikuar.</sq>
+        <it>Il successo il messaggio è stato programmato.</it>
+        <de>Erfolg Ihre Nachricht wurde geplant.</de>
+        <it>Il successo il messaggio è stato programmato.</it>
+        <ur>کامیابی! آپ کا پیغام شیڈول کیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>No feed URLS found.  Sorry, we did not find any feeds.</key>
+        <en>No feed URLS found.  Sorry, we did not find any feeds.</en>
+        <ja>フィードの URL がありません。残念ですが、フィードが見つかりませんでした。</ja>
+        <pt>URLs de feed não encontradas.  Desculpe, não encontramos nenhum feed.</pt>
+        <zh-CN>没有供稿网址找到。很抱歉，我们没有发现任何饲料。</zh-CN>
+        <fr>Aucun URLS d'alimentation trouvé. Désolé, nous ne trouvons pas de flux.</fr>
+        <ar>لم يتم العثور على تغذية عناوين المواقع. عذرا، لم نجد أي الأعلاف.</ar>
+        <zh-TW>沒有供稿網址找到。很抱歉，我們沒有發現任何飼料。</zh-TW>
+        <hi>कोई फ़ीड URL मिले। क्षमा करें, हम किसी भी खिलाती नहीं मिल रहा था।</hi>
+        <ko>어떤 피드 URL을 찾을 수 없습니다. 죄송합니다, 우리는 어떤 피드를 찾지 못했습니다.</ko>
+        <bn>কোন ফিড URL পাওয়া. দুঃখিত, আমরা কোনো ফিড খুঁজে পান না.</bn>
+        <ru>Нет подачи URLS не найдено. К сожалению, мы не нашли ни одного канала.</ru>
+        <sq>Nuk URLS ushqim gjetur. Na vjen keq, ne nuk kemi gjetur asnjë feeds.</sq>
+        <it>Nessun URL dei feed trovato. Siamo spiacenti, ma non abbiamo trovato nessun feed.</it>
+        <de>Keine Feed-URLs gefunden. Leider können wir finden konnten keine Feeds.</de>
+        <it>Nessun URL dei feed trovato. Siamo spiacenti, ma non abbiamo trovato nessun feed.</it>
+        <ur>کوئی فیڈ یو آر ایل کو پایا. معذرت، ہم کسی بھی فیڈز کو تلاش نہیں کیا.</ur>
+    </entry>
+    <entry>
+        <key>Select Account.  You must select at least one account to add this feed to</key>
+        <en>Select Account.  You must select at least one account to add this feed to</en>
+        <ja>アカウントを選択。このフィードを追加するにはアカウントを最低 1 つ選ぶ必要があります。</ja>
+        <pt>Selecionar Conta.  Você deve selecionar pelo menos uma conta para a qual este feed será adicionado.</pt>
+        <zh-CN>选择帐户。您必须选择至少一个帐户，这个饲料添加</zh-CN>
+        <fr>Sélectionnez Compte. Vous devez sélectionner au moins un compte pour ajouter ce flux à</fr>
+        <ar>حدد حساب. يجب تحديد حساب واحد على الأقل في إضافة هذه الخلاصة ل</ar>
+        <zh-TW>選擇帳戶。您必須選擇至少一個帳戶，這個飼料添加</zh-TW>
+        <hi>खाता चुनें। आप को यह फ़ीड जोड़ने के लिए कम से कम एक खाता का चयन करना होगा</hi>
+        <ko>계정 선택. 당신은이 피드를 추가하기 위해 적어도 하나의 계정을 선택해야합니다</ko>
+        <bn>অ্যাকাউন্ট নির্বাচন করুন. আপনি এই ফিড যোগ করার জন্য অন্তত একটি অ্যাকাউন্ট নির্বাচন করতে হবে</bn>
+        <ru>Выбор учетной записи. Вы должны выбрать по крайней мере одну учетную запись, чтобы добавить этот канал</ru>
+        <sq>Zgjidhni Llogaria. Ju duhet të zgjidhni të paktën një llogari për të shtuar këtë ushqim të</sq>
+        <it>Selezionare Account. È necessario selezionare almeno un account per aggiungere questo feed per</it>
+        <de>Wählen Sie Konto. Sie müssen mindestens ein Konto wählen diesen Feed hinzufügen</de>
+        <it>Selezionare Account. È necessario selezionare almeno un account per aggiungere questo feed per</it>
+        <ur>منتخب اکاؤنٹ. تم اس فیڈ شامل کرنے کے لئے کم از کم ایک اکاؤنٹ کا انتخاب کرنا ہوگا</ur>
+    </entry>
+    <entry>
+        <key>Feed added.  The feed has been successfully added.</key>
+        <en>Feed added.  The feed has been successfully added.</en>
+        <ja>フィードの追加完了。このフィードは無事に追加されました。</ja>
+        <pt>Feed adicionado.  O feed foi adicionado com sucesso.</pt>
+        <zh-CN>饲料中添加。饲料已成功添加。</zh-CN>
+        <fr>RSS ajouté. L'alimentation a été ajouté avec succès.</fr>
+        <ar>وأضاف الأعلاف. تمت إضافة تغذية بنجاح.</ar>
+        <zh-TW>飼料中添加。飼料已成功添加。</zh-TW>
+        <hi>फ़ीड जोड़ा। फीड सफलतापूर्वक जोड़ दिया गया है।</hi>
+        <ko>피드 덧붙였다. 피드가 성공적으로 추가되었습니다.</ko>
+        <bn>ফিড যোগ. ফিড সফলভাবে যোগ করা হয়েছে.</bn>
+        <ru>добавлен поток. Подача была успешно добавлена.</ru>
+        <sq>Feed shtuar. Ushqim u shtua me sukses.</sq>
+        <it>Feed aggiunto. L'alimentazione è stato aggiunto correttamente.</it>
+        <de>Feed hinzugefügt. Das Futter wurde erfolgreich hinzugefügt.</de>
+        <it>Feed aggiunto. L'alimentazione è stato aggiunto correttamente.</it>
+        <ur>فیڈ نے مزید کہا. فیڈ کامیابی سے شامل کر دی گئی ہے.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your information has been saved!</key>
+        <en>Success! Your information has been saved!</en>
+        <ja>成功です! 情報は保存されました !</ja>
+        <pt>Sucesso! Sua informação foi salva!</pt>
+        <zh-CN>成功！您的信息已保存！</zh-CN>
+        <fr>Le succès! Vos informations ont été sauvés!</fr>
+        <ar>نجاح! تم حفظ المعلومات الخاصة بك!</ar>
+        <zh-TW>成功！您的信息已保存！</zh-TW>
+        <hi>सफलता! तुम्हारी सूचना संरक्षित कर ली गयी है!</hi>
+        <ko>성공! 귀하의 정보가 저장되었습니다!</ko>
+        <bn>সাফল্য! আপনার তথ্য সংরক্ষণ করা হয়েছে!</bn>
+        <ru>Успех! Ваша информация была сохранена!</ru>
+        <sq>Sukses! Informacioni juaj u ruajt!</sq>
+        <it>Successo! I tuoi dati è stato salvato!</it>
+        <de>Erfolg! Ihre Angaben wurden gespeichert!</de>
+        <it>Successo! I tuoi dati è stato salvato!</it>
+        <ur>کامیابی! آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
+    </entry>
+    <entry>
+        <key>User Invited Invitation sent to</key>
+        <en>User Invited Invitation sent to</en>
+        <ja>ユーザーの招待完了。招待状が次のアドレスに送信されました:</ja>
+        <pt>Usuário Convidado. Convite enviado para</pt>
+        <zh-CN>用户邀请邀请发送到</zh-CN>
+        <fr>Invitation utilisateur invité envoyée à</fr>
+        <ar>أرسلت العضو دعوة دعوة ل</ar>
+        <zh-TW>用戶邀請邀請發送到</zh-TW>
+        <hi>उपयोगकर्ता को आमंत्रित निमंत्रण के लिए भेजा</hi>
+        <ko>사용자 초대 초대장 전송</ko>
+        <bn>ব্যবহারকারী আমন্ত্রিত আমন্ত্রণ পাঠানো</bn>
+        <ru>Пользователь Приглашенный Приглашение отправлено</ru>
+        <sq>User ftuar Ftesë dërguar në</sq>
+        <it>Utente invitato Invito spedito a</it>
+        <de>User eingeladen Einladung verschickt an</de>
+        <it>Utente invitato Invito spedito a</it>
+        <ur>یوزر مدعو دعوت کے لئے بھیجا</ur>
+    </entry>
+    <entry>
+        <key>User Removed.  User &lt;user&gt; has been removed from this client.</key>
+        <en>User Removed.  User &lt;user&gt; has been removed from this client.</en>
+        <ja>ユーザーの削除完了。ユーザー &lt;user&gt; はこのクライアントから削除されました。</ja>
+        <pt>Usuário Removido.  Usuário &lt;user&gt; foi removido deste cliente.</pt>
+    </entry>
+    <entry>
+        <key>Email Sent.  Password reset email has been sent to</key>
+        <en>Email Sent.  Password reset email has been sent to</en>
+        <ja>メールの送信完了。パスワードリセットメールが次のアドレスに送信されました :</ja>
+        <pt>Email enviado.  Email de reconfiguração de senha foi enviado para</pt>
+        <zh-CN>邮件已发送。密码重置邮件已发送到</zh-CN>
+        <fr>Email envoyé. Mot de passe reset email a été envoyé</fr>
+        <ar>أرسل البريد الإلكتروني. تم إرسال البريد الإلكتروني إعادة تعيين كلمة المرور ل</ar>
+        <zh-TW>郵件已發送。密碼重置郵件已發送到</zh-TW>
+        <hi>ईमेल भेजा। पासवर्ड रीसेट ईमेल करने के लिए भेज दिया गया है</hi>
+        <ko>이메일 전송. 비밀번호 재설정 이메일이 전송되었습니다</ko>
+        <bn>ইমেইল পাঠানো. পাসওয়ার্ড রিসেট ইমেল পাঠানো হয়েছে</bn>
+        <ru>Письмо отправлено. Восстановление пароля электронной почты было отправлено</ru>
+        <sq>Email dërguar. email Fjalëkalimi rishkruhet është dërguar në</sq>
+        <it>Email inviata. email di reimpostazione password è stata inviata al</it>
+        <de>E-Mail gesendet. Passwort-Reset E-Mail wurde gesendet</de>
+        <it>Email inviata. email di reimpostazione password è stata inviata al</it>
+        <ur>ای میل بھیج دی گئ. پاس ورڈ دوبارہ ترتیب دینے کا ای میل بھیجا گیا ہے</ur>
+    </entry>
+    <entry>
+        <key>Email Sent!  Please check your email to reset your password.</key>
+        <en>Email Sent!  Please check your email to reset your password.</en>
+        <ja>メールが送信されました! 届いたメールを確認してパスワードをリセットしてください。</ja>
+        <pt>Email Enviado!  Por favor, verifique seu email para reconfigurar sua senha.</pt>
+        <zh-CN>邮件已发送！请检查您的电子邮件重置您的密码。</zh-CN>
+        <fr>Email envoyé! S'il vous plaît vérifier votre e-mail pour réinitialiser votre mot de passe.</fr>
+        <ar>أرسل البريد الإلكتروني! يرجى التحقق من البريد الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك.</ar>
+        <zh-TW>郵件已發送！請檢查您的電子郵件重置您的密碼。</zh-TW>
+        <hi>ईमेल भेजा! अपना पासवर्ड रीसेट करने के लिए अपने ईमेल की जाँच करें।</hi>
+        <ko>이메일 전송! 비밀번호를 재설정 이메일을 확인하시기 바랍니다.</ko>
+        <bn>ইমেইল পাঠানো! আপনার পাসওয়ার্ড পুনরায় সেট করার জন্য আপনার ইমেইল চেক করুন.</bn>
+        <ru>Письмо отправлено! Пожалуйста, проверьте свою электронную почту, чтобы сбросить пароль.</ru>
+        <sq>Email dërguar! Ju lutem kontrolloni email tuaj për të rivendosur fjalëkalimin tuaj.</sq>
+        <it>Email inviata! Si prega di controllare la posta elettronica per reimpostare la password.</it>
+        <de>E-Mail gesendet! Bitte überprüfen Sie Ihre E-Mail Ihr Passwort zurücksetzen können.</de>
+        <it>Email inviata! Si prega di controllare la posta elettronica per reimpostare la password.</it>
+        <ur>ای میل بھیج دی گئ! آپ کا پاس ورڈ دوبارہ ترتیب دینے کیلئے آپ کے ای میل کی جانچ پڑتال کریں.</ur>
+    </entry>
+    <entry>
+        <key>Message Deleted.  Message has successfully been deleted.</key>
+        <en>Message Deleted.  Message has successfully been deleted.</en>
+        <ja>メッセージの削除完了。メッセージは無事に削除されました。</ja>
+        <pt>Mensagem Excluída.  A mensagem foi excluída com sucesso.</pt>
+        <zh-CN>消息删除。消息已成功删除。</zh-CN>
+        <fr>Message supprimé. Le message a été supprimé avec succès.</fr>
+        <ar>الرسالة مسحت. وقد تم بنجاح حذف الرسالة.</ar>
+        <zh-TW>消息刪除。消息已成功刪除。</zh-TW>
+        <hi>संदेश हटाये। संदेश सफलतापूर्वक हटा दिया गया है।</hi>
+        <ko>메시지 삭제. 메시지가 성공적으로 삭제되었습니다.</ko>
+        <bn>বার্তা মুছে ফেলা. বার্তা সফলভাবে মুছে ফেলা হয়েছে.</bn>
+        <ru>Сообщение удалено. Сообщение успешно удалено.</ru>
+        <sq>Mesazhi Deleted. Mesazhi ka qenë sukses fshirë.</sq>
+        <it>Messaggio cancellato. Il messaggio è stato cancellato con successo.</it>
+        <de>Nachricht gelöscht. Nachricht wurde erfolgreich gelöscht.</de>
+        <it>Messaggio cancellato. Il messaggio è stato cancellato con successo.</it>
+        <ur>پیغام حذف. پیغام کامیابی سے خارج کر دیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Your report has been deleted.</key>
+        <en>Your report has been deleted.</en>
+        <ja>レポートが削除されました。</ja>
+        <pt>Seu relatório foi excluído.</pt>
+        <zh-CN>您的报告已被删除。</zh-CN>
+        <fr>Votre rapport a été supprimé.</fr>
+        <ar>تم حذف التقرير الخاص بك.</ar>
+        <zh-TW>您的報告已被刪除。</zh-TW>
+        <hi>आपकी रिपोर्ट हटा दिया गया है।</hi>
+        <ko>보고서가 삭제되었습니다.</ko>
+        <bn>আপনার প্রতিবেদন মুছে ফেলা হয়েছে.</bn>
+        <ru>Ваш отчет был удален.</ru>
+        <sq>Raporti juaj është fshirë.</sq>
+        <it>Il tuo rapporto è stato eliminato.</it>
+        <de>Ihr Bericht wurde gelöscht.</de>
+        <it>Il tuo rapporto è stato eliminato.</it>
+        <ur>آپ کی رپورٹ حذف کردیا گیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>Something went wrong!  Your bitly credentials are invalid  Please verify them and try again.</key>
+        <en>Something went wrong!  Your bitly credentials are invalid  Please verify them and try again.</en>
+        <ja>うまく処理できませんでした ! Bitly の認証情報が無効です。確認の上、もう一度試してみてください。</ja>
+        <pt>Um erro ocorreu!  Suas credenciais do bitly são inválidas. Por favor, verifique-as e tente novamente.</pt>
+        <zh-CN>出了些问题！你bitly凭证无效，请验证它们，然后再试一次。</zh-CN>
+        <fr>Quelque-chose s'est mal passé! Vos informations d'identification ne sont pas valides bitly S'il vous plaît vérifier et essayer à nouveau.</fr>
+        <ar>حدث خطأ! أوراق bitly الخاص بك غير صالحة الرجاء التحقق منها وحاول مرة أخرى.</ar>
+        <zh-TW>出了些問題！你bitly憑證無效，請驗證它們，然後再試一次。</zh-TW>
+        <hi>कुछ गलत हो गया! आपका Bitly साख अवैध उन्हें सत्यापित करने और फिर से कोशिश करें रहे हैं।</hi>
+        <ko>문제가 발생했습니다! 당신의 bitly 자격 증명을 확인하고 다시 시도하십시오 유효하지 않습니다.</ko>
+        <bn>কিছু ভুল হয়েছে! আপনার bitly পরিচয়পত্র অবৈধ তাদের যাচাই করুন এবং আবার চেষ্টা করুন.</bn>
+        <ru>Что-то пошло не так! Ваши Bitly учетные данные неверны Пожалуйста, подтвердите их и повторите попытку.</ru>
+        <sq>Dicka shkoi keq! Kredencialet tuaja bitly janë të pavlefshme Ju lutem verifikoni dhe të provoni përsëri.</sq>
+        <it>Qualcosa è andato storto! Le credenziali non sono valide bitly Controllare e riprova.</it>
+        <de>Etwas ist schief gelaufen! Ihre bitly Anmeldeinformationen sind ungültig Bitte überprüfen sie und versuchen Sie es erneut.</de>
+        <it>Qualcosa è andato storto! Le credenziali non sono valide bitly Controllare e riprova.</it>
+        <ur>کچھ غلط ہو گیا! آپ کا ہے bitly اسناد باطل ان کی توثیق کریں اور دوبارہ کوشش کریں.</ur>
+    </entry>
+    <entry>
+        <key>Message is blank please enter a message.</key>
+        <en>Message is blank please enter a message.</en>
+        <ja>メッセージが空白です。メッセージを入力して下さい。</ja>
+        <pt>A mensagem está em branco. Por favor, insira uma mensagem.</pt>
+        <zh-CN>信息是空白的，请输入消息。</zh-CN>
+        <fr>Message est vide s'il vous plaît entrer un message.</fr>
+        <ar>رسالة فارغة الرجاء إدخال رسالة.</ar>
+        <zh-TW>信息是空白的，請輸入消息。</zh-TW>
+        <hi>संदेश को खाली है संदेश दर्ज करें।</hi>
+        <ko>메시지 메시지를 입력하십시오 비어 있습니다.</ko>
+        <bn>বার্তা ফাঁকা একটি বার্তা লিখুন.</bn>
+        <ru>Сообщение пустым Пожалуйста, введите сообщение.</ru>
+        <sq>Mesazhi është bosh ju lutem shkruani një mesazh.</sq>
+        <it>Messaggio è vuoto inserisci un messaggio.</it>
+        <de>Nachricht ist leer, bitte eine Nachricht eingeben.</de>
+        <it>Messaggio è vuoto inserisci un messaggio.</it>
+        <ur>پیغام خالی ہے ایک پیغام درج کریں.</ur>
+    </entry>
+    <entry>
+        <key>Schedule date is empty.  Please enter a schedule date.</key>
+        <en>Schedule date is empty.  Please enter a schedule date.</en>
+        <ja>予約日時が空です。予約日時を入力してください。</ja>
+        <pt>A data de agendamento está vazia.  Por favor, insira uma data de agendamento.</pt>
+        <zh-CN>附表日期为空。请输入计划日期。</zh-CN>
+        <fr>date de l'annexe est vide. S'il vous plaît entrer une date de calendrier.</fr>
+        <ar>تاريخ جدول فارغ. يرجى إدخال تاريخ الموعد المحدد.</ar>
+        <zh-TW>附表日期為空。請輸入計劃日期。</zh-TW>
+        <hi>अनुसूची तारीख खाली है। एक कार्यक्रम की तारीख दर्ज करें।</hi>
+        <ko>일정 날짜가 비어 있습니다. 일정 날짜를 입력 해주세요.</ko>
+        <bn>সূচি তারিখ খালি. একটি সময়সূচী তারিখ লিখুন দয়া করে.</bn>
+        <ru>дата Расписание пуст. Пожалуйста, введите дату расписания.</ru>
+        <sq>date Orari është bosh. Ju lutem shkruani një datë orar.</sq>
+        <it>data di pianificazione è vuota. Si prega di inserire una data di pianificazione.</it>
+        <de>Geplantes Datum ist leer. Bitte geben Sie einen Zeitplan Datum.</de>
+        <it>data di pianificazione è vuota. Si prega di inserire una data di pianificazione.</it>
+        <ur>تاریخ کے شیڈول خالی ہے. ایک شیڈول کوڈ داخل کریں.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your message is in your queue set to optimized.</key>
+        <en>Success! Your message is in your queue set to optimized.</en>
+        <ja>成功! メッセージは最適化に設定され、待機中です。</ja>
+        <pt>Sucesso! Sua mensagem está na fila para otimização.</pt>
+        <zh-CN>成功的消息在队列设置进行了优化。</zh-CN>
+        <fr>Le succès de votre message est dans la file d'attente mis à optimiser.</fr>
+        <ar>نجاح رسالتك في قائمة الانتظار لتعيين الأمثل.</ar>
+        <zh-TW>成功的消息在隊列設置進行了優化。</zh-TW>
+        <hi>सफलता आपके संदेश आपके कतार अनुकूलित करने के लिए सेट में है।</hi>
+        <ko>성공 메시지는 최적화 된 설정 대기열에 있습니다.</ko>
+        <bn>সাফল্য আপনার বার্তা আপনার সারিতে অপ্টিমাইজ সেট রয়েছে.</bn>
+        <ru>Успех ваше сообщение в очереди, чтобы установить оптимизировано.</ru>
+        <sq>Suksesi mesazhi juaj është në radhë tuaj të vendosur për të optimizuar.</sq>
+        <it>Successo messaggio è in coda insieme a ottimizzato.</it>
+        <de>Der Erfolg Ihrer Nachricht ist in der Warteschlange gesetzt optimiert.</de>
+        <it>Successo messaggio è in coda insieme a ottimizzato.</it>
+        <ur>کامیابی! آپ کا پیغام مرضی کے لئے مقرر کیا آپ کی قطار میں ہے.</ur>
+    </entry>
+    <entry>
+        <key>Incomplete form!  Please fix the items highlighted in red below.</key>
+        <en>Incomplete form!  Please fix the items highlighted in red below.</en>
+        <ja>フォームが不完全です ! 以下の赤色で強調された項目を修正してください。</ja>
+        <pt>Formulário incompleto!  Por favor, corrija os itens destacados em vermelho abaixo.</pt>
+        <zh-CN>不完整的表格！请修正下面红色突出显示的项目。</zh-CN>
+        <fr>forme incomplète! S'il vous plaît fixer les éléments mis en surbrillance en rouge ci-dessous.</fr>
+        <ar>شكل غير مكتمل! يرجى تحديد العناصر المميزة باللون الأحمر أدناه.</ar>
+        <zh-TW>不完整的表格！請修正下面紅色突出顯示的項目。</zh-TW>
+        <hi>अंडरग्रेजुएट रूप! नीचे लाल रंग में हाइलाइट आइटम को ठीक करें।</hi>
+        <ko>불완전한 형태! 아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
+        <bn>অসম্পূর্ণ রূপ! নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
+        <ru>Неполная форма! Исправьте элементы, выделенные красным цветом ниже.</ru>
+        <sq>formë jo të plota! Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <it>forma incompleta! Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <de>Unvollständige Form! Bitte korrigieren Sie die rot markierten Elemente unten.</de>
+        <it>forma incompleta! Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
+        <ur>نامکمل فارم! ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
+    </entry>
+    <entry>
+        <key>Success! Your report has been submitted! Will be complete shortly.</key>
+        <en>Success! Your report has been submitted! Will be complete shortly.</en>
+        <ja>成功! レポートが提出されました! もうすぐ出来上がります。</ja>
+        <pt>Sucesso! Seu relatório foi enviado! Ele será completado em breve.</pt>
+        <zh-CN>成功您的报告已提交！将完成不久。</zh-CN>
+        <fr>Le succès de votre rapport a été soumis! Sera complète sous peu.</fr>
+        <ar>وقد قدم نجاح التقرير الخاص بك! سيكتمل قريبا.</ar>
+        <zh-TW>成功您的報告已提交！將完成不久。</zh-TW>
+        <hi>सफलता के लिए अपनी रिपोर्ट प्रस्तुत किया गया है! शीघ्र ही पूरा हो जाएगा।</hi>
+        <ko>성공 보고서가 제출되었습니다! 곧 완료됩니다.</ko>
+        <bn>সাফল্য আপনার প্রতিবেদন জমা দেওয়া হয়েছে! খুব শীঘ্রই সম্পূর্ণ হবে.</bn>
+        <ru>Успех ваш отчет был представлен! Будет завершена в ближайшее время.</ru>
+        <sq>Suksesi raporti juaj është dorëzuar! A do të jetë i plotë shpejti.</sq>
+        <it>Il successo il vostro rapporto è stato presentato! Sarà completata a breve.</it>
+        <de>Erfolg Ihr Bericht wurde gesendet! Wird in Kürze abgeschlossen sein.</de>
+        <it>Il successo il vostro rapporto è stato presentato! Sarà completata a breve.</it>
+        <ur>کامیابی! آپ کی رپورٹ جمع کرائی گئی ہے! کچھ ہی دیر مکمل ہو جائے گا.</ur>
+    </entry>
+    <entry>
+        <key>Paused</key>
+        <en>Paused</en>
+        <ja>一旦停止</ja>
+        <pt>Pausado</pt>
+        <zh-CN>已暂停</zh-CN>
+        <fr>Pause</fr>
+        <ar>توقف</ar>
+        <zh-TW>已暫停</zh-TW>
+        <hi>रोके गए</hi>
+        <ko>일시 중지</ko>
+        <bn>বিরাম দেওয়া</bn>
+        <ru>Приостановлена</ru>
+        <sq>ndaluar</sq>
+        <it>In pausa</it>
+        <de>Pausiert</de>
+        <it>In pausa</it>
+        <ur>موقوف</ur>
+    </entry>
+    <entry>
+        <key>Publishing has been paused for this client service</key>
+        <en>Publishing has been paused for this client service</en>
+        <ja>このアカウントへの投稿は停止されました</ja>
+        <pt>A publicação foi pausada para este cliente.</pt>
+        <zh-CN>发布已暂停该客户服务</zh-CN>
+        <fr>Publishing a été suspendu pour ce service client</fr>
+        <ar>تم إيقاف النشر لهذه الخدمة العميل</ar>
+        <zh-TW>發布已暫停該客戶服務</zh-TW>
+        <hi>प्रकाशन इस ग्राहक सेवा के लिए रोक दिया जा चुका है</hi>
+        <ko>출판이 클라이언트 서비스를 일시 중지되었습니다</ko>
+        <bn>প্রকাশনা এই গ্রাহক সেবা জন্য বিরতি দেওয়া হয়েছে</bn>
+        <ru>Издательство было приостановлено на эту услугу клиента</ru>
+        <sq>Publishing është ndaluar për këtë shërbim të klientit</sq>
+        <it>Editoria è stato sospeso per questo servizio al cliente</it>
+        <de>Publishing wurde für diesen Client-Dienst angehalten</de>
+        <it>Editoria è stato sospeso per questo servizio al cliente</it>
+        <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے موقوف کر دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>Resumed</key>
+        <en>Resumed</en>
+        <ja>投稿再開</ja>
+        <pt>Reiniciado</pt>
+        <zh-CN>恢复</zh-CN>
+        <fr>A repris</fr>
+        <ar>استأنفت</ar>
+        <zh-TW>恢復</zh-TW>
+        <hi>फिर से शुरू</hi>
+        <ko>재개</ko>
+        <bn>পুনরায় শুরু</bn>
+        <ru>Возобновился</ru>
+        <sq>rifilloi</sq>
+        <it>ripreso</it>
+        <de>Resumed</de>
+        <it>ripreso</it>
+        <ur>سلسلہ دوبارہ شروع</ur>
+    </entry>
+    <entry>
+        <key>Publishing has been resumed for this client service</key>
+        <en>Publishing has been resumed for this client service</en>
+        <ja>このアカウントへの投稿が再開されました</ja>
+        <pt>A publicação foi reiniciada para este cliente.</pt>
+        <zh-CN>出版已经重新开始为这个客户服务</zh-CN>
+        <fr>Publishing a été repris pour ce service à la clientèle</fr>
+        <ar>تم استئناف النشر لهذه الخدمة العميل</ar>
+        <zh-TW>出版已經重新開始為這個客戶服務</zh-TW>
+        <hi>प्रकाशन इस ग्राहक सेवा के लिए फिर से शुरू कर दिया गया है</hi>
+        <ko>출판이 클라이언트 서비스를 재개되었습니다</ko>
+        <bn>প্রকাশনা এই গ্রাহক সেবা জন্য চালু হয়েছে</bn>
+        <ru>Издательство было возобновлено для этого обслуживания клиентов</ru>
+        <sq>Publishing ka rinisur për këtë shërbim të klientit</sq>
+        <it>Editoria è stato ripreso per questo servizio al cliente</it>
+        <de>Publishing wurde für diesen Client-Dienst wieder aufgenommen</de>
+        <it>Editoria è stato ripreso per questo servizio al cliente</it>
+        <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے دوبارہ شروع کر دیا گیا ہے</ur>
+    </entry>
+    <section>error_and_success_messages</section>
+</translations>

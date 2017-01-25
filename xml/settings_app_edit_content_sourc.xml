@@ -1,0 +1,1683 @@
+<translations>
+    <entry>
+        <key>Content Source:</key>
+        <en>Content Source:</en>
+        <ja>コンテンツソース:</ja>
+        <pt>Fonte de Conteúdo:</pt>
+        <zh-CN>内容来源：</zh-CN>
+        <fr>Contenu Source:</fr>
+        <ar>المصدر المحتوى:</ar>
+        <zh-TW>內容來源：</zh-TW>
+        <hi>विषय - वस्तु का स्रोत:</hi>
+        <ko>내용 출처 :</ko>
+        <bn>বিষয়বস্তু উত্স:</bn>
+        <ru>Содержание Источник:</ru>
+        <sq>Përmbajtja Burimi:</sq>
+        <it>Contenuti Fonte:</it>
+        <de>Inhalt Quelle:</de>
+        <it>Contenuti Fonte:</it>
+        <ur>مواد کے ماخذ:</ur>
+    </entry>
+    <entry>
+        <key>Default Message Status</key>
+        <en>Default Message Status</en>
+        <ja>デフォルトのメッセージステータス</ja>
+        <pt>Status Padrão da Mensagem</pt>
+        <zh-CN>默认消息状态</zh-CN>
+        <fr>Message par défaut Statut</fr>
+        <ar>افتراضي رسالة الحالة</ar>
+        <zh-TW>默認消息狀態</zh-TW>
+        <hi>डिफ़ॉल्ट संदेश स्थिति</hi>
+        <ko>기본 메시지 상태</ko>
+        <bn>ডিফল্ট বার্তা স্থিতি</bn>
+        <ru>По умолчанию Сообщение о состоянии</ru>
+        <sq>Default mesazh Status</sq>
+        <it>Predefinito Messaggio di stato</it>
+        <de>Standardnachrichtenstatus</de>
+        <it>Predefinito Messaggio di stato</it>
+        <ur>بنیادی پیغام حیثیت</ur>
+    </entry>
+    <entry>
+        <key>Default Status</key>
+        <en>Default Status</en>
+        <ja>デフォルトのステータス</ja>
+        <pt>Status Padrão</pt>
+        <zh-CN>默认状态</zh-CN>
+        <fr>Statut par défaut</fr>
+        <ar>الحالة الافتراضية</ar>
+        <zh-TW>默認狀態</zh-TW>
+        <hi>डिफ़ॉल्ट स्थिति</hi>
+        <ko>기본 상태</ko>
+        <bn>ডিফল্ট স্থিতি</bn>
+        <ru>Состояние по умолчанию</ru>
+        <sq>Default Status</sq>
+        <it>Stato di default</it>
+        <de>Standard-Status</de>
+        <it>Stato di default</it>
+        <ur>پہلے سے طے شدہ حیثیت</ur>
+    </entry>
+    <entry>
+        <key>Optimized</key>
+        <en>Optimized</en>
+        <ja>最適化</ja>
+        <pt>Otimizado</pt>
+        <zh-CN>优化</zh-CN>
+        <fr>Optimisé</fr>
+        <ar>الأمثل</ar>
+        <zh-TW>優化</zh-TW>
+        <hi>अनुकूलित</hi>
+        <ko>최적화</ko>
+        <bn>অপ্টিমাইজ</bn>
+        <ru>оптимизированный</ru>
+        <sq>optimizuar</sq>
+        <it>Ottimizzato</it>
+        <de>Optimiert</de>
+        <it>Ottimizzato</it>
+        <ur>آپٹمائزڈ</ur>
+    </entry>
+    <entry>
+        <key>Publish Now</key>
+        <en>Publish Now</en>
+        <ja>今すぐ公開</ja>
+        <pt>Publicar Agora</pt>
+        <zh-CN>立即发布</zh-CN>
+        <fr>Publier maintenant</fr>
+        <ar>نشر الآن</ar>
+        <zh-TW>立即發布</zh-TW>
+        <hi>अब प्रकाशित करें</hi>
+        <ko>지금 게시</ko>
+        <bn>এখন প্রকাশ</bn>
+        <ru>Опубликовать сейчас</ru>
+        <sq>publikojë Tani</sq>
+        <it>Pubblica ora</it>
+        <de>Jetzt veröffentlichen</de>
+        <it>Pubblica ora</it>
+        <ur>ابھی شائع کریں</ur>
+    </entry>
+    <entry>
+        <key>Copy to Another Social Account</key>
+        <en>Copy to Another Social Account</en>
+        <ja>別のソーシャルアカウントへコピー</ja>
+        <pt>Copiar para Outra Conta Social</pt>
+        <zh-CN>复制到另一个社会的账户</zh-CN>
+        <fr>Copier vers un autre compte social</fr>
+        <ar>نسخ إلى حساب آخر الاجتماعي</ar>
+        <zh-TW>複製到另一個社會的賬戶</zh-TW>
+        <hi>एक अन्य सामाजिक खाते में कॉपी</hi>
+        <ko>또 다른 소셜 계정으로 복사</ko>
+        <bn>আরেকটি সামাজিক অ্যাকাউন্টে কপি</bn>
+        <ru>Копирование на другой социальный счета</ru>
+        <sq>Kopjo në një llogari tjetër Sociale</sq>
+        <it>Copia in un altro account sociale</it>
+        <de>Kopieren auf ein anderes Konto Social</de>
+        <it>Copia in un altro account sociale</it>
+        <ur>ایک اور سماجی اکاؤنٹ میں کاپی کریں</ur>
+    </entry>
+    <entry>
+        <key>Copy to Account</key>
+        <en>Copy to Account</en>
+        <ja>アカウントへコピー</ja>
+        <pt>Copiar para Conta</pt>
+        <zh-CN>复制到帐户</zh-CN>
+        <fr>Copier Compte</fr>
+        <ar>نسخة إلى حساب</ar>
+        <zh-TW>複製到帳戶</zh-TW>
+        <hi>कॉपी खाता</hi>
+        <ko>복사 계정</ko>
+        <bn>কপি অ্যাকাউন্ট</bn>
+        <ru>Копировать на счет</ru>
+        <sq>Kopjo në Llogari</sq>
+        <it>Copia sul conto</it>
+        <de>Kopieren Konto</de>
+        <it>Copia sul conto</it>
+        <ur>اکاؤنٹ میں کاپی</ur>
+    </entry>
+    <entry>
+        <key>Messages Expiration</key>
+        <en>Messages Expiration</en>
+        <ja>メッセージの期限</ja>
+        <pt>Término das Mensagens</pt>
+        <zh-CN>消息到期</zh-CN>
+        <fr>Messages expiration</fr>
+        <ar>الرسائل انتهاء الصلاحية</ar>
+        <zh-TW>消息到期</zh-TW>
+        <hi>संदेश समाप्ति</hi>
+        <ko>메시지 만료</ko>
+        <bn>বার্তা মেয়াদপূর্তির</bn>
+        <ru>сообщения Действительно</ru>
+        <sq>mesazhet e skadimit</sq>
+        <it>I messaggi di scadenza</it>
+        <de>Nachrichten Expiration</de>
+        <it>I messaggi di scadenza</it>
+        <ur>پیغامات میعاد ختم ہونے کی</ur>
+    </entry>
+    <entry>
+        <key>Default</key>
+        <en>Default</en>
+        <ja>デフォルト</ja>
+        <pt>Padrão</pt>
+        <zh-CN>默认</zh-CN>
+        <fr>Défaut</fr>
+        <ar>افتراضي</ar>
+        <zh-TW>默認</zh-TW>
+        <hi>चूक</hi>
+        <ko>태만</ko>
+        <bn>ডিফল্ট</bn>
+        <ru>По умолчанию</ru>
+        <sq>Default</sq>
+        <it>Predefinito</it>
+        <de>Standard</de>
+        <it>Predefinito</it>
+        <ur>پہلے سے طے شدہ</ur>
+    </entry>
+    <entry>
+        <key>Never</key>
+        <en>Never</en>
+        <ja>無制限</ja>
+        <pt>Nunca</pt>
+        <zh-CN>决不</zh-CN>
+        <fr>Jamais</fr>
+        <ar>أبدا</ar>
+        <zh-TW>決不</zh-TW>
+        <hi>कभी नहीँ</hi>
+        <ko>못</ko>
+        <bn>না</bn>
+        <ru>Никогда</ru>
+        <sq>Asnjehere</sq>
+        <it>Mai</it>
+        <de>Nie</de>
+        <it>Mai</it>
+        <ur>کبھی</ur>
+    </entry>
+    <entry>
+        <key>30 Minutes</key>
+        <en>30 Minutes</en>
+        <ja>30 分</ja>
+        <pt>30 Minutos</pt>
+        <zh-CN>30分钟</zh-CN>
+        <fr>30 minutes</fr>
+        <ar>30 دقيقة</ar>
+        <zh-TW>30分鐘</zh-TW>
+        <hi>30 मिनिट</hi>
+        <ko>30 분</ko>
+        <bn>30 মিনিট</bn>
+        <ru>30 минут</ru>
+        <sq>30 minuta</sq>
+        <it>30 minuti</it>
+        <de>30 Minuten</de>
+        <it>30 minuti</it>
+        <ur>30 منٹ</ur>
+    </entry>
+    <entry>
+        <key>1 Hour</key>
+        <en>1 Hour</en>
+        <ja>1 時間</ja>
+        <pt>1 Hora</pt>
+        <zh-CN>1小时</zh-CN>
+        <fr>1 heure</fr>
+        <ar>1 ساعة</ar>
+        <zh-TW>1小時</zh-TW>
+        <hi>1 घंटा</hi>
+        <ko>1 시간</ko>
+        <bn>1 ঘন্টা</bn>
+        <ru>1 час</ru>
+        <sq>1 orë</sq>
+        <it>1 ora</it>
+        <de>1 Stunde</de>
+        <it>1 ora</it>
+        <ur>1 گھنٹہ</ur>
+    </entry>
+    <entry>
+        <key>6 Hours</key>
+        <en>6 Hours</en>
+        <ja>6 時間</ja>
+        <pt>6 Horas</pt>
+        <zh-CN>6小时</zh-CN>
+        <fr>6 heures</fr>
+        <ar>6 ساعات</ar>
+        <zh-TW>6小時</zh-TW>
+        <hi>6 घंटे</hi>
+        <ko>6 시간</ko>
+        <bn>6 ঘন্টা</bn>
+        <ru>6 часов</ru>
+        <sq>6 Orë</sq>
+        <it>6 ore</it>
+        <de>6 Stunden</de>
+        <it>6 ore</it>
+        <ur>6 گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>9 Hours</key>
+        <en>9 Hours</en>
+        <ja>9 時間</ja>
+        <pt>9 Horas</pt>
+        <zh-CN>9小时</zh-CN>
+        <fr>9 heures</fr>
+        <ar>9 ساعات</ar>
+        <zh-TW>9小時</zh-TW>
+        <hi>9 घंटे</hi>
+        <ko>9 시간</ko>
+        <bn>9 ঘন্টা</bn>
+        <ru>9 часов</ru>
+        <sq>9 Hours</sq>
+        <it>9 Ore</it>
+        <de>9 Stunden</de>
+        <it>9 Ore</it>
+        <ur>9 گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>12 Hours</key>
+        <en>12 Hours</en>
+        <ja>12 時間</ja>
+        <pt>12 Horas</pt>
+        <zh-CN>12小时</zh-CN>
+        <fr>12 heures</fr>
+        <ar>12 ساعة</ar>
+        <zh-TW>12小時</zh-TW>
+        <hi>12 घंटे</hi>
+        <ko>12 시간</ko>
+        <bn>1 ২ ঘণ্টা</bn>
+        <ru>12 часов</ru>
+        <sq>12 Hours</sq>
+        <it>12 ore</it>
+        <de>12 Stunden</de>
+        <it>12 ore</it>
+        <ur>12 گھنٹے</ur>
+    </entry>
+    <entry>
+        <key>1 Day</key>
+        <en>1 Day</en>
+        <ja>1 日</ja>
+        <pt>1 Dia</pt>
+        <zh-CN>1天</zh-CN>
+        <fr>Un jour</fr>
+        <ar>يوم 1</ar>
+        <zh-TW>1天</zh-TW>
+        <hi>एक दिन</hi>
+        <ko>1 일</ko>
+        <bn>1 দিন</bn>
+        <ru>1 день</ru>
+        <sq>1 dite</sq>
+        <it>1 giorno</it>
+        <de>1 Tag</de>
+        <it>1 giorno</it>
+        <ur>1 دن</ur>
+    </entry>
+    <entry>
+        <key>2 Days</key>
+        <en>2 Days</en>
+        <ja>2 日</ja>
+        <pt>2 Dias</pt>
+        <zh-CN>2天</zh-CN>
+        <fr>2 jours</fr>
+        <ar>2 أيام</ar>
+        <zh-TW>2天</zh-TW>
+        <hi>दो दिन</hi>
+        <ko>2 일</ko>
+        <bn>২ দিন</bn>
+        <ru>2 дня</ru>
+        <sq>2 dite</sq>
+        <it>2 giorni</it>
+        <de>2 Tage</de>
+        <it>2 giorni</it>
+        <ur>2 دن</ur>
+    </entry>
+    <entry>
+        <key>3 Days</key>
+        <en>3 Days</en>
+        <ja>3 日</ja>
+        <pt>3 Dias</pt>
+        <zh-CN>3天</zh-CN>
+        <fr>3 jours</fr>
+        <ar>3 أيام</ar>
+        <zh-TW>3天</zh-TW>
+        <hi>3 दिन</hi>
+        <ko>3 일</ko>
+        <bn>3 দিন</bn>
+        <ru>3 дня</ru>
+        <sq>3 ditë</sq>
+        <it>3 giorni</it>
+        <de>3 Tage</de>
+        <it>3 giorni</it>
+        <ur>3 دن</ur>
+    </entry>
+    <entry>
+        <key>5 Days</key>
+        <en>5 Days</en>
+        <ja>5 日</ja>
+        <pt>5 Dias</pt>
+        <zh-CN>5天</zh-CN>
+        <fr>5 jours</fr>
+        <ar>5 ايام</ar>
+        <zh-TW>5天</zh-TW>
+        <hi>पांच दिन</hi>
+        <ko>5 일</ko>
+        <bn>5 দিন</bn>
+        <ru>5 дней</ru>
+        <sq>5 Ditë</sq>
+        <it>5 giorni</it>
+        <de>5 Tage</de>
+        <it>5 giorni</it>
+        <ur>5 دن</ur>
+    </entry>
+    <entry>
+        <key>1 Week</key>
+        <en>1 Week</en>
+        <ja>1 週間</ja>
+        <pt>1 Semana</pt>
+        <zh-CN>1周</zh-CN>
+        <fr>1 semaine</fr>
+        <ar>أسبوع 1</ar>
+        <zh-TW>1週</zh-TW>
+        <hi>1 सप्ताह</hi>
+        <ko>일주</ko>
+        <bn>1 সপ্তাহ</bn>
+        <ru>1 неделя</ru>
+        <sq>1 javë</sq>
+        <it>1 settimana</it>
+        <de>1 Woche</de>
+        <it>1 settimana</it>
+        <ur>1 ہفتہ</ur>
+    </entry>
+    <entry>
+        <key>2 Weeks</key>
+        <en>2 Weeks</en>
+        <ja>2 週間</ja>
+        <pt>2 Semanas</pt>
+        <zh-CN>2周</zh-CN>
+        <fr>2 semaines</fr>
+        <ar>2 أسابيع</ar>
+        <zh-TW>2週</zh-TW>
+        <hi>2 सप्ताह</hi>
+        <ko>이주</ko>
+        <bn>২ সপ্তাহ</bn>
+        <ru>2 недели</ru>
+        <sq>2 javë</sq>
+        <it>2 settimane</it>
+        <de>2 Wochen</de>
+        <it>2 settimane</it>
+        <ur>2 ہفتے</ur>
+    </entry>
+    <entry>
+        <key>3 Weeks</key>
+        <en>3 Weeks</en>
+        <ja>3 週間</ja>
+        <pt>3 Semanas</pt>
+        <zh-CN>3周</zh-CN>
+        <fr>3 semaines</fr>
+        <ar>3 أسابيع</ar>
+        <zh-TW>3週</zh-TW>
+        <hi>3 सप्ताह</hi>
+        <ko>3 주</ko>
+        <bn>3 সপ্তাহ</bn>
+        <ru>3 недели</ru>
+        <sq>3 Weeks</sq>
+        <it>3 settimane</it>
+        <de>3 Wochen</de>
+        <it>3 settimane</it>
+        <ur>3 ہفتے</ur>
+    </entry>
+    <entry>
+        <key>1 Month</key>
+        <en>1 Month</en>
+        <ja>1 ヶ月</ja>
+        <pt>1 Mês</pt>
+        <zh-CN>1个月</zh-CN>
+        <fr>1 mois</fr>
+        <ar>1 شهر</ar>
+        <zh-TW>1個月</zh-TW>
+        <hi>1 महीना</hi>
+        <ko>1 개월</ko>
+        <bn>1 মাস</bn>
+        <ru>1 месяц</ru>
+        <sq>1 muaj</sq>
+        <it>1 mese</it>
+        <de>1 Monat</de>
+        <it>1 mese</it>
+        <ur>1 مہینہ</ur>
+    </entry>
+    <entry>
+        <key>45 Days</key>
+        <en>45 Days</en>
+        <ja>45 日</ja>
+        <pt>45 Dias</pt>
+        <zh-CN>45天</zh-CN>
+        <fr>45 Jours</fr>
+        <ar>45 يوم</ar>
+        <zh-TW>45天</zh-TW>
+        <hi>45 दिनों</hi>
+        <ko>45 일</ko>
+        <bn>45 দিন</bn>
+        <ru>45 дней</ru>
+        <sq>45 Days</sq>
+        <it>45 Giorni</it>
+        <de>45 Tage</de>
+        <it>45 Giorni</it>
+        <ur>45 دن</ur>
+    </entry>
+    <entry>
+        <key>Expiration Behavior</key>
+        <en>Expiration Behavior</en>
+        <ja>期限切れ時の動作</ja>
+        <pt>Comportamento de Término</pt>
+        <zh-CN>过期行为</zh-CN>
+        <fr>expiration Comportement</fr>
+        <ar>السلوك انتهاء</ar>
+        <zh-TW>過期行為</zh-TW>
+        <hi>समय सीमा समाप्त व्यवहार</hi>
+        <ko>만료 동작</ko>
+        <bn>মেয়াদপূর্তির আচরণ</bn>
+        <ru>Истечение Поведение</ru>
+        <sq>Sjellja e skadimit</sq>
+        <it>Comportamento di scadenza</it>
+        <de>Ablaufverhalten</de>
+        <it>Comportamento di scadenza</it>
+        <ur>میعاد ختم ہونے رویہ</ur>
+    </entry>
+    <entry>
+        <key>Expire at expiration date</key>
+        <en>Expire at expiration date</en>
+        <ja>期限日に失効</ja>
+        <pt>Expira na data de término</pt>
+        <zh-CN>在过期失效日期</zh-CN>
+        <fr>Expirez à la date d'expiration</fr>
+        <ar>تنتهي في تاريخ انتهاء الصلاحية</ar>
+        <zh-TW>在過期失效日期</zh-TW>
+        <hi>समाप्ति की तारीख में समाप्त</hi>
+        <ko>유효 기간 만료</ko>
+        <bn>মেয়াদ শেষের তারিখ মেয়াদ শেষ</bn>
+        <ru>Expire по истечении срока</ru>
+        <sq>Të përfundojë në datën e skadimit</sq>
+        <it>Scadono alla data di scadenza</it>
+        <de>Gültig bis auf Ablaufdatum</de>
+        <it>Scadono alla data di scadenza</it>
+        <ur>آخری اپ ڈیٹ کی تاریخ میں میعاد ختم</ur>
+    </entry>
+    <entry>
+        <key>Must Publish by expiration date</key>
+        <en>Must Publish by expiration date</en>
+        <ja>期限日までに必ず公開</ja>
+        <pt>Deve Publicar até a data de término</pt>
+        <zh-CN>必须在到期日发布</zh-CN>
+        <fr>Doit publier par date d'expiration</fr>
+        <ar>يجب نشر قبل تاريخ انتهاء الصلاحية</ar>
+        <zh-TW>必須在到期日發布</zh-TW>
+        <hi>समाप्ति की तारीख से प्रकाशित करना चाहिए</hi>
+        <ko>만기일에 의해 게시해야</ko>
+        <bn>মেয়াদ শেষের তারিখ অনুসারে ছাপাতে হবে</bn>
+        <ru>Должны публиковать по дате истечения срока действия</ru>
+        <sq>Duhet Publikimi nga data e skadimit</sq>
+        <it>Devono pubblicare in base alla data di scadenza</it>
+        <de>Muss nach Ablaufdatum veröffentlichen</de>
+        <it>Devono pubblicare in base alla data di scadenza</it>
+        <ur>آخری اپ ڈیٹ کی تاریخ کی طرف سے کی اشاعت لازمی</ur>
+    </entry>
+    <entry>
+        <key>Delete Content Source</key>
+        <en>Delete Content Source</en>
+        <ja>コンテンツソースの削除</ja>
+        <pt>Excluir Fonte de Conteúdo</pt>
+        <zh-CN>删除内容源</zh-CN>
+        <fr>Supprimer du contenu Source</fr>
+        <ar>حذف مصدر المحتوى</ar>
+        <zh-TW>刪除內容源</zh-TW>
+        <hi>सामग्री स्रोत हटाएं</hi>
+        <ko>콘텐츠 원본을 삭제</ko>
+        <bn>বিষয়বস্তু উত্স মুছুন</bn>
+        <ru>Удалить источник содержимого</ru>
+        <sq>Fshij Përmbajtja Burimi</sq>
+        <it>Eliminare il contenuto Fonte</it>
+        <de>Löschen Inhaltsquelle</de>
+        <it>Eliminare il contenuto Fonte</it>
+        <ur>مواد کے ماخذ چھپانا</ur>
+    </entry>
+    <entry>
+        <key>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
+
+If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead.</key>
+        <en>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
+
+If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead.</en>
+        <ja>注意 : コンテンツソースを削除すると、このコンテンツソースを元とする全ての待機中メッセージも削除されます。
+
+すでに待機中のメッセージを削除することなくこのコンテンツソースから新たにメッセージをインポートしないようにするには、コンテンツソースの状態をアクティブから非アクティブに変更してください。</ja>
+        <pt>ATENÇÃO: Excluir uma fonte de conteúdo também exclui todas as mensagens desta fonte em sua fila.
+	
+Se você deseja parar a importação de novas mensagens desta fonte de conteúdo sem excluir as mensagens que já estão em fila, por favor, modifique o status da fonte de conteúdo de ativo para inativo.</pt>
+        <zh-CN>注意：删除内容源也将在您的队列此内容源中删除的所有邮件。如果您想停止进口来自此内容源新邮件而不删除了已排队的邮件，请改从活动内容源状态，而不是为无效。</zh-CN>
+        <fr>ATTENTION: La suppression d'une source de contenu sera également supprimer tous les messages provenant de cette source de contenu dans votre file d'attente. Si vous souhaitez cesser d'importer de nouveaux messages à partir de cette source de contenu sans supprimer les messages qui ont déjà été en file d'attente, s'il vous plaît changer le contenu statut de source actif à inactif à la place.</fr>
+        <ar>تنبيه: سوف حذف مصدر محتوى أيضا حذف كل الرسائل من هذا المصدر المحتوى في قائمة الانتظار. إذا كنت ترغب في وقف استيراد الرسائل الجديدة من هذا المصدر المحتوى دون حذف الرسائل التي تم بالفعل في قائمة الانتظار، يرجى تغيير وضع مصدر المحتوى من نشطة إلى الخاملة بدلا من ذلك.</ar>
+        <zh-TW>注意：刪除內容源也將在您的隊列此內容源中刪除的所有郵件。如果您想停止進口來自此內容源新郵件而不刪除了已排隊的郵件，請改從活動內容源狀態，而不是為無效。</zh-TW>
+        <hi>ध्यान दें: एक स्रोत सामग्री को हटाना भी अपने कतार में इस सामग्री स्रोत से सभी संदेशों को हटाना होगा। आप संदेश है कि पहले से ही पंक्तिबद्ध कर दिया है हटाने के बिना इस सामग्री स्रोत से नए संदेशों का आयात बंद करना चाहते हैं, तो कृपया बजाय निष्क्रिय करने के लिए सक्रिय रूप से सामग्री स्रोत स्थिति बदल जाते हैं।</hi>
+        <ko>주의 : 콘텐츠 원본을 삭제하면 또한 큐에서이 콘텐츠 원본에서 모든 메시지를 삭제합니다. 이미 대기중인 메시지를 삭제하지 않고이 콘텐츠 소스에서 새 메시지를 가져 오기를 중단하려면 대신 비활성 활성의 콘텐츠 소스 상태를 변경하십시오.</ko>
+        <bn>দৃষ্টি আকর্ষণ করছি: একটি বিষয়বস্তু উৎস মুছলে তা আপনার কিউ 'র মধ্যে এই বিষয়বস্তুর উৎস থেকে সব বার্তা মুছে ফেলা হবে. আপনি বার্তা যে ইতিমধ্যে সারিবদ্ধ করা হয়েছে মুছে এই বিষয়বস্তুর উৎস থেকে নতুন বার্তা আমদানি বন্ধ করতে চান তাহলে, দয়া করে এর পরিবর্তে নিষ্ক্রিয় করতে সক্রিয় থেকে বিষয়বস্তু উৎস অবস্থা পরিবর্তন.</bn>
+        <ru>ВНИМАНИЕ: Удаление источника контента будет также удалить все сообщения из этого источника контента в очереди. Если вы хотите прекратить импорт новых сообщений из этого источника контента, не удаляя сообщения, которые уже были в очереди, пожалуйста, измените статус исходного содержимого из активного в неактивное вместо этого.</ru>
+        <sq>KUJDES: Fshirja e një burim përmbajtje do të fshirë të gjitha mesazhet nga ky burim përmbajtjes në radhë tuaj. Nëse ju do të donte për të ndaluar importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin burim të përmbajtjes nga aktive në joaktiv vend.</sq>
+        <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
+        <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
+        <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
+        <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا. آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی.</ur>
+    </entry>
+    <entry>
+        <key>Templates</key>
+        <en>Templates</en>
+        <ja>テンプレート</ja>
+        <pt>Modelos</pt>
+        <zh-CN>模板</zh-CN>
+        <fr>Modèles</fr>
+        <ar>النماذج</ar>
+        <zh-TW>模板</zh-TW>
+        <hi>टेम्पलेट्स</hi>
+        <ko>템플릿</ko>
+        <bn>টেম্পলেটসমূহ</bn>
+        <ru>Шаблоны</ru>
+        <sq>templates</sq>
+        <it>Modelli</it>
+        <de>Vorlagen</de>
+        <it>Modelli</it>
+        <ur>سانچے</ur>
+    </entry>
+    <entry>
+        <key>Content source templates let you add prefix, postfix, titles, and more.</key>
+        <en>Content source templates let you add prefix, postfix, titles, and more.</en>
+        <ja>コンテンツソーステンプレートを使うと、接頭語、接尾語、タイトルなどを追加することができます。</ja>
+        <pt>Os modelos para fonte de conteúdo permitem adicionar prefixos, sufixos, títulos e mais.</pt>
+        <zh-CN>内容源模板让你添加前缀，后缀，标题等。</zh-CN>
+        <fr>Contenu des modèles de sources vous permettent d'ajouter le préfixe, postfix, titres, et plus encore.</fr>
+        <ar>قوالب مصدر المحتوى تتيح لك إضافة بادئة، بوستفيكس، والعناوين، وأكثر من ذلك.</ar>
+        <zh-TW>內容源模板讓你添加前綴，後綴，標題等。</zh-TW>
+        <hi>सामग्री स्रोत टेम्पलेट्स आप उपसर्ग, पोस्टफिक्स, शीर्षक, और अधिक जोड़ दें।</hi>
+        <ko>콘텐츠 소스 템플릿은 접두사, 접미사, 제목 등을 추가 할 수 있습니다.</ko>
+        <bn>বিষয়বস্তু উৎস টেমপ্লেট আপনি প্রেফিক্স পোস্টসাফিক্স, শিরোনাম, এবং আরো অনেক কিছু যোগ করা যাক.</bn>
+        <ru>шаблоны источника контента позволяют добавлять префикс, постфикс, заголовки, и многое другое.</ru>
+        <sq>Përmbajtja burim templates ju lejojnë të shtoni prefiksin, postfix, tituj, dhe më shumë.</sq>
+        <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
+        <de>Inhaltsquelle Vorlagen können Sie fügen Präfix, Postfix, Titel und vieles mehr.</de>
+        <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
+        <ur>مواد کے ماخذ کے سانچوں آپ اپسرگ، postfix، عنوانات، اور مزید شامل ہیں.</ur>
+    </entry>
+    <entry>
+        <key>Template:</key>
+        <en>Template:</en>
+        <ja>テンプレート :</ja>
+        <pt>Modelo:</pt>
+        <zh-CN>模板：</zh-CN>
+        <fr>Modèle:</fr>
+        <ar>قالب:</ar>
+        <zh-TW>模板：</zh-TW>
+        <hi>साँचा:</hi>
+        <ko>주형:</ko>
+        <bn>টেমপ্লেট:</bn>
+        <ru>Шаблон:</ru>
+        <sq>template:</sq>
+        <it>Modello:</it>
+        <de>Vorlage:</de>
+        <it>Modello:</it>
+        <ur>سانچے:</ur>
+    </entry>
+    <entry>
+        <key>[title][link]</key>
+        <en>[title][link]</en>
+        <ja>[ タイトル ][ リンク ]</ja>
+        <pt>[título][link]</pt>
+        <zh-CN>[标题] [链接]</zh-CN>
+        <fr>[Title] [lien]</fr>
+        <ar>[عنوان] [رابط]</ar>
+        <zh-TW>[標題] [鏈接]</zh-TW>
+        <hi>[शीर्षक] [कड़ी]</hi>
+        <ko>[제목] [링크]</ko>
+        <bn>[শিরোনাম] [লিংক]</bn>
+        <ru>[Название] [ссылка]</ru>
+        <sq>[Titulli] [link]</sq>
+        <it>[Titolo] [link]</it>
+        <de>[Title] [link]</de>
+        <it>[Titolo] [link]</it>
+        <ur>[عنوان] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[title]</key>
+        <en>[title]</en>
+        <ja>[ タイトル ]</ja>
+        <pt>[título]</pt>
+        <zh-CN>[标题]</zh-CN>
+        <fr>[Titre]</fr>
+        <ar>[عنوان]</ar>
+        <zh-TW>[標題]</zh-TW>
+        <hi>[शीर्षक]</hi>
+        <ko>[표제]</ko>
+        <bn>[খেতাব]</bn>
+        <ru>[заглавие]</ru>
+        <sq>[Titulli]</sq>
+        <it>[titolo]</it>
+        <de>[Titel]</de>
+        <it>[titolo]</it>
+        <ur>[عنوان]</ur>
+    </entry>
+    <entry>
+        <key>[link]</key>
+        <en>[link]</en>
+        <ja>[ リンク ]</ja>
+        <pt>[link]</pt>
+        <zh-CN>[链接]</zh-CN>
+        <fr>[lien]</fr>
+        <ar>[صلة]</ar>
+        <zh-TW>[鏈接]</zh-TW>
+        <hi>[संपर्क]</hi>
+        <ko>[링크]</ko>
+        <bn>[লিংক]</bn>
+        <ru>[ссылка]</ru>
+        <sq>[Link]</sq>
+        <it>[Link]</it>
+        <de>[Link]</de>
+        <it>[Link]</it>
+        <ur>[لنک]</ur>
+    </entry>
+    <entry>
+        <key>[link] [title]</key>
+        <en>[link] [title]</en>
+        <ja>[ リンク ] [ タイトル ]</ja>
+        <pt>[link] [título]</pt>
+        <zh-CN>[链接] [标题]</zh-CN>
+        <fr>[Lien] [title]</fr>
+        <ar>[رابط] [لقب]</ar>
+        <zh-TW>[鏈接] [標題]</zh-TW>
+        <hi>[कड़ी] [शीर्षक]</hi>
+        <ko>[링크] [제목]</ko>
+        <bn>[লিংক] [শিরোনাম]</bn>
+        <ru>[Ссылка] [название]</ru>
+        <sq>[Link] [Titulli]</sq>
+        <it>[Link] [titolo]</it>
+        <de>[Link] [title]</de>
+        <it>[Link] [titolo]</it>
+        <ur>[لنک] [عنوان]</ur>
+    </entry>
+    <entry>
+        <key>[prefix] [title] [link]</key>
+        <en>[prefix] [title] [link]</en>
+        <ja>[ 接頭語 ] [ タイトル ] [ リンク ]</ja>
+        <pt>[prefixo] [título] [link]</pt>
+        <zh-CN>[前缀] [标题] [链接]</zh-CN>
+        <fr>[Prefix] [titre] [lien]</fr>
+        <ar>[بادئة] [لقب] [رابط]</ar>
+        <zh-TW>[前綴] [標題] [鏈接]</zh-TW>
+        <hi>[उपसर्ग] [शीर्षक] [कड़ी]</hi>
+        <ko>[접두사] [제목] [링크]</ko>
+        <bn>[প্রিফিক্স] [শিরোনাম] [লিংক]</bn>
+        <ru>[Префикс] [название] [ссылка]</ru>
+        <sq>[Prefix] [Titulli] [link]</sq>
+        <it>[Prefisso] [titolo] [link]</it>
+        <de>[Prefix] [title] [link]</de>
+        <it>[Prefisso] [titolo] [link]</it>
+        <ur>[اپسرگ] [عنوان] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[prefix] [title] [link] [postfix]</key>
+        <en>[prefix] [title] [link] [postfix]</en>
+        <ja>[ 接頭語 ] [ タイトル ] [ リンク ] [ 接尾語 ]</ja>
+        <pt>[prefixo] [título] [link] [sufixo]</pt>
+        <zh-CN>[前缀] [标题] [链接] [后缀]</zh-CN>
+        <fr>[Prefix] [titre] [lien] [postfix]</fr>
+        <ar>[بادئة] [لقب] [رابط] [بوستفيكس]</ar>
+        <zh-TW>[前綴] [標題] [鏈接] [後綴]</zh-TW>
+        <hi>[उपसर्ग] [शीर्षक] [कड़ी] [पोस्टफिक्स]</hi>
+        <ko>[접두사] [제목] [링크] [접미사]</ko>
+        <bn>[প্রিফিক্স] [শিরোনাম] [লিংক] [পোস্টসাফিক্স]</bn>
+        <ru>[Префикс] [название] [ссылка] [Постфиксное]</ru>
+        <sq>[Prefix] [Titulli] [link] [postfix]</sq>
+        <it>[Prefisso] [titolo] [link] [suffisso]</it>
+        <de>[Prefix] [title] [link] [Postfix]</de>
+        <it>[Prefisso] [titolo] [link] [suffisso]</it>
+        <ur>[اپسرگ] [عنوان] [لنک] [postfix]</ur>
+    </entry>
+    <entry>
+        <key>[prefix] [title] [link] [default text] [postfix]</key>
+        <en>[prefix] [title] [link] [default text] [postfix]</en>
+        <ja>[ 接頭語 ] [ タイトル ] [ リンク ] [ デフォルトのテキスト ] [ 接尾語 ]</ja>
+        <pt>[prefixo] [título] [link] [texto padrão] [sufixo]</pt>
+        <zh-CN>[前缀] [标题] [链接] [默认文本] [后缀]</zh-CN>
+        <fr>[Prefix] [titre] [lien] [texte par défaut] [postfix]</fr>
+        <ar>[بادئة] [لقب] [رابط] [النص الافتراضي] [بوستفيكس]</ar>
+        <zh-TW>[前綴] [標題] [鏈接] [默認文本] [後綴]</zh-TW>
+        <hi>[उपसर्ग] [शीर्षक] [कड़ी] [डिफ़ॉल्ट पाठ] [पोस्टफिक्स]</hi>
+        <ko>[접두사] [제목] [링크] [기본 텍스트] [접미사]</ko>
+        <bn>[প্রিফিক্স] [শিরোনাম] [লিংক] [ডিফল্ট টেক্সট] [পোস্টসাফিক্স]</bn>
+        <ru>[Префикс] [название] [ссылка] [текст по умолчанию] [Постфиксное]</ru>
+        <sq>[Prefix] [Titulli] [link] [teksti parazgjedhur] [postfix]</sq>
+        <it>[Prefisso] [titolo] [link] [testo predefinito] [Postfix]</it>
+        <de>[Prefix] [title] [link] [Standardtext] [Postfix]</de>
+        <it>[Prefisso] [titolo] [link] [testo predefinito] [Postfix]</it>
+        <ur>[اپسرگ] [عنوان] [لنک] [ڈیفالٹ ٹیکسٹ] [postfix]</ur>
+    </entry>
+    <entry>
+        <key>[prefix] [default text] [link] [postfix]</key>
+        <en>[prefix] [default text] [link] [postfix]</en>
+        <ja>[ 接頭語 ] [ デフォルトのテキスト ] [ リンク ] [ 接尾語 ]</ja>
+        <pt>[prefixo] [texto padrão] [link] [sufixo]</pt>
+        <zh-CN>[前缀] [默认文本] [链接] [后缀]</zh-CN>
+        <fr>[Prefix] [texte par défaut] [lien] [postfix]</fr>
+        <ar>[بادئة] [النص الافتراضي] [رابط] [بوستفيكس]</ar>
+        <zh-TW>[前綴] [默認文本] [鏈接] [後綴]</zh-TW>
+        <hi>[उपसर्ग] [डिफ़ॉल्ट पाठ] [कड़ी] [पोस्टफिक्स]</hi>
+        <ko>[접두사] [기본 텍스트] [링크] [접미사]</ko>
+        <bn>[প্রিফিক্স] [ডিফল্ট টেক্সট] [লিংক] [পোস্টসাফিক্স]</bn>
+        <ru>[Префикс] [по умолчанию текст] [ссылка] [Постфиксное]</ru>
+        <sq>[Prefix] [teksti parazgjedhur] [link] [postfix]</sq>
+        <it>[Prefisso] [testo predefinito] [link] [suffisso]</it>
+        <de>[Prefix] [Standardtext] [link] [Postfix]</de>
+        <it>[Prefisso] [testo predefinito] [link] [suffisso]</it>
+        <ur>[اپسرگ] [ڈیفالٹ ٹیکسٹ] [لنک] [postfix]</ur>
+    </entry>
+    <entry>
+        <key>[truncated_content] [link]</key>
+        <en>[truncated_content] [link]</en>
+        <ja>[ 省略コンテンツ ] [ リンク ]</ja>
+        <pt>[conteúdo_truncado] [link]</pt>
+        <zh-CN>[截断内容] [链接]</zh-CN>
+        <fr>[Truncated_content] [lien]</fr>
+        <ar>[truncated_content] [رابط]</ar>
+        <zh-TW>[truncated_content] [鏈接]</zh-TW>
+        <hi>[Truncated_content] [कड़ी]</hi>
+        <ko>[truncated_content] [링크]</ko>
+        <bn>[Truncated_content] [লিংক]</bn>
+        <ru>[Truncated_content] [ссылка]</ru>
+        <sq>[Truncated_content] [link]</sq>
+        <it>[Truncated_content] [link]</it>
+        <de>[Truncated_content] [link]</de>
+        <it>[Truncated_content] [link]</it>
+        <ur>[truncated_content] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[truncated_content]</key>
+        <en>[truncated_content]</en>
+        <ja>[ 省略コンテンツ ]</ja>
+        <pt>[conteúdo_truncado]</pt>
+        <zh-CN>[截断内容]</zh-CN>
+        <fr>[Truncated_content]</fr>
+        <ar>[truncated_content]</ar>
+        <zh-TW>[truncated_content]</zh-TW>
+        <hi>[Truncated_content]</hi>
+        <ko>[truncated_content]</ko>
+        <bn>[Truncated_content]</bn>
+        <ru>[Truncated_content]</ru>
+        <sq>[Truncated_content]</sq>
+        <it>[Truncated_content]</it>
+        <de>[Truncated_content]</de>
+        <it>[Truncated_content]</it>
+        <ur>[truncated_content]</ur>
+    </entry>
+    <entry>
+        <key>[content]</key>
+        <en>[content]</en>
+        <ja>[ コンテンツ ]</ja>
+        <pt>[conteúdo]</pt>
+        <zh-CN>[内容]</zh-CN>
+        <fr>[contenu]</fr>
+        <ar>[محتوى]</ar>
+        <zh-TW>[內容]</zh-TW>
+        <hi>[सामग्री]</hi>
+        <ko>[함유량]</ko>
+        <bn>[বিষয়বস্তু]</bn>
+        <ru>[Содержание]</ru>
+        <sq>[Përmbajtja]</sq>
+        <it>[contenuto]</it>
+        <de>[Inhalt]</de>
+        <it>[contenuto]</it>
+        <ur>[مواد]</ur>
+    </entry>
+    <entry>
+        <key>[content] [link]</key>
+        <en>[content] [link]</en>
+        <ja>[ コンテンツ ] [ リンク ]</ja>
+        <pt>[conteúdo] [link]</pt>
+        <zh-CN>[内容] [链接]</zh-CN>
+        <fr>[Content] [lien]</fr>
+        <ar>[محتوى] [رابط]</ar>
+        <zh-TW>[內容] [鏈接]</zh-TW>
+        <hi>[सामग्री] [कड़ी]</hi>
+        <ko>[내용] [링크]</ko>
+        <bn>[বিষয়বস্তু] [লিংক]</bn>
+        <ru>[Содержание] [ссылка]</ru>
+        <sq>[Përmbajtja] [link]</sq>
+        <it>[Content] [link]</it>
+        <de>[Content] [link]</de>
+        <it>[Content] [link]</it>
+        <ur>[مواد] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[title] [default text] [link]</key>
+        <en>[title] [default text] [link]</en>
+        <ja>[ タイトル ] [ デフォルトのテキスト ] [ リンク ]</ja>
+        <pt>[título] [texto padrão] [link]</pt>
+        <zh-CN>[标题] [默认文本] [链接]</zh-CN>
+        <fr>[Title] [texte par défaut] [lien]</fr>
+        <ar>[عنوان] [النص الافتراضي] [رابط]</ar>
+        <zh-TW>[標題] [默認文本] [鏈接]</zh-TW>
+        <hi>[शीर्षक] [डिफ़ॉल्ट पाठ] [कड़ी]</hi>
+        <ko>[제목] [기본 텍스트] [링크]</ko>
+        <bn>[শিরোনাম] [ডিফল্ট টেক্সট] [লিংক]</bn>
+        <ru>[Название] [текст по умолчанию] [ссылка]</ru>
+        <sq>[Titulli] [teksti parazgjedhur] [link]</sq>
+        <it>[Titolo] [testo predefinito] [link]</it>
+        <de>[Title] [default text] [link]</de>
+        <it>[Titolo] [testo predefinito] [link]</it>
+        <ur>[عنوان] [ڈیفالٹ ٹیکسٹ] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[title] [truncated content] [link]</key>
+        <en>[title] [truncated content] [link]</en>
+        <ja>[ タイトル ] [ 省略コンテンツ ] [ リンク ]</ja>
+        <pt>[título] [conteúdo truncado] [link]</pt>
+        <zh-CN>[标题] [截断内容] [链接]</zh-CN>
+        <fr>[Title] [contenu tronqué] [lien]</fr>
+        <ar>[عنوان] [محتوى اقتطاع] [رابط]</ar>
+        <zh-TW>[標題] [截斷內容] [鏈接]</zh-TW>
+        <hi>[शीर्षक] [छोटा सामग्री] [कड़ी]</hi>
+        <ko>[제목] [잘릴 내용] [링크]</ko>
+        <bn>[শিরোনাম] [ছেঁটে ফেলা কন্টেন্ট] [লিংক]</bn>
+        <ru>[Название] [усечен содержание] [ссылка]</ru>
+        <sq>[Titulli] [Përmbajtja cunguar] [link]</sq>
+        <it>[Titolo] [contenuto troncato] [link]</it>
+        <de>[Title] [abgeschnitten content] [link]</de>
+        <it>[Titolo] [contenuto troncato] [link]</it>
+        <ur>[عنوان] [مقطوع مواد] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[title] [content] [link]</key>
+        <en>[title] [content] [link]</en>
+        <ja>[ タイトル ] [ コンテンツ ] [ リンク ]</ja>
+        <pt>[título] [conteúdo] [link]</pt>
+        <zh-CN>[标题] [内容] [链接]</zh-CN>
+        <fr>[Title] [content] [lien]</fr>
+        <ar>[عنوان] [محتوى] [رابط]</ar>
+        <zh-TW>[標題] [內容] [鏈接]</zh-TW>
+        <hi>[शीर्षक] [सामग्री] [कड़ी]</hi>
+        <ko>[제목] [내용] [링크]</ko>
+        <bn>[শিরোনাম] [বিষয়বস্তু] [লিংক]</bn>
+        <ru>[Название] [содержание] [ссылка]</ru>
+        <sq>[Titulli] [Përmbajtja] [link]</sq>
+        <it>[Titolo] [content] [link]</it>
+        <de>[Title] [content] [link]</de>
+        <it>[Titolo] [content] [link]</it>
+        <ur>[عنوان] [مواد] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[default text]</key>
+        <en>[default text]</en>
+        <ja>[ デフォルトのテキスト ]</ja>
+        <pt>[texto padrão]</pt>
+        <zh-CN>[默认文本]</zh-CN>
+        <fr>[Texte par défaut]</fr>
+        <ar>[النص الافتراضي]</ar>
+        <zh-TW>[默認文本]</zh-TW>
+        <hi>[डिफ़ॉल्ट पाठ]</hi>
+        <ko>[기본 텍스트]</ko>
+        <bn>[ডিফল্ট টেক্সট]</bn>
+        <ru>[Текст по умолчанию]</ru>
+        <sq>[Parazgjedhur text]</sq>
+        <it>[Testo predefinito]</it>
+        <de>[Default text]</de>
+        <it>[Testo predefinito]</it>
+        <ur>[ڈیفالٹ ٹیکسٹ]</ur>
+    </entry>
+    <entry>
+        <key>Default Text</key>
+        <en>Default Text</en>
+        <ja>デフォルトのテキスト</ja>
+        <pt>Texto Padrão</pt>
+        <zh-CN>默认文本</zh-CN>
+        <fr>texte par défaut</fr>
+        <ar>النص الافتراضي</ar>
+        <zh-TW>默認文本</zh-TW>
+        <hi>डिफ़ॉल्ट पाठ</hi>
+        <ko>기본 텍스트</ko>
+        <bn>ডিফল্ট টেক্সট</bn>
+        <ru>Текст по умолчанию</ru>
+        <sq>Default Text</sq>
+        <it>Testo predefinito</it>
+        <de>Standardtext</de>
+        <it>Testo predefinito</it>
+        <ur>طے شدہ متن</ur>
+    </entry>
+    <entry>
+        <key>Not Set</key>
+        <en>Not Set</en>
+        <ja>設定しない</ja>
+        <pt>Não Configurado</pt>
+        <zh-CN>没有设置</zh-CN>
+        <fr>Pas encore défini</fr>
+        <ar>غير مضبوط</ar>
+        <zh-TW>沒有設置</zh-TW>
+        <hi>सेट नहीं</hi>
+        <ko>설정되지 않음</ko>
+        <bn>সেট না</bn>
+        <ru>Не задано</ru>
+        <sq>E pavendosur</sq>
+        <it>Non impostato</it>
+        <de>Nicht eingestellt</de>
+        <it>Non impostato</it>
+        <ur>سیٹ نہیں ہے</ur>
+    </entry>
+    <entry>
+        <key>Prefix</key>
+        <en>Prefix</en>
+        <ja>接頭語</ja>
+        <pt>Prefixo</pt>
+        <zh-CN>字首</zh-CN>
+        <fr>Préfixe</fr>
+        <ar>بادئة</ar>
+        <zh-TW>字首</zh-TW>
+        <hi>उपसर्ग</hi>
+        <ko>접두사</ko>
+        <bn>উপসর্গ</bn>
+        <ru>Префикс</ru>
+        <sq>parashtesë</sq>
+        <it>Prefisso</it>
+        <de>Präfix</de>
+        <it>Prefisso</it>
+        <ur>اپسرگ</ur>
+    </entry>
+    <entry>
+        <key>Postfix</key>
+        <en>Postfix</en>
+        <ja>接尾語</ja>
+        <pt>Sufixo</pt>
+        <zh-CN>后缀</zh-CN>
+        <fr>Postfix</fr>
+        <ar>بوستفيكس</ar>
+        <zh-TW>後綴</zh-TW>
+        <hi>पोस्टफिक्स</hi>
+        <ko>후위</ko>
+        <bn>postfix</bn>
+        <ru>постфикс</ru>
+        <sq>postfix</sq>
+        <it>Postfix</it>
+        <de>Postfix</de>
+        <it>Postfix</it>
+        <ur>Postfix</ur>
+    </entry>
+    <entry>
+        <key>Filters</key>
+        <en>Filters</en>
+        <ja>フィルター</ja>
+        <pt>Filtros</pt>
+        <zh-CN>过滤器</zh-CN>
+        <fr>Filtres</fr>
+        <ar>مرشحات</ar>
+        <zh-TW>過濾器</zh-TW>
+        <hi>फिल्टर</hi>
+        <ko>필터</ko>
+        <bn>ফিল্টার</bn>
+        <ru>фильтры</ru>
+        <sq>Filters</sq>
+        <it>filtri</it>
+        <de>Filter</de>
+        <it>filtri</it>
+        <ur>فلٹرز</ur>
+    </entry>
+    <entry>
+        <key>Filters let you include or exclude content containing certain words</key>
+        <en>Filters let you include or exclude content containing certain words</en>
+        <ja>フィルターを設定して、特定の単語を含むコンテンツを抽出または除外することができます</ja>
+        <pt>Filtros permitem incluir ou excluir conteúdo que contenha certas palavras</pt>
+        <zh-CN>过滤器让你包含或排除含有特定字词的内容</zh-CN>
+        <fr>Les filtres permettent d'inclure ou d'exclure le contenu contenant certains mots</fr>
+        <ar>تتيح لك فلاتر تضمين أو استبعاد المحتوى التي تحتوي على كلمات معينة</ar>
+        <zh-TW>過濾器讓你包含或排除含有特定字詞的內容</zh-TW>
+        <hi>फिल्टर आप शामिल है या कुछ शब्दों से युक्त सामग्री बहिष्कृत कर सकते हैं</hi>
+        <ko>필터를 포함하거나 특정 단어가 포함 된 콘텐츠를 제외 할 수</ko>
+        <bn>ফিল্টার আপনি অন্তর্ভুক্ত বা নির্দিষ্ট শব্দ ধারণকারী বিষয়বস্তু বাদ দিন</bn>
+        <ru>Фильтры позволяют включать или исключать контент, содержащий определенные слова</ru>
+        <sq>Filtra të ju lejojnë të përfshijë ose të përjashtojë përmbajtje që përmban fjalë të caktuara</sq>
+        <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
+        <de>Mit Filtern können Sie ein- oder ausschließen Inhalte, die bestimmte Wörter</de>
+        <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
+        <ur>فلٹرز آپ شامل یا مخصوص الفاظ استعمال مواد خارج کرنے دو</ur>
+    </entry>
+    <entry>
+        <key>Only Include</key>
+        <en>Only Include</en>
+        <ja>次の単語を含むもののみ</ja>
+        <pt>Apenas Incluir</pt>
+        <zh-CN>仅包含</zh-CN>
+        <fr>Seulement Inclure</fr>
+        <ar>وتشمل فقط</ar>
+        <zh-TW>僅包含</zh-TW>
+        <hi>ही शामिल</hi>
+        <ko>만 포함</ko>
+        <bn>শুধু অন্তর্ভুক্ত</bn>
+        <ru>только Включить</ru>
+        <sq>vetëm Përfshi</sq>
+        <it>solo Includere</it>
+        <de>Nur Fügen</de>
+        <it>solo Includere</it>
+        <ur>صرف شامل</ur>
+    </entry>
+    <entry>
+        <key>Exclude</key>
+        <en>Exclude</en>
+        <ja>次の単語を除外</ja>
+        <pt>Excluir</pt>
+        <zh-CN>排除</zh-CN>
+        <fr>Exclure</fr>
+        <ar>استبعد</ar>
+        <zh-TW>排除</zh-TW>
+        <hi>निकालना</hi>
+        <ko>들어오지 못하게 하다</ko>
+        <bn>বহিষ্কৃত করা</bn>
+        <ru>исключать</ru>
+        <sq>përjashtoj</sq>
+        <it>Escludere</it>
+        <de>Ausschließen</de>
+        <it>Escludere</it>
+        <ur>علیحدہ کر دیں</ur>
+    </entry>
+    <entry>
+        <key>+ Add Another Filter</key>
+        <en>+ Add Another Filter</en>
+        <ja>+ 別のフィルターを追加</ja>
+        <pt>+ Adicionar Outro Filtro</pt>
+        <zh-CN>+ 添加另一个过滤器</zh-CN>
+        <fr>+ Ajouter un autre filtre</fr>
+        <ar>+ إضافة عامل تصفية آخر</ar>
+        <zh-TW>+添加另一個過濾器</zh-TW>
+        <hi>+ एक और फ़िल्टर जोड़ें</hi>
+        <ko>+ 또 다른 필터 추가</ko>
+        <bn>+ আরেকটি ফিল্টার যোগ</bn>
+        <ru>+ Добавить еще один фильтр</ru>
+        <sq>+ Shto tjetër Filter</sq>
+        <it>+ Aggiungere un altro filtro</it>
+        <de>+ Weiteren Filter hinzufügen</de>
+        <it>+ Aggiungere un altro filtro</it>
+        <ur>+ ایک اور فلٹر شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Tracking Tags</key>
+        <en>Tracking Tags</en>
+        <ja>トラッキングタグ</ja>
+        <pt>Tags de Monitoramento</pt>
+        <zh-CN>跟踪标签</zh-CN>
+        <fr>Suivi des tags</fr>
+        <ar>تتبع الكلمات</ar>
+        <zh-TW>跟踪標籤</zh-TW>
+        <hi>ट्रैकिंग टैग</hi>
+        <ko>추적 태그</ko>
+        <bn>ট্র্যাকিং ট্যাগ্স</bn>
+        <ru>Отслеживание Ключевые слова</ru>
+        <sq>Ndjekja Tags</sq>
+        <it>tag di monitoraggio</it>
+        <de>Tracking-Tags</de>
+        <it>tag di monitoraggio</it>
+        <ur>ٹریکنگ ٹیگز</ur>
+    </entry>
+    <entry>
+        <key>Tracking tags let you include Google Analytics and Omniture tags to your content.</key>
+        <en>Tracking tags let you include Google Analytics and Omniture tags to your content.</en>
+        <ja>トラッキングタグを設定して、 Google Analytics と Omniture のタグをコンテンツに含めることができます。</ja>
+        <pt>Tags de monitoramento permitem incluir tags do Google Analytics e do Omniture ao seu conteúdo</pt>
+        <zh-CN>跟踪标签让你包括Google Analytics和Omniture标签内容。</zh-CN>
+        <fr>balises de suivi vous permettent d'inclure Google Analytics et Omniture balises à votre contenu.</fr>
+        <ar>تتيح علامات التتبع التي تشمل تحليلات جوجل وشركة Omniture العلامات إلى المحتوى الخاص بك.</ar>
+        <zh-TW>跟踪標籤讓你包括谷歌Analytics（分析）和Omniture標籤內容。</zh-TW>
+        <hi>ट्रैकिंग टैग आप अपनी सामग्री के लिए गूगल एनालिटिक्स और Omniture टैग शामिल करते हैं।</hi>
+        <ko>추적 태그를 사용하면 콘텐츠를 Google 웹 로그 분석 및 Omniture의 태그를 포함 할 수 있습니다.</ko>
+        <bn>ট্র্যাকিং ট্যাগ আপনি আপনার সামগ্রীতে Google এনালিটিক্স এবং Omniture ট্যাগ অন্তর্ভুক্ত যাক.</bn>
+        <ru>Отслеживание теги позволяют включить в Google Analytics и Omniture теги к контенту.</ru>
+        <sq>tags ndjekja ju lejojnë të përfshijë Google Analytics dhe Omniture etiketa për përmbajtjen tuaj.</sq>
+        <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
+        <de>Tracking-Tags können Sie umfassen Google Analytics und Omniture-Tags, um Ihre Inhalte.</de>
+        <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
+        <ur>ٹریکنگ ٹیگز آپ کو آپ کے مواد کے لئے گوگل کے تجزیات اور Omniture ٹیگز شامل ہونے دیں.</ur>
+    </entry>
+    <entry>
+        <key>Google Analytics</key>
+        <en>Google Analytics</en>
+        <ja>Google Analytics</ja>
+        <pt>Google Analytics</pt>
+        <zh-CN>Google Analytics</zh-CN>
+        <fr>Google Analytics</fr>
+        <ar>تحليلات كوكل</ar>
+        <zh-TW>谷歌分析</zh-TW>
+        <hi>गूगल विश्लेषिकी</hi>
+        <ko>Google 웹 로그 분석</ko>
+        <bn>গুগল বিশ্লেষক</bn>
+        <ru>Гугл Аналитика</ru>
+        <sq>Google Analytics</sq>
+        <it>statistiche di Google</it>
+        <de>Google Analytics</de>
+        <it>statistiche di Google</it>
+        <ur>گوگل کے تجزیات</ur>
+    </entry>
+    <entry>
+        <key>Other Tags</key>
+        <en>Other Tags</en>
+        <ja>他のタグ</ja>
+        <pt>Outras Tags</pt>
+        <zh-CN>其他标签。</zh-CN>
+        <fr>tags</fr>
+        <ar>الكلمات الأخرى</ar>
+        <zh-TW>其他標籤。</zh-TW>
+        <hi>अन्य टैग</hi>
+        <ko>기타 태그</ko>
+        <bn>অন্যান্য ট্যাগ্স</bn>
+        <ru>Другое Ключевые слова</ru>
+        <sq>Tags tjera</sq>
+        <it>Tags</it>
+        <de>Andere Tags</de>
+        <it>Tags</it>
+        <ur>دیگر ٹیگز</ur>
+    </entry>
+    <entry>
+        <key>Key – Value</key>
+        <en>Key – Value</en>
+        <ja>キー – 値</ja>
+        <pt>Chave - Valor</pt>
+        <zh-CN>键 - 值</zh-CN>
+        <fr>Valeur clé</fr>
+        <ar>الرئيسية - القيمة</ar>
+        <zh-TW>鍵 - 值</zh-TW>
+        <hi>मौलिक मूल्य</hi>
+        <ko>키 - 값</ko>
+        <bn>প্রকৃত মূল্য</bn>
+        <ru>Ключ - Значение</ru>
+        <sq>Key - Vlera</sq>
+        <it>Valore chiave</it>
+        <de>Schlüsselwert</de>
+        <it>Valore chiave</it>
+        <ur>کلیدی - ویلیو</ur>
+    </entry>
+    <entry>
+        <key>Publication Limits</key>
+        <en>Publication Limits</en>
+        <ja>投稿制限</ja>
+        <pt>Limites de Publicação</pt>
+        <zh-CN>出版物限制</zh-CN>
+        <fr>Limites de publication</fr>
+        <ar>حدود النشر</ar>
+        <zh-TW>出版物限制</zh-TW>
+        <hi>प्रकाशन की सीमाएं</hi>
+        <ko>공개 제한</ko>
+        <bn>প্রকাশনা সীমা</bn>
+        <ru>Пределы публикации</ru>
+        <sq>Kufijtë e publikimit</sq>
+        <it>Limiti Pubblicazione</it>
+        <de>Veröffentlichung Limits</de>
+        <it>Limiti Pubblicazione</it>
+        <ur>اشاعت کی حدود</ur>
+    </entry>
+    <entry>
+        <key>Set maximum number of messages for certain time periods, intervals, etc. Note: changing these may impact SocialFlow's ability to optimize content.</key>
+        <en>Set maximum number of messages for certain time periods, intervals, etc. Note: changing these may impact SocialFlow's ability to optimize content.</en>
+        <ja>所定の期間や間隔等における最大メッセージ数を設定します。注意: これらの変更は、 SocialFlow のコンテンツ最適化能力に影響を与える可能性があります。</ja>
+        <pt>Configure o número máximo de mensagens para certos períodos de tempo, intervalos, etc. Nota: estas mudanças podem impactar a habilidade de otimização de conteúdo do SocialFlow.</pt>
+        <zh-CN>消息的某些时间段，时间间隔等设置最大数量注意：改变这些可能会影响SocialFlow的优化内容的能力。</zh-CN>
+        <fr>Définir le nombre maximal de messages pour certaines périodes de temps, les intervalles, etc. Remarque: changer ceux-ci peuvent influer sur la capacité de SocialFlow pour optimiser le contenu.</fr>
+        <ar>تعيين الحد الأقصى لعدد الرسائل لفترات زمنية معينة، والفواصل، الخ ملاحظة: تغيير هذه قد تؤثر على قدرة SocialFlow لتحسين المحتوى.</ar>
+        <zh-TW>消息的某些時間段，時間間隔等設置最大數量注意：改變這些可能會影響SocialFlow的優化內容的能力。</zh-TW>
+        <hi>निश्चित समय अवधि के अंतराल, आदि के लिए संदेशों की अधिकतम संख्या निर्धारित नोट: बदलते इन SocialFlow की सामग्री को अनुकूलित करने की क्षमता को प्रभावित कर सकता है।</hi>
+        <ko>등 특정 기간, 간격에 대한 메시지의 최대 개수 설정 참고 :이 콘텐츠를 최적화 할 수 SocialFlow의 능력에 영향을 미칠 수있는 변경.</ko>
+        <bn>নির্দিষ্ট সময়কাল, অন্তর, ইত্যাদি জন্য বার্তা সর্বোচ্চ সংখ্যা নির্ধারণ করুন দ্রষ্টব্য: পরিবর্তন এই SocialFlow বিষয়বস্তু নিখুত করার ক্ষমতা প্রভাবিত করতে পারে.</bn>
+        <ru>Установить максимальное количество сообщений в течение определенных периодов времени, интервалы и т.д. Примечание: их изменение может повлиять на способность SocialFlow для оптимизации контента.</ru>
+        <sq>Set numri maksimal i mesazheve për periudha të caktuara kohore, intervale, etj Shënim: duke ndryshuar këto mund të ndikojë në aftësinë SocialFlow për të zgjedh përmbajtjen.</sq>
+        <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
+        <de>Legt die maximale Anzahl von Nachrichten für bestimmte Zeiträume, Intervalle usw. Hinweis: Ändern können diese SocialFlow die Fähigkeit, Inhalte zu optimieren auswirken.</de>
+        <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
+        <ur>مخصوص وقت کے ادوار، وقفے، وغیرہ کے لئے پیغامات کی زیادہ سے زیادہ تعداد مقرر کریں نوٹ: ان کے مواد کو بہتر کرنے کے SocialFlow کی صلاحیت پر اثر انداز ہو سکتا ہے کو تبدیل کرنے کے.</ur>
+    </entry>
+    <entry>
+        <key>[truncated_title][link]</key>
+        <en>[truncated_title][link]</en>
+        <ja>[ 省略コンテンツ ][ リンク ]</ja>
+        <pt>[título_truncado][link]</pt>
+        <zh-CN>[截断标题] [链接]</zh-CN>
+        <fr>[Truncated_title] [lien]</fr>
+        <ar>[truncated_title] [رابط]</ar>
+        <zh-TW>[truncated_title] [鏈接]</zh-TW>
+        <hi>[Truncated_title] [कड़ी]</hi>
+        <ko>[truncated_title] [링크]</ko>
+        <bn>[Truncated_title] [লিংক]</bn>
+        <ru>[Truncated_title] [ссылка]</ru>
+        <sq>[Truncated_title] [link]</sq>
+        <it>[Truncated_title] [link]</it>
+        <de>[Truncated_title] [link]</de>
+        <it>[Truncated_title] [link]</it>
+        <ur>[truncated_title] [لنک]</ur>
+    </entry>
+    <entry>
+        <key>[truncated_title]</key>
+        <en>[truncated_title]</en>
+        <ja>[ 省略コンテンツ ]</ja>
+        <pt>[título_truncado]</pt>
+        <zh-CN>[截断标题]</zh-CN>
+        <fr>[Truncated_title]</fr>
+        <ar>[truncated_title]</ar>
+        <zh-TW>[truncated_title]</zh-TW>
+        <hi>[Truncated_title]</hi>
+        <ko>[truncated_title]</ko>
+        <bn>[Truncated_title]</bn>
+        <ru>[Truncated_title]</ru>
+        <sq>[Truncated_title]</sq>
+        <it>[Truncated_title]</it>
+        <de>[Truncated_title]</de>
+        <it>[Truncated_title]</it>
+        <ur>[truncated_title]</ur>
+    </entry>
+    <entry>
+        <key>utm_source</key>
+        <en>utm_source</en>
+        <ja>utm_source</ja>
+        <pt>utm_source</pt>
+        <zh-CN>utm_source</zh-CN>
+        <fr>utm_source</fr>
+        <ar>utm_source على</ar>
+        <zh-TW>utm_source</zh-TW>
+        <hi>utm_source</hi>
+        <ko>utm_source를</ko>
+        <bn>utm_source</bn>
+        <ru>utm_source</ru>
+        <sq>utm_source</sq>
+        <it>utm_source</it>
+        <de>utm_source</de>
+        <it>utm_source</it>
+        <ur>utm_source</ur>
+    </entry>
+    <entry>
+        <key>utm_medium</key>
+        <en>utm_medium</en>
+        <ja>utm_medium</ja>
+        <pt>utm_medium</pt>
+        <zh-CN>utm_medium</zh-CN>
+        <fr>utm_medium</fr>
+        <ar>utm_medium</ar>
+        <zh-TW>utm_medium</zh-TW>
+        <hi>utm_medium</hi>
+        <ko>utm_medium을</ko>
+        <bn>utm_medium</bn>
+        <ru>utm_medium</ru>
+        <sq>utm_medium</sq>
+        <it>utm_medium</it>
+        <de>utm_medium</de>
+        <it>utm_medium</it>
+        <ur>utm_medium</ur>
+    </entry>
+    <entry>
+        <key>utm_campaign</key>
+        <en>utm_campaign</en>
+        <ja>utm_campaign</ja>
+        <pt>utm_campaign</pt>
+        <zh-CN>utm_campaign</zh-CN>
+        <fr>utm_campaign</fr>
+        <ar>المتغير utm_campaign</ar>
+        <zh-TW>utm_campaign</zh-TW>
+        <hi>utm_campaign</hi>
+        <ko>utm_campaign을</ko>
+        <bn>utm_campaign</bn>
+        <ru>utm_campaign</ru>
+        <sq>utm_campaign</sq>
+        <it>utm_campaign</it>
+        <de>utm_campaign</de>
+        <it>utm_campaign</it>
+        <ur>utm_campaign</ur>
+    </entry>
+    <entry>
+        <key>utm_content</key>
+        <en>utm_content</en>
+        <ja>utm_content</ja>
+        <pt>utm_content</pt>
+        <zh-CN>的utm_content</zh-CN>
+        <fr>utm_content</fr>
+        <ar>utm_content</ar>
+        <zh-TW>的utm_content</zh-TW>
+        <hi>utm_content</hi>
+        <ko>한 utm_content</ko>
+        <bn>utm_content</bn>
+        <ru>utm_content</ru>
+        <sq>utm_content</sq>
+        <it>utm_content</it>
+        <de>utm_content</de>
+        <it>utm_content</it>
+        <ur>utm_content</ur>
+    </entry>
+    <entry>
+        <key>utm_link</key>
+        <en>utm_link</en>
+        <ja>utm_link</ja>
+        <pt>utm_link</pt>
+        <zh-CN>utm_link</zh-CN>
+        <fr>utm_link</fr>
+        <ar>utm_link</ar>
+        <zh-TW>utm_link</zh-TW>
+        <hi>utm_link</hi>
+        <ko>utm_link</ko>
+        <bn>utm_link</bn>
+        <ru>utm_link</ru>
+        <sq>utm_link</sq>
+        <it>utm_link</it>
+        <de>utm_link</de>
+        <it>utm_link</it>
+        <ur>utm_link</ur>
+    </entry>
+    <entry>
+        <key>Reset All to Optimized</key>
+        <en>Reset All to Optimized</en>
+        <ja>全て最適化にリセット</ja>
+        <pt>Reconfigurar Tudo para Otimizado</pt>
+        <zh-CN>重置所有以优化</zh-CN>
+        <fr>Tout réinitialiser pour Optimisé</fr>
+        <ar>إعادة تعيين جميع لمحسن</ar>
+        <zh-TW>重置所有以優化</zh-TW>
+        <hi>अनुकूलित करने के लिए सभी रीसेट</hi>
+        <ko>최적화에 대한 모든 재설정</ko>
+        <bn>অপ্টিমাইজ করা সকল রিসেট</bn>
+        <ru>Сбросить все оптимизированному</ru>
+        <sq>Reset All për të optimizuar</sq>
+        <it>Ripristina tutto per ottimizzato</it>
+        <de>Alle zurücksetzen auf Optimized</de>
+        <it>Ripristina tutto per ottimizzato</it>
+        <ur>آپٹمائزڈ لئے تمام ری سیٹ کر دیں</ur>
+    </entry>
+    <entry>
+        <key>Reset to Optimized</key>
+        <en>Reset to Optimized</en>
+        <ja>最適化にリセット</ja>
+        <pt>Reconfig. para Otimizado</pt>
+        <zh-CN>重置为优化</zh-CN>
+        <fr>Reset to Optimisé</fr>
+        <ar>إعادة تعيين إلى أقصى حد</ar>
+        <zh-TW>重置為優化</zh-TW>
+        <hi>अनुकूलित करने के लिए रीसेट</hi>
+        <ko>최적화 재설정</ko>
+        <bn>অপ্টিমাইজ রিসেট</bn>
+        <ru>Возврат к Оптимизированный</ru>
+        <sq>Reset për të optimizuar</sq>
+        <it>Ripristina ottimizzata</it>
+        <de>Zurücksetzen auf Optimiert</de>
+        <it>Ripristina ottimizzata</it>
+        <ur>آپٹمائزڈ کرنا ری سیٹ کر دیں</ur>
+    </entry>
+    <entry>
+        <key>Max Messages per day</key>
+        <en>Max Messages per day</en>
+        <ja>1 日あたり最大メッセージ数</ja>
+        <pt>Máximo de Mensagens por dia</pt>
+        <zh-CN>每天最多的邮件数。</zh-CN>
+        <fr>Max Messages par jour</fr>
+        <ar>max رسائل يوميا</ar>
+        <zh-TW>每天最大消息</zh-TW>
+        <hi>प्रति दिन अधिकतम संदेश</hi>
+        <ko>하루 최대 메시지</ko>
+        <bn>প্রতিদিন সর্বোচ্চ বার্তা</bn>
+        <ru>Максимальное количество сообщений в день</ru>
+        <sq>Max Messages në ditë</sq>
+        <it>Max messaggi al giorno</it>
+        <de>Max Nachrichten pro Tag</de>
+        <it>Max messaggi al giorno</it>
+        <ur>فی دن زیادہ سے زیادہ پیغامات</ur>
+    </entry>
+    <entry>
+        <key>Enter the maximum number of messages that can be published in 1 day</key>
+        <en>Enter the maximum number of messages that can be published in 1 day</en>
+        <ja>1 日で公開できるメッセージの最大数を入力</ja>
+        <pt>Insira o número máximo de mensagens que pode ser publicado em um dia</pt>
+        <zh-CN>输入可在1天后发布的消息的最大数量</zh-CN>
+        <fr>Entrez le nombre maximal de messages qui peuvent être publiés dans 1 jour</fr>
+        <ar>أدخل الحد الأقصى لعدد الرسائل التي يمكن نشرها في يوم 1</ar>
+        <zh-TW>輸入可在1天后發布的消息的最大數量</zh-TW>
+        <hi>कि 1 दिन में प्रकाशित किया जा सकता संदेशों की अधिकतम संख्या दर्ज करें</hi>
+        <ko>1 일 게시 할 수있는 메시지의 최대 수를 입력</ko>
+        <bn>যে 1 দিনে প্রকাশ করা যাবে বার্তা সর্বোচ্চ নম্বর লিখুন</bn>
+        <ru>Введите максимальное количество сообщений, которые могут быть опубликованы в течение 1 дня</ru>
+        <sq>Shkruani numrin maksimal të mesazheve që mund të publikohet në 1 ditë</sq>
+        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 giorno</it>
+        <de>Geben Sie die maximale Anzahl von Nachrichten, die an 1 Tag veröffentlicht werden können</de>
+        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 giorno</it>
+        <ur>1 دن میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Max Messages Per Hour</key>
+        <en>Max Messages Per Hour</en>
+        <ja>時間あたり最大メッセージ数</ja>
+        <pt>Máximo de Mensagens por hora</pt>
+        <zh-CN>每个小时最多的邮件数。</zh-CN>
+        <fr>Max Messages par heure</fr>
+        <ar>max رسائل لكل ساعة</ar>
+        <zh-TW>最大消息每小時</zh-TW>
+        <hi>प्रति घंटे मैक्स संदेश</hi>
+        <ko>시간 당 최대 메시지</ko>
+        <bn>প্রতি ঘন্টায় সর্বোচ্চ বার্তা</bn>
+        <ru>Максимальное количество сообщений в час</ru>
+        <sq>Max Messages në orë</sq>
+        <it>Max messaggi all'ora</it>
+        <de>Max Nachrichten pro Stunde</de>
+        <it>Max messaggi all'ora</it>
+        <ur>فی گھنٹہ زیادہ سے زیادہ پیغامات</ur>
+    </entry>
+    <entry>
+        <key>Enter the maximum number of messages that can be published in 1 hour</key>
+        <en>Enter the maximum number of messages that can be published in 1 hour</en>
+        <ja>1時間で公開できるメッセージの最大数を入力</ja>
+        <pt>Insira o número máximo de mensagens que pode ser publicado em uma hora</pt>
+        <zh-CN>输入可以在1个小时内发布的消息的最大数量</zh-CN>
+        <fr>Entrez le nombre maximal de messages qui peuvent être publiés en 1 heure</fr>
+        <ar>أدخل الحد الأقصى لعدد الرسائل التي يمكن نشرها في 1 ساعة</ar>
+        <zh-TW>輸入可以在1個小時內發布的消息的最大數量</zh-TW>
+        <hi>कि 1 घंटे में प्रकाशित किया जा सकता संदेशों की अधिकतम संख्या दर्ज करें</hi>
+        <ko>1 시간 게시 할 수있는 메시지의 최대 수를 입력</ko>
+        <bn>1 ঘন্টার মধ্যে প্রকাশ করা যাবে বার্তা সর্বোচ্চ নম্বর লিখুন</bn>
+        <ru>Введите максимальное количество сообщений, которые могут быть опубликованы в течение 1 часа</ru>
+        <sq>Shkruani numrin maksimal të mesazheve që mund të publikohet në 1 orë</sq>
+        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 ora</it>
+        <de>Geben Sie die maximale Anzahl der Nachrichten, die in 1 Stunde veröffentlicht werden können</de>
+        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 ora</it>
+        <ur>1 گھنٹے میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Message Window</key>
+        <en>Message Window</en>
+        <ja>メッセージウィンドウ</ja>
+        <pt>Janela de Mensagem</pt>
+        <zh-CN>消息窗口</zh-CN>
+        <fr>fenêtre de message</fr>
+        <ar>رسالة النافذة</ar>
+        <zh-TW>消息窗口</zh-TW>
+        <hi>संदेश विंडो</hi>
+        <ko>메시지 창</ko>
+        <bn>বার্তা উইন্ডো</bn>
+        <ru>окно сообщений</ru>
+        <sq>mesazhi Window</sq>
+        <it>finestra dei messaggi</it>
+        <de>Nachrichtenfenster</de>
+        <it>finestra dei messaggi</it>
+        <ur>پیغام ونڈو</ur>
+    </entry>
+    <entry>
+        <key>Publish Between</key>
+        <en>Publish Between</en>
+        <ja>次の時間帯に公開</ja>
+        <pt>Publicar Entre</pt>
+        <zh-CN>发布之间</zh-CN>
+        <fr>Publier Entre</fr>
+        <ar>نشر بين</ar>
+        <zh-TW>發布之間</zh-TW>
+        <hi>बीच प्रकाशित करें</hi>
+        <ko>사이에 게시</ko>
+        <bn>মধ্যে প্রকাশ</bn>
+        <ru>Опубликовать Между</ru>
+        <sq>publikojë Midis</sq>
+        <it>pubblicare Tra</it>
+        <de>veröffentlichen Zwischen</de>
+        <it>pubblicare Tra</it>
+        <ur>درمیان شائع</ur>
+    </entry>
+    <entry>
+        <key>and</key>
+        <en>and</en>
+        <ja>～</ja>
+        <pt>e</pt>
+        <zh-CN>和</zh-CN>
+        <fr>et</fr>
+        <ar>و</ar>
+        <zh-TW>和</zh-TW>
+        <hi>तथा</hi>
+        <ko>과</ko>
+        <bn>এবং</bn>
+        <ru>а также</ru>
+        <sq>dhe</sq>
+        <it>e</it>
+        <de>und</de>
+        <it>e</it>
+        <ur>اور</ur>
+    </entry>
+    <entry>
+        <key>Minimum Message Interval</key>
+        <en>Minimum Message Interval</en>
+        <ja>最小メッセージ間隔</ja>
+        <pt>Intervalo Mínimo de Mensagem</pt>
+        <zh-CN>最小间隔留言</zh-CN>
+        <fr>Minimum message Interval</fr>
+        <ar>الحد الأدنى الفاصل الزمني رسالة</ar>
+        <zh-TW>最小間隔留言</zh-TW>
+        <hi>न्यूनतम संदेश अंतराल</hi>
+        <ko>최소 메시지 간격</ko>
+        <bn>নূন্যতম বার্তা ব্যবধান</bn>
+        <ru>Минимальный интервал Сообщение</ru>
+        <sq>Minimum mesazh Interval</sq>
+        <it>Minimo Messaggio Intervallo</it>
+        <de>Mindestmeldungsintervall</de>
+        <it>Minimo Messaggio Intervallo</it>
+        <ur>کم از کم کے پیغام وقفہ</ur>
+    </entry>
+    <entry>
+        <key>Enter the number of minutes that must elapse between messages</key>
+        <en>Enter the number of minutes that must elapse between messages</en>
+        <ja>次のメッセージまで空けるべき間隔を分数で入力</ja>
+        <pt>Insira o número de minutos que deve passar entre mensagens</pt>
+        <zh-CN>输入消息之间必须经过的分钟数</zh-CN>
+        <fr>Entrez le nombre de minutes sthat doit s'écouler entre messages</fr>
+        <ar>أدخل عدد من دقيقة sthat يجب أن تنقضي بين الرسائل</ar>
+        <zh-TW>輸入分鐘sthat必須消息之間經過的天數</zh-TW>
+        <hi>मिनट sthat संदेश के बीच बीत जाना चाहिए की संख्या दर्ज</hi>
+        <ko>메시지 사이에 경과해야 sthat 분의 번호를 입력</ko>
+        <bn>মিনিট sthat বার্তা মধ্যে অতিবাহিত আবশ্যক সংখ্যা লিখুন</bn>
+        <ru>Введите количество минут sthat должно пройти между сообщениями</ru>
+        <sq>Futni numrin e minutë sthat duhet të kalon ndërmjet mesazheve</sq>
+        <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
+        <de>Geben Sie die Anzahl der Minuten sthat zwischen Nachrichten verstreichen muss,</de>
+        <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
+        <ur>پیغامات درمیان گزر جانا چاہیے کہ منٹ کی تعداد درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Prevent Collisions</key>
+        <en>Prevent Collisions</en>
+        <ja>衝突の防止</ja>
+        <pt>Prevenir Colisões</pt>
+        <zh-CN>防止碰撞</zh-CN>
+        <fr>Prévenir les abordages</fr>
+        <ar>منع التصادم</ar>
+        <zh-TW>防止碰撞</zh-TW>
+        <hi>रोकें टकराव</hi>
+        <ko>방지 충돌</ko>
+        <bn>আটকান Collisions</bn>
+        <ru>Предотвращение столкновений</ru>
+        <sq>Parandalimi Goditjet</sq>
+        <it>evitare collisioni</it>
+        <de>Prevent Collisions</de>
+        <it>evitare collisioni</it>
+        <ur>روک تھام کوللسانس</ur>
+    </entry>
+    <entry>
+        <key>When multiple messages are set to "Publish Now" and are imported simultaneously, you can set one or more messages to publish right away. The remaining messages (if applicable) will be set to "hold" status. </key>
+        <en>When multiple messages are set to "Publish Now" and are imported simultaneously, you can set one or more messages to publish right away. The remaining messages (if applicable) will be set to "hold" status. </en>
+        <ja>「今すぐ公開」に設定された複数のメッセージが同時にインポートされた時、直ちに公開するメッセージを1つ、またはそれ以上に設定できます。残りのメッセージ ( もしあれば ) は「保留」状態になります。</ja>
+        <pt>Quando mensagens múltiplas estão configuradas para "Publicar Agora" e são importadas simultaneamente, é possível configurar uma ou mais mensagens para publicação imediata. As mensagens restantes (se aplicável) serão configuradas para o status "aguardando". </pt>
+        <zh-CN>当多个消息被设置为“立即发布”，并同时进口的，你可以设置一个或多个消息马上发布。其余的信息（如适用）将被设置为“持有”的地位。</zh-CN>
+        <fr>Lorsque plusieurs messages sont réglées sur «Publier maintenant» et sont importés en même temps, vous pouvez définir un ou plusieurs messages à publier immédiatement. Les messages restants (le cas échéant) seront mis à "conserver" statut.</fr>
+        <ar>عندما يتم تعيين رسائل متعددة إلى "نشر الآن"، ويتم استيرادها في وقت واحد، يمكنك تعيين رسالة واحدة أو أكثر لنشر الحق بعيدا. سيتم تعيين الرسائل المتبقية (إن وجدت) الى "عقد" الوضع.</ar>
+        <zh-TW>當多個消息被設置為“立即發布”，並同時進口的，你可以設置一個或多個消息馬上發布。其餘的信息（如適用）將被設置為“持有”的地位。</zh-TW>
+        <hi>कई संदेश "अब प्रकाशित करें" करने के लिए सेट कर रहे हैं और साथ ही साथ आयात कर रहे हैं, तो आप सही दूर प्रकाशित करने के लिए एक या एक से अधिक संदेश सेट कर सकते हैं। शेष संदेश (यदि लागू हो) की स्थिति "पकड़" करने के लिए सेट कर दिया जाएगा।</hi>
+        <ko>여러 메시지는 "지금 게시"로 설정하고 동시에 가져올 때, 당신은 바로 게시 할 하나 이상의 메시지를 설정할 수 있습니다. 나머지 메시지는 (해당되는 경우) 상태를 "유지"로 설정됩니다.</ko>
+        <bn>একাধিক বার্তা "এখন Publish" নির্ধারণ করা হয় এবং একই সাথে আমদানি করা হয়, তখন আপনি সরাসরি প্রকাশ করার জন্য এক বা একাধিক বার্তা সেট করতে পারেন. অবশিষ্ট বার্তা (যদি প্রযোজ্য হয়) মর্যাদা "ধরুন" নির্ধারণ করা হবে.</bn>
+        <ru>Когда несколько сообщений установлены на "Опубликовать сейчас" и импортируются одновременно, вы можете установить одно или несколько сообщений, чтобы опубликовать сразу. Остальные сообщения (если это применимо) будет установлен в положение "держать" статус.</ru>
+        <sq>Kur mesazhe të shumta janë të vendosur për të "Publikimi Now" dhe janë importuar në të njëjtën kohë, ju mund të vendosni një ose më shumë mesazhe për të publikuar menjëherë. Mesazhet e mbetur (nëse aplikohet) do të vendosen për të "mbajtur" status.</sq>
+        <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
+        <de>Wenn mehrere Nachrichten werden auf "Jetzt veröffentlichen" und werden gleichzeitig importiert haben, können Sie eine oder mehrere Nachrichten setzen, sofort zu veröffentlichen. Die übrigen Meldungen (falls vorhanden) wird auf "Halten" Status.</de>
+        <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
+        <ur>ایک سے زیادہ پیغامات "اب شائع" کی تیاری میں ہیں اور ساتھ ہی درآمد کر رہے ہیں تو، آپ کو فورا شائع کرنے میں ایک یا زیادہ پیغامات کو مقرر کر سکتے ہیں. باقی پیغامات (قابل اطلاق ہو) کی حیثیت "پکڑ" کے لئے مقرر کیا جائے گا.</ur>
+    </entry>
+    <entry>
+        <key>Send</key>
+        <en>Send</en>
+        <ja>送信数</ja>
+        <pt>Enviar</pt>
+        <zh-CN>发送</zh-CN>
+        <fr>Envoyer</fr>
+        <ar>إرسال</ar>
+        <zh-TW>發送</zh-TW>
+        <hi>भेजना</hi>
+        <ko>보내다</ko>
+        <bn>পাঠান</bn>
+        <ru>послать</ru>
+        <sq>dërgoj</sq>
+        <it>Inviare</it>
+        <de>Senden</de>
+        <it>Inviare</it>
+        <ur>حساب</ur>
+    </entry>
+    <entry>
+        <key>1 Message</key>
+        <en>1 Message</en>
+        <ja>1 メッセージ</ja>
+        <pt>1 Mensagem</pt>
+        <zh-CN>1消息</zh-CN>
+        <fr>1 message</fr>
+        <ar>1 رسالة</ar>
+        <zh-TW>1消息</zh-TW>
+        <hi>1 संदेश</hi>
+        <ko>1 메시지</ko>
+        <bn>1 পাঠান</bn>
+        <ru>1 сообщение</ru>
+        <sq>1 mesazh</sq>
+        <it>1 messaggio</it>
+        <de>1 Nachricht</de>
+        <it>1 messaggio</it>
+        <ur>1 پیغام</ur>
+    </entry>
+    <entry>
+        <key>2 Messages</key>
+        <en>2 Messages</en>
+        <ja>2 メッセージ</ja>
+        <pt>2 Mensagens</pt>
+        <zh-CN>2消息</zh-CN>
+        <fr>2 Messages</fr>
+        <ar>2 مراسلة</ar>
+        <zh-TW>2消息</zh-TW>
+        <hi>2 संदेश</hi>
+        <ko>2 메시지</ko>
+        <bn>2 বার্তা</bn>
+        <ru>2 сообщения</ru>
+        <sq>2 Messages</sq>
+        <it>2 Messaggi</it>
+        <de>2 Nachrichten</de>
+        <it>2 Messaggi</it>
+        <ur>2 پیغامات</ur>
+    </entry>
+    <entry>
+        <key>Send all messages (not recommended)</key>
+        <en>Send all messages (not recommended)</en>
+        <ja>全てのメッセージを送信 ( 推奨しません )</ja>
+        <pt>Enviar todas as mensagens (não recomendado).</pt>
+        <zh-CN>发送的所有邮件（不推荐）</zh-CN>
+        <fr>Envoyer tous les messages (non recommandé)</fr>
+        <ar>إرسال كافة الرسائل (غير مستحسن)</ar>
+        <zh-TW>發送的所有郵件（不推薦）</zh-TW>
+        <hi>सभी संदेशों को भेजें (अनुशंसित नहीं)</hi>
+        <ko>모든 메시지를 보내기 (권장하지 않음)</ko>
+        <bn>সব বার্তা পাঠান (প্রস্তাবিত নয়)</bn>
+        <ru>Отправить все сообщения (не рекомендуется)</ru>
+        <sq>Dërgo të gjitha mesazhet (nuk rekomandohet)</sq>
+        <it>Inviare tutti i messaggi (non raccomandato)</it>
+        <de>Senden Sie alle Nachrichten (nicht empfohlen)</de>
+        <it>Inviare tutti i messaggi (non raccomandato)</it>
+        <ur>تمام پیغامات (سفارش کی نہیں)</ur>
+    </entry>
+    <section>settings_app_edit_content_sourc</section>
+</translations>

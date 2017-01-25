@@ -1,0 +1,532 @@
+<translations>
+    <entry>
+        <key>Content Source Settings</key>
+        <en>Content Source Settings</en>
+        <ja>コンテンツソース設定</ja>
+        <pt>Configurações de Fonte de Conteúdo</pt>
+        <zh-CN>内容源设置</zh-CN>
+        <fr>Paramètres de contenu Source</fr>
+        <ar>إعدادات المصدر المحتوى</ar>
+        <zh-TW>內容源設置</zh-TW>
+        <hi>सामग्री स्रोत सेटिंग</hi>
+        <ko>콘텐츠 원본 설정</ko>
+        <bn>বিষয়বস্তু উত্স সেটিংস</bn>
+        <ru>Настройки контента Источник</ru>
+        <sq>Settings Përmbajtja Burimi</sq>
+        <it>Impostazioni Source Content</it>
+        <de>Inhaltsquelle Einstellungen</de>
+        <it>Impostazioni Source Content</it>
+        <ur>مواد کے ماخذ ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Add New Content Source</key>
+        <en>Add New Content Source</en>
+        <ja>新しいコンテンツソースを追加</ja>
+        <pt>Adicionar Nova Fonte de Conteúdo</pt>
+        <zh-CN>添加新内容源</zh-CN>
+        <fr>Ajouter le nouveau contenu Source</fr>
+        <ar>إضافة مصدر محتوى جديد</ar>
+        <zh-TW>添加新內容源</zh-TW>
+        <hi>नई सामग्री स्रोत जोड़ें</hi>
+        <ko>새로운 콘텐츠 원본 추가</ko>
+        <bn>নতুন বিষয়বস্তু উত্স যোগ</bn>
+        <ru>Добавить источник содержимого</ru>
+        <sq>Add New Burimi Content</sq>
+        <it>Aggiungi nuova origine contenuti</it>
+        <de>Hinzufügen neuer Inhaltsquelle</de>
+        <it>Aggiungi nuova origine contenuti</it>
+        <ur>نئے مواد ذریعہ شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>Link</key>
+        <en>Link</en>
+        <ja>リンク</ja>
+        <pt>Link</pt>
+        <zh-CN>链接</zh-CN>
+        <fr>Lien</fr>
+        <ar>صلة</ar>
+        <zh-TW>鏈接</zh-TW>
+        <hi>संपर्क</hi>
+        <ko>링크</ko>
+        <bn>লিংক</bn>
+        <ru>Ссылка</ru>
+        <sq>lidhje</sq>
+        <it>collegamento</it>
+        <de>Link</de>
+        <it>collegamento</it>
+        <ur>لنک</ur>
+    </entry>
+    <entry>
+        <key>Active</key>
+        <en>Active</en>
+        <ja>アクティブ</ja>
+        <pt>Ativo</pt>
+        <zh-CN>活性</zh-CN>
+        <fr>actif</fr>
+        <ar>نشط</ar>
+        <zh-TW>活性</zh-TW>
+        <hi>सक्रिय</hi>
+        <ko>유효한</ko>
+        <bn>সক্রিয়</bn>
+        <ru>активный</ru>
+        <sq>aktiv</sq>
+        <it>Attivo</it>
+        <de>Aktiv</de>
+        <it>Attivo</it>
+        <ur>ایکٹو</ur>
+    </entry>
+    <entry>
+        <key>Account</key>
+        <en>Account</en>
+        <ja>アカウント</ja>
+        <pt>Conta</pt>
+        <zh-CN>帐户</zh-CN>
+        <fr>Compte</fr>
+        <ar>حساب</ar>
+        <zh-TW>帳戶</zh-TW>
+        <hi>लेखा</hi>
+        <ko>계정</ko>
+        <bn>হিসাব</bn>
+        <ru>Счет</ru>
+        <sq>llogari</sq>
+        <it>account</it>
+        <de>Konto</de>
+        <it>account</it>
+        <ur>اکاؤنٹ</ur>
+    </entry>
+    <entry>
+        <key>View Feed</key>
+        <en>View Feed</en>
+        <ja>フィードを見る</ja>
+        <pt>Ver Feed</pt>
+        <zh-CN>查看供稿</zh-CN>
+        <fr>Voir le RSS</fr>
+        <ar>عرض تغذية</ar>
+        <zh-TW>查看供稿</zh-TW>
+        <hi>फ़ीड देखें</hi>
+        <ko>보기 피드</ko>
+        <bn>ফিড দেখুন</bn>
+        <ru>Просмотр поток</ru>
+        <sq>Shiko Feed</sq>
+        <it>Inserisci la città</it>
+        <de>Feed anzeigen</de>
+        <it>Inserisci la città</it>
+        <ur>لنک فیڈ</ur>
+    </entry>
+    <entry>
+        <key>On</key>
+        <en>On</en>
+        <ja>On</ja>
+        <pt>On</pt>
+        <zh-CN>开</zh-CN>
+        <fr>Sur</fr>
+        <ar>على</ar>
+        <zh-TW>上</zh-TW>
+        <hi>पर</hi>
+        <ko>에</ko>
+        <bn>উপর</bn>
+        <ru>На</ru>
+        <sq>në</sq>
+        <it>Sopra</it>
+        <de>Auf</de>
+        <it>Sopra</it>
+        <ur>پر</ur>
+    </entry>
+    <entry>
+        <key>Off</key>
+        <en>Off</en>
+        <ja>Off</ja>
+        <pt>Off</pt>
+        <zh-CN>关</zh-CN>
+        <fr>De</fr>
+        <ar>إيقاف</ar>
+        <zh-TW>離</zh-TW>
+        <hi>बंद</hi>
+        <ko>떨어져서</ko>
+        <bn>বন্ধ</bn>
+        <ru>выключено</ru>
+        <sq>nga</sq>
+        <it>via</it>
+        <de>Aus</de>
+        <it>via</it>
+        <ur>بند</ur>
+    </entry>
+    <entry>
+        <key>You don't have any content sources yet.</key>
+        <en>You don't have any content sources yet.</en>
+        <ja>まだコンテンツソースがありません。</ja>
+        <pt>Você ainda não tem fontes de conteúdo.</pt>
+        <zh-CN>您没有任何内容源呢。</zh-CN>
+        <fr>Vous ne disposez pas encore de sources de contenu.</fr>
+        <ar>لم يكن لديك أي مصادر المحتويات حتى الان.</ar>
+        <zh-TW>您沒有任何內容源呢。</zh-TW>
+        <hi>आप अभी तक किसी भी सामग्री स्रोत नहीं है।</hi>
+        <ko>아직 모든 컨텐츠 소스가 없습니다.</ko>
+        <bn>আপনি এখনও কোনো বিষয়বস্তুর উৎস নেই.</bn>
+        <ru>У вас нет каких-либо источников контента пока нет.</ru>
+        <sq>Ju nuk keni asnjë burime të përmbajtjes ende.</sq>
+        <it>Non avete ancora origini di contenuto.</it>
+        <de>Sie haben noch keine Inhaltsquellen noch.</de>
+        <it>Non avete ancora origini di contenuto.</it>
+        <ur>ابھی تک آپ کوئی مواد کے ذرائع کی ضرورت نہیں ہے.</ur>
+    </entry>
+    <entry>
+        <key>Inactive Content Sources</key>
+        <en>Inactive Content Sources</en>
+        <ja>非アクティブなコンテンツソース</ja>
+        <pt>Fontes de Conteúdo Inativas</pt>
+        <zh-CN>无效的内容来源</zh-CN>
+        <fr>Inactifs Sources de contenu</fr>
+        <ar>مصادر المحتوى غير نشطة</ar>
+        <zh-TW>無效的內容來源</zh-TW>
+        <hi>निष्क्रिय सामग्री सूत्रों का कहना है</hi>
+        <ko>비활성 콘텐츠 소스</ko>
+        <bn>নিষ্ক্রিয় বিষয়বস্তু সোর্স</bn>
+        <ru>Неактивные Источники контента</ru>
+        <sq>Burimet jo aktive Përmbajtja</sq>
+        <it>Inattivi origini di contenuto</it>
+        <de>Inaktive Inhaltsquellen</de>
+        <it>Inattivi origini di contenuto</it>
+        <ur>غیر فعال مواد کے ذرائع</ur>
+    </entry>
+    <entry>
+        <key>Add to social account!</key>
+        <en>Add to social account!</en>
+        <ja>ソーシャルアカウントに追加 !</ja>
+        <pt>Adicionar a conta social!</pt>
+        <zh-CN>加入社交帐户！</zh-CN>
+        <fr>Ajouter au compte social!</fr>
+        <ar>إضافة إلى حساب الاجتماعي!</ar>
+        <zh-TW>加入社交帳戶！</zh-TW>
+        <hi>सामाजिक खाते में जोड़ें!</hi>
+        <ko>소셜 계정에 추가!</ko>
+        <bn>সামাজিক অ্যাকাউন্ট যোগ করুন!</bn>
+        <ru>Добавить в социальной счет!</ru>
+        <sq>Shtoni në llogarinë sociale!</sq>
+        <it>Aggiungere al conto sociale!</it>
+        <de>In den sozialen Konto!</de>
+        <it>Aggiungere al conto sociale!</it>
+        <ur>سماجی اکاؤنٹ میں شامل کریں!</ur>
+    </entry>
+    <entry>
+        <key>Save</key>
+        <en>Save</en>
+        <ja>保存</ja>
+        <pt>Salvar</pt>
+        <zh-CN>保存</zh-CN>
+        <fr>sauvegarder</fr>
+        <ar>حفظ</ar>
+        <zh-TW>保存</zh-TW>
+        <hi>बचाना</hi>
+        <ko>구하다</ko>
+        <bn>সংরক্ষণ করুন</bn>
+        <ru>Сохранить</ru>
+        <sq>Save</sq>
+        <it>Salvare</it>
+        <de>sparen</de>
+        <it>Salvare</it>
+        <ur>محفوظ کریں</ur>
+    </entry>
+    <entry>
+        <key>Add Content Source</key>
+        <en>Add Content Source</en>
+        <ja>コンテンツソースを追加</ja>
+        <pt>Adicionar Fonte de Conteúdo</pt>
+        <zh-CN>添加内容源</zh-CN>
+        <fr>Ajouter une source de contenu</fr>
+        <ar>إضافة مصدر محتوى</ar>
+        <zh-TW>添加內容源</zh-TW>
+        <hi>सामग्री स्रोत जोड़े</hi>
+        <ko>콘텐츠 원본 추가</ko>
+        <bn>বিষয়বস্তু উত্স যোগ</bn>
+        <ru>Добавить источник содержимого</ru>
+        <sq>Shto Përmbajtja Burimi</sq>
+        <it>Aggiungi contenuto Fonte</it>
+        <de>Inhalt hinzufügen Quelle</de>
+        <it>Aggiungi contenuto Fonte</it>
+        <ur>مواد کے ماخذ میں شامل کریں</ur>
+    </entry>
+    <entry>
+        <key>First tell us where the content is coming from.</key>
+        <en>First tell us where the content is coming from.</en>
+        <ja>始めに、コンテンツの出所を教えて下さい。</ja>
+        <pt>Primeiro, nos diga de onde o conteúdo vem.</pt>
+        <zh-CN>首先告诉我们的内容的来源。</zh-CN>
+        <fr>Tout d'abord nous dire où le contenu vient.</fr>
+        <ar>تخبرنا أولا حيث المحتوى قادم من.</ar>
+        <zh-TW>首先告訴我們的內容的來源。</zh-TW>
+        <hi>जहां सामग्री से आ रहा है सबसे पहले हमें बताओ।</hi>
+        <ko>내용이 어디에서 오는 먼저 알려주십시오.</ko>
+        <bn>যেখানে বিষয়বস্তু থেকে আসছে প্রথম আমাদেরকে বলুন.</bn>
+        <ru>Сначала скажите нам, где содержание приходит от.</ru>
+        <sq>Së pari na tregoni se ku përmbajtja po vjen nga.</sq>
+        <it>In primo luogo dirci dove il contenuto proviene.</it>
+        <de>Erste uns sagen, wo der Inhalt stammt.</de>
+        <it>In primo luogo dirci dove il contenuto proviene.</it>
+        <ur>سب سے پہلے ہمیں بتا مواد سے آ رہا ہے جہاں.</ur>
+    </entry>
+    <entry>
+        <key>Type of Content</key>
+        <en>Type of Content</en>
+        <ja>コンテンツの種類</ja>
+        <pt>Tipo de Conteúdo</pt>
+        <zh-CN>内容类型</zh-CN>
+        <fr>Type de contenu</fr>
+        <ar>نوع المحتوى</ar>
+        <zh-TW>內容類型</zh-TW>
+        <hi>सामग्री के प्रकार</hi>
+        <ko>콘텐츠의 종류</ko>
+        <bn>বিষয়বস্তুর প্রকার</bn>
+        <ru>Тип контента</ru>
+        <sq>Lloji i Përmbajtjes</sq>
+        <it>Tipo di contenuto</it>
+        <de>Art von Inhalten</de>
+        <it>Tipo di contenuto</it>
+        <ur>مواد کی قسم</ur>
+    </entry>
+    <entry>
+        <key>Feed</key>
+        <en>Feed</en>
+        <ja>フィード</ja>
+        <pt>Feed</pt>
+        <zh-CN>饲料</zh-CN>
+        <fr>nourrir</fr>
+        <ar>تغذية</ar>
+        <zh-TW>飼料</zh-TW>
+        <hi>चारा</hi>
+        <ko>먹이</ko>
+        <bn>ভোজন</bn>
+        <ru>Корм</ru>
+        <sq>ushqim</sq>
+        <it>Alimentazione</it>
+        <de>Füttern</de>
+        <it>Alimentazione</it>
+        <ur>کھانا کھلانا</ur>
+    </entry>
+    <entry>
+        <key>File</key>
+        <en>File</en>
+        <ja>ファイル</ja>
+        <pt>Arquivo</pt>
+        <zh-CN>文件</zh-CN>
+        <fr>Fichier</fr>
+        <ar>ملف</ar>
+        <zh-TW>文件</zh-TW>
+        <hi>फ़ाइल</hi>
+        <ko>파일</ko>
+        <bn>ফাইল</bn>
+        <ru>файл</ru>
+        <sq>skedar</sq>
+        <it>File</it>
+        <de>Datei</de>
+        <it>File</it>
+        <ur>فائل</ur>
+    </entry>
+    <entry>
+        <key>Copy an Existing Content Source</key>
+        <en>Copy an Existing Content Source</en>
+        <ja>既存のコンテンツソースを複製</ja>
+        <pt>Copiar uma Fonte de Conteúdo Existente</pt>
+        <zh-CN>复制一个现有的内容源</zh-CN>
+        <fr>Copier une source de contenu existant</fr>
+        <ar>نسخ مصدر محتوى القائمة</ar>
+        <zh-TW>複製一個現有的內容源</zh-TW>
+        <hi>एक मौजूदा सामग्री स्रोत की नकल</hi>
+        <ko>기존 콘텐츠 원본을 복사</ko>
+        <bn>একটি বিদ্যমান সামগ্রী উত্স কপি</bn>
+        <ru>Скопировать существующий источник содержимого</ru>
+        <sq>Kopjoni një Source Content ekzistuese</sq>
+        <it>Copiare un'origine di contenuto esistente</it>
+        <de>Kopieren eines vorhandenen Inhaltsquelle</de>
+        <it>Copiare un'origine di contenuto esistente</it>
+        <ur>ایک موجودہ مواد اسکی نقل</ur>
+    </entry>
+    <entry>
+        <key>URL</key>
+        <en>URL</en>
+        <ja>URL</ja>
+        <pt>URL</pt>
+        <zh-CN>网址</zh-CN>
+        <fr>URL</fr>
+        <ar>URL</ar>
+        <zh-TW>網址</zh-TW>
+        <hi>यूआरएल</hi>
+        <ko>URL</ko>
+        <bn>URL টি</bn>
+        <ru>URL</ru>
+        <sq>URL</sq>
+        <it>URL</it>
+        <de>URL</de>
+        <it>URL</it>
+        <ur>URL</ur>
+    </entry>
+    <entry>
+        <key>Enter website address (URL)</key>
+        <en>Enter website address (URL)</en>
+        <ja>ウェブサイトのアドレス ( URL ) を入力</ja>
+        <pt>Inserir página da web (URL)</pt>
+        <zh-CN>输入网站地址（网址）</zh-CN>
+        <fr>Entrez l'adresse du site Web (URL)</fr>
+        <ar>أدخل عنوان الموقع (URL)</ar>
+        <zh-TW>輸入網站地址（URL）</zh-TW>
+        <hi>वेबसाइट के पते (यूआरएल) दर्ज</hi>
+        <ko>웹 사이트 주소 (URL)를 입력</ko>
+        <bn>ওয়েবসাইট ঠিকানা (URL) লিখুন</bn>
+        <ru>Введите адрес веб-сайта (URL)</ru>
+        <sq>Shkruani adresën e internetit (URL)</sq>
+        <it>Inserisci indirizzo del sito web (URL)</it>
+        <de>Geben Sie Website-Adresse (URL)</de>
+        <it>Inserisci indirizzo del sito web (URL)</it>
+        <ur>ویب سائٹ کا ایڈریس (URL) درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Next</key>
+        <en>Next</en>
+        <ja>次へ</ja>
+        <pt>Próximo</pt>
+        <zh-CN>下一个</zh-CN>
+        <fr>Prochain</fr>
+        <ar>التالى</ar>
+        <zh-TW>下一個</zh-TW>
+        <hi>अगला</hi>
+        <ko>다음 것</ko>
+        <bn>পরবর্তী</bn>
+        <ru>следующий</ru>
+        <sq>tjetër</sq>
+        <it>Il prossimo</it>
+        <de>Nächster</de>
+        <it>Il prossimo</it>
+        <ur>اگلے</ur>
+    </entry>
+    <entry>
+        <key>Feeds</key>
+        <en>Feeds</en>
+        <ja>フィード</ja>
+        <pt>Feeds</pt>
+        <zh-CN>饲料</zh-CN>
+        <fr>Feeds</fr>
+        <ar>يغذي</ar>
+        <zh-TW>飼料</zh-TW>
+        <hi>फीड</hi>
+        <ko>피드</ko>
+        <bn>ফিডসের</bn>
+        <ru>Ленты</ru>
+        <sq>Feeds</sq>
+        <it>Feed</it>
+        <de>Feeds</de>
+        <it>Feed</it>
+        <ur>فیڈز</ur>
+    </entry>
+    <entry>
+        <key>View All Content Sources</key>
+        <en>View All Content Sources</en>
+        <ja>全てのコンテンツソースを見る</ja>
+        <pt>Ver TODAS as Fontes de Conteúdo</pt>
+        <zh-CN>查看所有内容源</zh-CN>
+        <fr>Voir toutes les sources de contenu</fr>
+        <ar>عرض جميع مصادر المحتوى</ar>
+        <zh-TW>查看所有內容源</zh-TW>
+        <hi>सभी सामग्री स्रोत देखें</hi>
+        <ko>모든 콘텐츠 원본보기</ko>
+        <bn>সকল বিষয়বস্তুর উৎস দেখুন</bn>
+        <ru>Все Источники контента</ru>
+        <sq>Shiko të gjitha burimeve të përmbajtjes</sq>
+        <it>Visualizza tutte le origini di contenuto</it>
+        <de>Alle Inhaltsquellen</de>
+        <it>Visualizza tutte le origini di contenuto</it>
+        <ur>تمام مواد کے ذرائع دیکھیں</ur>
+    </entry>
+    <entry>
+        <key>No Feeds Added</key>
+        <en>No Feeds Added</en>
+        <ja>フィードが追加されていません</ja>
+        <pt>Nenhum Feed Adicionado</pt>
+        <zh-CN>未添加供稿</zh-CN>
+        <fr>Non Feeds Ajouté</fr>
+        <ar>لا الخلاصات واضاف</ar>
+        <zh-TW>未添加供稿</zh-TW>
+        <hi>कोई फ़ीड जोड़ा गया</hi>
+        <ko>어떤 피드 추가하지</ko>
+        <bn>কোন ফিড যোগ করা হয়েছে</bn>
+        <ru>Каналов нет Добавлено</ru>
+        <sq>No Feeds Added</sq>
+        <it>Nessun Feed Aggiunto</it>
+        <de>Keine Feeds hinzugefügt</de>
+        <it>Nessun Feed Aggiunto</it>
+        <ur>کوئی فیڈ شامل کر دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
+
+If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead. 
+
+Are you sure you want to delete this content source and all associated messages?</key>
+        <en>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
+
+If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead. 
+
+Are you sure you want to delete this content source and all associated messages?</en>
+        <ja>注意: コンテンツソースを削除すると、このコンテンツソースを元とする全ての待機中メッセージも削除されます。
+
+すでに待機中のメッセージを削除することなくこのコンテンツソースから新たにメッセージをインポートしないようにするには、コンテンツソースの状態をアクティブから非アクティブに変更してください。
+
+本当にこのコンテンツソースおよび全ての関連メッセージを削除しますか ?</ja>
+        <pt>ATENÇÃO: Excluir uma fonte de conteúdo também exclui todas as mensagens desta fonte de conteúdo em sua fila.
+	
+Se você quiser parar de importar novas mensagens desta fonte de conteúdo sem excluir as mensagens que já estão em fila, por favor, modifique o status da fonte de conteúdo de ativa para inativa.
+
+Você tem certeza que quer excluir esta fonte de conteúdo e todas as mensagens associadas?</pt>
+        <zh-CN>注意：删除内容源也将在您的队列此内容源中删除的所有邮件。如果您想停止进口来自此内容源新邮件而不删除了已排队的邮件，请改从活动内容源状态，而不是为无效。你确定要删除这个内容源和所有相关消息？</zh-CN>
+        <fr>ATTENTION: La suppression d'une source de contenu sera également supprimer tous les messages provenant de cette source de contenu dans votre file d'attente. Si vous souhaitez cesser d'importer de nouveaux messages à partir de cette source de contenu sans supprimer les messages qui ont déjà été en file d'attente, s'il vous plaît changer le contenu statut de source actif à inactif à la place. Etes-vous sûr de vouloir supprimer cette source de contenu et tous les messages associés?</fr>
+        <ar>تنبيه: سوف حذف مصدر محتوى أيضا حذف كل الرسائل من هذا المصدر المحتوى في قائمة الانتظار. إذا كنت ترغب في وقف استيراد الرسائل الجديدة من هذا المصدر المحتوى دون حذف الرسائل التي تم بالفعل في قائمة الانتظار، يرجى تغيير وضع مصدر المحتوى من نشطة إلى الخاملة بدلا من ذلك. هل أنت متأكد أنك تريد حذف هذا المصدر المحتوى وكل الرسائل المرتبطة؟</ar>
+        <zh-TW>注意：刪除內容源也將在您的隊列此內容源中刪除的所有郵件。如果您想停止進口來自此內容源新郵件而不刪除了已排隊的郵件，請改從活動內容源狀態，而不是為無效。你確定要刪除這個內容源和所有相關消息？</zh-TW>
+        <hi>ध्यान दें: एक स्रोत सामग्री को हटाना भी अपने कतार में इस सामग्री स्रोत से सभी संदेशों को हटाना होगा। आप संदेश है कि पहले से ही पंक्तिबद्ध कर दिया है हटाने के बिना इस सामग्री स्रोत से नए संदेशों का आयात बंद करना चाहते हैं, तो कृपया बजाय निष्क्रिय करने के लिए सक्रिय रूप से सामग्री स्रोत स्थिति बदल जाते हैं। आप यकीन है कि आप इस सामग्री के स्रोत और सभी संबद्ध संदेशों को हटाना चाहते हैं?</hi>
+        <ko>주의 : 콘텐츠 원본을 삭제하면 또한 큐에서이 콘텐츠 원본에서 모든 메시지를 삭제합니다. 이미 대기중인 메시지를 삭제하지 않고이 콘텐츠 소스에서 새 메시지를 가져 오기를 중단하려면 대신 비활성 활성의 콘텐츠 소스 상태를 변경하십시오. 당신은 당신이 콘텐츠 소스 및 모든 관련 메시지를 삭제 하시겠습니까?</ko>
+        <bn>দৃষ্টি আকর্ষণ করছি: একটি বিষয়বস্তু উৎস মুছলে তা আপনার কিউ 'র মধ্যে এই বিষয়বস্তুর উৎস থেকে সব বার্তা মুছে ফেলা হবে. আপনি বার্তা যে ইতিমধ্যে সারিবদ্ধ করা হয়েছে মুছে এই বিষয়বস্তুর উৎস থেকে নতুন বার্তা আমদানি বন্ধ করতে চান তাহলে, দয়া করে এর পরিবর্তে নিষ্ক্রিয় করতে সক্রিয় থেকে বিষয়বস্তু উৎস অবস্থা পরিবর্তন. আপনি কি নিশ্চিত যে আপনি এই বিষয়বস্তুতে উৎস এবং সব যুক্ত বার্তা মুছে ফেলতে ইচ্ছুক?</bn>
+        <ru>ВНИМАНИЕ: Удаление источника контента будет также удалить все сообщения из этого источника контента в очереди. Если вы хотите прекратить импорт новых сообщений из этого источника контента, не удаляя сообщения, которые уже были в очереди, пожалуйста, измените статус исходного содержимого из активного в неактивное вместо этого. Вы уверены, что хотите удалить этот источник контента и все связанные с ним сообщения?</ru>
+        <sq>KUJDES: Fshirja e një burim përmbajtje do të fshirë të gjitha mesazhet nga ky burim përmbajtjes në radhë tuaj. Nëse ju do të donte për të ndaluar importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin burim të përmbajtjes nga aktive në joaktiv vend. Jeni te sigurte qe doni te fshini kete burim përmbajtje dhe të gjitha mesazhet e lidhur?</sq>
+        <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece. Sei sicuro di voler eliminare questa origine di contenuto e di tutti i messaggi associati?</it>
+        <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt. Sind Sie sicher, dass Sie diese Inhaltsquelle und alle zugehörigen Nachrichten zu löschen?</de>
+        <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece. Sei sicuro di voler eliminare questa origine di contenuto e di tutti i messaggi associati?</it>
+        <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا. آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی. کیا آپ واقعی یہ مواد ذریعہ اور تمام متعلقہ پیغامات کو حذف کرنا چاہتے ہیں؟</ur>
+    </entry>
+    <entry>
+        <key>Yes</key>
+        <en>Yes</en>
+        <ja>はい</ja>
+        <pt>Sim</pt>
+        <zh-CN>是</zh-CN>
+        <fr>Oui</fr>
+        <ar>نعم فعلا</ar>
+        <zh-TW>是</zh-TW>
+        <hi>हाँ</hi>
+        <ko>예</ko>
+        <bn>হাঁ</bn>
+        <ru>да</ru>
+        <sq>po</sq>
+        <it>sì</it>
+        <de>ja</de>
+        <it>sì</it>
+        <ur>جی ہاں</ur>
+    </entry>
+    <entry>
+        <key>No</key>
+        <en>No</en>
+        <ja>いいえ</ja>
+        <pt>Não</pt>
+        <zh-CN>不</zh-CN>
+        <fr>Non</fr>
+        <ar>لا</ar>
+        <zh-TW>沒有</zh-TW>
+        <hi>नहीं</hi>
+        <ko>아니</ko>
+        <bn>না</bn>
+        <ru>Нет</ru>
+        <sq>jo</sq>
+        <it>No</it>
+        <de>Nein</de>
+        <it>No</it>
+        <ur>نہیں</ur>
+    </entry>
+    <section>settings_app_content_so</section>
+</translations>

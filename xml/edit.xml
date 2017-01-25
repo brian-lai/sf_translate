@@ -1,0 +1,142 @@
+<translations>
+    <entry>
+        <key>Note: Links shorten at publication</key>
+        <en>Note: Links shorten at publication</en>
+        <ja>注釈: 公開時にリンクが短縮されます</ja>
+        <pt>Nota: links encurtados ao publicar</pt>
+        <zh-CN>注意：发布时链接会缩短</zh-CN>
+        <fr>Note: Les liens raccourcissent à la publication</fr>
+        <ar>ملاحظة: روابط تقصير في نشر</ar>
+        <zh-TW>注：鏈接縮短在公佈</zh-TW>
+        <hi>नोट: लिंक प्रकाशन में छोटा</hi>
+        <ko>참고 : 링크가 게시에 단축</ko>
+        <bn>নোট: লিংক প্রকাশনার কমান</bn>
+        <ru>Примечание: Ссылки на публикации сократить</ru>
+        <sq>Shënim: Lidhjet shkurtojë në publikim</sq>
+        <it>Nota: Collegamenti accorciano a pubblicazione</it>
+        <de>Hinweis: Die Links bei Veröffentlichung verkürzen</de>
+        <it>Nota: Collegamenti accorciano a pubblicazione</it>
+        <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر</ur>
+    </entry>
+    <entry>
+        <key>Added [[[&lt;date/time&gt;]]] pm from Manual</key>
+        <en>Added [[[&lt;date/time&gt;]]] pm from Manual</en>
+        <ja>[[[&lt;date/time&gt;]]] pm に手動で登録</ja>
+        <pt>Adicionado em [[[&lt;date/time&gt;]]] pm por Manual</pt>
+    </entry>
+    <entry>
+        <key>Last edited by  on</key>
+        <en>Last edited by  on</en>
+        <ja>最後の更新は  に  が実施</ja>
+        <pt>Última edição por  em</pt>
+        <zh-CN>最后通过编辑</zh-CN>
+        <fr>Dernière modification par le</fr>
+        <ar>التعديل الأخير تم بواسطة على</ar>
+        <zh-TW>最後通過編輯</zh-TW>
+        <hi>अंतिम पर द्वारा संपादित</hi>
+        <ko>마지막에 의해 편집 됨</ko>
+        <bn>সর্বশেষ সম্পাদিত</bn>
+        <ru>Последний раз редактировалось на</ru>
+        <sq>Fundit edituar nga ne</sq>
+        <it>Ultima modifica di su</it>
+        <de>Zuletzt von auf bearbeitet</de>
+        <it>Ultima modifica di su</it>
+        <ur>آخری بار ترمیم کے ذریعے</ur>
+    </entry>
+    <entry>
+        <key>Set to</key>
+        <en>Set to</en>
+        <ja>設定</ja>
+        <pt>Configurar para</pt>
+        <zh-CN>设置</zh-CN>
+        <fr>Mis à</fr>
+        <ar>ضبط ل</ar>
+        <zh-TW>設置</zh-TW>
+        <hi>करने के लिए सेट</hi>
+        <ko>로 설정</ko>
+        <bn>সেট</bn>
+        <ru>Установлен в</ru>
+        <sq>të vendosur për të</sq>
+        <it>Impostato</it>
+        <de>Einstellen</de>
+        <it>Impostato</it>
+        <ur>تیار</ur>
+    </entry>
+    <entry>
+        <key>Expires at</key>
+        <en>Expires at</en>
+        <ja>保留期限</ja>
+        <pt>Expira em</pt>
+        <zh-CN>在过期</zh-CN>
+        <fr>Expire à</fr>
+        <ar>ينتهي في</ar>
+        <zh-TW>在過期</zh-TW>
+        <hi>में समाप्त हो</hi>
+        <ko>만료</ko>
+        <bn>এ মেয়াদ শেষ</bn>
+        <ru>Истекает в</ru>
+        <sq>skadon në</sq>
+        <it>scade a</it>
+        <de>Verfällt bei</de>
+        <it>scade a</it>
+        <ur>میں ختم</ur>
+    </entry>
+    <entry>
+        <key>Send Now</key>
+        <en>Send Now</en>
+        <ja>今すぐ送信</ja>
+        <pt>Enviar Agora</pt>
+        <zh-CN>现在发送</zh-CN>
+        <fr>Envoyer maintenant</fr>
+        <ar>ارسل الان</ar>
+        <zh-TW>現在發送</zh-TW>
+        <hi>अभी भेजो</hi>
+        <ko>지금 보내</ko>
+        <bn>এখন পাঠান</bn>
+        <ru>Отправить сейчас</ru>
+        <sq>Dergo tani</sq>
+        <it>Spedisci ora</it>
+        <de>Jetzt abschicken</de>
+        <it>Spedisci ora</it>
+        <ur>ابھی حساب</ur>
+    </entry>
+    <entry>
+        <key>Close</key>
+        <en>Close</en>
+        <ja>閉じる</ja>
+        <pt>Fechar</pt>
+        <zh-CN>关</zh-CN>
+        <fr>Fermer</fr>
+        <ar>قريب</ar>
+        <zh-TW>關</zh-TW>
+        <hi>बंद करे</hi>
+        <ko>닫기</ko>
+        <bn>ঘনিষ্ঠ</bn>
+        <ru>Закрыть</ru>
+        <sq>afër</sq>
+        <it>Vicino</it>
+        <de>Schließen</de>
+        <it>Vicino</it>
+        <ur>بند کریں</ur>
+    </entry>
+    <entry>
+        <key>Save Changes</key>
+        <en>Save Changes</en>
+        <ja>変更を保存</ja>
+        <pt>Salvar Alterações</pt>
+        <zh-CN>保存更改</zh-CN>
+        <fr>Sauvegarder les modifications</fr>
+        <ar>حفظ التغييرات</ar>
+        <zh-TW>保存更改</zh-TW>
+        <hi>परिवर्तनों को सुरक्षित करें</hi>
+        <ko>변경 사항을 저장하다</ko>
+        <bn>পরিবর্তনগুলোর সংরক্ষন</bn>
+        <ru>Сохранить изменения</ru>
+        <sq>Ruaj ndryshimet</sq>
+        <it>Salva I Cambiamenti</it>
+        <de>Änderungen speichern</de>
+        <it>Salva I Cambiamenti</it>
+        <ur>تبدیلیاں محفوظ کرو</ur>
+    </entry>
+    <section>edit</section>
+</translations>

@@ -1,0 +1,592 @@
+<translations>
+    <entry>
+        <key>Invite New User</key>
+        <en>Invite New User</en>
+        <ja>ユーザーを招待</ja>
+        <pt>Convidar Novo Usuário</pt>
+        <zh-CN>邀请新用户</zh-CN>
+        <fr>Inviter un nouvel utilisateur</fr>
+        <ar>دعوة مستخدم جديد</ar>
+        <zh-TW>邀請新用戶</zh-TW>
+        <hi>नई उपयोगकर्ता को आमंत्रित करें</hi>
+        <ko>새 사용자를 초대</ko>
+        <bn>আমন্ত্রণ নতুন ইউজার</bn>
+        <ru>Пригласить нового пользователя</ru>
+        <sq>Fto ri përdoruesin</sq>
+        <it>Invita nuovo utente</it>
+        <de>Invite New User</de>
+        <it>Invita nuovo utente</it>
+        <ur>نئے صارف کو مدعو کریں</ur>
+    </entry>
+    <entry>
+        <key>Email</key>
+        <en>Email</en>
+        <ja>E メール</ja>
+        <pt>Email</pt>
+        <zh-CN>电子邮件</zh-CN>
+        <fr>Email</fr>
+        <ar>البريد الإلكتروني</ar>
+        <zh-TW>電子郵件</zh-TW>
+        <hi>ईमेल</hi>
+        <ko>이메일</ko>
+        <bn>ই-মেইল</bn>
+        <ru>Эл. адрес</ru>
+        <sq>Email</sq>
+        <it>E-mail</it>
+        <de>Email</de>
+        <it>E-mail</it>
+        <ur>دوستوں کوارسال کریں</ur>
+    </entry>
+    <entry>
+        <key>User Status</key>
+        <en>User Status</en>
+        <ja>ユーザーステータス</ja>
+        <pt>Status do Usuário</pt>
+        <zh-CN>用户状态</zh-CN>
+        <fr>Statut de l'utilisateur</fr>
+        <ar>حالة المستخدم</ar>
+        <zh-TW>用戶狀態</zh-TW>
+        <hi>उपयोगकर्ता की स्थिति</hi>
+        <ko>사용자 상태</ko>
+        <bn>ব্যবহারকারীর স্থিতি</bn>
+        <ru>Статус пользователь</ru>
+        <sq>User Status</sq>
+        <it>Stato dell'utente</it>
+        <de>Benutzerstatus</de>
+        <it>Stato dell'utente</it>
+        <ur>رکن کا درجہ</ur>
+    </entry>
+    <entry>
+        <key>Invite New Users</key>
+        <en>Invite New Users</en>
+        <ja>新しいユーザーの招待</ja>
+        <pt>Convidar Novos Usuários</pt>
+        <zh-CN>邀请新用户</zh-CN>
+        <fr>Inviter les nouveaux utilisateurs</fr>
+        <ar>دعوة المستخدمين الجدد</ar>
+        <zh-TW>邀請新用戶</zh-TW>
+        <hi>नए उपयोगकर्ताओं को आमंत्रित</hi>
+        <ko>새 사용자 초대</ko>
+        <bn>নতুন ব্যবহারকারীদের আমন্ত্রণ</bn>
+        <ru>Пригласить новых пользователей</ru>
+        <sq>Fto Përdoruesit reja</sq>
+        <it>Invitare nuovi utenti</it>
+        <de>Einladen neuer Benutzer</de>
+        <it>Invitare nuovi utenti</it>
+        <ur>نئے صارفین کو مدعو کریں</ur>
+    </entry>
+    <entry>
+        <key>Full Name</key>
+        <en>Full Name</en>
+        <ja>氏名</ja>
+        <pt>Nome Completo</pt>
+        <zh-CN>全名</zh-CN>
+        <fr>Nom complet</fr>
+        <ar>الاسم الكامل</ar>
+        <zh-TW>全名</zh-TW>
+        <hi>पूरा नाम</hi>
+        <ko>전체 이름</ko>
+        <bn>পূর্ণ নাম</bn>
+        <ru>Полное имя</ru>
+        <sq>Emri i plotë</sq>
+        <it>Nome e cognome</it>
+        <de>Vollständiger Name</de>
+        <it>Nome e cognome</it>
+        <ur>پورا نام</ur>
+    </entry>
+    <entry>
+        <key>Email</key>
+        <en>Email</en>
+        <ja>E メール</ja>
+        <pt>Email</pt>
+        <zh-CN>电子邮件</zh-CN>
+        <fr>Email</fr>
+        <ar>البريد الإلكتروني</ar>
+        <zh-TW>電子郵件</zh-TW>
+        <hi>ईमेल</hi>
+        <ko>이메일</ko>
+        <bn>ই-মেইল</bn>
+        <ru>Эл. адрес</ru>
+        <sq>Email</sq>
+        <it>E-mail</it>
+        <de>Email</de>
+        <it>E-mail</it>
+        <ur>دوستوں کوارسال کریں</ur>
+    </entry>
+    <entry>
+        <key>Country</key>
+        <en>Country</en>
+        <ja>国</ja>
+        <pt>País</pt>
+        <zh-CN>国家</zh-CN>
+        <fr>Pays</fr>
+        <ar>بلد</ar>
+        <zh-TW>國家</zh-TW>
+        <hi>देश</hi>
+        <ko>국가</ko>
+        <bn>দেশ</bn>
+        <ru>Страна</ru>
+        <sq>vend</sq>
+        <it>Nazione</it>
+        <de>Land</de>
+        <it>Nazione</it>
+        <ur>ملک</ur>
+    </entry>
+    <entry>
+        <key>Timezone</key>
+        <en>Timezone</en>
+        <ja>タイムゾーン</ja>
+        <pt>Fuso Horário</pt>
+        <zh-CN>时区</zh-CN>
+        <fr>Fuseau horaire</fr>
+        <ar>المنطقة الزمنية</ar>
+        <zh-TW>時區</zh-TW>
+        <hi>समय क्षेत्र</hi>
+        <ko>시간대</ko>
+        <bn>সময় অঞ্চল</bn>
+        <ru>Часовой пояс</ru>
+        <sq>Ora</sq>
+        <it>Fuso orario</it>
+        <de>Zeitzone</de>
+        <it>Fuso orario</it>
+        <ur>ٹائم زون</ur>
+    </entry>
+    <entry>
+        <key>User Permissions</key>
+        <en>User Permissions</en>
+        <ja>ユーザー権限</ja>
+        <pt>Permissões do Usuário</pt>
+        <zh-CN>用户权限</zh-CN>
+        <fr>Autorisations utilisateur</fr>
+        <ar>أذونات المستخدم</ar>
+        <zh-TW>用戶權限</zh-TW>
+        <hi>उपयोगकर्ता अनुमतियाँ</hi>
+        <ko>사용자 권한</ko>
+        <bn>ব্যবহারকারীর অনুমতি</bn>
+        <ru>права доступа пользователей</ru>
+        <sq>Drejtat e përdoruesit</sq>
+        <it>Autorizzazioni utente</it>
+        <de>Benutzerberechtigungen</de>
+        <it>Autorizzazioni utente</it>
+        <ur>صارف کی اجازت</ur>
+    </entry>
+    <entry>
+        <key>Permissions for Future Social Accounts:</key>
+        <en>Permissions for Future Social Accounts:</en>
+        <ja>今後のソーシャルアカウントに対する権限 :</ja>
+        <pt>Permissões para Contas Sociais Futuras:</pt>
+        <zh-CN>对于未来的社会帐户权限：</zh-CN>
+        <fr>Autorisations pour l'avenir des comptes sociaux:</fr>
+        <ar>أذونات المستقبل الحسابات الاجتماعية:</ar>
+        <zh-TW>對於未來的社會帳戶權限：</zh-TW>
+        <hi>भविष्य के लिए सामाजिक लेखा अनुमतियाँ:</hi>
+        <ko>미래 사회 계정에 대한 사용 권한 :</ko>
+        <bn>ভবিষ্যত সামাজিক অ্যাকাউন্টগুলির জন্য অনুমতি:</bn>
+        <ru>Разрешения для будущих социальных счетов:</ru>
+        <sq>Lejet për llogaritë sociale ardhmen:</sq>
+        <it>Autorizzazioni per futuri conti sociali:</it>
+        <de>Berechtigungen für zukünftige Social-Konten:</de>
+        <it>Autorizzazioni per futuri conti sociali:</it>
+        <ur>مستقبل سماجی اکاؤنٹس کے لئے اجازت:</ur>
+    </entry>
+    <entry>
+        <key>Read Only</key>
+        <en>Read Only</en>
+        <ja>閲覧のみ</ja>
+        <pt>Somente Leitura</pt>
+        <zh-CN>只读</zh-CN>
+        <fr>Lecture seulement</fr>
+        <ar>يقرأ فقط</ar>
+        <zh-TW>只讀</zh-TW>
+        <hi>सिफ़ पढ़िये</hi>
+        <ko>읽기 전용</ko>
+        <bn>শুধুমাত্র পাঠযোগ্য</bn>
+        <ru>только для чтения</ru>
+        <sq>Lexo vetem</sq>
+        <it>Sola lettura</it>
+        <de>Schreibgeschützt</de>
+        <it>Sola lettura</it>
+        <ur>صرف پڑھو</ur>
+    </entry>
+    <entry>
+        <key>Read/Write</key>
+        <en>Read/Write</en>
+        <ja>閲覧/書込</ja>
+        <pt>Ler/Escrever</pt>
+        <zh-CN>读/写</zh-CN>
+        <fr>Lire écrire</fr>
+        <ar>قراءة و كتابة</ar>
+        <zh-TW>讀/寫</zh-TW>
+        <hi>पढ़ना लिखना</hi>
+        <ko>읽기 / 쓰기</ko>
+        <bn>পড়ুন / লিখুন</bn>
+        <ru>Читай пиши</ru>
+        <sq>Lexo / Shkruaj</sq>
+        <it>Leggere scrivere</it>
+        <de>Lesen Schreiben</de>
+        <it>Leggere scrivere</it>
+        <ur>پڑھ لکھ</ur>
+    </entry>
+    <entry>
+        <key>Read/Write/Admin</key>
+        <en>Read/Write/Admin</en>
+        <ja>閲覧/書込/管理者</ja>
+        <pt>Ler/Escrever/Administrar</pt>
+        <zh-CN>读/写/管理</zh-CN>
+        <fr>Lecture / Ecriture / Administrateur</fr>
+        <ar>قراءة / كتابة / مسؤول</ar>
+        <zh-TW>讀/寫/管理</zh-TW>
+        <hi>पढ़ें / लिखें / व्यवस्थापक</hi>
+        <ko>/ 쓰기 / 관리 읽기</ko>
+        <bn>পড়ুন / লেখা / অ্যাডমিন</bn>
+        <ru>Чтение / запись / Admin</ru>
+        <sq>Lexo / Shkruaj / Admin</sq>
+        <it>Lettura / scrittura / Amministratore</it>
+        <de>Lesen / Schreiben / Admin</de>
+        <it>Lettura / scrittura / Amministratore</it>
+        <ur>پڑھنا / لکھنا / ایڈمن</ur>
+    </entry>
+    <entry>
+        <key>No Access</key>
+        <en>No Access</en>
+        <ja>アクセス不可</ja>
+        <pt>Sem Acesso</pt>
+        <zh-CN>禁止访问</zh-CN>
+        <fr>Pas d'accès</fr>
+        <ar>ممنوع الدخول</ar>
+        <zh-TW>禁止訪問</zh-TW>
+        <hi>प्रवेश नही</hi>
+        <ko>접근 금지</ko>
+        <bn>প্রবেশধিকার নেই</bn>
+        <ru>Нет доступа</ru>
+        <sq>Nuk lejohet hyrja</sq>
+        <it>Nessun accesso</it>
+        <de>Kein Zugang</de>
+        <it>Nessun accesso</it>
+        <ur>داخلہ ممنوع ہے</ur>
+    </entry>
+    <entry>
+        <key>Additional Roles</key>
+        <en>Additional Roles</en>
+        <ja>追加の役割</ja>
+        <pt>Papéis Adicionais</pt>
+        <zh-CN>其他角色</zh-CN>
+        <fr>Rôles supplémentaires</fr>
+        <ar>أدوار إضافية</ar>
+        <zh-TW>其他角色</zh-TW>
+        <hi>अतिरिक्त रोल्स</hi>
+        <ko>추가 역할</ko>
+        <bn>অতিরিক্ত ভূমিকা</bn>
+        <ru>Дополнительные Роли</ru>
+        <sq>Rolet tjera</sq>
+        <it>ruoli aggiuntivi</it>
+        <de>Weitere Rollen</de>
+        <it>ruoli aggiuntivi</it>
+        <ur>اضافی رول</ur>
+    </entry>
+    <entry>
+        <key>Client Admin – Can add to/cancel service. This is the highest level of control. Warning: assigning this to another user will revoke your status as client admin.</key>
+        <en>Client Admin – Can add to/cancel service. This is the highest level of control. Warning: assigning this to another user will revoke your status as client admin.</en>
+        <ja>クライアント管理者 – サービスを追加/中止することができる、最高レベルの管理権限です。警告: この権限を別のユーザーに割り当てると、あなたのクライアント管理者としてのステータスが取り消されます。</ja>
+        <pt>Administrador do Cliente - Pode adicionar/cancelar serviço. Este é o nível mais alto de controle. Aviso: atribuí-lo a outro usuário revoga seu status como administrador do cliente.</pt>
+        <zh-CN>客户管理 - 可以增加/取消服务。这是控制的最高水平。警告：给另一个用户分配，这将撤销其客户端管理自己的地位。</zh-CN>
+        <fr>Admin client - Peut ajouter / annuler le service. Ceci est le plus haut niveau de contrôle. Attention: cette affectation à un autre utilisateur révoquera votre statut en tant qu'administrateur de client.</fr>
+        <ar>المسؤول العميل - يمكن إضافة إلى / إلغاء الخدمة. وهذا هو أعلى مستوى من الرقابة. تحذير: سوف يوكل ذلك إلى مستخدم آخر سحب حالتك كمشرف العميل.</ar>
+        <zh-TW>客戶管理 - 可以增加/取消服務。這是控制的最高水平。警告：給另一個用戶分配，這將撤銷其客戶端管理自己的地位。</zh-TW>
+        <hi>ग्राहक व्यवस्थापक - करने के लिए जोड़ / सेवा रद्द कर सकते हैं। इस नियंत्रण का उच्चतम स्तर है। चेतावनी: किसी अन्य उपयोगकर्ता को यह बताए ग्राहक व्यवस्थापक के रूप में अपनी स्थिति रद्द होगा।</hi>
+        <ko>클라이언트 관리 - 서비스를 취소 /에 추가 할 수 있습니다. 이 제어의 최고 레벨이다. 경고 : 다른 사용자에게이 작업을 할당하는 클라이언트 관리로 상태를 취소합니다.</ko>
+        <bn>ক্লায়েন্ট এডমিন - যোগ / সেবা বাতিল করতে পারেন. এই নিয়ন্ত্রণের সর্বোচ্চ স্তর. সতর্কতা: অন্য ব্যবহারকারীকে এই বরাদ্দ ক্লায়েন্ট প্রশাসক হিসাবে আপনার অবস্থা প্রত্যাহার করবে.</bn>
+        <ru>Клиент Admin - Может добавить / отменить услугу. Это самый высокий уровень контроля. Внимание: это присвоение другому пользователю отменит свой статус в качестве клиента администратора.</ru>
+        <sq>Client Admin - A mund të shtoni / anulluar shërbimin. Ky është niveli më i lartë i kontrollit. Warning: caktimin e kjo për një përdorues tjetër do të revokojë statusin tuaj si klient admin.</sq>
+        <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
+        <de>Client-Admin - hinzufügen können / stornieren Service. Dies ist der höchste Grad an Kontrolle. Achtung: dieser Benutzer auf eine andere Zuordnung wird Ihr Status als Client Server-Betreiber widerrufen.</de>
+        <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
+        <ur>کلائنٹ ایڈمن - سروس منسوخ / کرنے کے لئے شامل کر سکتے ہیں. اس کنٹرول کی بلند ترین سطح ہے. انتباہ: کسی دوسرے صارف کو اس کے بتائے کلائنٹ منتظم کے طور پر آپ کی حیثیت کو منسوخ کرے گا.</ur>
+    </entry>
+    <entry>
+        <key>Account Admin – Can add and remove socail accounts and add, edit, and remove users.</key>
+        <en>Account Admin – Can add and remove socail accounts and add, edit, and remove users.</en>
+        <ja>アカウント管理者 – ソーシャルアカウントを追加または削除したり、ユーザーを追加、編集、削除することができます。</ja>
+        <pt>Administrador de Conta - Pode adicionar e remover contas sociais e adicionar, editar e remover usuários.</pt>
+        <zh-CN>帐户管理 - 可以添加和删除socail帐户和添加，编辑和删除用户。</zh-CN>
+        <fr>Administrateur du compte - Possibilité d'ajouter et de supprimer des comptes socail et ajouter, modifier et supprimer des utilisateurs.</fr>
+        <ar>مسؤول حساب - يمكن إضافة وإزالة حسابات socail وإضافة، تعديل، وإزالة المستخدمين.</ar>
+        <zh-TW>帳戶管理 - 可以添加和刪除socail帳戶和添加，編輯和刪除用戶。</zh-TW>
+        <hi>खाते के व्यवस्थापक - जोड़ सकते हैं और socail खातों को हटाने और जोड़ें, संपादित करें, और उपयोगकर्ताओं को हटा दें।</hi>
+        <ko>계정 관리 - 추가 socail 계정을 제거하고 추가, 편집하고, 사용자를 제거 할 수 있습니다.</ko>
+        <bn>অ্যাকাউন্ট এডমিন - যোগ করা যাবে এবং socail অ্যাকাউন্টগুলি এবং যোগ, সম্পাদনা, এবং ব্যবহারকারীদের মুছে ফেলুন.</bn>
+        <ru>Администратор аккаунта - Можно добавлять и удалять socail учетные записи и добавлять, редактировать и удалять пользователей.</ru>
+        <sq>Llogaria Admin - A mund të shtoni dhe hiqni llogari socail dhe shtoni, modifikoni, dhe për të hequr përdoruesit.</sq>
+        <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
+        <de>Konto Admin - Kann hinzufügen und socail Konten entfernen und hinzufügen, bearbeiten und Benutzer entfernen.</de>
+        <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
+        <ur>اکاؤنٹ ایڈمن - شامل کر سکتے ہیں اور socail اکاؤنٹس کو دور کرنے اور شامل، میں ترمیم کریں، اور صارفین کو خارج کر دیں.</ur>
+    </entry>
+    <entry>
+        <key>Billing Contact – Controls all finance related settings. Can view financial statements</key>
+        <en>Billing Contact – Controls all finance related settings. Can view financial statements</en>
+        <ja>請求先 – 料金請求に関する全ての設定を行います。請求明細書を閲覧することができます。</ja>
+        <pt>Contato de Faturamento - Controle todas as configurações de finanças. Pode ver as demonstrações financeiras.</pt>
+        <zh-CN>付款联系人 - 控制所有财务相关的设置。可以查看财务报表</zh-CN>
+        <fr>Facturation Contact - Contrôles tous les paramètres liés à la finance. Peut voir statuments financiers</fr>
+        <ar>الفواتير الاتصال - يتحكم كافة الإعدادات المتعلقة بالتمويل. يمكن عرض statuments المالية</ar>
+        <zh-TW>付款聯繫人 - 控制所有財務相關的設置。可以查看財務statuments</zh-TW>
+        <hi>बिलिंग संपर्क - सभी वित्त संबंधित सेटिंग नियंत्रित। वित्तीय statuments देख सकते हैं</hi>
+        <ko>결제 연락 - 모든 금융 관련 설정을 제어합니다. 금융 statuments를 볼 수 있습니다</ko>
+        <bn>বিলিং যোগাযোগ - সব অর্থ সংক্রান্ত সেটিংস নিয়ন্ত্রণ. আর্থিক statuments দেখতে পারবেন</bn>
+        <ru>Биллинг Контакт - Управляет все параметры, связанные с финансами. Можно просматривать финансовые statuments</ru>
+        <sq>Faturimi Kontaktoni - Kontrollon të gjitha vetitë e financave të lidhura. Mund të shikoni statuments financiare</sq>
+        <it>Fatturazione Contatto - Controlla tutte le impostazioni relative finanza. Può visualizzare statuments finanziari</it>
+        <de>Billing Kontakt - Steuert alle Finanz-Einstellungen. Kann sehen finanzielle statuments</de>
+        <it>Fatturazione Contatto - Controlla tutte le impostazioni relative finanza. Può visualizzare statuments finanziari</it>
+        <ur>بلنگ رابطہ کریں - تمام فنانس سے متعلق ترتیبات کو کنٹرول. مالی بیانات دیکھ سکتا</ur>
+    </entry>
+    <entry>
+        <key>Account Group</key>
+        <en>Account Group</en>
+        <ja>アカウントグループ</ja>
+        <pt>Grupo de Contas</pt>
+        <zh-CN>帐户组</zh-CN>
+        <fr>Groupe compte</fr>
+        <ar>المجموعة حساب</ar>
+        <zh-TW>帳戶組</zh-TW>
+        <hi>खाता समूह</hi>
+        <ko>계정 그룹</ko>
+        <bn>অ্যাকাউন্ট গ্রুপ</bn>
+        <ru>Группа учетной записи</ru>
+        <sq>Grupi llogari</sq>
+        <it>account Group</it>
+        <de>Kontengruppe</de>
+        <it>account Group</it>
+        <ur>اکاؤنٹ گروپ</ur>
+    </entry>
+    <entry>
+        <key>Read Only</key>
+        <en>Read Only</en>
+        <ja>閲覧のみ</ja>
+        <pt>Somente Leitura</pt>
+        <zh-CN>只读</zh-CN>
+        <fr>Lecture seulement</fr>
+        <ar>يقرأ فقط</ar>
+        <zh-TW>只讀</zh-TW>
+        <hi>सिफ़ पढ़िये</hi>
+        <ko>읽기 전용</ko>
+        <bn>শুধুমাত্র পাঠযোগ্য</bn>
+        <ru>только для чтения</ru>
+        <sq>Lexo vetem</sq>
+        <it>Sola lettura</it>
+        <de>Schreibgeschützt</de>
+        <it>Sola lettura</it>
+        <ur>صرف پڑھو</ur>
+    </entry>
+    <entry>
+        <key>Read/Write</key>
+        <en>Read/Write</en>
+        <ja>閲覧 / 書込</ja>
+        <pt>Ler/Escrever</pt>
+        <zh-CN>读/写</zh-CN>
+        <fr>Lire écrire</fr>
+        <ar>قراءة و كتابة</ar>
+        <zh-TW>讀/寫</zh-TW>
+        <hi>पढ़ना लिखना</hi>
+        <ko>읽기 / 쓰기</ko>
+        <bn>পড়ুন / লিখুন</bn>
+        <ru>Читай пиши</ru>
+        <sq>Lexo / Shkruaj</sq>
+        <it>Leggere scrivere</it>
+        <de>Lesen Schreiben</de>
+        <it>Leggere scrivere</it>
+        <ur>پڑھ لکھ</ur>
+    </entry>
+    <entry>
+        <key>Read/Write/Admin</key>
+        <en>Read/Write/Admin</en>
+        <ja>閲覧 / 書込 / 管理者</ja>
+        <pt>Ler/Escrever/Admin</pt>
+        <zh-CN>读/写/管理</zh-CN>
+        <fr>Lecture / Ecriture / Administrateur</fr>
+        <ar>قراءة / كتابة / مسؤول</ar>
+        <zh-TW>讀/寫/管理</zh-TW>
+        <hi>पढ़ें / लिखें / व्यवस्थापक</hi>
+        <ko>/ 쓰기 / 관리 읽기</ko>
+        <bn>পড়ুন / লেখা / অ্যাডমিন</bn>
+        <ru>Чтение / запись / Admin</ru>
+        <sq>Lexo / Shkruaj / Admin</sq>
+        <it>Lettura / scrittura / Amministratore</it>
+        <de>Lesen / Schreiben / Admin</de>
+        <it>Lettura / scrittura / Amministratore</it>
+        <ur>پڑھنا / لکھنا / ایڈمن</ur>
+    </entry>
+    <entry>
+        <key>No Access</key>
+        <en>No Access</en>
+        <ja>アクセス不可</ja>
+        <pt>Sem Acesso</pt>
+        <zh-CN>禁止访问</zh-CN>
+        <fr>Pas d'accès</fr>
+        <ar>ممنوع الدخول</ar>
+        <zh-TW>禁止訪問</zh-TW>
+        <hi>प्रवेश नही</hi>
+        <ko>접근 금지</ko>
+        <bn>প্রবেশধিকার নেই</bn>
+        <ru>Нет доступа</ru>
+        <sq>Nuk lejohet hyrja</sq>
+        <it>Nessun accesso</it>
+        <de>Kein Zugang</de>
+        <it>Nessun accesso</it>
+        <ur>داخلہ ممنوع ہے</ur>
+    </entry>
+    <entry>
+        <key>User Details and Permissions</key>
+        <en>User Details and Permissions</en>
+        <ja>ユーザー詳細情報および権限</ja>
+        <pt>Detalhes e Permissões de Usuário</pt>
+        <zh-CN>用户详细信息和权限</zh-CN>
+        <fr>Détails de l'utilisateur et autorisations</fr>
+        <ar>تفاصيل المستخدم وأذونات</ar>
+        <zh-TW>用戶詳細信息和權限</zh-TW>
+        <hi>उपयोक्ता विवरण और अनुमतियाँ</hi>
+        <ko>사용자 세부 사항 및 권한</ko>
+        <bn>ব্যবহারকারীর বিবরণ এবং অনুমতিসমূহ</bn>
+        <ru>Детали пользователя и разрешения</ru>
+        <sq>User Details dhe të Drejtat</sq>
+        <it>Dettagli utente e autorizzazioni</it>
+        <de>Benutzerdetails und Berechtigungen</de>
+        <it>Dettagli utente e autorizzazioni</it>
+        <ur>یوزر کی تفصیلات اور اجازت</ur>
+    </entry>
+    <entry>
+        <key>Reset Password</key>
+        <en>Reset Password</en>
+        <ja>パスワードをリセット</ja>
+        <pt>Reconfigurar Senha</pt>
+        <zh-CN>重设密码</zh-CN>
+        <fr>réinitialiser le mot de passe</fr>
+        <ar>اعادة تعيين كلمة السر</ar>
+        <zh-TW>重設密碼</zh-TW>
+        <hi>पासवर्ड रीसेट</hi>
+        <ko>암호를 재설정</ko>
+        <bn>পাসওয়ার্ড রিসেট করুন</bn>
+        <ru>Сброс пароля</ru>
+        <sq>Rivendosni fjalëkalimin</sq>
+        <it>Resetta la password</it>
+        <de>Passwort zurücksetzen</de>
+        <it>Resetta la password</it>
+        <ur>پاس ورڈ ری سیٹ</ur>
+    </entry>
+    <entry>
+        <key>Remove User</key>
+        <en>Remove User</en>
+        <ja>ユーザーを削除</ja>
+        <pt>Remover Usuário</pt>
+        <zh-CN>删除用户</zh-CN>
+        <fr>Supprimer l'utilisateur</fr>
+        <ar>إزالة العضو</ar>
+        <zh-TW>刪除用戶</zh-TW>
+        <hi>उपयोगकर्ता को निकालें</hi>
+        <ko>사용자를 제거</ko>
+        <bn>ব্যবহারকারী সরান</bn>
+        <ru>Удалить пользователя</ru>
+        <sq>Hiq përdoruesin</sq>
+        <it>rimuovere l'utente</it>
+        <de>Benutzer entfernen</de>
+        <it>rimuovere l'utente</it>
+        <ur>صارف کو ہٹائیں</ur>
+    </entry>
+    <entry>
+        <key>Email</key>
+        <en>Email</en>
+        <ja>E メール</ja>
+        <pt>Email</pt>
+        <zh-CN>电子邮件</zh-CN>
+        <fr>Email</fr>
+        <ar>البريد الإلكتروني</ar>
+        <zh-TW>電子郵件</zh-TW>
+        <hi>ईमेल</hi>
+        <ko>이메일</ko>
+        <bn>ই-মেইল</bn>
+        <ru>Эл. адрес</ru>
+        <sq>Email</sq>
+        <it>E-mail</it>
+        <de>Email</de>
+        <it>E-mail</it>
+        <ur>دوستوں کوارسال کریں</ur>
+    </entry>
+    <entry>
+        <key>Country</key>
+        <en>Country</en>
+        <ja>国</ja>
+        <pt>País</pt>
+        <zh-CN>国家</zh-CN>
+        <fr>Pays</fr>
+        <ar>بلد</ar>
+        <zh-TW>國家</zh-TW>
+        <hi>देश</hi>
+        <ko>국가</ko>
+        <bn>দেশ</bn>
+        <ru>Страна</ru>
+        <sq>vend</sq>
+        <it>Nazione</it>
+        <de>Land</de>
+        <it>Nazione</it>
+        <ur>ملک</ur>
+    </entry>
+    <entry>
+        <key>Timezone</key>
+        <en>Timezone</en>
+        <ja>タイムゾーン</ja>
+        <pt>Fuso Horário</pt>
+        <zh-CN>时区</zh-CN>
+        <fr>Fuseau horaire</fr>
+        <ar>المنطقة الزمنية</ar>
+        <zh-TW>時區</zh-TW>
+        <hi>समय क्षेत्र</hi>
+        <ko>시간대</ko>
+        <bn>সময় অঞ্চল</bn>
+        <ru>Часовой пояс</ru>
+        <sq>Ora</sq>
+        <it>Fuso orario</it>
+        <de>Zeitzone</de>
+        <it>Fuso orario</it>
+        <ur>ٹائم زون</ur>
+    </entry>
+    <entry>
+        <key>Added On</key>
+        <en>Added On</en>
+        <ja>追加日時</ja>
+        <pt>Adicionado em</pt>
+        <zh-CN>添加于</zh-CN>
+        <fr>Ajouté sur</fr>
+        <ar>وأضاف في</ar>
+        <zh-TW>添加於</zh-TW>
+        <hi>पर जोड़ा</hi>
+        <ko>추가 된</ko>
+        <bn>যোগ</bn>
+        <ru>Добавлено О</ru>
+        <sq>Shtuar On</sq>
+        <it>Aggiunto a</it>
+        <de>Hinzugefügt zu</de>
+        <it>Aggiunto a</it>
+        <ur>پر شامل</ur>
+    </entry>
+    <entry>
+        <key>Send Invite</key>
+        <en>Send Invite</en>
+        <ja>招待を送信</ja>
+        <pt>Enviar Convite</pt>
+        <zh-CN>发送邀请函</zh-CN>
+        <fr>Envoyer une invitation</fr>
+        <ar>ارسل دعوة</ar>
+        <zh-TW>發送邀請函</zh-TW>
+        <hi>आमंत्रण भेजो</hi>
+        <ko>초대 보내기</ko>
+        <bn>আমন্ত্রণ পাঠান</bn>
+        <ru>Отправить приглашение</ru>
+        <sq>Dërgo Fto</sq>
+        <it>Invia un invito</it>
+        <de>Sende Einladung</de>
+        <it>Invia un invito</it>
+        <ur>مدعو ارسال کریں</ur>
+    </entry>
+    <section>settings_admin_users_and_permis</section>
+</translations>

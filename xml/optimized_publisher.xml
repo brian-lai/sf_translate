@@ -1,0 +1,1295 @@
+<translations>
+    <entry>
+        <key>[[[What is the correct date and time format for Japan? For instance is it month/day or day/month. Do they use 24h time or 12h time?]]]</key>
+        <en>[[[What is the correct date and time format for Japan? For instance is it month/day or day/month. Do they use 24h time or 12h time?]]]</en>
+        <ja>We use month/day format in Japan. Also both 24h time and 12h time are used according to circumstances.</ja>
+        <pt>[[We use day/month/year in Brazil. 24h is more common, though 12h can be used as well.]]</pt>
+        <zh-CN>[[[Dates in China are typically YYYY-MM-DD or in standard written chinese YYYY-mm月-dd日. As for time, it's typically represented as 24h format, but 12h format is pretty commmon as well.]]]</zh-CN>
+        <fr>[[[Quelle est la date exacte et le format de temps pour le Japon? Par exemple est est mois / jour ou jour / mois. Utilisent-ils le temps 24h ou le temps de 12h?]]]</fr>
+        <ar>[[[ما هو التاريخ الصحيح وتنسيق الوقت لليابان؟ على سبيل المثال هو هو شهر / يوم أو يوم / شهر. وهل استخدام الوقت 24H أو الوقت 12H؟]]]</ar>
+        <zh-TW>[[[什麼是正確的日期和時間格式為日本？舉例來說實在是月/日或日/月。他們使用24小時時間或12小時的時間？]]]</zh-TW>
+        <hi>[[[सही तारीख और समय प्रारूप जापान के लिए क्या है? उदाहरण के लिए इस माह / दिन या दिन / महीना है। ]]] वे 24 घंटों के समय या 12h समय का उपयोग न करें?</hi>
+        <ko>[[[일본에 대한 정확한 날짜와 시간 형식은 무엇입니까? 예는 들어하는 월 / 일 또는 일 / 월입니다. 그들은 24 시간 또는 12 시간 시간을 사용하십니까?]]]</ko>
+        <bn>[[[সঠিক তারিখ এবং সময় ফর্ম্যাট জাপান কী? উদাহরণস্বরূপ জন্য মাস / দিন অথবা দিন / মাস. ]]] তারা 24h সময় বা 12h সময় ব্যবহার করতে চান?</bn>
+        <ru>[[[Что такое правильный формат даты и времени для Японии? Для экземпляра в месяц / день или день / месяц. они используют 24ч время или время 12h ли?]]]</ru>
+        <sq>[[[Cila është data e saktë dhe format koha për Japoninë? Për shembull është është muaji / dita ose ditë / muaj. A ata përdorin kohën 24h apo kohë 12h?]]]</sq>
+        <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
+        <de>[[[Was ist das richtige Datum und Zeitformat für Japan? Zum Beispiel ist Monat / Tag oder Tag / Monat. Haben sie den 24-Stunden oder 12 Stunden Zeit nutzen?]]]</de>
+        <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
+        <ur>[[[جاپان لئے صحیح تاریخ اور وقت کی شکل کیا ہے؟ مثال کے طور پر مہینہ / دن یا دن / ماہ یہ ہے. وہ 24H وقت یا 12H وقت استعمال کرتے ہیں؟]]]</ur>
+    </entry>
+    <entry>
+        <key>Twitter accounts</key>
+        <en>Twitter accounts</en>
+        <ja>Twitter アカウント</ja>
+        <pt>Contas do Twitter</pt>
+        <zh-CN>Twitter账户</zh-CN>
+        <fr>comptes Twitter</fr>
+        <ar>حسابات تويتر</ar>
+        <zh-TW>Twitter賬戶</zh-TW>
+        <hi>ट्विटर खातों</hi>
+        <ko>트위터 계정</ko>
+        <bn>টুইটার অ্যাকাউন্ট</bn>
+        <ru>счета Twitter</ru>
+        <sq>llogaritë Twitter</sq>
+        <it>account Twitter</it>
+        <de>Twitter-Konten</de>
+        <it>account Twitter</it>
+        <ur>ٹویٹر اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Facebook accounts</key>
+        <en>Facebook accounts</en>
+        <ja>Facebook アカウント</ja>
+        <pt>Contas do Facebook</pt>
+        <zh-CN>Facebook账户</zh-CN>
+        <fr>comptes Facebook</fr>
+        <ar>حسابات الفيسبوك</ar>
+        <zh-TW>Facebook賬戶</zh-TW>
+        <hi>फेसबुक खातों</hi>
+        <ko>페이스 북 계정</ko>
+        <bn>ফেসবুক অ্যাকাউন্ট</bn>
+        <ru>Facebook счета</ru>
+        <sq>llogaritë Facebook</sq>
+        <it>account di Facebook</it>
+        <de>Facebook-Konten</de>
+        <it>account di Facebook</it>
+        <ur>فیس بک کے اکاؤنٹس</ur>
+    </entry>
+    <entry>
+        <key>Hide Stats</key>
+        <en>Hide Stats</en>
+        <ja>統計を隠す</ja>
+        <pt>Esconder Estatísticas</pt>
+        <zh-CN>隐藏统计信息</zh-CN>
+        <fr>Hide Stats</fr>
+        <ar>إخفاء إحصائيات</ar>
+        <zh-TW>隱藏統計</zh-TW>
+        <hi>आँकड़े छुपाएं</hi>
+        <ko>통계 숨기기</ko>
+        <bn>পরিসংখ্যান লুকান</bn>
+        <ru>Скрыть Статистика</ru>
+        <sq>Fshih Statistika</sq>
+        <it>Hide Statistiche</it>
+        <de>ausblenden Statistik</de>
+        <it>Hide Statistiche</it>
+        <ur>اعدادوشمار چھپائیں</ur>
+    </entry>
+    <entry>
+        <key>Show Stats</key>
+        <en>Show Stats</en>
+        <ja>統計を表示</ja>
+        <pt>Mostrar Estatísticas</pt>
+        <zh-CN>显示统计信息</zh-CN>
+        <fr>Voir les statistiques</fr>
+        <ar>عرض الإحصائيات</ar>
+        <zh-TW>資料統計</zh-TW>
+        <hi>शो के आँकड़े</hi>
+        <ko>쇼 통계</ko>
+        <bn>দেখান পরিসংখ্যান</bn>
+        <ru>Статистика</ru>
+        <sq>Shfaq Stats</sq>
+        <it>Visualizza statistiche</it>
+        <de>Statistiken anzeigen</de>
+        <it>Visualizza statistiche</it>
+        <ur>اعدادوشمار دکھائیں</ur>
+    </entry>
+    <entry>
+        <key>Add Feed</key>
+        <en>Add Feed</en>
+        <ja>フィードの追加</ja>
+        <pt>Adicionar Feed</pt>
+        <zh-CN>添加饲料</zh-CN>
+        <fr>Ajouter un flux</fr>
+        <ar>إضافة الأعلاف</ar>
+        <zh-TW>添加飼料</zh-TW>
+        <hi>फ़ीड जोड़ें</hi>
+        <ko>피드 추가</ko>
+        <bn>ফিড যোগ করুন</bn>
+        <ru>Добавить ленту</ru>
+        <sq>Shto Feed</sq>
+        <it>Aggiungere feed</it>
+        <de>Feed hinzufügen</de>
+        <it>Aggiungere feed</it>
+        <ur>فیڈ شامل</ur>
+    </entry>
+    <entry>
+        <key>Close Compose</key>
+        <en>Close Compose</en>
+        <ja>メッセージ作成を閉じる</ja>
+        <pt>Fechar Compôr</pt>
+        <zh-CN>关闭撰写</zh-CN>
+        <fr>Fermer Compose</fr>
+        <ar>انهيار تأليف</ar>
+        <zh-TW>關閉撰寫</zh-TW>
+        <hi>बंद लिखें</hi>
+        <ko>닫기 작성</ko>
+        <bn>বন্ধ কম্পোজ</bn>
+        <ru>Закрыть Compose</ru>
+        <sq>Mbylle Shkruaj</sq>
+        <it>Chiudi Compose</it>
+        <de>Schließen Compose</de>
+        <it>Chiudi Compose</it>
+        <ur>تحریر بند کریں</ur>
+    </entry>
+    <entry>
+        <key>Active Audience</key>
+        <en>Active Audience</en>
+        <ja>アクティブオーディエンス数</ja>
+        <pt>Audiência Ativa</pt>
+        <zh-CN>积极受众</zh-CN>
+        <fr>Audience active</fr>
+        <ar>الجمهور نشط</ar>
+        <zh-TW>積極受眾</zh-TW>
+        <hi>सक्रिय दर्शकों</hi>
+        <ko>활동 대상</ko>
+        <bn>সক্রিয় দর্শকদের</bn>
+        <ru>Активная аудитория</ru>
+        <sq>Audienca aktive</sq>
+        <it>Pubblico attivo</it>
+        <de>Aktive Publikum</de>
+        <it>Pubblico attivo</it>
+        <ur>فعال ناظرین</ur>
+    </entry>
+    <entry>
+        <key>(last hour)</key>
+        <en>(last hour)</en>
+        <ja>(最近1時間)</ja>
+        <pt>(última hora)</pt>
+        <zh-CN>（上一个小时）</zh-CN>
+        <fr>(dernière heure)</fr>
+        <ar>(الساعة الأخيرة)</ar>
+        <zh-TW>（上一個小時）</zh-TW>
+        <hi>(अंतिम घंटा)</hi>
+        <ko>(지난 시간)</ko>
+        <bn>(শেষ ঘন্টা)</bn>
+        <ru>(последний час)</ru>
+        <sq>(Ora e fundit)</sq>
+        <it>(ultima ora)</it>
+        <de>(letzte Stunde)</de>
+        <it>(ultima ora)</it>
+        <ur>(گزشتہ قیامت)</ur>
+    </entry>
+    <entry>
+        <key>Returning</key>
+        <en>Returning</en>
+        <ja>リピーター</ja>
+        <pt>De Retorno</pt>
+        <zh-CN>返回</zh-CN>
+        <fr>De retour</fr>
+        <ar>عودة</ar>
+        <zh-TW>返回</zh-TW>
+        <hi>रिटर्निंग</hi>
+        <ko>반환</ko>
+        <bn>ফিরতি</bn>
+        <ru>возврате</ru>
+        <sq>Pas kthimit</sq>
+        <it>ritornando</it>
+        <de>Rückkehr</de>
+        <it>ritornando</it>
+        <ur>ریٹرننگ</ur>
+    </entry>
+    <entry>
+        <key>Interactive</key>
+        <en>Interactive</en>
+        <ja>交流中</ja>
+        <pt>Interativo</pt>
+        <zh-CN>互动</zh-CN>
+        <fr>Interactif</fr>
+        <ar>متفاعل</ar>
+        <zh-TW>互動</zh-TW>
+        <hi>इंटरएक्टिव</hi>
+        <ko>대화</ko>
+        <bn>ইন্টারেক্টিভ</bn>
+        <ru>интерактивный</ru>
+        <sq>interaktiv</sq>
+        <it>Interactive</it>
+        <de>Interactive</de>
+        <it>Interactive</it>
+        <ur>انٹرایکٹو</ur>
+    </entry>
+    <entry>
+        <key>Passive</key>
+        <en>Passive</en>
+        <ja>受動的</ja>
+        <pt>Passivo</pt>
+        <zh-CN>被动</zh-CN>
+        <fr>Passif</fr>
+        <ar>مبني للمجهول</ar>
+        <zh-TW>被動</zh-TW>
+        <hi>निष्क्रिय</hi>
+        <ko>수동태</ko>
+        <bn>নিষ্ক্রিয়</bn>
+        <ru>пассивный</ru>
+        <sq>pasiv</sq>
+        <it>Passivo</it>
+        <de>Passiv</de>
+        <it>Passivo</it>
+        <ur>غیر فعال</ur>
+    </entry>
+    <entry>
+        <key>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments, and shares.</key>
+        <en>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments, and shares.</en>
+        <ja>アクティブ閲覧者とは、クリック、ツイート、メンション、リツイート、いいね!、コメント、共有を行った閲覧者です。</ja>
+        <pt>Atividade da Audiência inclui cliques, tweets, menções, retweets, curtidas, comentários e compartilhamentos.</pt>
+        <zh-CN>观众活动包括点击，微博，提到，锐推，喜欢，评论和分享。</zh-CN>
+        <fr>Audience activité inclut les clics, tweets, mentions, retweets, likes, commentaires et actions.</fr>
+        <ar>ويشمل نشاط جمهور النقرات، تويت، ويذكر، إعادة مشاركات tweet، يحب، والتعليقات، وسهم.</ar>
+        <zh-TW>觀眾活動包括點擊，微博，提到，銳推，喜歡，評論和分享。</zh-TW>
+        <hi>दर्शकों की गतिविधि क्लिक करता है, ट्वीट्स, का उल्लेख है, रीट्वीट, पसंद, टिप्पणियाँ, और शेयर शामिल हैं।</hi>
+        <ko>대상 활동은 클릭 수, 트윗, 멘션, 리트 윗, 좋아요, 댓글, 공유를 포함한다.</ko>
+        <bn>দর্শকের কর্মকাণ্ড ক্লিকে, টুইট, উল্লেখ, পুন, পছন্দ, মন্তব্য, এবং শেয়ার রয়েছে.</bn>
+        <ru>Аудитория активность включает в себя клики, твиты, ретвиты упоминает, любит, комментарии и акции.</ru>
+        <sq>Audienca Aktiviteti përfshin klikimeve, tweets, përmend, retweets, pëlqen, komente, dhe aksionet.</sq>
+        <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
+        <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
+        <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
+        <ur>سامعین سرگرمی کلکس، ٹویٹس، تذکرے، ریٹویٹ، پسند کرتا ہے، تبصرے، اور حصص شامل ہیں.</ur>
+    </entry>
+    <entry>
+        <key>When we have enough data, we show trending terms for your audience.</key>
+        <en>When we have enough data, we show trending terms for your audience.</en>
+        <ja>十分なデータがある時は、オーディエンスの間で話題になっているキーワードを表示します。</ja>
+        <pt>Quando tivermos dados suficientes, mostraremos os termos do momento (trending) para sua audiência.</pt>
+        <zh-CN>当我们有足够的数据，我们显示你的听众趋势条款。</zh-CN>
+        <fr>Lorsque nous avons suffisamment de données, nous montrons les termes Trending pour votre auditoire.</fr>
+        <ar>عندما يكون لدينا ما يكفي من البيانات، وتبين لنا حيث تتجه لجمهورك.</ar>
+        <zh-TW>當我們有足夠的數據，我們顯示你的聽眾趨勢條款。</zh-TW>
+        <hi>हमारे पास पर्याप्त डेटा हैं, हम अपने दर्शकों के लिए ट्रेंडिंग शर्तों को दिखाते हैं।</hi>
+        <ko>우리는 충분한 데이터가있을 때, 우리는 당신의 청중에 대한 동향 용어를 보여줍니다.</ko>
+        <bn>আমরা যথেষ্ট তথ্য আছে, আমরা আপনার দর্শকদের জন্য ট্রেন্ডিং পদ দেন.</bn>
+        <ru>Когда у нас есть достаточно данных, мы показываем отклоняющиеся условия для вашей аудитории.</ru>
+        <sq>Kur kemi të dhëna të mjaftueshme, që tregojnë kushtet trending për audiencën tuaj.</sq>
+        <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
+        <de>Wenn wir genug Daten haben, zeigen wir Trending Bedingungen für Ihr Publikum.</de>
+        <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
+        <ur>ہم نے کافی اعداد و شمار ہیں تو، ہم اپنے ناظرین کے لئے رجحان سازی کی اصطلاحات کو ظاہر.</ur>
+    </entry>
+    <entry>
+        <key>There was not enough recent activity in your audience to generate trending terms. Please check again later.</key>
+        <en>There was not enough recent activity in your audience to generate trending terms. Please check again later.</en>
+        <ja>オーディエンスの活動量が不足しているため話題のキーワードを生成できません。しばらく経ってから確認してください。</ja>
+        <pt>Não houve atividade recente suficiente em sua audiência para gerar termos do momento (trending). Por favor, verifique novamente mais tarde.</pt>
+        <zh-CN>有没有在你的听众足够的近期活动产生的趋势而言。请稍后再检查。</zh-CN>
+        <fr>Il n'y avait pas assez d'activité récente de votre auditoire pour générer des termes de tendance. S'il vous plaît vérifier à nouveau plus tard.</fr>
+        <ar>لم يكن هناك ما يكفي من النشاط الأخير في جمهورك لتوليد عبارات شائعة. يرجى التحقق مرة أخرى في وقت لاحق.</ar>
+        <zh-TW>有沒有在你的聽眾足夠的近期活動產生的趨勢而言。請稍後再檢查。</zh-TW>
+        <hi>वहाँ अपने दर्शकों में काफी हाल की गतिविधि ट्रेंडिंग शर्तों उत्पन्न करने के लिए नहीं था। बाद में फिर से जाँच करें।</hi>
+        <ko>유행하는 용어를 생성하는 청중에 충분한 최근 활동이 없었다. 나중에 다시 확인하시기 바랍니다.</ko>
+        <bn>সেখানে আপনার দর্শকদের যথেষ্ট সাম্প্রতিক কার্যকলাপ trending পদ জেনারেট ছিল না. পরে আবার চেক করুন.</bn>
+        <ru>Там не было достаточно недавней активности в вашей аудитории, чтобы генерировать трендовые термины. Пожалуйста, повторите попытку позже.</ru>
+        <sq>Nuk ishte e mjaftueshme aktiviteti i kohëve të fundit në audiencën tuaj për të gjeneruar kushtet trending. Ju lutem kontrolloni sërish më vonë.</sq>
+        <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
+        <de>Es gab nicht genug aktuellen Aktivitäten in Ihrem Publikum Trending Bedingungen zu generieren. Bitte überprüfen Sie es später erneut.</de>
+        <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
+        <ur>رجحان سازی کی اصطلاحات پیدا کرنے کے لئے اپنے ناظرین میں کافی کی حالیہ سرگرمی نہیں تھا. بعد میں پھر سے چیک کریں.</ur>
+    </entry>
+    <entry>
+        <key>There is insufficient audience activity to generate active posts. Please check later.</key>
+        <en>There is insufficient audience activity to generate active posts. Please check later.</en>
+        <ja>オーディエンスの活動量が不足しているためアクティブな投稿を生成できません。しばらく経ってから確認してください。</ja>
+        <pt>Não há atividade suficiente em sua audiência para gerar postagens ativas. Por favor, verifique mais tarde.</pt>
+        <zh-CN>有观众活动不足以产生积极的职位。请稍后再试。</zh-CN>
+        <fr>Il est l'activité d'audience insuffisante pour générer des messages actifs. S'il vous plaît vérifier plus tard.</fr>
+        <ar>هناك عدم كفاية النشاط الجمهور لتوليد المشاركات النشطة. يرجى مراجعة في وقت لاحق.</ar>
+        <zh-TW>有觀眾活動不足以產生積極的職位。請稍後再試。</zh-TW>
+        <hi>अपर्याप्त दर्शकों गतिविधि सक्रिय पदों उत्पन्न करने के लिए है। कृपया बाद में जाँच करें।</hi>
+        <ko>활성 포스트 생성 부족 잠재 활성이있다. 나중에 확인하시기 바랍니다.</ko>
+        <bn>অপর্যাপ্ত শ্রোতা কার্যকলাপ সক্রিয় পোস্ট উৎপন্ন হয়. দয়া করে পরে চেক.</bn>
+        <ru>Существует недостаточная активность аудитории генерировать активные сообщения. Пожалуйста, проверьте позже.</ru>
+        <sq>Nuk është aktiviteti i pamjaftueshëm audience të gjeneruar postimet aktive. Ju lutemi, kontrolloni me vone.</sq>
+        <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
+        <de>Es ist nicht genügend Publikum Aktivität Beiträge generieren. Bitte versuchen Sie es später.</de>
+        <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
+        <ur>فعال پیغامات پیدا کرنے کے لئے ناکافی سامعین سرگرمی نہیں ہے. بعد میں براہ مہربانی چیک کریں.</ur>
+    </entry>
+    <entry>
+        <key>AttentionScore&amp;trade;</key>
+        <en>AttentionScore&amp;trade;</en>
+        <ja>アテンションスコア &amp;trade;</ja>
+        <pt>AttentionSocre&amp;trade;</pt>
+        <zh-CN>AttentionScore&amp;trade;</zh-CN>
+        <fr>AttentionScore ™</fr>
+        <ar>AttentionScore ™</ar>
+        <zh-TW>AttentionScore™</zh-TW>
+        <hi>AttentionScore ™</hi>
+        <ko>AttentionScore ™</ko>
+        <bn>AttentionScore ™</bn>
+        <ru>AttentionScore ™</ru>
+        <sq>AttentionScore ™</sq>
+        <it>AttentionScore ™</it>
+        <de>AttentionScore ™</de>
+        <it>AttentionScore ™</it>
+        <ur>AttentionScore ™</ur>
+    </entry>
+    <entry>
+        <key>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance.Learn More about AttentionScore™</key>
+        <en>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance.Learn More about AttentionScore™</en>
+        <ja>SocialFlow のアテンションスコア ™ は、あなたのコンテンツに対する閲覧者の関与度を予測して、 1 から 100 までの数値で表します。予測には、閲覧者があなたのソーシャルアカウントに関わる際の、次の 3 つの要素が考慮されます: 閲覧者のアクティブ度、使用言語履歴分析、リアルタイム反響状況。アテンションスコア ™  についてもっと知る</ja>
+        <pt>O SocialFlow AttentionScore™ classifica o engajamento da audiência previsto para seu conteúdo em uma escala de 1 a 100 relacionando três fatores com suas contas sociais: disponibilidade de audiência; análise histórica de linguagem; e ressonância em tempo real. Aprenda mais sobre o AttentionScore™</pt>
+        <zh-CN>观众可用性，历史语言分析和实时谐振。 详细了解AttentionScore™：通过观察三个因素，因为它们与你的社交账户从1到100的比例你的内容的SocialFlow AttentionScore™率预测观众的参与</zh-CN>
+        <fr>L'engagement de l'auditoire taux SocialFlow AttentionScore ™ prédit avec votre contenu sur une échelle de 1 à 100 par la recherche sur trois facteurs qui se rapportent à vos comptes sociaux: la disponibilité du public, l'analyse historique de la langue, et en temps réel resonance.Learn En savoir plus sur AttentionScore ™</fr>
+        <ar>إشراك الجمهور SocialFlow AttentionScore ™ معدلات توقع مع المحتوى الخاص بك على نطاق 1-100 من خلال النظر في ثلاثة عوامل من حيث صلتها الحسابات الاجتماعية الخاصة بك: توافر جمهور، تحليل اللغة التاريخي، وresonance.Learn الحقيقي المزيد عن AttentionScore ™</ar>
+        <zh-TW>觀眾可用性，歷史語言分析和實時resonance.Learn更多AttentionScore™：通過觀察三個因素，因為它們與你的社交賬戶從1到100的比例你的內容的SocialFlow AttentionScore™率預測觀眾的參與</zh-TW>
+        <hi>दर्शकों की उपलब्धता, ऐतिहासिक भाषा विश्लेषण, और realtime resonance.Learn AttentionScore ™ के बारे में अधिक जानकारी: के रूप में वे अपने सामाजिक खातों से संबंधित तीन कारकों को देखकर 1 से 100 की एक पैमाने पर अपनी सामग्री के साथ SocialFlow AttentionScore ™ दरों की भविष्यवाणी दर्शकों सगाई</hi>
+        <ko>관객 가용성, 역사적 언어 분석, 실시간 resonance.Learn AttentionScore ™에 대해 자세히 : 그들은 소셜 계정과 관련 세 가지 요소를보고 100 1 ~ 규모에서 콘텐츠와 SocialFlow AttentionScore ™ 가격 예측 잠재 고객 참여</ko>
+        <bn>শ্রোতা প্রাপ্যতা, ঐতিহাসিক ভাষা বিশ্লেষণ, এবং রিয়েলটাইম resonance.Learn AttentionScore ™ সম্পর্কে আরো: যেমন তারা আপনার সামাজিক অ্যাকাউন্ট সঙ্গে সম্পর্কযুক্ত তিনটি কারণের দিকে তাকিয়ে থেকে 100 1 থেকে একটি স্কেল উপর আপনার কন্টেন্ট সঙ্গে SocialFlow AttentionScore ™ হার পূর্বাভাস শ্রোতার</bn>
+        <ru>Ставки SocialFlow AttentionScore ™ предсказывал взаимодействие с аудиторией с содержанием по шкале от 1 до 100, глядя на три фактора, как они соотносятся с вашими социальными счетами: доступность аудитории, исторический анализ языка, и в режиме реального времени resonance.Learn Подробнее о AttentionScore ™</ru>
+        <sq>Angazhimi Normat SocialFlow AttentionScore ™ parashikuar audience me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike dhe realtime resonance.Learn Më shumë rreth AttentionScore ™</sq>
+        <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
+        <de>Die SocialFlow AttentionScore ™ Raten vorhergesagt Publikum Engagement mit dem Inhalt auf einer Skala von 1 bis 100 um drei Faktoren suchen, wie sie beziehen sich auf Ihre sozialen Konten: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-resonance.Learn Mehr über AttentionScore ™</de>
+        <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
+        <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس resonance.Learn AttentionScore ™ کے بارے میں مزید: وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ SocialFlow AttentionScore ™ ریٹس پیش گوئی سامعین کی مصروفیت</ur>
+    </entry>
+    <entry>
+        <key>Queue Average</key>
+        <en>Queue Average</en>
+        <ja>待機中平均</ja>
+        <pt>Média da Fila</pt>
+        <zh-CN>队列平均</zh-CN>
+        <fr>File d'attente moyen</fr>
+        <ar>طابور متوسط</ar>
+        <zh-TW>隊列平均</zh-TW>
+        <hi>कतार औसत</hi>
+        <ko>큐 평균</ko>
+        <bn>সারি গড়</bn>
+        <ru>Очередь Средняя</ru>
+        <sq>Queue mesatare</sq>
+        <it>media coda</it>
+        <de>Queue Durchschnitt</de>
+        <it>media coda</it>
+        <ur>قطار اوسط</ur>
+    </entry>
+    <entry>
+        <key>Published Average</key>
+        <en>Published Average</en>
+        <ja>投稿済平均</ja>
+        <pt>Média dos Publicados</pt>
+        <zh-CN>发布时间平均</zh-CN>
+        <fr>Publié moyenne</fr>
+        <ar>نشرت متوسط</ar>
+        <zh-TW>發布時間平均</zh-TW>
+        <hi>प्रकाशित औसत</hi>
+        <ko>게시 평균</ko>
+        <bn>Published গড়</bn>
+        <ru>Опубликован Средняя</ru>
+        <sq>publikuar mesatare</sq>
+        <it>pubblicato media</it>
+        <de>Veröffentlicht Durchschnitt</de>
+        <it>pubblicato media</it>
+        <ur>اشاعت اوسط</ur>
+    </entry>
+    <entry>
+        <key>Pause Reordering</key>
+        <en>Pause Reordering</en>
+        <ja>並び替えの停止</ja>
+        <pt>Pausar Reordenamento</pt>
+        <zh-CN>暂停重新排序</zh-CN>
+        <fr>Pause Reordering</fr>
+        <ar>وقفة إعادة ترتيب</ar>
+        <zh-TW>暫停重新排序</zh-TW>
+        <hi>रोकें पुनःअनुक्रमण</hi>
+        <ko>재정렬을 일시 중지</ko>
+        <bn>বিরাম পুনরায় সাজানোয়</bn>
+        <ru>Пауза переупорядочивание</ru>
+        <sq>Ndalo reordering</sq>
+        <it>Pausa Riordino</it>
+        <de>Pause Neuordnen</de>
+        <it>Pausa Riordino</it>
+        <ur>دوبارہ مرتب روک دیں</ur>
+    </entry>
+    <entry>
+        <key>Start Reordering</key>
+        <en>Start Reordering</en>
+        <ja>並び替えの開始</ja>
+        <pt>Começar Reordenamento</pt>
+        <zh-CN>开始重新排序</zh-CN>
+        <fr>Démarrer Reordering</fr>
+        <ar>بدء إعادة ترتيب</ar>
+        <zh-TW>開始重新排序</zh-TW>
+        <hi>प्रारंभ पुनःअनुक्रमण</hi>
+        <ko>시작 재정렬</ko>
+        <bn>স্টার্ট পুনরায় সাজানোয়</bn>
+        <ru>Начать изменение порядка</ru>
+        <sq>fillimi reordering</sq>
+        <it>Inizio Riordino</it>
+        <de>Starten Sie neu ordnen</de>
+        <it>Inizio Riordino</it>
+        <ur>شروع کریں دوبارہ مرتب</ur>
+    </entry>
+    <entry>
+        <key>Candidates</key>
+        <en>Candidates</en>
+        <ja>全待機中</ja>
+        <pt>Candidatos</pt>
+        <zh-CN>候选人</zh-CN>
+        <fr>Candidats</fr>
+        <ar>المرشحين</ar>
+        <zh-TW>候選人</zh-TW>
+        <hi>उम्मीदवार</hi>
+        <ko>후보자</ko>
+        <bn>প্রার্থী</bn>
+        <ru>Кандидаты</ru>
+        <sq>kandidatët</sq>
+        <it>I candidati</it>
+        <de>Die Kandidaten</de>
+        <it>I candidati</it>
+        <ur>امیدوار</ur>
+    </entry>
+    <entry>
+        <key>On Hold</key>
+        <en>On Hold</en>
+        <ja>保留中</ja>
+        <pt>Aguardando</pt>
+        <zh-CN>等候接听</zh-CN>
+        <fr>En attente</fr>
+        <ar>في الانتظار</ar>
+        <zh-TW>等候接聽</zh-TW>
+        <hi>होल्ड पर</hi>
+        <ko>보류</ko>
+        <bn>স্হগিত</bn>
+        <ru>На удерживании</ru>
+        <sq>Ne pritje</sq>
+        <it>In attesa</it>
+        <de>In Wartestellung</de>
+        <it>In attesa</it>
+        <ur>ہولڈ پر</ur>
+    </entry>
+    <entry>
+        <key>Filter</key>
+        <en>Filter</en>
+        <ja>フィルター</ja>
+        <pt>Filtro</pt>
+        <zh-CN>过滤</zh-CN>
+        <fr>Filtre</fr>
+        <ar>فلتر</ar>
+        <zh-TW>過濾</zh-TW>
+        <hi>फ़िल्टर</hi>
+        <ko>필터</ko>
+        <bn>ছাঁকনি</bn>
+        <ru>Фильтр</ru>
+        <sq>filtër</sq>
+        <it>Filtro</it>
+        <de>Filter</de>
+        <it>Filtro</it>
+        <ur>فلٹر</ur>
+    </entry>
+    <entry>
+        <key>Filter and update status, view by source, adjust sort order.</key>
+        <en>Filter and update status, view by source, adjust sort order.</en>
+        <ja>フィルターをかけてステータスを更新、ソースごとに表示、並び順の調整。</ja>
+        <pt>Filtre e atualize o status, veja por fonte, ajuste a ordem de classificação.</pt>
+        <zh-CN>筛选和更新状态，查看按来源，调整排序顺序。</zh-CN>
+        <fr>Filtrer et mettre à jour le statut, vue par la source, régler l'ordre de tri.</fr>
+        <ar>مرشح وتحديث حالة، حسب المصدر، وضبط ترتيب.</ar>
+        <zh-TW>篩選和更新狀態，查看按來源，調整排序順序。</zh-TW>
+        <hi>फ़िल्टर और अद्यतन स्थिति, स्रोत से देखें, सॉर्ट क्रम को समायोजित।</hi>
+        <ko>필터 및 업데이트 상태, 소스로보기, 정렬 순서를 조정합니다.</ko>
+        <bn>ফিল্টার করুন এবং আপডেট অবস্থা, উৎস দ্বারা দৃশ্য, সাজানোর ক্রম সমন্বয়.</bn>
+        <ru>Фильтр и изменение статуса, просмотр с помощью источника, отрегулируйте порядок сортировки.</ru>
+        <sq>Filter dhe përditësimin e statusit, pamje sipas burimit, të rregulluar rendin renditjes.</sq>
+        <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
+        <de>Filter und Update-Status, Anzeige nach Quelle, anpassen Sortierreihenfolge.</de>
+        <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
+        <ur>فلٹر اور اپ ڈیٹ کی حیثیت، منبع کی طرف سے نقطہ نظر، قسم کا حکم ایڈجسٹ.</ur>
+    </entry>
+    <entry>
+        <key>All</key>
+        <en>All</en>
+        <ja>全て</ja>
+        <pt>Tudo</pt>
+        <zh-CN>所有</zh-CN>
+        <fr>Tout</fr>
+        <ar>جميع</ar>
+        <zh-TW>所有</zh-TW>
+        <hi>सब</hi>
+        <ko>모든</ko>
+        <bn>সব</bn>
+        <ru>Все</ru>
+        <sq>të gjithë</sq>
+        <it>Tutti</it>
+        <de>Alle</de>
+        <it>Tutti</it>
+        <ur>تمام</ur>
+    </entry>
+    <entry>
+        <key>Manual</key>
+        <en>Manual</en>
+        <ja>手動</ja>
+        <pt>Manual</pt>
+        <zh-CN>手册</zh-CN>
+        <fr>Manuel</fr>
+        <ar>كتيب</ar>
+        <zh-TW>手冊</zh-TW>
+        <hi>गाइड</hi>
+        <ko>조작</ko>
+        <bn>ম্যানুয়াল</bn>
+        <ru>Руководство</ru>
+        <sq>udhëzues</sq>
+        <it>Manuale</it>
+        <de>Handbuch</de>
+        <it>Manuale</it>
+        <ur>دستی</ur>
+    </entry>
+    <entry>
+        <key>Statuses</key>
+        <en>Statuses</en>
+        <ja>ステータス</ja>
+        <pt>Status</pt>
+        <zh-CN>状态</zh-CN>
+        <fr>Statuses</fr>
+        <ar>الأوضاع</ar>
+        <zh-TW>狀態</zh-TW>
+        <hi>स्थितियों</hi>
+        <ko>상태</ko>
+        <bn>স্থিতিগুলিকে</bn>
+        <ru>Статусы</ru>
+        <sq>statuset</sq>
+        <it>Gli stati</it>
+        <de>Stati</de>
+        <it>Gli stati</it>
+        <ur>حیثیت</ur>
+    </entry>
+    <entry>
+        <key>All</key>
+        <en>All</en>
+        <ja>全て</ja>
+        <pt>Todos</pt>
+        <zh-CN>所有</zh-CN>
+        <fr>Tout</fr>
+        <ar>جميع</ar>
+        <zh-TW>所有</zh-TW>
+        <hi>सब</hi>
+        <ko>모든</ko>
+        <bn>সব</bn>
+        <ru>Все</ru>
+        <sq>të gjithë</sq>
+        <it>Tutti</it>
+        <de>Alle</de>
+        <it>Tutti</it>
+        <ur>تمام</ur>
+    </entry>
+    <entry>
+        <key>Sort by</key>
+        <en>Sort by</en>
+        <ja>並び順</ja>
+        <pt>Ordenar por</pt>
+        <zh-CN>排序方式</zh-CN>
+        <fr>Trier par</fr>
+        <ar>ترتيب حسب</ar>
+        <zh-TW>排序方式</zh-TW>
+        <hi>इसके अनुसार क्रमबद्ध करें</hi>
+        <ko>정렬</ko>
+        <bn>ক্রমানুসার</bn>
+        <ru>Сортировать по</ru>
+        <sq>Ndaj sipas</sq>
+        <it>Ordina per</it>
+        <de>Sortiere nach</de>
+        <it>Ordina per</it>
+        <ur>بہ ترتیب</ur>
+    </entry>
+    <entry>
+        <key>Score</key>
+        <en>Score</en>
+        <ja>スコア</ja>
+        <pt>Score</pt>
+        <zh-CN>得分了</zh-CN>
+        <fr>But</fr>
+        <ar>أحرز هدفاً</ar>
+        <zh-TW>得分了</zh-TW>
+        <hi>स्कोर</hi>
+        <ko>점수</ko>
+        <bn>স্কোর</bn>
+        <ru>Гол</ru>
+        <sq>pikë</sq>
+        <it>Punto</it>
+        <de>Ergebnis</de>
+        <it>Punto</it>
+        <ur>اسکور</ur>
+    </entry>
+    <entry>
+        <key>Date (descending)</key>
+        <en>Date (descending)</en>
+        <ja>日付 (降順)</ja>
+        <pt>Data (decrescente)</pt>
+        <zh-CN>日期（降序）</zh-CN>
+        <fr>Date (décroissant)</fr>
+        <ar>التاريخ (تنازلي)</ar>
+        <zh-TW>日期（降序）</zh-TW>
+        <hi>तारीख (उतरते क्रम)</hi>
+        <ko>날짜 (내림차순)</ko>
+        <bn>তারিখ (সাজানো)</bn>
+        <ru>Дата (по убыванию)</ru>
+        <sq>Data (zbritëse)</sq>
+        <it>Data (discendente)</it>
+        <de>Datum (absteigend)</de>
+        <it>Data (discendente)</it>
+        <ur>تاریخ (نزولی)</ur>
+    </entry>
+    <entry>
+        <key>Date (ascending)</key>
+        <en>Date (ascending)</en>
+        <ja>日付 (昇順)</ja>
+        <pt>Data (crescente)</pt>
+        <zh-CN>日期（升序）</zh-CN>
+        <fr>Date (croissant)</fr>
+        <ar>التاريخ (تصاعدي)</ar>
+        <zh-TW>日期（升序）</zh-TW>
+        <hi>तारीख (चढ़ते क्रम)</hi>
+        <ko>날짜 (오름차순)</ko>
+        <bn>তারিখ (আরোহী)</bn>
+        <ru>Дата (по возрастанию)</ru>
+        <sq>Data (rritëse)</sq>
+        <it>Data (ascendente)</it>
+        <de>Datum (aufsteigend)</de>
+        <it>Data (ascendente)</it>
+        <ur>تاریخ (صعودی)</ur>
+    </entry>
+    <entry>
+        <key>Expiring Date (descending)</key>
+        <en>Expiring Date (descending)</en>
+        <ja>保留期限日 (降順)</ja>
+        <pt>Data de Término (decrescente)</pt>
+        <zh-CN>到期日期（降序）</zh-CN>
+        <fr>Expiration Date (décroissant)</fr>
+        <ar>تنتهي التسجيل (تنازلي)</ar>
+        <zh-TW>到期日期（降序）</zh-TW>
+        <hi>अवसान हो रहा तिथि (उतरते क्रम)</hi>
+        <ko>날짜 만료 (내림차순)</ko>
+        <bn>মেয়াদ উত্তীর্ণ তারিখ (সাজানো)</bn>
+        <ru>Освобождающиеся Дата (по убыванию)</ru>
+        <sq>Mbaron Data (zbritëse)</sq>
+        <it>Data di scadenza (discendente)</it>
+        <de>Ablaufdatum (absteigend)</de>
+        <it>Data di scadenza (discendente)</it>
+        <ur>تاریخ ختم (نزولی)</ur>
+    </entry>
+    <entry>
+        <key>Expiring Date (ascending)</key>
+        <en>Expiring Date (ascending)</en>
+        <ja>保留期限日 (昇順)</ja>
+        <pt>Data de Término (crescente)</pt>
+        <zh-CN>到期日期（升序）</zh-CN>
+        <fr>Expiration Date (croissant)</fr>
+        <ar>تنتهي التسجيل (تصاعدي)</ar>
+        <zh-TW>到期日期（升序）</zh-TW>
+        <hi>अवसान हो रहा तिथि (चढ़ते क्रम)</hi>
+        <ko>날짜 만료 (오름차순)</ko>
+        <bn>মেয়াদ উত্তীর্ণ তারিখ (আরোহী)</bn>
+        <ru>Освобождающиеся Дата (по возрастанию)</ru>
+        <sq>Mbaron Data (rritëse)</sq>
+        <it>Data di scadenza (ascendente)</it>
+        <de>Ablaufdatum (aufsteigend)</de>
+        <it>Data di scadenza (ascendente)</it>
+        <ur>تاریخ ختم (صعودی)</ur>
+    </entry>
+    <entry>
+        <key>Scheduled Date (descending)</key>
+        <en>Scheduled Date (descending)</en>
+        <ja>予約日 (降順)</ja>
+        <pt>Data de Agendamento (decrescente)</pt>
+        <zh-CN>预定日期（降序）</zh-CN>
+        <fr>Date prévue (descendant)</fr>
+        <ar>تاريخ المجدولة (تنازلي)</ar>
+        <zh-TW>預定日期（降序）</zh-TW>
+        <hi>अनुसूचित तिथि (उतरते क्रम)</hi>
+        <ko>예약 일자 (내림차순)</ko>
+        <bn>নির্ধারিত তারিখ (সাজানো)</bn>
+        <ru>Запланированная дата (по убыванию)</ru>
+        <sq>Data e planifikuar (zbritëse)</sq>
+        <it>In programma Data (discendente)</it>
+        <de>Geplante Datum (absteigend)</de>
+        <it>In programma Data (discendente)</it>
+        <ur>تاریخ شیڈول (نزولی)</ur>
+    </entry>
+    <entry>
+        <key>Scheduled Date (ascending)</key>
+        <en>Scheduled Date (ascending)</en>
+        <ja>予約日 (昇順)</ja>
+        <pt>Data de Agendamento (crescente)</pt>
+        <zh-CN>预定日期（升序）</zh-CN>
+        <fr>Date prévue (ascendant)</fr>
+        <ar>تاريخ المجدولة (تصاعدي)</ar>
+        <zh-TW>預定日期（升序）</zh-TW>
+        <hi>अनुसूचित तिथि (चढ़ते क्रम)</hi>
+        <ko>예약 된 날짜 (오름차순)</ko>
+        <bn>নির্ধারিত তারিখ (আরোহী)</bn>
+        <ru>Запланированная дата (по возрастанию)</ru>
+        <sq>Data e planifikuar (rritëse)</sq>
+        <it>In programma Data (ascendente)</it>
+        <de>Geplante Datum (aufsteigend)</de>
+        <it>In programma Data (ascendente)</it>
+        <ur>تاریخ شیڈول (صعودی)</ur>
+    </entry>
+    <entry>
+        <key>Optimized After Date (descending)</key>
+        <en>Optimized After Date (descending)</en>
+        <ja>最適化開始日 (降順)</ja>
+        <pt>Otimizado Após Data (decrescente)</pt>
+        <zh-CN>优化后的日期（降序）</zh-CN>
+        <fr>Optimisé Après Date (descendant)</fr>
+        <ar>الأمثل بعد التسجيل (تنازلي)</ar>
+        <zh-TW>優化後的日期（降序）</zh-TW>
+        <hi>दिनांक के बाद अनुकूलित (उतरते क्रम)</hi>
+        <ko>날짜 후 최적화 (내림차순)</ko>
+        <bn>তারিখের পরে অনুকূলকৃত (নিম্নক্রম)</bn>
+        <ru>Оптимизированный После Дата (по убыванию)</ru>
+        <sq>Optimizuar Pas Date (zbritëse)</sq>
+        <it>Ottimizzato dopo Data (discendente)</it>
+        <de>Optimiert Nach Datum (absteigend)</de>
+        <it>Ottimizzato dopo Data (discendente)</it>
+        <ur>تاریخ کے بعد آپٹمائزڈ (نزولی)</ur>
+    </entry>
+    <entry>
+        <key>Optimized After Date (ascending)</key>
+        <en>Optimized After Date (ascending)</en>
+        <ja>最適化開始日 (昇順)</ja>
+        <pt>Otimizado Após Data (crescente)</pt>
+        <zh-CN>优化后的日期（升序）</zh-CN>
+        <fr>Optimisé Après Date (croissant)</fr>
+        <ar>الأمثل بعد التسجيل (تصاعدي)</ar>
+        <zh-TW>優化後的日期（升序）</zh-TW>
+        <hi>दिनांक के बाद अनुकूलित (चढ़ते क्रम)</hi>
+        <ko>날짜 후 최적화 (오름차순)</ko>
+        <bn>তারিখের পরে অনুকূলকৃত (আরোহী)</bn>
+        <ru>Оптимизированный После Дата (по возрастанию)</ru>
+        <sq>Optimizuar Pas Date (rritëse)</sq>
+        <it>Ottimizzato dopo Data (ascendente)</it>
+        <de>Optimiert nach dem Datum (aufsteigend)</de>
+        <it>Ottimizzato dopo Data (ascendente)</it>
+        <ur>تاریخ کے بعد آپٹمائزڈ (صعودی)</ur>
+    </entry>
+    <entry>
+        <key>Recycle As</key>
+        <en>Recycle As</en>
+        <ja>再利用する</ja>
+        <pt>Reciclar Como</pt>
+        <zh-CN>重用</zh-CN>
+        <fr>Recycler Comme</fr>
+        <ar>إعادة تدوير و</ar>
+        <zh-TW>由於回收</zh-TW>
+        <hi>रीसायकल के रूप में</hi>
+        <ko>재활용으로</ko>
+        <bn>রিসাইকেল হিসেবে</bn>
+        <ru>Переработать Как</ru>
+        <sq>Recycle Si</sq>
+        <it>riciclare</it>
+        <de>Recycle Als</de>
+        <it>riciclare</it>
+        <ur>ردی کے طور پر</ur>
+    </entry>
+    <entry>
+        <key>Enter a Search Term</key>
+        <en>Enter a Search Term</en>
+        <ja>検索ワードを入力</ja>
+        <pt>Insira um termo de pesquisa</pt>
+        <zh-CN>输入搜索词</zh-CN>
+        <fr>Entrez un Terme</fr>
+        <ar>أدخل مصطلح البحث</ar>
+        <zh-TW>輸入搜索詞</zh-TW>
+        <hi>एक खोज शब्द दर्ज</hi>
+        <ko>검색어를 입력</ko>
+        <bn>একটি অনুসন্ধান শব্দ লিখুন</bn>
+        <ru>Введите поисковый запрос</ru>
+        <sq>Jepni një zë kërkimi</sq>
+        <it>Inserire un termine di ricerca</it>
+        <de>Geben Sie einen Suchbegriff</de>
+        <it>Inserire un termine di ricerca</it>
+        <ur>ایک اصطلاح درج کریں</ur>
+    </entry>
+    <entry>
+        <key>Published  day(s) ago</key>
+        <en>Published  day(s) ago</en>
+        <ja>日前に公開済</ja>
+        <pt>Publicado  dia(s) atrás</pt>
+        <zh-CN>发布当天前</zh-CN>
+        <fr>jour (s) Publié</fr>
+        <ar>نشرت يوم مضت</ar>
+        <zh-TW>發布當天（縣）前</zh-TW>
+        <hi>प्रकाशित दिन (s) पहले</hi>
+        <ko>공개 일 전</ko>
+        <bn>Published দিন (গুলি) আগে</bn>
+        <ru>Опубликован день (ы) назад</ru>
+        <sq>(s) publikuar më parë</sq>
+        <it>giorno Pubblicato (s) fa</it>
+        <de>Veröffentlicht Tag (e) vor</de>
+        <it>giorno Pubblicato (s) fa</it>
+        <ur>اشاعت دن پہلے</ur>
+    </entry>
+    <entry>
+        <key>Published  week(s) ago</key>
+        <en>Published  week(s) ago</en>
+        <ja>週間前に公開済</ja>
+        <pt>Publicado  semana(s) atrás</pt>
+        <zh-CN>本周发布前</zh-CN>
+        <fr>semaine (s) Publié</fr>
+        <ar>نشرت الاسبوع مضت</ar>
+        <zh-TW>本週發布（縣）前</zh-TW>
+        <hi>प्रकाशित सप्ताह (s) पहले</hi>
+        <ko>게시 주 일 전</ko>
+        <bn>Published সপ্তাহে (গুলি) আগে</bn>
+        <ru>Опубликовано неделю (ы) назад</ru>
+        <sq>Javën (s) publikuar më parë</sq>
+        <it>settimana Pubblicato (s) fa</it>
+        <de>Veröffentlicht Woche (n)</de>
+        <it>settimana Pubblicato (s) fa</it>
+        <ur>اشاعت ہفتے پہلے</ur>
+    </entry>
+    <entry>
+        <key>Published  month(s) ago</key>
+        <en>Published  month(s) ago</en>
+        <ja>ヶ月前に公開済</ja>
+        <pt>Publicado  mês(es) atrás</pt>
+        <zh-CN>发布时间 个月县前</zh-CN>
+        <fr>mois (s) Publié</fr>
+        <ar>نشرت الشهر مضت</ar>
+        <zh-TW>發布時間一個月（縣）前</zh-TW>
+        <hi>प्रकाशित महीने (s) पहले</hi>
+        <ko>게시 된 월 (들) 전</ko>
+        <bn>Published মাস (গুলি) আগে</bn>
+        <ru>Опубликовано месяц (ев) назад</ru>
+        <sq>month (s) publikuar më parë</sq>
+        <it>mese Pubblicato (s) fa</it>
+        <de>Veröffentlicht Monat (en)</de>
+        <it>mese Pubblicato (s) fa</it>
+        <ur>اشاعت مہینوں پہلے</ur>
+    </entry>
+    <entry>
+        <key>You have nothing to display. Please check your filters or add content.</key>
+        <en>You have nothing to display. Please check your filters or add content.</en>
+        <ja>表示するデータがありません。フィルターを確認するか、コンテンツを追加してください。</ja>
+        <pt>Você não tem nada para exibir. Por favor, cheque os filtros ou adicione conteúdo</pt>
+        <zh-CN>你有什么可显示。请检查您的过滤器或添加的内容。</zh-CN>
+        <fr>Vous avez rien à afficher. S'il vous plaît vérifier vos filtres ou ajouter du contenu.</fr>
+        <ar>لديك شيء للعرض. يرجى التحقق من الفلاتر أو إضافة محتوى.</ar>
+        <zh-TW>你有什麼可顯示。請檢查您的過濾器或添加的內容。</zh-TW>
+        <hi>आप प्रदर्शित करने के लिए कुछ भी नहीं है। अपने फिल्टर की जाँच करें या सामग्री जोड़ें।</hi>
+        <ko>당신은 표시 할 게 없다. 필터를 확인하거나 내용을 추가하십시오.</ko>
+        <bn>প্রদর্শন করার জন্য আপনার কোন সম্পর্ক নেই. আপনার ফিল্টার চেক বা কন্টেন্ট যোগ করুন.</bn>
+        <ru>У Вас нет ничего, чтобы отобразить. Пожалуйста, проверьте настройки фильтров или добавьте контент.</ru>
+        <sq>Ju keni asgjë për të shfaqur. Ju lutem kontrolloni filtrat tuaj ose shtoni përmbajtje.</sq>
+        <it>Non hai nulla da visualizzare. Si prega di verificare i filtri o aggiungere contenuti.</it>
+        <de>Sie haben nichts angezeigt werden soll. Bitte überprüfen Sie Ihre Filter oder Inhalte hinzufügen.</de>
+        <it>Non hai nulla da visualizzare. Si prega di verificare i filtri o aggiungere contenuti.</it>
+        <ur>آپ کو ظاہر کرنے کے لئے کچھ بھی نہیں ہے. آپ کے فلٹرز چیک یا مواد شامل کریں براہ مہربانی.</ur>
+    </entry>
+    <entry>
+        <key>Active Posts</key>
+        <en>Active Posts</en>
+        <ja>アクティブな投稿</ja>
+        <pt>Postagens Ativas</pt>
+        <zh-CN>活跃的帖子</zh-CN>
+        <fr>messages</fr>
+        <ar>عدد المشاركات:</ar>
+        <zh-TW>活躍的帖子</zh-TW>
+        <hi>सक्रिय पोस्ट</hi>
+        <ko>액티브 게시물</ko>
+        <bn>সক্রিয় পোস্টসমূহ</bn>
+        <ru>Сообщений:</ru>
+        <sq>postime aktive</sq>
+        <it>Messaggi</it>
+        <de>Aktive Beiträge</de>
+        <it>Messaggi</it>
+        <ur>ایکٹو مراسلات</ur>
+    </entry>
+    <entry>
+        <key>Messages Published to</key>
+        <en>Messages Published to</en>
+        <ja>このアカウントに投稿済みのメッセージ</ja>
+        <pt>Mensagens Publicadas para</pt>
+        <zh-CN>消息发布到</zh-CN>
+        <fr>Messages Publié à</fr>
+        <ar>الرسائل المنشورة ل</ar>
+        <zh-TW>消息發布到</zh-TW>
+        <hi>संदेश को प्रकाशित</hi>
+        <ko>메시지를 게시</ko>
+        <bn>বার্তা থেকে প্রকাশিত</bn>
+        <ru>Сообщения Опубликовано в</ru>
+        <sq>Mesazhet Publikuar me</sq>
+        <it>Messaggi pubblicati per</it>
+        <de>Nachrichten Veröffentlicht</de>
+        <it>Messaggi pubblicati per</it>
+        <ur>پیغامات اشاعت</ur>
+    </entry>
+    <entry>
+        <key>No more messages to display.</key>
+        <en>No more messages to display.</en>
+        <ja>これ以上表示するメッセージはありません。</ja>
+        <pt>Não há mais mensagens para exibir.</pt>
+        <zh-CN>没有更多的消息显示。</zh-CN>
+        <fr>Pas plus de messages à afficher.</fr>
+        <ar>لا مزيد من الرسائل لعرضه.</ar>
+        <zh-TW>沒有更多的消息顯示。</zh-TW>
+        <hi>कोई और अधिक संदेशों को प्रदर्शित करने के लिए।</hi>
+        <ko>더 이상 메시지가 표시 없습니다.</ko>
+        <bn>কোন বার্তা প্রদর্শনের জন্য.</bn>
+        <ru>Нет больше сообщений для отображения.</ru>
+        <sq>Nuk ka më shumë mesazhe për të shfaqur.</sq>
+        <it>Niente più messaggi da visualizzare.</it>
+        <de>Keine Meldungen mehr angezeigt werden soll.</de>
+        <it>Niente più messaggi da visualizzare.</it>
+        <ur>کوئی زیادہ پیغامات کو ظاہر کرنے کے لئے.</ur>
+    </entry>
+    <entry>
+        <key>Want to see the rest of your queue? Sort by date</key>
+        <en>Want to see the rest of your queue? Sort by date</en>
+        <ja>残りの待機中メッセージを表示しますか? 日付で並び替え</ja>
+        <pt>Quer ver o resto de sua fila? Ordenar por data</pt>
+        <zh-CN>想看看你的队列的休息吗？按日期排序</zh-CN>
+        <fr>Vous voulez voir le reste de votre file d'attente? Trier par date</fr>
+        <ar>نريد أن نرى ما تبقى من قائمة الانتظار الخاصة بك؟ رتب حسب التاريخ</ar>
+        <zh-TW>想看看你的隊列的休息嗎？按日期排序</zh-TW>
+        <hi>अपने कतार के बाकी देखने के लिए चाहते हैं? दिनांक के हिसाब से अलग करे</hi>
+        <ko>대기열의 나머지 부분을보고 싶으십니까? 날짜별로 정렬</ko>
+        <bn>আপনার সারিতে বাকি দেখতে চান? তারিখ অনুযায়ী সাজাও</bn>
+        <ru>Хотите увидеть остальную часть очереди? Сортировка по дате</ru>
+        <sq>Duan të shohin pjesën tjetër të radhë tuaj? Renditur sipas datës</sq>
+        <it>Vuoi vedere il resto della coda? Ordinare per data</it>
+        <de>Wollen Sie den Rest Ihrer Warteschlange zu sehen? Nach Datum sortieren</de>
+        <it>Vuoi vedere il resto della coda? Ordinare per data</it>
+        <ur>آپ کی قطار کے باقی دیکھنا چاہتے ہیں؟ تاریخ کے مطابق ترتیب</ur>
+    </entry>
+    <entry>
+        <key>Added Via</key>
+        <en>Added Via</en>
+        <ja>使用したアプリ</ja>
+        <pt>Adicionado Via</pt>
+        <zh-CN>通过添加</zh-CN>
+        <fr>Ajouté Via</fr>
+        <ar>وأضاف فيا</ar>
+        <zh-TW>通過添加</zh-TW>
+        <hi>जोड़ा वाया</hi>
+        <ko>추가 비아</ko>
+        <bn>যোগ করা হয়েছে করেকিছু</bn>
+        <ru>Добавлено Via</ru>
+        <sq>Shtuar Via</sq>
+        <it>Aggiunto Via</it>
+        <de>Added Via</de>
+        <it>Aggiunto Via</it>
+        <ur>شامل کر دیا گیا ویا</ur>
+    </entry>
+    <entry>
+        <key>Send to Queue</key>
+        <en>Send to Queue</en>
+        <ja>待機中に送る</ja>
+        <pt>Enviar para Fila</pt>
+        <zh-CN>发送到队列</zh-CN>
+        <fr>Envoyer à la file d'attente</fr>
+        <ar>ارسل الى قائمة الانتظار</ar>
+        <zh-TW>發送到隊列</zh-TW>
+        <hi>कतार को भेजें</hi>
+        <ko>대기열에 보내기</ko>
+        <bn>সারিতে পাঠান</bn>
+        <ru>Отправить в очередь</ru>
+        <sq>Dërgoja Radhë</sq>
+        <it>Invia alla coda</it>
+        <de>Senden to Queue</de>
+        <it>Invia alla coda</it>
+        <ur>قطار کو بھیجیں</ur>
+    </entry>
+    <entry>
+        <key># of comments</key>
+        <en># of comments</en>
+        <ja>コメント数</ja>
+        <pt># de comentários</pt>
+        <zh-CN>评论数</zh-CN>
+        <fr>Nombre de commentaires</fr>
+        <ar># من التعليقات</ar>
+        <zh-TW>評論＃</zh-TW>
+        <hi>टिप्पणियों के #</hi>
+        <ko>코멘트 #</ko>
+        <bn>মন্তব্য #</bn>
+        <ru># Комментариев</ru>
+        <sq># I komenteve</sq>
+        <it># Di commenti</it>
+        <de># Kommentare</de>
+        <it># Di commenti</it>
+        <ur>تبصرے کی #</ur>
+    </entry>
+    <entry>
+        <key>All Twitter</key>
+        <en>All Twitter</en>
+        <ja>Twitter 全体で話題の用語</ja>
+        <pt>Todo o Twitter</pt>
+        <zh-CN>所有的Twitter</zh-CN>
+        <fr>Tout Twitter</fr>
+        <ar>كل تويتر</ar>
+        <zh-TW>所有的Twitter</zh-TW>
+        <hi>सभी ट्विटर</hi>
+        <ko>모든 트위터</ko>
+        <bn>সকল টুইটার</bn>
+        <ru>Все Twitter</ru>
+        <sq>All Twitter</sq>
+        <it>Tutti Twitter</it>
+        <de>Alle Twitter</de>
+        <it>Tutti Twitter</it>
+        <ur>تمام ٹویٹر</ur>
+    </entry>
+    <entry>
+        <key>Your Audience</key>
+        <en>Your Audience</en>
+        <ja>閲覧者に話題の用語</ja>
+        <pt>Sua Audiência</pt>
+        <zh-CN>您的受众</zh-CN>
+        <fr>Votre public</fr>
+        <ar>جمهورك</ar>
+        <zh-TW>您的受眾</zh-TW>
+        <hi>अपने दर्शकों को</hi>
+        <ko>잠재 고객</ko>
+        <bn>আপনার শ্রোতাদের</bn>
+        <ru>Ваша аудитория</ru>
+        <sq>Audienca juaj</sq>
+        <it>il tuo pubblico</it>
+        <de>Ihr Publikum</de>
+        <it>il tuo pubblico</it>
+        <ur>اپنے شائقین</ur>
+    </entry>
+    <entry>
+        <key>Account settings</key>
+        <en>Account settings</en>
+        <ja>アカウント設定</ja>
+        <pt>Configurações de conta</pt>
+        <zh-CN>帐号设定</zh-CN>
+        <fr>Paramètres du compte</fr>
+        <ar>إعدادت الحساب</ar>
+        <zh-TW>帳號設定</zh-TW>
+        <hi>अकाउंट सेटिंग</hi>
+        <ko>계정 설정</ko>
+        <bn>অ্যাকাউন্ট সেটিংস</bn>
+        <ru>Настройки аккаунта</ru>
+        <sq>cilësimet e llogarisë</sq>
+        <it>Impostazioni dell 'account</it>
+        <de>Account Einstellungen</de>
+        <it>Impostazioni dell 'account</it>
+        <ur>اکاؤنٹ کی ترتیبات</ur>
+    </entry>
+    <entry>
+        <key>Publishing Paused</key>
+        <en>Publishing Paused</en>
+        <ja>投稿停止中</ja>
+        <pt>Publicações Pausadas</pt>
+        <zh-CN>暂停发布</zh-CN>
+        <fr>Publishing Paused</fr>
+        <ar>توقف مؤقت النشر</ar>
+        <zh-TW>暫停發布</zh-TW>
+        <hi>प्रकाशन रोका गया</hi>
+        <ko>출판 일시 중지</ko>
+        <bn>প্রকাশনা বিরাম</bn>
+        <ru>Издательство Приостановлено</ru>
+        <sq>Botime Paused</sq>
+        <it>Editoria in pausa</it>
+        <de>Publishing Paused</de>
+        <it>Editoria in pausa</it>
+        <ur>پبلشنگ روک دیا گیا</ur>
+    </entry>
+    <entry>
+        <key>scheduled</key>
+        <en>scheduled</en>
+        <ja>最適化</ja>
+        <pt>Agendadas</pt>
+        <zh-CN>计划</zh-CN>
+        <fr>prévue</fr>
+        <ar>المقرر</ar>
+        <zh-TW>計劃</zh-TW>
+        <hi>अनुसूचित</hi>
+        <ko>예약</ko>
+        <bn>তালিকাভুক্ত</bn>
+        <ru>Запланированное</ru>
+        <sq>planifikuar</sq>
+        <it>in programma</it>
+        <de>geplant</de>
+        <it>in programma</it>
+        <ur>شیڈول</ur>
+    </entry>
+    <entry>
+        <key>messages are currently stopped from publishing.</key>
+        <en>messages are currently stopped from publishing.</en>
+        <ja>されたメッセージはただいま投稿されません</ja>
+        <pt>estão com sua publicação pausada.</pt>
+        <zh-CN>消息目前由发布停止。</zh-CN>
+        <fr>les messages sont actuellement empêchés de publier.</fr>
+        <ar>يتم إيقاف الرسائل حاليا من النشر.</ar>
+        <zh-TW>消息目前由發布停止。</zh-TW>
+        <hi>संदेशों वर्तमान में प्रकाशन से रोका जाता है।</hi>
+        <ko>메시지는 현재 출판에서 중지됩니다.</ko>
+        <bn>বার্তা বর্তমানে প্রকাশনা থেকে বন্ধ করা হয়.</bn>
+        <ru>Сообщения в настоящее время остановлены из публикации.</ru>
+        <sq>Mesazhet janë aktualisht të ndaluar nga botuese.</sq>
+        <it>messaggi sono attualmente impedito di pubblicazione.</it>
+        <de>Nachrichten werden derzeit von Veröffentlichung beendet.</de>
+        <it>messaggi sono attualmente impedito di pubblicazione.</it>
+        <ur>پیغامات فی الحال پبلشنگ سے بند کر دیا ہے.</ur>
+    </entry>
+    <entry>
+        <key>While publishing is paused you may continue to compose and queue messages. Only Publish Now messages will successfully post. </key>
+        <en>While publishing is paused you may continue to compose and queue messages. Only Publish Now messages will successfully post. </en>
+        <ja>投稿停止中もメッセージの作成・入稿は続けられますが、投稿されるのは「今すぐ投稿」に設定したメッセージのみです</ja>
+        <pt>Enquanto a publicação está pausada, você pode continuar a compôr mensagens e colocá-las na fila. Apenas mensagens com Publicar Agora serão postadas com sucesso.</pt>
+        <zh-CN>同时发布暂停您可以继续撰写和排队的消息。只有立即发布消息将成功发布。</zh-CN>
+        <fr>Alors que l'édition est en pause, vous pouvez continuer à composer et à la file d'attente des messages. Seulement Publier maintenant les messages avec succès poster.</fr>
+        <ar>بينما توقف النشر التي قد تستمر لتكوين قائمة الانتظار والرسائل. نشر فقط الآن ونشر الرسائل بنجاح.</ar>
+        <zh-TW>同時發布暫停您可以繼續撰寫和排隊的消息。只有立即發布消息將成功發布。</zh-TW>
+        <hi>प्रकाशन रुका हुआ है, जबकि आप रचना और संदेशों क़तार में जारी रख सकते हैं। केवल अब प्रकाशित संदेश सफलतापूर्वक पोस्ट करेंगे।</hi>
+        <ko>출판이 일시 정지 된 상태에서 당신이 작성하고 메시지를 큐에 계속 사용할 수 있습니다. 메시지 만 성공적으로 게시 할 예정입니다 지금 게시합니다.</ko>
+        <bn>প্রকাশনা বিরতি দেওয়া হয় যখন আপনি রচনা এবং বার্তা কিউ চালিয়ে যেতে পারেন. শুধু এখন Publish বার্তা সফলভাবে পোস্ট করতে হবে.</bn>
+        <ru>Во время публикации паузы вы можете продолжать создавать и очереди сообщений. Только Опубликовать Теперь сообщения будут успешно оставлять сообщения.</ru>
+        <sq>Ndërsa botuese është e ndaluar që ju mund të vazhdojë të shkruaj dhe radhë mesazhe. Vetëm Publikimi Tani mesazhet do të shpallë me sukses.</sq>
+        <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
+        <de>Während Verlags pausiert können Sie weiterhin Nachrichten verfassen und in die Warteschlange. Veröffentlichen Sie erst jetzt Nachrichten werden erfolgreich veröffentlichen.</de>
+        <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
+        <ur>پبلشنگ روک دیا گیا ہے، جبکہ آپ کو تحریر اور پیغامات قطار میں جاری رکھ سکتے ہیں. صرف اب شائع پیغامات کامیابی سے پوسٹ کیا جائے گا.</ur>
+    </entry>
+    <entry>
+        <key>Learn More.</key>
+        <en>Learn More.</en>
+        <ja>詳細</ja>
+        <pt>Aprenda Mais.</pt>
+        <zh-CN>了解更多。</zh-CN>
+        <fr>Apprendre encore plus.</fr>
+        <ar>أعرف أكثر.</ar>
+        <zh-TW>了解更多。</zh-TW>
+        <hi>और अधिक जानें।</hi>
+        <ko>자세히 알아보기.</ko>
+        <bn>সম্পর্কে আরও জানুন.</bn>
+        <ru>Выучить больше.</ru>
+        <sq>Mëso më shumë.</sq>
+        <it>Per saperne di più.</it>
+        <de>Erfahren Sie mehr.</de>
+        <it>Per saperne di più.</it>
+        <ur>اورجانیے.</ur>
+    </entry>
+    <entry>
+        <key>Pause more accounts?</key>
+        <en>Pause more accounts?</en>
+        <ja>ほかのアカウントも停止する</ja>
+        <pt>Pausar mais contas?</pt>
+        <zh-CN>暂停多个帐户？</zh-CN>
+        <fr>Pause plusieurs comptes?</fr>
+        <ar>وقفة المزيد من الحسابات؟</ar>
+        <zh-TW>暫停多個帳戶？</zh-TW>
+        <hi>अधिक खातों रोकें?</hi>
+        <ko>더 많은 계정을 일시 중지?</ko>
+        <bn>আরো অ্যাকাউন্ট বন্ধ করতে চান?</bn>
+        <ru>Пауза больше счетов?</ru>
+        <sq>Ndalo më shumë llogari?</sq>
+        <it>Pause più account?</it>
+        <de>Pause mehr Konten?</de>
+        <it>Pause più account?</it>
+        <ur>مزید اکاؤنٹس روک دیں؟</ur>
+    </entry>
+    <entry>
+        <key>Publishing Resumed</key>
+        <en>Publishing Resumed</en>
+        <ja>投稿が再開されました</ja>
+        <pt>Publicação Reiniciada</pt>
+        <zh-CN>发布复会</zh-CN>
+        <fr>Publishing Reprise</fr>
+        <ar>المستأنفة النشر</ar>
+        <zh-TW>發布復會</zh-TW>
+        <hi>प्रकाशन फिर से शुरू</hi>
+        <ko>게시 재개</ko>
+        <bn>প্রকাশনা পুনরায় শুরু</bn>
+        <ru>Издательство Возобновился</ru>
+        <sq>Botime Rifilloi</sq>
+        <it>Editoria Ripreso</it>
+        <de>Publishing Resumed</de>
+        <it>Editoria Ripreso</it>
+        <ur>پبلشنگ کا سلسلہ دوبارہ شروع</ur>
+    </entry>
+    <entry>
+        <key>While the queue was paused,</key>
+        <en>While the queue was paused,</en>
+        <ja>投稿停止中に</ja>
+        <pt>Enquanto a fila estava pausada,</pt>
+        <zh-CN>当队列被暂停，</zh-CN>
+        <fr>Alors que la file d'attente a été interrompue,</fr>
+        <ar>في حين تم إيقاف قائمة الانتظار،</ar>
+        <zh-TW>當隊列被暫停，</zh-TW>
+        <hi>कतार रुका हुआ था,</hi>
+        <ko>큐가 일시 중지 된 동안,</ko>
+        <bn>কিউ বিরাম দেওয়া হয়েছে যদিও,</bn>
+        <ru>В то время как очередь была приостановлена,</ru>
+        <sq>Ndërsa radhë ishte ndaluar,</sq>
+        <it>Mentre la coda è stata messa in pausa,</it>
+        <de>Während wurde die Warteschlange angehalten,</de>
+        <it>Mentre la coda è stata messa in pausa,</it>
+        <ur>قطار روک دیا گیا تھا جبکہ،</ur>
+    </entry>
+    <entry>
+        <key>messages</key>
+        <en>messages</en>
+        <ja>件のメッセージが</ja>
+        <pt>mensagens</pt>
+        <zh-CN>信息</zh-CN>
+        <fr>messages</fr>
+        <ar>رسائل</ar>
+        <zh-TW>信息</zh-TW>
+        <hi>संदेशों</hi>
+        <ko>메시지</ko>
+        <bn>বার্তা</bn>
+        <ru>Сообщения</ru>
+        <sq>mesazhet</sq>
+        <it>messaggi</it>
+        <de>Nachrichten</de>
+        <it>messaggi</it>
+        <ur>پیغامات</ur>
+    </entry>
+    <entry>
+        <key>missed their</key>
+        <en>missed their</en>
+        <ja>,</ja>
+        <pt>perderam sua</pt>
+        <zh-CN>错过了</zh-CN>
+        <fr>manqué leur</fr>
+        <ar>غاب بهم</ar>
+        <zh-TW>錯過了</zh-TW>
+        <hi>चूक उनकी</hi>
+        <ko>자신을 놓친</ko>
+        <bn>মিস তাদের</bn>
+        <ru>пропустил их</ru>
+        <sq>humbur i tyre duke</sq>
+        <it>perso il loro</it>
+        <de>verfehlten ihr</de>
+        <it>perso il loro</it>
+        <ur>ان کو یاد کیا</ur>
+    </entry>
+    <entry>
+        <key>or optimized window to publish.</key>
+        <en>or optimized window to publish.</en>
+        <ja>や最適化の時間を経過し投稿されませんでした</ja>
+        <pt>janela de publicação para otimização</pt>
+        <zh-CN>或优化窗口来发布。</zh-CN>
+        <fr>ou d'une fenêtre à publier optimisée.</fr>
+        <ar>أو الأمثل نافذة للنشر.</ar>
+        <zh-TW>或優化窗口來發布。</zh-TW>
+        <hi>या प्रकाशित करने के लिए खिड़की अनुकूलित।</hi>
+        <ko>또는 게시하는 창을 최적화.</ko>
+        <bn>বা প্রকাশ করার জন্য উইন্ডোর অপ্টিমাইজ করা.</bn>
+        <ru>или оптимизировано окно для публикации.</ru>
+        <sq>ose dritare për të publikuar optimizuar.</sq>
+        <it>o finestra di pubblicare ottimizzato.</it>
+        <de>oder optimierte Fenster zu veröffentlichen.</de>
+        <it>o finestra di pubblicare ottimizzato.</it>
+        <ur>یا شائع کرنے کی کھڑکی مرضی.</ur>
+    </entry>
+    <entry>
+        <key>Review failed to send messages</key>
+        <en>Review failed to send messages</en>
+        <ja>投稿に失敗したメッセージを確認</ja>
+        <pt>Verificar mensagens que não foram enviadas</pt>
+        <zh-CN>回顾失败的信息</zh-CN>
+        <fr>Review n'a pas réussi à envoyer des messages</fr>
+        <ar>فشل مراجعة لإرسال رسائل</ar>
+        <zh-TW>回顧失敗的信息</zh-TW>
+        <hi>समीक्षा संदेश भेजने के लिए विफल रहा है</hi>
+        <ko>검토는 메시지를 보내지 못했습니다</ko>
+        <bn>পর্যালোচনা বার্তা পাঠাতে ব্যর্থ হয়েছি</bn>
+        <ru>Обзор не удалось отправить сообщения</ru>
+        <sq>Rishikimi dështuar për të dërguar mesazhe</sq>
+        <it>Review non è riuscito a inviare messaggi</it>
+        <de>Bewertung fehlgeschlagen Nachrichten zu versenden</de>
+        <it>Review non è riuscito a inviare messaggi</it>
+        <ur>کا جائزہ لیں پیغامات بھیجنے میں ناکام</ur>
+    </entry>
+    <section>optimized_publisher</section>
+</translations>
