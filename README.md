@@ -18,6 +18,7 @@ translation stuff for socialflow
 - Italian
 - Urdu
 - Spanish
+- Hebrew
 
 ## Languages Completed:
 - Chinese (simplified)
