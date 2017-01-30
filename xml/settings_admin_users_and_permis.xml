@@ -17,7 +17,7 @@
         <de>Invite New User</de>
         <it>Invita nuovo utente</it>
         <ur>نئے صارف کو مدعو کریں</ur>
-    <es>Invitar Nuevo Usuario</es></entry>
+    <es>Invitar Nuevo Usuario</es><iw>זמן משתמש חדש</iw></entry>
     <entry>
         <key>Email</key>
         <en>Email</en>
@@ -36,7 +36,7 @@
         <de>Email</de>
         <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
-    <es>Email</es></entry>
+    <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
         <key>User Status</key>
         <en>User Status</en>
@@ -55,7 +55,7 @@
         <de>Benutzerstatus</de>
         <it>Stato dell'utente</it>
         <ur>رکن کا درجہ</ur>
-    <es>Status de Usuario</es></entry>
+    <es>Status de Usuario</es><iw>סטטוס משתמש</iw></entry>
     <entry>
         <key>Invite New Users</key>
         <en>Invite New Users</en>
@@ -74,7 +74,7 @@
         <de>Einladen neuer Benutzer</de>
         <it>Invitare nuovi utenti</it>
         <ur>نئے صارفین کو مدعو کریں</ur>
-    <es>Invitar Nuevos Usuarios</es></entry>
+    <es>Invitar Nuevos Usuarios</es><iw>להזמין משתמשים חדשים</iw></entry>
     <entry>
         <key>Full Name</key>
         <en>Full Name</en>
@@ -93,7 +93,7 @@
         <de>Vollständiger Name</de>
         <it>Nome e cognome</it>
         <ur>پورا نام</ur>
-    <es>Nombre Completo</es></entry>
+    <es>Nombre Completo</es><iw>שם מלא</iw></entry>
     <entry>
         <key>Email</key>
         <en>Email</en>
@@ -112,7 +112,7 @@
         <de>Email</de>
         <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
-    <es>Email</es></entry>
+    <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
         <key>Country</key>
         <en>Country</en>
@@ -131,7 +131,7 @@
         <de>Land</de>
         <it>Nazione</it>
         <ur>ملک</ur>
-    <es>País</es></entry>
+    <es>País</es><iw>מדינה</iw></entry>
     <entry>
         <key>Timezone</key>
         <en>Timezone</en>
@@ -150,7 +150,7 @@
         <de>Zeitzone</de>
         <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
-    <es>Zona Horaria</es></entry>
+    <es>Zona Horaria</es><iw>אזור זמן</iw></entry>
     <entry>
         <key>User Permissions</key>
         <en>User Permissions</en>
@@ -169,7 +169,7 @@
         <de>Benutzerberechtigungen</de>
         <it>Autorizzazioni utente</it>
         <ur>صارف کی اجازت</ur>
-    <es>Permisos de Usuario</es></entry>
+    <es>Permisos de Usuario</es><iw>הרשאות משתמש</iw></entry>
     <entry>
         <key>Permissions for Future Social Accounts:</key>
         <en>Permissions for Future Social Accounts:</en>
@@ -188,7 +188,7 @@
         <de>Berechtigungen für zukünftige Social-Konten:</de>
         <it>Autorizzazioni per futuri conti sociali:</it>
         <ur>مستقبل سماجی اکاؤنٹس کے لئے اجازت:</ur>
-    <es>Permisos para Cuentas Sociales Futuras:</es></entry>
+    <es>Permisos para Cuentas Sociales Futuras:</es><iw>הרשאות עבור חשבונות חברתיים עתיד:</iw></entry>
     <entry>
         <key>Read Only</key>
         <en>Read Only</en>
@@ -207,7 +207,7 @@
         <de>Schreibgeschützt</de>
         <it>Sola lettura</it>
         <ur>صرف پڑھو</ur>
-    <es>Leer Solamente</es></entry>
+    <es>Leer Solamente</es><iw>לקריאה בלבד</iw></entry>
     <entry>
         <key>Read/Write</key>
         <en>Read/Write</en>
@@ -226,7 +226,7 @@
         <de>Lesen Schreiben</de>
         <it>Leggere scrivere</it>
         <ur>پڑھ لکھ</ur>
-    <es>Leer/Escribir</es></entry>
+    <es>Leer/Escribir</es><iw>קרוא וכתוב</iw></entry>
     <entry>
         <key>Read/Write/Admin</key>
         <en>Read/Write/Admin</en>
@@ -245,7 +245,7 @@
         <de>Lesen / Schreiben / Admin</de>
         <it>Lettura / scrittura / Amministratore</it>
         <ur>پڑھنا / لکھنا / ایڈمن</ur>
-    <es>Leer/Escribir/Admin</es></entry>
+    <es>Leer/Escribir/Admin</es><iw>קריאה / כתיבה / Admin</iw></entry>
     <entry>
         <key>No Access</key>
         <en>No Access</en>
@@ -264,7 +264,7 @@
         <de>Kein Zugang</de>
         <it>Nessun accesso</it>
         <ur>داخلہ ممنوع ہے</ur>
-    <es>Sin Acceso</es></entry>
+    <es>Sin Acceso</es><iw>אין גישה</iw></entry>
     <entry>
         <key>Additional Roles</key>
         <en>Additional Roles</en>
@@ -283,7 +283,7 @@
         <de>Weitere Rollen</de>
         <it>ruoli aggiuntivi</it>
         <ur>اضافی رول</ur>
-    <es>Roles Adicionales</es></entry>
+    <es>Roles Adicionales</es><iw>תפקידים נוספים</iw></entry>
     <entry>
         <key>Client Admin – Can add to/cancel service. This is the highest level of control. Warning: assigning this to another user will revoke your status as client admin.</key>
         <en>Client Admin – Can add to/cancel service. This is the highest level of control. Warning: assigning this to another user will revoke your status as client admin.</en>
@@ -302,7 +302,7 @@
         <de>Client-Admin - hinzufügen können / stornieren Service. Dies ist der höchste Grad an Kontrolle. Achtung: dieser Benutzer auf eine andere Zuordnung wird Ihr Status als Client Server-Betreiber widerrufen.</de>
         <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
         <ur>کلائنٹ ایڈمن - سروس منسوخ / کرنے کے لئے شامل کر سکتے ہیں. اس کنٹرول کی بلند ترین سطح ہے. انتباہ: کسی دوسرے صارف کو اس کے بتائے کلائنٹ منتظم کے طور پر آپ کی حیثیت کو منسوخ کرے گا.</ur>
-    <es>Admin de Cliente - Puede añadir/cancelar servicio. Este es el nivel más alto de control. Advertencia: asignar esto a otro usuario revocará su estado como administrador del cliente.</es></entry>
+    <es>Admin de Cliente - Puede añadir/cancelar servicio. Este es el nivel más alto de control. Advertencia: asignar esto a otro usuario revocará su estado como administrador del cliente.</es><iw>Admin הלקוח - ניתן להוסיף / לבטל את השירות. זוהי הרמה הגבוהה ביותר של שליטה. אזהרה: הקצאה זה למשתמש אחר יהיה לבטל את מעמדך כ- admin הלקוח.</iw></entry>
     <entry>
         <key>Account Admin – Can add and remove socail accounts and add, edit, and remove users.</key>
         <en>Account Admin – Can add and remove socail accounts and add, edit, and remove users.</en>
@@ -321,7 +321,7 @@
         <de>Konto Admin - Kann hinzufügen und socail Konten entfernen und hinzufügen, bearbeiten und Benutzer entfernen.</de>
         <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
         <ur>اکاؤنٹ ایڈمن - شامل کر سکتے ہیں اور socail اکاؤنٹس کو دور کرنے اور شامل، میں ترمیم کریں، اور صارفین کو خارج کر دیں.</ur>
-    <es>Admin de Cuenta - Puede añadir y eliminar cuentas sociales y añadir, editar y eliminar usuarios.</es></entry>
+    <es>Admin de Cuenta - Puede añadir y eliminar cuentas sociales y añadir, editar y eliminar usuarios.</es><iw>חשבון Admin - ניתן להוסיף ולהסיר חשבונות socail ולהוסיף, לערוך, ולהסיר משתמשים.</iw></entry>
     <entry>
         <key>Billing Contact – Controls all finance related settings. Can view financial statements</key>
         <en>Billing Contact – Controls all finance related settings. Can view financial statements</en>
@@ -340,7 +340,7 @@
         <de>Billing Kontakt - Steuert alle Finanz-Einstellungen. Kann sehen finanzielle statuments</de>
         <it>Fatturazione Contatto - Controlla tutte le impostazioni relative finanza. Può visualizzare statuments finanziari</it>
         <ur>بلنگ رابطہ کریں - تمام فنانس سے متعلق ترتیبات کو کنٹرول. مالی بیانات دیکھ سکتا</ur>
-    <es>Contacto de Facturación - Controla todas las configuraciones relacionas a finanzas. Puede ver estados financieros</es></entry>
+    <es>Contacto de Facturación - Controla todas las configuraciones relacionas a finanzas. Puede ver estados financieros</es><iw>קשר לחיוב - שולט בכל ההגדרות הקשורים כספים. יכול להציג דוחות כספיים</iw></entry>
     <entry>
         <key>Account Group</key>
         <en>Account Group</en>
@@ -359,7 +359,7 @@
         <de>Kontengruppe</de>
         <it>account Group</it>
         <ur>اکاؤنٹ گروپ</ur>
-    <es>Grupo de Cuenta</es></entry>
+    <es>Grupo de Cuenta</es><iw>חשבון קבוצה</iw></entry>
     <entry>
         <key>Read Only</key>
         <en>Read Only</en>
@@ -378,7 +378,7 @@
         <de>Schreibgeschützt</de>
         <it>Sola lettura</it>
         <ur>صرف پڑھو</ur>
-    <es>Leer Solamente</es></entry>
+    <es>Leer Solamente</es><iw>לקריאה בלבד</iw></entry>
     <entry>
         <key>Read/Write</key>
         <en>Read/Write</en>
@@ -397,7 +397,7 @@
         <de>Lesen Schreiben</de>
         <it>Leggere scrivere</it>
         <ur>پڑھ لکھ</ur>
-    <es>Leer/Escribir</es></entry>
+    <es>Leer/Escribir</es><iw>קרוא וכתוב</iw></entry>
     <entry>
         <key>Read/Write/Admin</key>
         <en>Read/Write/Admin</en>
@@ -416,7 +416,7 @@
         <de>Lesen / Schreiben / Admin</de>
         <it>Lettura / scrittura / Amministratore</it>
         <ur>پڑھنا / لکھنا / ایڈمن</ur>
-    <es>Leer/Escribir/Admin</es></entry>
+    <es>Leer/Escribir/Admin</es><iw>קריאה / כתיבה / Admin</iw></entry>
     <entry>
         <key>No Access</key>
         <en>No Access</en>
@@ -435,7 +435,7 @@
         <de>Kein Zugang</de>
         <it>Nessun accesso</it>
         <ur>داخلہ ممنوع ہے</ur>
-    <es>Sin Acceso</es></entry>
+    <es>Sin Acceso</es><iw>אין גישה</iw></entry>
     <entry>
         <key>User Details and Permissions</key>
         <en>User Details and Permissions</en>
@@ -454,7 +454,7 @@
         <de>Benutzerdetails und Berechtigungen</de>
         <it>Dettagli utente e autorizzazioni</it>
         <ur>یوزر کی تفصیلات اور اجازت</ur>
-    <es>Detalles y Permisos de Usuario</es></entry>
+    <es>Detalles y Permisos de Usuario</es><iw>פרטי משתמש והרשאות</iw></entry>
     <entry>
         <key>Reset Password</key>
         <en>Reset Password</en>
@@ -473,7 +473,7 @@
         <de>Passwort zurücksetzen</de>
         <it>Resetta la password</it>
         <ur>پاس ورڈ ری سیٹ</ur>
-    <es>Reconfigurar Contraseña</es></entry>
+    <es>Reconfigurar Contraseña</es><iw>לאפס את הסיסמה</iw></entry>
     <entry>
         <key>Remove User</key>
         <en>Remove User</en>
@@ -492,7 +492,7 @@
         <de>Benutzer entfernen</de>
         <it>rimuovere l'utente</it>
         <ur>صارف کو ہٹائیں</ur>
-    <es>Eliminar Usuario</es></entry>
+    <es>Eliminar Usuario</es><iw>הסר משתמש</iw></entry>
     <entry>
         <key>Email</key>
         <en>Email</en>
@@ -511,7 +511,7 @@
         <de>Email</de>
         <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
-    <es>Email</es></entry>
+    <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
         <key>Country</key>
         <en>Country</en>
@@ -530,7 +530,7 @@
         <de>Land</de>
         <it>Nazione</it>
         <ur>ملک</ur>
-    <es>País</es></entry>
+    <es>País</es><iw>מדינה</iw></entry>
     <entry>
         <key>Timezone</key>
         <en>Timezone</en>
@@ -549,7 +549,7 @@
         <de>Zeitzone</de>
         <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
-    <es>Zona Horaria</es></entry>
+    <es>Zona Horaria</es><iw>אזור זמן</iw></entry>
     <entry>
         <key>Added On</key>
         <en>Added On</en>
@@ -568,7 +568,7 @@
         <de>Hinzugefügt zu</de>
         <it>Aggiunto a</it>
         <ur>پر شامل</ur>
-    <es>Añadido El</es></entry>
+    <es>Añadido El</es><iw>נוסף על</iw></entry>
     <entry>
         <key>Send Invite</key>
         <en>Send Invite</en>
@@ -587,6 +587,6 @@
         <de>Sende Einladung</de>
         <it>Invia un invito</it>
         <ur>مدعو ارسال کریں</ur>
-    <es>Enviar Invitación</es></entry>
+    <es>Enviar Invitación</es><iw>שלח הזמנה</iw></entry>
     <section>settings_admin_users_and_permis</section>
 </translations>

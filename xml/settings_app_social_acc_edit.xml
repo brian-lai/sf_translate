@@ -17,7 +17,9 @@
         <de>Social-Konto:</de>
         <it>Conto sociale:</it>
         <ur>سوشل اکاؤنٹ:</ur>
-    <es>Cuenta Social:</es></entry>
+        <es>Cuenta Social:</es>
+        <iw>חשבון חברתי:</iw>
+    </entry>
     <entry>
         <key>Social Account Groups</key>
         <en>Social Account Groups</en>
@@ -36,7 +38,9 @@
         <de>Social Kontengruppen</de>
         <it>Gruppi di account di social</it>
         <ur>سماجی اکاؤنٹ گروپس</ur>
-    <es>Grupos de Cuenta Social</es></entry>
+        <es>Grupos de Cuenta Social</es>
+        <iw>קבוצות חשבון חברתי</iw>
+    </entry>
     <entry>
         <key>Date Created</key>
         <en>Date Created</en>
@@ -55,7 +59,9 @@
         <de>Datum erstellt</de>
         <it>data di creazione</it>
         <ur>تاریخ کو پیدا کیا</ur>
-    <es>Fecha de Creación</es></entry>
+        <es>Fecha de Creación</es>
+        <iw>תאריך יצירה</iw>
+    </entry>
     <entry>
         <key>You have no account groups</key>
         <en>You have no account groups</en>
@@ -74,7 +80,9 @@
         <de>Sie haben keine Kontengruppen</de>
         <it>Non ci sono gruppi di account</it>
         <ur>آپ کے پاس کوئی اکاؤنٹ گروپوں ہے</ur>
-    <es>Usted no tiene grupos de cuenta</es></entry>
+        <es>Usted no tiene grupos de cuenta</es>
+        <iw>אין לך קבוצות בחשבון</iw>
+    </entry>
     <entry>
         <key>Active Content Sources</key>
         <en>Active Content Sources</en>
@@ -93,7 +101,9 @@
         <de>Aktive Inhaltsquellen</de>
         <it>Attivi origini di contenuto</it>
         <ur>ایکٹو مواد کے ذرائع</ur>
-    <es>Fuentes de Contenido Activas</es></entry>
+        <es>Fuentes de Contenido Activas</es>
+        <iw>מקורות תוכן פעילים</iw>
+    </entry>
     <entry>
         <key>Manage Content Sources</key>
         <en>Manage Content Sources</en>
@@ -112,7 +122,9 @@
         <de>Inhaltsquellen verwalten</de>
         <it>Gestisci origini di contenuto</it>
         <ur>مواد کے ذرائع کا انتظام</ur>
-    <es>Administrar Fuentes de Contenido</es></entry>
+        <es>Administrar Fuentes de Contenido</es>
+        <iw>ניהול מקורות תוכן</iw>
+    </entry>
     <entry>
         <key>Go to Content Queue</key>
         <en>Go to Content Queue</en>
@@ -131,7 +143,9 @@
         <de>Zum Inhalt Queue</de>
         <it>Vai a coda di contenuti</it>
         <ur>مواد کی قطار پر جائیں</ur>
-    <es>Ir a Fila de Contenido</es></entry>
+        <es>Ir a Fila de Contenido</es>
+        <iw>עבור אל תור תוכן</iw>
+    </entry>
     <entry>
         <key>Source</key>
         <en>Source</en>
@@ -150,7 +164,9 @@
         <de>Quelle</de>
         <it>fonte</it>
         <ur>ذریعہ</ur>
-    <es>Fuente</es></entry>
+        <es>Fuente</es>
+        <iw>מָקוֹר</iw>
+    </entry>
     <entry>
         <key>Date Created</key>
         <en>Date Created</en>
@@ -169,7 +185,9 @@
         <de>Datum erstellt</de>
         <it>data di creazione</it>
         <ur>تاریخ کو پیدا کیا</ur>
-    <es>Fecha de Creación</es></entry>
+        <es>Fecha de Creación</es>
+        <iw>תאריך יצירה</iw>
+    </entry>
     <entry>
         <key>Link Shortener</key>
         <en>Link Shortener</en>
@@ -188,7 +206,9 @@
         <de>Link-Shortener</de>
         <it>collegamento Shortener</it>
         <ur>لنک اختصار</ur>
-    <es>Acortador de Enlaces</es></entry>
+        <es>Acortador de Enlaces</es>
+        <iw>קיצור הקישורים</iw>
+    </entry>
     <entry>
         <key>You have no content sources</key>
         <en>You have no content sources</en>
@@ -207,7 +227,9 @@
         <de>Sie haben keine Inhaltsquellen</de>
         <it>Non ci sono fonti di contenuti</it>
         <ur>آپ کے پاس کوئی مواد کے ذرائع ہے</ur>
-    <es>Usted no tiene fuentes de contenido</es></entry>
+        <es>Usted no tiene fuentes de contenido</es>
+        <iw>אין לך מקורות תוכן</iw>
+    </entry>
     <entry>
         <key>You have no link shortener</key>
         <en>You have no link shortener</en>
@@ -226,7 +248,9 @@
         <de>Sie haben keinen Link Shortener</de>
         <it>Lei ha alcun legame shortener</it>
         <ur>آپ کے پاس کوئی لنک اختصار ہے</ur>
-    <es>Usted no tiene acortador de enlaces</es></entry>
+        <es>Usted no tiene acortador de enlaces</es>
+        <iw>אין לך כלי שמקצר קישור</iw>
+    </entry>
     <entry>
         <key>Messages</key>
         <en>Messages</en>
@@ -245,7 +269,9 @@
         <de>Nachrichten</de>
         <it>messaggi</it>
         <ur>پیغامات</ur>
-    <es>Mensajes</es></entry>
+        <es>Mensajes</es>
+        <iw>הודעות</iw>
+    </entry>
     <entry>
         <key>Default Status:</key>
         <en>Default Status:</en>
@@ -264,7 +290,9 @@
         <de>Standard Status:</de>
         <it>Stato di default:</it>
         <ur>پہلے سے طے شدہ کی حیثیت:</ur>
-    <es>Estado Predeterminado:</es></entry>
+        <es>Estado Predeterminado:</es>
+        <iw>מצב ברירת מחדל:</iw>
+    </entry>
     <entry>
         <key>Choose Default</key>
         <en>Choose Default</en>
@@ -283,7 +311,9 @@
         <de>wählen Sie Standard</de>
         <it>Scegli di default</it>
         <ur>پہلے سے طے شدہ انتخاب کریں</ur>
-    <es>Escoger Predeterminado</es></entry>
+        <es>Escoger Predeterminado</es>
+        <iw>בחר ברירת מחדל</iw>
+    </entry>
     <entry>
         <key>7 Days</key>
         <en>7 Days</en>
@@ -302,7 +332,9 @@
         <de>7 Tage</de>
         <it>7 giorni</it>
         <ur>7 دن</ur>
-    <es>7 Días</es></entry>
+        <es>7 Días</es>
+        <iw>7 ימים</iw>
+    </entry>
     <entry>
         <key>14 Days</key>
         <en>14 Days</en>
@@ -321,7 +353,9 @@
         <de>14 Tage</de>
         <it>14 giorni</it>
         <ur>14 دن</ur>
-    <es>14 Días</es></entry>
+        <es>14 Días</es>
+        <iw>14 ימים</iw>
+    </entry>
     <entry>
         <key>Limit Duplication</key>
         <en>Limit Duplication</en>
@@ -340,7 +374,9 @@
         <de>Limit-Vervielfältigung</de>
         <it>limite di duplicazione</it>
         <ur>حد تخلپی</ur>
-    <es>Limitar Duplicación</es></entry>
+        <es>Limitar Duplicación</es>
+        <iw>שכפול הגבל</iw>
+    </entry>
     <entry>
         <key>Title</key>
         <en>Title</en>
@@ -359,7 +395,9 @@
         <de>Titel</de>
         <it>Titolo</it>
         <ur>عنوان</ur>
-    <es>Título</es></entry>
+        <es>Título</es>
+        <iw>כותרת</iw>
+    </entry>
     <entry>
         <key>Title or Link</key>
         <en>Title or Link</en>
@@ -378,7 +416,9 @@
         <de>Titel oder Link-</de>
         <it>Titolo o link</it>
         <ur>عنوان یا لنک</ur>
-    <es>Título o Link</es></entry>
+        <es>Título o Link</es>
+        <iw>כותרת או קישור</iw>
+    </entry>
     <entry>
         <key>None</key>
         <en>None</en>
@@ -397,7 +437,9 @@
         <de>Keiner</de>
         <it>Nessuna</it>
         <ur>کوئی بھی نہیں</ur>
-    <es>Ninguno</es></entry>
+        <es>Ninguno</es>
+        <iw>אף אחד</iw>
+    </entry>
     <entry>
         <key>Publishing Limits</key>
         <en>Publishing Limits</en>
@@ -416,7 +458,9 @@
         <de>Publishing Limits</de>
         <it>Limiti Editoria</it>
         <ur>پبلشنگ کی حدود</ur>
-    <es>Límites de Publicación</es></entry>
+        <es>Límites de Publicación</es>
+        <iw>גבולות לאור</iw>
+    </entry>
     <entry>
         <key>Let us calculate the best time to publish your content</key>
         <en>Let us calculate the best time to publish your content</en>
@@ -435,7 +479,9 @@
         <de>Lassen Sie uns die beste Zeit, berechnen Sie Ihre Inhalte zu veröffentlichen</de>
         <it>Calcoliamo il momento migliore per pubblicare il contenuto</it>
         <ur>ہمیں آپ کے مواد شائع کرنے کے لئے بہترین وقت کا حساب دو</ur>
-    <es>Dejenos calcular el mejor momento para publicar su contenido</es></entry>
+        <es>Dejenos calcular el mejor momento para publicar su contenido</es>
+        <iw>הבה לחשב את הזמן הטוב ביותר לפרסם את התוכן שלך</iw>
+    </entry>
     <entry>
         <key>Max Messages Per Day</key>
         <en>Max Messages Per Day</en>
@@ -454,7 +500,9 @@
         <de>Max Nachrichten pro Tag</de>
         <it>Max messaggi al giorno</it>
         <ur>زیادہ سے زیادہ پیغامات فی دن</ur>
-    <es>áximo de Mensajes por Día</es></entry>
+        <es>áximo de Mensajes por Día</es>
+        <iw>מקס הודעות ליום</iw>
+    </entry>
     <entry>
         <key>Optimize (time zone: UTC)</key>
         <en>Optimize (time zone: UTC)</en>
@@ -473,7 +521,9 @@
         <de>Optimieren (Zeitzone: UTC)</de>
         <it>Ottimizzare (fuso orario: UTC)</it>
         <ur>اصلاح کریں (ٹائم زون: UTC)</ur>
-    <es>Optimizar (zona horaria: UTC)</es></entry>
+        <es>Optimizar (zona horaria: UTC)</es>
+        <iw>מטב (אזור זמן: UTC)</iw>
+    </entry>
     <entry>
         <key>Publish between</key>
         <en>Publish between</en>
@@ -492,7 +542,9 @@
         <de>veröffentlichen zwischen</de>
         <it>pubblicare tra</it>
         <ur>درمیان شائع</ur>
-    <es>Publicar entre</es></entry>
+        <es>Publicar entre</es>
+        <iw>פרסם בין</iw>
+    </entry>
     <entry>
         <key>12 am, 12 pm</key>
         <en>12 am, 12 pm</en>
@@ -511,7 +563,9 @@
         <de>00.00, 12.00</de>
         <it>00:00, 12:00</it>
         <ur>12 AM، 12 PM</ur>
-    <es>12 am, 12 pm</es></entry>
+        <es>12 am, 12 pm</es>
+        <iw>12 בבוקר, 12 pm</iw>
+    </entry>
     <entry>
         <key>Max Minutes Between Messages</key>
         <en>Max Minutes Between Messages</en>
@@ -530,7 +584,9 @@
         <de>Geben Sie die Anzahl der Minuten, die zwischen den Nachrichten verstreichen muss,</de>
         <it>Inserire il numero di minuti che devono trascorrere tra i messaggi</it>
         <ur>میکس منٹس پیغامات درمیان</ur>
-    <es>Inserte el número de minutos que debe pasar entre mensajes</es></entry>
+        <es>Inserte el número de minutos que debe pasar entre mensajes</es>
+        <iw>מקס דקות בין הודעות</iw>
+    </entry>
     <entry>
         <key>Enter the maximum minutes between messages</key>
         <en>Enter the maximum minutes between messages</en>
@@ -549,7 +605,9 @@
         <de>Max Minuten zwischen Nachrichten</de>
         <it>Max minuti tra i messaggi</it>
         <ur>پیغامات درمیان زیادہ سے زیادہ منٹ درج</ur>
-    <es>Máximo de Minutos Entre Mensajes</es></entry>
+        <es>Máximo de Minutos Entre Mensajes</es>
+        <iw>הזן את דקות לכל היותר בין הודעות</iw>
+    </entry>
     <entry>
         <key>Key - Value</key>
         <en>Key - Value</en>
@@ -568,7 +626,9 @@
         <de>Geben Sie die maximale Minuten zwischen den Meldungen</de>
         <it>Inserire il numero massimo di minuti tra i messaggi</it>
         <ur>کلیدی - ویلیو</ur>
-    <es>Inserte el máximo de minutos entre mensajes</es></entry>
+        <es>Inserte el máximo de minutos entre mensajes</es>
+        <iw>ערך מפתח</iw>
+    </entry>
     <entry>
         <key>+Add Another Filter</key>
         <en>+Add Another Filter</en>
@@ -587,7 +647,9 @@
         <de>Schlüsselwert</de>
         <it>Valore chiave</it>
         <ur>+ ایک اور فلٹر شامل کریں</ur>
-    <es>Llave - Valor</es></entry>
+        <es>Llave - Valor</es>
+        <iw>+ הוסף מסנן נוסף</iw>
+    </entry>
     <entry>
         <key>Remove Account</key>
         <en>Remove Account</en>
@@ -606,7 +668,9 @@
         <de>+ Weiteren Filter hinzufügen</de>
         <it>+ Aggiungere un altro filtro</it>
         <ur>اکاؤنٹ</ur>
-    <es>+Añadir Otro Filtro</es></entry>
+        <es>+Añadir Otro Filtro</es>
+        <iw>הסר חשבון</iw>
+    </entry>
     <entry>
         <key>Remove this account</key>
         <en>Remove this account</en>
@@ -625,7 +689,9 @@
         <de>Konto entfernen</de>
         <it>Rimuovi l'account</it>
         <ur>اس اکاؤنٹ</ur>
-    <es>Eliminar Cuenta</es></entry>
+        <es>Eliminar Cuenta</es>
+        <iw>הסר חשבון זה</iw>
+    </entry>
     <entry>
         <key>Add Content Sources</key>
         <en>Add Content Sources</en>
@@ -644,7 +710,9 @@
         <de>Entfernen Sie dieses Konto</de>
         <it>Rimuovere questo account</it>
         <ur>مواد کے ذرائع کا اضافہ کریں</ur>
-    <es>Eliminar esta cuenta</es></entry>
+        <es>Eliminar esta cuenta</es>
+        <iw>הוספת מקורות תוכן</iw>
+    </entry>
     <entry>
         <key>Pause optimized and scheduled publishing</key>
         <en>Pause optimized and scheduled publishing</en>
@@ -663,7 +731,9 @@
         <de>In Inhaltsquellen</de>
         <it>Aggiungere origini di contenuto</it>
         <ur>اصلاح اور شیڈول پبلشنگ روک دیں</ur>
-    <es>Añadir Fuentes de Contenido</es></entry>
+        <es>Añadir Fuentes de Contenido</es>
+        <iw>השהה פרסום מותאם ומתוזמנת</iw>
+    </entry>
     <entry>
         <key>Pause publishing from queue</key>
         <en>Pause publishing from queue</en>
@@ -682,7 +752,9 @@
         <de>Pause optimiert und geplant Publishing</de>
         <it>Pausa pubblicazione ottimizzata e programmata</it>
         <ur>قطار سے شائع کر روک دیں</ur>
-    <es>Pausar publicaciones programadas y optimizadas</es></entry>
+        <es>Pausar publicaciones programadas y optimizadas</es>
+        <iw>השהה פרסום מתור</iw>
+    </entry>
     <entry>
         <key>Resume publishing from queue</key>
         <en>Resume publishing from queue</en>
@@ -701,7 +773,9 @@
         <de>Pause Veröffentlichung aus der Warteschlange</de>
         <it>Pausa pubblicazione dalla coda</it>
         <ur>قطار سے شائع کر دوبارہ شروع</ur>
-    <es>Pausar publicación de mensajes en espera</es></entry>
+        <es>Pausar publicación de mensajes en espera</es>
+        <iw>קורות חיים פרסום מהתור</iw>
+    </entry>
     <entry>
         <key>Publishing is currently paused for this client service</key>
         <en>Publishing is currently paused for this client service</en>
@@ -720,7 +794,9 @@
         <de>Lebenslauf aus der Warteschlange zu veröffentlichen</de>
         <it>Riprendi pubblicazione dalla coda</it>
         <ur>پبلشنگ فی الحال اس کے کلائنٹ کی خدمت کے لئے روک دیا گیا ہے</ur>
-    <es>Reanudar publicación de mensajes en espera</es></entry>
+        <es>Reanudar publicación de mensajes en espera</es>
+        <iw>ההוצאה מושהה כרגע לשירות הלקוח</iw>
+    </entry>
     <entry>
         <key>Publishing is on schedule for this client service</key>
         <en>Publishing is on schedule for this client service</en>
@@ -739,7 +815,9 @@
         <de>Publishing wird zur Zeit für diesen Client-Dienst angehalten</de>
         <it>Publishing è attualmente in pausa per questo servizio clienti</it>
         <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے شیڈول کے مطابق ہے</ur>
-    <es>Publicar está pausado actualmente para este servicio de cliente</es></entry>
+        <es>Publicar está pausado actualmente para este servicio de cliente</es>
+        <iw>לאור הוא על לוח זמנים עבור שירות ללקוח זה</iw>
+    </entry>
     <entry>
         <key>Are you sure you want to pause publishing?</key>
         <en>Are you sure you want to pause publishing?</en>
@@ -758,7 +836,9 @@
         <de>Die Veröffentlichung ist im Zeitplan für diesen Client Service</de>
         <it>La pubblicazione è in programma per questo servizio al cliente</it>
         <ur>کیا آپ پبلشنگ روکنے کے لئے چاہتے ہیں؟</ur>
-    <es>La publicación está al corriente para este servicio al cliente</es></entry>
+        <es>La publicación está al corriente para este servicio al cliente</es>
+        <iw>האם אתה בטוח שברצונך להשהות פרסום?</iw>
+    </entry>
     <entry>
         <key>Messages optimized or scheduled to publish will fail to send until normal publishing is resumed.</key>
         <en>Messages optimized or scheduled to publish will fail to send until normal publishing is resumed.</en>
@@ -777,7 +857,9 @@
         <de>Sind Sie sicher, dass Sie Publishing pausieren?</de>
         <it>Sei sicuro che si desidera sospendere la pubblicazione?</it>
         <ur>جب تک معمول کی پبلشنگ کا سلسلہ دوبارہ شروع کیا ہے مرضی یا ناکام ہو جائے گی میں شائع کرنا شیڈول پیغامات بھیجنے کے.</ur>
-    <es>Está seguro que desea pausar las publicaciones?</es></entry>
+        <es>Está seguro que desea pausar las publicaciones?</es>
+        <iw>הודעות אופטימיזציה או אמורות לפרסם ייכשל לשלוח עד פרסום רגיל.</iw>
+    </entry>
     <entry>
         <key>Yes, pause publishing</key>
         <en>Yes, pause publishing</en>
@@ -796,7 +878,9 @@
         <de>Nachrichten optimiert oder geplant zu veröffentlichen zu senden scheitern, bis die normale Publishing wieder aufgenommen wird.</de>
         <it>Messaggi ottimizzati o in programma di pubblicare mancherà di inviare fino a quando si riprende la pubblicazione normale.</it>
         <ur>جی ہاں، توقف پبلشنگ</ur>
-    <es>Los mensajes optimizados o programados para publicar no se enviarán hasta que se reanude la publicación normal.</es></entry>
+        <es>Los mensajes optimizados o programados para publicar no se enviarán hasta que se reanude la publicación normal.</es>
+        <iw>כן, לאור הפסקה</iw>
+    </entry>
     <entry>
         <key>utm_term</key>
         <en>utm_term</en>
@@ -815,7 +899,9 @@
         <de>Ja, Pause-Publishing</de>
         <it>Sì, la pubblicazione di pausa</it>
         <ur>utm_term</ur>
-    <es>Si, pausar las publicaciones</es></entry>
+        <es>Si, pausar las publicaciones</es>
+        <iw>utm_term</iw>
+    </entry>
     <entry>
         <key>utm_term</key>
         <en>utm_term</en>
@@ -834,6 +920,8 @@
         <de>utm_term</de>
         <it>utm_term</it>
         <ur>utm_term</ur>
-    <es>utm_term</es></entry>
+        <es>utm_term</es>
+        <iw>utm_term</iw>
+    </entry>
     <section>settings_app_social_acc_edit</section>
 </translations>

@@ -17,7 +17,9 @@
         <de>Enterprise-Upgrade-</de>
         <it>Enterprise aggiornamento</it>
         <ur>انٹرپرائز اپ گریڈ</ur>
-    <es>Upgrade Empresarial</es></entry>
+        <es>Upgrade Empresarial</es>
+        <iw>שדרוג Enterprise</iw>
+    </entry>
     <entry>
         <key>Contact Information</key>
         <en>Contact Information</en>
@@ -36,7 +38,9 @@
         <de>Kontakt Informationen</de>
         <it>Informazioni sui contatti</it>
         <ur>رابطے کی معلومات</ur>
-    <es>información de Contacto</es></entry>
+        <es>información de Contacto</es>
+        <iw>פרטי התקשרות</iw>
+    </entry>
     <entry>
         <key>Phone</key>
         <en>Phone</en>
@@ -55,7 +59,9 @@
         <de>Telefon</de>
         <it>Telefono</it>
         <ur>فون</ur>
-    <es>Teléfono</es></entry>
+        <es>Teléfono</es>
+        <iw>טלפון</iw>
+    </entry>
     <entry>
         <key>Account types:</key>
         <en>Account types:</en>
@@ -74,7 +80,9 @@
         <de>Kontotypen:</de>
         <it>tipi di account:</it>
         <ur>اکاؤنٹ کی اقسام:</ur>
-    <es>Tipos de Cuenta:</es></entry>
+        <es>Tipos de Cuenta:</es>
+        <iw>סוגי חשבון:</iw>
+    </entry>
     <entry>
         <key>Company type:</key>
         <en>Company type:</en>
@@ -93,7 +101,9 @@
         <de>Branche:</de>
         <it>Tipo di azienda:</it>
         <ur>کمپنی کی قسم:</ur>
-    <es>Tipo de Empresa:</es></entry>
+        <es>Tipo de Empresa:</es>
+        <iw>סוג חברה:</iw>
+    </entry>
     <entry>
         <key>Goals:</key>
         <en>Goals:</en>
@@ -112,7 +122,9 @@
         <de>Ziele:</de>
         <it>obiettivi:</it>
         <ur>مقاصد:</ur>
-    <es>Metas:</es></entry>
+        <es>Metas:</es>
+        <iw>מטרות:</iw>
+    </entry>
     <entry>
         <key>Plan Overview</key>
         <en>Plan Overview</en>
@@ -131,7 +143,9 @@
         <de>Planübersicht</de>
         <it>Quadro</it>
         <ur>پلان کا جائزہ</ur>
-    <es>Vista General del Plan</es></entry>
+        <es>Vista General del Plan</es>
+        <iw>סקירת תכנית</iw>
+    </entry>
     <entry>
         <key>SocialFlow Enterprise</key>
         <en>SocialFlow Enterprise</en>
@@ -150,7 +164,9 @@
         <de>SocialFlow Unternehmen</de>
         <it>SocialFlow Enterprise</it>
         <ur>SocialFlow انٹرپرائز</ur>
-    <es>SocialFlow Empresarial</es></entry>
+        <es>SocialFlow Empresarial</es>
+        <iw>Enterprise SocialFlow</iw>
+    </entry>
     <entry>
         <key>10+ Accounts</key>
         <en>10+ Accounts</en>
@@ -169,7 +185,9 @@
         <de>10+ Accounts</de>
         <it>10+ Conti</it>
         <ur>10+ اکاؤنٹس</ur>
-    <es>10+ Cuentas</es></entry>
+        <es>10+ Cuentas</es>
+        <iw>10+ חשבונות</iw>
+    </entry>
     <entry>
         <key>Custom setup</key>
         <en>Custom setup</en>
@@ -188,7 +206,9 @@
         <de>Benutzerdefinierte Einrichtung</de>
         <it>Installazione personalizzata</it>
         <ur>اپنی مرضی کے سیٹ اپ</ur>
-    <es>Configuración Personalizada</es></entry>
+        <es>Configuración Personalizada</es>
+        <iw>התקנה מותאמת אישית</iw>
+    </entry>
     <entry>
         <key>Optimized Publishing</key>
         <en>Optimized Publishing</en>
@@ -207,7 +227,9 @@
         <de>Optimierte Publishing</de>
         <it>Editoria ottimizzata</it>
         <ur>آپٹمائزڈ پبلشنگ</ur>
-    <es>Publicación Optimizada</es></entry>
+        <es>Publicación Optimizada</es>
+        <iw>הוצאה אופטימלית</iw>
+    </entry>
     <entry>
         <key>Custom Reports</key>
         <en>Custom Reports</en>
@@ -226,7 +248,9 @@
         <de>Benutzerdefinierte Berichte</de>
         <it>Rapporti personalizzati</it>
         <ur>اپنی مرضی کی رپورٹیں</ur>
-    <es>Reportes Personalizados</es></entry>
+        <es>Reportes Personalizados</es>
+        <iw>דוחות מותאמים אישית</iw>
+    </entry>
     <entry>
         <key>Enterprise-level support</key>
         <en>Enterprise-level support</en>
@@ -245,7 +269,9 @@
         <de>Enterprise-Level-Support</de>
         <it>supporto di livello enterprise</it>
         <ur>انٹرپرائز کی سطح کی حمایت</ur>
-    <es>Soporte de Nivel Empresarial</es></entry>
+        <es>Soporte de Nivel Empresarial</es>
+        <iw>תמיכה ברמת הארגון</iw>
+    </entry>
     <entry>
         <key>Submit</key>
         <en>Submit</en>
@@ -264,7 +290,9 @@
         <de>einreichen</de>
         <it>invio</it>
         <ur>جمع کرائیں</ur>
-    <es>Enviar</es></entry>
+        <es>Enviar</es>
+        <iw>שלח</iw>
+    </entry>
     <entry>
         <key>Choose One</key>
         <en>Choose One</en>
@@ -283,7 +311,9 @@
         <de>Wähle ein</de>
         <it>Scegline uno</it>
         <ur>ایک کا انتخاب کریں</ur>
-    <es>Elija Uno</es></entry>
+        <es>Elija Uno</es>
+        <iw>תבחר אחד</iw>
+    </entry>
     <entry>
         <key>Facebook</key>
         <en>Facebook</en>
@@ -302,7 +332,9 @@
         <de>Facebook</de>
         <it>Facebook</it>
         <ur>فیس بک</ur>
-    <es>Facebook</es></entry>
+        <es>Facebook</es>
+        <iw>פייסבוק</iw>
+    </entry>
     <entry>
         <key>Both</key>
         <en>Both</en>
@@ -321,7 +353,9 @@
         <de>Beide</de>
         <it>Entrambi</it>
         <ur>دونوں</ur>
-    <es>Ambos</es></entry>
+        <es>Ambos</es>
+        <iw>שניהם</iw>
+    </entry>
     <entry>
         <key>Retail</key>
         <en>Retail</en>
@@ -340,7 +374,9 @@
         <de>Verkauf</de>
         <it>Al dettaglio</it>
         <ur>پرچون</ur>
-    <es>Al por menor</es></entry>
+        <es>Al por menor</es>
+        <iw>קמעונאות</iw>
+    </entry>
     <entry>
         <key>Brand Marketer</key>
         <en>Brand Marketer</en>
@@ -359,7 +395,9 @@
         <de>Marke Marketer</de>
         <it>Marca Marketer</it>
         <ur>برانڈ مارکیٹر</ur>
-    <es>Vendedor de Marca</es></entry>
+        <es>Vendedor de Marca</es>
+        <iw>משווק מותג</iw>
+    </entry>
     <entry>
         <key>Agency</key>
         <en>Agency</en>
@@ -378,6 +416,8 @@
         <de>Agentur</de>
         <it>Agenzia</it>
         <ur>ایجنسی</ur>
-    <es>Agencia</es></entry>
+        <es>Agencia</es>
+        <iw>סוֹכְנוּת</iw>
+    </entry>
     <section>settings_admin_upgrade</section>
 </translations>

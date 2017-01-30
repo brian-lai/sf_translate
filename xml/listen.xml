@@ -17,7 +17,9 @@
         <de>Geben Sie einen Suchbegriff</de>
         <it>Inserisci un termine di ricerca</it>
         <ur>ایک اصطلاح درج کریں</ur>
-    <es>Inserte un término de busqueda</es></entry>
+        <es>Inserte un término de busqueda</es>
+        <iw>הקלידו מונח לחיפוש</iw>
+    </entry>
     <entry>
         <key>days ago</key>
         <en>days ago</en>
@@ -36,7 +38,9 @@
         <de>Vor Tagen</de>
         <it>giorni fa</it>
         <ur>دنوں پہلے</ur>
-    <es>dias atrás</es></entry>
+        <es>dias atrás</es>
+        <iw>לפני ימים</iw>
+    </entry>
     <entry>
         <key>day ago</key>
         <en>day ago</en>
@@ -55,7 +59,9 @@
         <de>vor einem Tag</de>
         <it>giorni fa</it>
         <ur>دن پہلے</ur>
-    <es>dia atrás</es></entry>
+        <es>dia atrás</es>
+        <iw>יום לפני</iw>
+    </entry>
     <entry>
         <key>weeks ago</key>
         <en>weeks ago</en>
@@ -74,7 +80,9 @@
         <de>vor Wochen</de>
         <it>settimane fa</it>
         <ur>ہفتے پہلے</ur>
-    <es>semanas atrás</es></entry>
+        <es>semanas atrás</es>
+        <iw>לפני שבועות</iw>
+    </entry>
     <entry>
         <key>week ago</key>
         <en>week ago</en>
@@ -93,7 +101,9 @@
         <de>Woche zuvor</de>
         <it>una settimana fa</it>
         <ur>ایک ہفتے پہلے</ur>
-    <es>semana atrás</es></entry>
+        <es>semana atrás</es>
+        <iw>לפני שבוע</iw>
+    </entry>
     <entry>
         <key>months ago</key>
         <en>months ago</en>
@@ -112,7 +122,9 @@
         <de>vor wenigen Monaten</de>
         <it>mesi fa</it>
         <ur>مہینوں پہلے</ur>
-    <es>meses atrás</es></entry>
+        <es>meses atrás</es>
+        <iw>לפני חודשים</iw>
+    </entry>
     <entry>
         <key>month ago</key>
         <en>month ago</en>
@@ -131,7 +143,9 @@
         <de>letzten Monat</de>
         <it>un mese fa</it>
         <ur>مہینہ پہلے</ur>
-    <es>mese atrás</es></entry>
+        <es>mese atrás</es>
+        <iw>לפני חודש</iw>
+    </entry>
     <entry>
         <key>years ago</key>
         <en>years ago</en>
@@ -150,7 +164,9 @@
         <de>Jahre zuvor</de>
         <it>anni fa</it>
         <ur>کئی برس قبل</ur>
-    <es>años atrás</es></entry>
+        <es>años atrás</es>
+        <iw>לפני שנים</iw>
+    </entry>
     <entry>
         <key>year ago</key>
         <en>year ago</en>
@@ -169,7 +185,9 @@
         <de>vor einem Jahr</de>
         <it>anno fa</it>
         <ur>سال پہلے</ur>
-    <es>año atrás</es></entry>
+        <es>año atrás</es>
+        <iw>לפני שנה</iw>
+    </entry>
     <entry>
         <key>Want to follow a hashtag or user, keep track of when you are mentioned or retweeted, or track a specific conversation? Click “Manage Columns” tab to the right and add more streams.</key>
         <en>Want to follow a hashtag or user, keep track of when you are mentioned or retweeted, or track a specific conversation? Click “Manage Columns” tab to the right and add more streams.</en>
@@ -188,7 +206,9 @@
         <de>Möchten Sie einen Hashtag oder Benutzer zu folgen, zu verfolgen, wenn Sie erwähnt sind oder retweeted oder ein bestimmtes Gespräch verfolgen? Klicken Sie auf "Spalten verwalten" Tab auf der rechten Seite und mehr Streams hinzuzufügen.</de>
         <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
         <ur>، ایک hashtag یا صارف کی پیروی کی یاد رکھیں آپ کا ذکر کیا یا ٹویٹ کر رہے ہیں جب، یا ایک مخصوص گفتگو ٹریک کرنا چاہتے ہیں؟ درست کرنے کے لئے ٹیب "کالم انتظام کریں" پر کلک کریں اور زیادہ اسٹریمز میں شامل کریں.</ur>
-    <es>Quiere seguir un hashtag o un usuario, monitorear cuando e mencionan o hacen retweet, o monitorear una conversación específica? Haga clic en "Administrar columnas" a la derecha y añade más streams.</es></entry>
+        <es>Quiere seguir un hashtag o un usuario, monitorear cuando e mencionan o hacen retweet, o monitorear una conversación específica? Haga clic en "Administrar columnas" a la derecha y añade más streams.</es>
+        <iw>רוצה לעקוב אחר hashtag או הוראות, לעקוב אחר כאשר אתה מוזכר או retweeted, או לעקוב אחר שיחה ספציפית? לחץ על "ניהול עמודות" הכרטיסייה בצד ימין ולהוסיף זרמים יותר.</iw>
+    </entry>
     <entry>
         <key>Manage Columns</key>
         <en>Manage Columns</en>
@@ -207,7 +227,9 @@
         <de>Spalten verwalten</de>
         <it>gestire Colonne</it>
         <ur>کالم انتظام کریں</ur>
-    <es>Administrar Columnas</es></entry>
+        <es>Administrar Columnas</es>
+        <iw>ניהול עמודות</iw>
+    </entry>
     <entry>
         <key>Columns</key>
         <en>Columns</en>
@@ -226,7 +248,9 @@
         <de>Spalten</de>
         <it>colonne</it>
         <ur>کالم</ur>
-    <es>Columnas</es></entry>
+        <es>Columnas</es>
+        <iw>עמודות</iw>
+    </entry>
     <entry>
         <key>Live Stream</key>
         <en>Live Stream</en>
@@ -245,7 +269,9 @@
         <de>Live Stream</de>
         <it>Trasmissione in diretta</it>
         <ur>لائیو سٹریم</ur>
-    <es>Streams en Vivo</es></entry>
+        <es>Streams en Vivo</es>
+        <iw>שידור חי</iw>
+    </entry>
     <entry>
         <key>Expired</key>
         <en>Expired</en>
@@ -264,7 +290,9 @@
         <de>Abgelaufen</de>
         <it>Scaduto</it>
         <ur>میعاد ختم ہوگئی</ur>
-    <es>Expirado</es></entry>
+        <es>Expirado</es>
+        <iw>לא בתוקף</iw>
+    </entry>
     <entry>
         <key>Custom</key>
         <en>Custom</en>
@@ -283,7 +311,9 @@
         <de>Brauch</de>
         <it>costume</it>
         <ur>اپنی مرضی کے مطابق</ur>
-    <es>Personalizado</es></entry>
+        <es>Personalizado</es>
+        <iw>המותאם אישית</iw>
+    </entry>
     <entry>
         <key>Edit and Retweet</key>
         <en>Edit and Retweet</en>
@@ -302,7 +332,9 @@
         <de>Bearbeiten und Retweet</de>
         <it>Modifica e Retweet</it>
         <ur>میں ترمیم کریں اور ریٹویٹ</ur>
-    <es>Editar y Retweet</es></entry>
+        <es>Editar y Retweet</es>
+        <iw>עריכת Retweet</iw>
+    </entry>
     <entry>
         <key>Reply</key>
         <en>Reply</en>
@@ -321,7 +353,9 @@
         <de>Antworten</de>
         <it>rispondere</it>
         <ur>جواب</ur>
-    <es>Responder</es></entry>
+        <es>Responder</es>
+        <iw>תשובה</iw>
+    </entry>
     <entry>
         <key>Wall Posts</key>
         <en>Wall Posts</en>
@@ -340,7 +374,9 @@
         <de>Pinnwandeinträge</de>
         <it>Messaggi in bacheca</it>
         <ur>وال مراسلات</ur>
-    <es>Muro de Publicaciones</es></entry>
+        <es>Muro de Publicaciones</es>
+        <iw>קיר הודעות</iw>
+    </entry>
     <entry>
         <key>Expand</key>
         <en>Expand</en>
@@ -359,7 +395,9 @@
         <de>Erweitern</de>
         <it>Espandere</it>
         <ur>پھیلائیں</ur>
-    <es>Expandir</es></entry>
+        <es>Expandir</es>
+        <iw>לְהַרְחִיב</iw>
+    </entry>
     <entry>
         <key>Recent Comments</key>
         <en>Recent Comments</en>
@@ -378,7 +416,9 @@
         <de>Letzte Kommentare</de>
         <it>Commenti recenti</it>
         <ur>حالیہ تبصرے</ur>
-    <es>Comentarios Recientes</es></entry>
+        <es>Comentarios Recientes</es>
+        <iw>תגובות אחרונות</iw>
+    </entry>
     <entry>
         <key>Sorry, there are no comments</key>
         <en>Sorry, there are no comments</en>
@@ -397,6 +437,8 @@
         <de>Leider gibt es keine Kommentare</de>
         <it>Siamo spiacenti, non ci sono commenti</it>
         <ur>معذرت، کوئی تبصرے نہیں ہیں</ur>
-    <es>Disculpe, no hay comentarios</es></entry>
+        <es>Disculpe, no hay comentarios</es>
+        <iw>מצטערים, אין הערות</iw>
+    </entry>
     <section>listen</section>
 </translations>

@@ -17,7 +17,9 @@
         <de>Hinweis: Die Links bei Veröffentlichung verkürzen</de>
         <it>Nota: Collegamenti accorciano a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر</ur>
-    <es>Nota: Enlaces se acortan al publicar</es></entry>
+        <es>Nota: Enlaces se acortan al publicar</es>
+        <iw>הערה: קישורים לקצר ב פרסום</iw>
+    </entry>
     <entry>
         <key>Added [[[&lt;date/time&gt;]]] pm from Manual</key>
         <en>Added [[[&lt;date/time&gt;]]] pm from Manual</en>
@@ -42,7 +44,9 @@
         <de>Zuletzt von auf bearbeitet</de>
         <it>Ultima modifica di su</it>
         <ur>آخری بار ترمیم کے ذریعے</ur>
-    <es>Última edición por el</es></entry>
+        <es>Última edición por el</es>
+        <iw>נערך לאחרונה על ידי על</iw>
+    </entry>
     <entry>
         <key>Set to</key>
         <en>Set to</en>
@@ -61,7 +65,9 @@
         <de>Einstellen</de>
         <it>Impostato</it>
         <ur>تیار</ur>
-    <es>Ajustado a</es></entry>
+        <es>Ajustado a</es>
+        <iw>מכוון ל</iw>
+    </entry>
     <entry>
         <key>Expires at</key>
         <en>Expires at</en>
@@ -80,7 +86,9 @@
         <de>Verfällt bei</de>
         <it>scade a</it>
         <ur>میں ختم</ur>
-    <es>expira a</es></entry>
+        <es>expira a</es>
+        <iw>פוקע</iw>
+    </entry>
     <entry>
         <key>Send Now</key>
         <en>Send Now</en>
@@ -99,7 +107,9 @@
         <de>Jetzt abschicken</de>
         <it>Spedisci ora</it>
         <ur>ابھی حساب</ur>
-    <es>Enviar ahora</es></entry>
+        <es>Enviar ahora</es>
+        <iw>שלח עכשיו</iw>
+    </entry>
     <entry>
         <key>Close</key>
         <en>Close</en>
@@ -118,7 +128,9 @@
         <de>Schließen</de>
         <it>Vicino</it>
         <ur>بند کریں</ur>
-    <es>Cerca</es></entry>
+        <es>Cerca</es>
+        <iw>לִסְגוֹר</iw>
+    </entry>
     <entry>
         <key>Save Changes</key>
         <en>Save Changes</en>
@@ -137,6 +149,8 @@
         <de>Änderungen speichern</de>
         <it>Salva I Cambiamenti</it>
         <ur>تبدیلیاں محفوظ کرو</ur>
-    <es>Guardar cambios</es></entry>
+        <es>Guardar cambios</es>
+        <iw>שמור שינויים</iw>
+    </entry>
     <section>edit</section>
 </translations>

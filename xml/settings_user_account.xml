@@ -17,7 +17,9 @@
         <de>Benutzerkonto-Einstellungen</de>
         <it>Impostazioni account utente</it>
         <ur>صارف اکاؤنٹ کی ترتیبات</ur>
-    <es>Configuraciones de Cuenta de Usuario</es></entry>
+        <es>Configuraciones de Cuenta de Usuario</es>
+        <iw>הגדרות חשבון משתמש</iw>
+    </entry>
     <entry>
         <key>Name (First Last)</key>
         <en>Name (First Last)</en>
@@ -36,7 +38,9 @@
         <de>Namen (Vorname Nachname)</de>
         <it>Nome (Nome Cognome)</it>
         <ur>نام (سب سے پہلے آخری)</ur>
-    <es>Nombre (Primero Último)</es></entry>
+        <es>Nombre (Primero Último)</es>
+        <iw>שם (פרטי ומשפחה)</iw>
+    </entry>
     <entry>
         <key>Email Address</key>
         <en>Email Address</en>
@@ -55,7 +59,9 @@
         <de>E-Mail-Addresse</de>
         <it>Indirizzo email</it>
         <ur>ای میل اڈریس</ur>
-    <es>Correo Electrónico</es></entry>
+        <es>Correo Electrónico</es>
+        <iw>כתובת דוא"ל</iw>
+    </entry>
     <entry>
         <key>Password</key>
         <en>Password</en>
@@ -74,7 +80,9 @@
         <de>Passwort</de>
         <it>parola d'ordine</it>
         <ur>پاس ورڈ</ur>
-    <es>Contraseña</es></entry>
+        <es>Contraseña</es>
+        <iw>סיסמה</iw>
+    </entry>
     <entry>
         <key>Current Password</key>
         <en>Current Password</en>
@@ -93,7 +101,9 @@
         <de>Aktuelles Passwort</de>
         <it>Password attuale</it>
         <ur>موجودہ خفیہ لفظ</ur>
-    <es>Contraseña Actual</es></entry>
+        <es>Contraseña Actual</es>
+        <iw>סיסמה נוכחית</iw>
+    </entry>
     <entry>
         <key>New Password</key>
         <en>New Password</en>
@@ -112,7 +122,9 @@
         <de>Neues Kennwort</de>
         <it>nuova password</it>
         <ur>نیا پاس ورڈ</ur>
-    <es>Nueva Contraseña</es></entry>
+        <es>Nueva Contraseña</es>
+        <iw>סיסמה חדשה</iw>
+    </entry>
     <entry>
         <key>Confirm New Password</key>
         <en>Confirm New Password</en>
@@ -131,7 +143,9 @@
         <de>Neues Passwort bestätigen</de>
         <it>Conferma la nuova password</it>
         <ur>نئے پاس ورڈ کی توثیق کریں</ur>
-    <es>Confirmar Contraseña Nueva</es></entry>
+        <es>Confirmar Contraseña Nueva</es>
+        <iw>תאשר סיסמא חדשה</iw>
+    </entry>
     <entry>
         <key>Time Zone</key>
         <en>Time Zone</en>
@@ -150,7 +164,9 @@
         <de>Zeitzone</de>
         <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
-    <es>Zona Horaria</es></entry>
+        <es>Zona Horaria</es>
+        <iw>אזור זמן</iw>
+    </entry>
     <entry>
         <key>Location</key>
         <en>Location</en>
@@ -169,7 +185,9 @@
         <de>Ort</de>
         <it>luogo</it>
         <ur>مقام</ur>
-    <es>Localización</es></entry>
+        <es>Localización</es>
+        <iw>מקום</iw>
+    </entry>
     <entry>
         <key>Phone Number</key>
         <en>Phone Number</en>
@@ -188,7 +206,9 @@
         <de>Telefonnummer</de>
         <it>Numero di telefono</it>
         <ur>فون نمبر</ur>
-    <es>Número de Teléfono</es></entry>
+        <es>Número de Teléfono</es>
+        <iw>מספר טלפון</iw>
+    </entry>
     <entry>
         <key>Subscriptions</key>
         <en>Subscriptions</en>
@@ -207,7 +227,9 @@
         <de>Abonnements</de>
         <it>Sottoscrizioni</it>
         <ur>سبسکرپشنز</ur>
-    <es>Suscripciones</es></entry>
+        <es>Suscripciones</es>
+        <iw>מנוי</iw>
+    </entry>
     <entry>
         <key>Promotable Message Emails</key>
         <en>Promotable Message Emails</en>
@@ -226,7 +248,9 @@
         <de>Heraufstufbare Nachricht E-Mails</de>
         <it>Messaggi di posta elettronica messaggi promotable</it>
         <ur>Promotable پیغام ای میلز</ur>
-    <es>Emails de Mensajes Promocionables</es></entry>
+        <es>Emails de Mensajes Promocionables</es>
+        <iw>הודעות דוא"ל מסר בדרך לקידום</iw>
+    </entry>
     <entry>
         <key>Client Accounts</key>
         <en>Client Accounts</en>
@@ -245,7 +269,9 @@
         <de>Kundenkonten</de>
         <it>account cliente</it>
         <ur>کلائنٹ اکاؤنٹس</ur>
-    <es>Cuentas de Clientes</es></entry>
+        <es>Cuentas de Clientes</es>
+        <iw>חשבונות לקוח</iw>
+    </entry>
     <entry>
         <key>You have access to work on the following clients account(s)</key>
         <en>You have access to work on the following clients account(s)</en>
@@ -264,7 +290,9 @@
         <de>Sie haben Zugriff auf die folgenden Kunden Rechnung zu arbeiten (s)</de>
         <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
         <ur>آپ مندرجہ ذیل گاہکوں کے اکاؤنٹ پر کام تک رسائی حاصل کریں (ے)</ur>
-    <es>Usted tiene acceso para trabajar en la siguiente cuenta(s) de cliente</es></entry>
+        <es>Usted tiene acceso para trabajar en la siguiente cuenta(s) de cliente</es>
+        <iw>אתה צריך גישה לעבוד על חשבון הלקוחות הבאים (ים)</iw>
+    </entry>
     <entry>
         <key>Enabled Publishing Accounts</key>
         <en>Enabled Publishing Accounts</en>
@@ -283,7 +311,9 @@
         <de>Aktiviert Publishing-Konten</de>
         <it>Conti Editoria abilitati</it>
         <ur>قابل بنایا پبلشنگ اکاؤنٹس</ur>
-    <es>Cuentas de publicación habilitadas</es></entry>
+        <es>Cuentas de publicación habilitadas</es>
+        <iw>חשבונות הוצאת מופעל</iw>
+    </entry>
     <entry>
         <key>Resign</key>
         <en>Resign</en>
@@ -302,7 +332,9 @@
         <de>Zurücktreten</de>
         <it>Dare le dimissioni</it>
         <ur>مستعفی</ur>
-    <es>Renunciar</es></entry>
+        <es>Renunciar</es>
+        <iw>לְהִתְפַּטֵר</iw>
+    </entry>
     <entry>
         <key>Unable to Resign</key>
         <en>Unable to Resign</en>
@@ -321,6 +353,8 @@
         <de>Kann nicht resignieren</de>
         <it>Impossibile dare le dimissioni</it>
         <ur>استعفی دینے سے قاصر ہے</ur>
-    <es>Incapaz de Renunciar</es></entry>
+        <es>Incapaz de Renunciar</es>
+        <iw>אין אפשרות להתפטר</iw>
+    </entry>
     <section>settings_user_account</section>
 </translations>

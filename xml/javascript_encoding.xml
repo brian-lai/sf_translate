@@ -17,7 +17,9 @@
         <de>Sie müssen hinzufügen</de>
         <it>È necessario aggiungere un</it>
         <ur>آپ کو شامل کرنے کی ضرورت</ur>
-    <es>Necesita añadir un</es></entry>
+        <es>Necesita añadir un</es>
+        <iw>אתה צריך להוסיף</iw>
+    </entry>
     <entry>
         <key>social account</key>
         <en>social account</en>
@@ -36,7 +38,9 @@
         <de>Sozial Konto</de>
         <it>account di social</it>
         <ur>سماجی اکاؤنٹ</ur>
-    <es>cuenta social</es></entry>
+        <es>cuenta social</es>
+        <iw>שיקולים חברתיים</iw>
+    </entry>
     <entry>
         <key>before this page will work properly.</key>
         <en>before this page will work properly.</en>
@@ -55,7 +59,9 @@
         <de>bevor diese Seite ordnungsgemäß funktionieren wird.</de>
         <it>prima di questa pagina funzionerà correttamente.</it>
         <ur>پہلے اس صفحہ کو مناسب طریقے سے کام کریں گے.</ur>
-    <es>para que esta página funcione apropiadamente</es></entry>
+        <es>para que esta página funcione apropiadamente</es>
+        <iw>לפני בדף זה יעבוד כמו שצריך.</iw>
+    </entry>
     <entry>
         <key>Are you sure you want to delete this message?</key>
         <en>Are you sure you want to delete this message?</en>
@@ -74,7 +80,9 @@
         <de>Sind Sie sicher, dass Sie diese Nachricht löschen?</de>
         <it>Sei sicuro di voler eliminare questo messaggio?</it>
         <ur>اس پیغام کو حذف کرنا چاہتے ہیں؟</ur>
-    <es>Está seguro que desea eliminar este mensaje?</es></entry>
+        <es>Está seguro que desea eliminar este mensaje?</es>
+        <iw>האם אתה בטוח שאתה רוצה למחוק הודעה זו?</iw>
+    </entry>
     <entry>
         <key>yes</key>
         <en>yes</en>
@@ -93,7 +101,9 @@
         <de>ja</de>
         <it>sì</it>
         <ur>جی ہاں</ur>
-    <es>si</es></entry>
+        <es>si</es>
+        <iw>כן</iw>
+    </entry>
     <entry>
         <key>no</key>
         <en>no</en>
@@ -112,7 +122,9 @@
         <de>Nein</de>
         <it>no</it>
         <ur>نہیں</ur>
-    <es>no</es></entry>
+        <es>no</es>
+        <iw>לא</iw>
+    </entry>
     <entry>
         <key>This message has already been deleted.</key>
         <en>This message has already been deleted.</en>
@@ -131,7 +143,9 @@
         <de>Diese Nachricht wurde bereits gelöscht.</de>
         <it>Questo messaggio è già stato cancellato.</it>
         <ur>یہ پیغام پہلے ہی حذف کر دیا گیا ہے.</ur>
-    <es>Este mensaje ya ha sido eliminado</es></entry>
+        <es>Este mensaje ya ha sido eliminado</es>
+        <iw>הודעה זו כבר נמחקה.</iw>
+    </entry>
     <entry>
         <key>Something went wrong deleting your message.</key>
         <en>Something went wrong deleting your message.</en>
@@ -150,7 +164,9 @@
         <de>Etwas ging Löschen falsch Ihre Nachricht.</de>
         <it>Qualcosa è andato storto cancellando il messaggio.</it>
         <ur>کچھ غلط ہو اپنا پیغام کو حذف کرنے گئے.</ur>
-    <es>Ourrió algun error eliminando su mensaje.</es></entry>
+        <es>Ourrió algun error eliminando su mensaje.</es>
+        <iw>משהו השתבש מחיקת הודעתך.</iw>
+    </entry>
     <entry>
         <key>Sorry, there was an error</key>
         <en>Sorry, there was an error</en>
@@ -169,7 +185,9 @@
         <de>Entschuldigung, da war ein Fehler</de>
         <it>Spiacente, c'è stato un errore</it>
         <ur>معذرت، میں ایک خامی تھی</ur>
-    <es>Disculpe, hubo un error</es></entry>
+        <es>Disculpe, hubo un error</es>
+        <iw>מצטערים, אירעה שגיאה</iw>
+    </entry>
     <entry>
         <key>Sorry, there was an error</key>
         <en>Sorry, there was an error</en>
@@ -188,7 +206,9 @@
         <de>Entschuldigung, da war ein Fehler</de>
         <it>Spiacente, c'è stato un errore</it>
         <ur>معذرت، میں ایک خامی تھی</ur>
-    <es>Disculpe, hubo un error</es></entry>
+        <es>Disculpe, hubo un error</es>
+        <iw>מצטערים, אירעה שגיאה</iw>
+    </entry>
     <entry>
         <key>Your message(s) were marked</key>
         <en>Your message(s) were marked</en>
@@ -207,7 +227,9 @@
         <de>Ihre Nachricht (en) wurden markiert</de>
         <it>Il tuo messaggio (s) sono stati segnati</it>
         <ur>آپ کا پیغام (ے) سے نشان لگا دیا گیا تھا</ur>
-    <es>Su mensaje(s) ha sido marcado</es></entry>
+        <es>Su mensaje(s) ha sido marcado</es>
+        <iw>הודעתך (ים) סומנו</iw>
+    </entry>
     <entry>
         <key>Are you sure you want to </key>
         <en>Are you sure you want to </en>
@@ -226,7 +248,9 @@
         <de>Bist du sicher, dass du das willst</de>
         <it>Sei sicuro di volere</it>
         <ur>کیا آپ واقعی کرنا چاہتے ہیں</ur>
-    <es>Está seguro que desea</es></entry>
+        <es>Está seguro que desea</es>
+        <iw>אתה בטוח שאתה רוצה</iw>
+    </entry>
     <entry>
         <key>just now</key>
         <en>just now</en>
@@ -245,7 +269,9 @@
         <de>gerade jetzt</de>
         <it>proprio adesso</it>
         <ur>ابھی ابھی</ur>
-    <es>justo ahora</es></entry>
+        <es>justo ahora</es>
+        <iw>זֶה עַתָה</iw>
+    </entry>
     <entry>
         <key>1 minute</key>
         <en>1 minute</en>
@@ -264,7 +290,9 @@
         <de>1 Minute</de>
         <it>1 minuto</it>
         <ur>1 منٹ</ur>
-    <es>1 minuto</es></entry>
+        <es>1 minuto</es>
+        <iw>דקה 1</iw>
+    </entry>
     <entry>
         <key>minutes</key>
         <en>minutes</en>
@@ -283,7 +311,9 @@
         <de>Protokoll</de>
         <it>minuti</it>
         <ur>منٹ</ur>
-    <es>minutos</es></entry>
+        <es>minutos</es>
+        <iw>דקות</iw>
+    </entry>
     <entry>
         <key>hours</key>
         <en>hours</en>
@@ -302,7 +332,9 @@
         <de>Std.</de>
         <it>ore</it>
         <ur>گھنٹے</ur>
-    <es>horas</es></entry>
+        <es>horas</es>
+        <iw>שעות</iw>
+    </entry>
     <entry>
         <key>days</key>
         <en>days</en>
@@ -321,7 +353,9 @@
         <de>Tage</de>
         <it>giorni</it>
         <ur>دن</ur>
-    <es>días</es></entry>
+        <es>días</es>
+        <iw>ימים</iw>
+    </entry>
     <entry>
         <key>weeks</key>
         <en>weeks</en>
@@ -340,7 +374,9 @@
         <de>Wochen</de>
         <it>settimane</it>
         <ur>ہفتے</ur>
-    <es>semanas</es></entry>
+        <es>semanas</es>
+        <iw>שבועות</iw>
+    </entry>
     <entry>
         <key>1 month</key>
         <en>1 month</en>
@@ -359,7 +395,9 @@
         <de>1 Monat</de>
         <it>1 mese</it>
         <ur>1 مہینہ</ur>
-    <es>1 mes</es></entry>
+        <es>1 mes</es>
+        <iw>1 חודש</iw>
+    </entry>
     <entry>
         <key>months</key>
         <en>months</en>
@@ -378,7 +416,9 @@
         <de>Monate</de>
         <it>mesi</it>
         <ur>مہینے</ur>
-    <es>meses</es></entry>
+        <es>meses</es>
+        <iw>חודשים</iw>
+    </entry>
     <entry>
         <key>1 year</key>
         <en>1 year</en>
@@ -397,7 +437,9 @@
         <de>1 Jahr</de>
         <it>1 anno</it>
         <ur>1 سال</ur>
-    <es>1 año</es></entry>
+        <es>1 año</es>
+        <iw>1 שנה</iw>
+    </entry>
     <entry>
         <key>years</key>
         <en>years</en>
@@ -416,7 +458,9 @@
         <de>Jahre</de>
         <it>anni</it>
         <ur>سال</ur>
-    <es>años</es></entry>
+        <es>años</es>
+        <iw>שנים</iw>
+    </entry>
     <entry>
         <key>1 century</key>
         <en>1 century</en>
@@ -435,7 +479,9 @@
         <de>1 Jahrhundert</de>
         <it>1 ° secolo</it>
         <ur>1 صدی</ur>
-    <es>1 siglo</es></entry>
+        <es>1 siglo</es>
+        <iw>1 המאה</iw>
+    </entry>
     <entry>
         <key>ago</key>
         <en>ago</en>
@@ -454,7 +500,9 @@
         <de>vor</de>
         <it>fa</it>
         <ur>پہلے</ur>
-    <es>atrás</es></entry>
+        <es>atrás</es>
+        <iw>לִפנֵי</iw>
+    </entry>
     <entry>
         <key>Centuries</key>
         <en>Centuries</en>
@@ -473,7 +521,9 @@
         <de>Jahrhunderte</de>
         <it>Secoli</it>
         <ur>صدیوں</ur>
-    <es>Siglos</es></entry>
+        <es>Siglos</es>
+        <iw>מאות שנים</iw>
+    </entry>
     <entry>
         <key>Something has gone wrong retrieving your timeline.</key>
         <en>Something has gone wrong retrieving your timeline.</en>
@@ -492,7 +542,9 @@
         <de>Etwas schief gegangen Timeline abrufen.</de>
         <it>Qualcosa è andato storto recupero vostra timeline.</it>
         <ur>کچھ اپنی ٹائم لائن بازگیر غلط چلا گیا ہے.</ur>
-    <es>Ha ocurrido un error con su cronograma</es></entry>
+        <es>Ha ocurrido un error con su cronograma</es>
+        <iw>משהו השתבש יחזור ציר הזמן שלך.</iw>
+    </entry>
     <entry>
         <key>Click to edit title</key>
         <en>Click to edit title</en>
@@ -511,7 +563,9 @@
         <de>Klicken Sie auf Titel bearbeiten</de>
         <it>Fare clic per modificare il titolo</it>
         <ur>عنوان میں ترمیم کے لئے کلک کریں</ur>
-    <es>Haga clic para editar el título</es></entry>
+        <es>Haga clic para editar el título</es>
+        <iw>לחץ כדי לערוך את הכותרת</iw>
+    </entry>
     <entry>
         <key>Click to edit description</key>
         <en>Click to edit description</en>
@@ -530,7 +584,9 @@
         <de>Klicken Sie Beschreibung bearbeiten</de>
         <it>Clicca per pubblicare la descrizione</it>
         <ur>تفصیل میں ترمیم کریں کرنے کے لئے یہاں دبائیں</ur>
-    <es>Haga clicl para editar la descripción</es></entry>
+        <es>Haga clicl para editar la descripción</es>
+        <iw>לחץ כדי לערוך תיאור</iw>
+    </entry>
     <entry>
         <key>Promote this Message</key>
         <en>Promote this Message</en>
@@ -549,7 +605,9 @@
         <de>Fördern Sie diese Nachricht</de>
         <it>Promuovi questo Messaggio</it>
         <ur>اس پیغام کو فروغ</ur>
-    <es>Promover este Mensaje</es></entry>
+        <es>Promover este Mensaje</es>
+        <iw>לקדם את המסר הזה</iw>
+    </entry>
     <entry>
         <key>Added</key>
         <en>Added</en>
@@ -568,7 +626,9 @@
         <de>Hinzugefügt</de>
         <it>aggiunto</it>
         <ur>شامل کر دیا گیا</ur>
-    <es>Ańadido</es></entry>
+        <es>Ańadido</es>
+        <iw>נוסף</iw>
+    </entry>
     <entry>
         <key>Recycle message</key>
         <en>Recycle message</en>
@@ -587,7 +647,9 @@
         <de>Recycle Nachricht</de>
         <it>messaggio Riciclare</it>
         <ur>ردی پیغام</ur>
-    <es>Reciclar mensaje</es></entry>
+        <es>Reciclar mensaje</es>
+        <iw>הודעת מחזור</iw>
+    </entry>
     <entry>
         <key>Something has gone wrong retrieving your queue.</key>
         <en>Something has gone wrong retrieving your queue.</en>
@@ -606,7 +668,9 @@
         <de>Etwas schief gegangen Warteschlange abgerufen werden.</de>
         <it>Qualcosa è andato storto recuperare la coda.</it>
         <ur>کچھ آپ کی قطار بازگیر غلط چلا گیا ہے.</ur>
-    <es>Ocurrió algun error recuperando su lista en espera.</es></entry>
+        <es>Ocurrió algun error recuperando su lista en espera.</es>
+        <iw>משהו השתבש יחזור התור שלך.</iw>
+    </entry>
     <entry>
         <key>Optimized until</key>
         <en>Optimized until</en>
@@ -625,7 +689,9 @@
         <de>Optimiert bis</de>
         <it>Ottimizzato fino</it>
         <ur>جب تک آپٹمائزڈ</ur>
-    <es>Optimizar hasta</es></entry>
+        <es>Optimizar hasta</es>
+        <iw>אופטימלי עד</iw>
+    </entry>
     <entry>
         <key>Optimized from</key>
         <en>Optimized from</en>
@@ -644,7 +710,9 @@
         <de>Optimiert aus</de>
         <it>Ottimizzato da</it>
         <ur>سے آپٹمائزڈ</ur>
-    <es>Optimizar de</es></entry>
+        <es>Optimizar de</es>
+        <iw>אופטימלי מן</iw>
+    </entry>
     <entry>
         <key>Scheduled for</key>
         <en>Scheduled for</en>
@@ -663,7 +731,9 @@
         <de>Eingetragen für</de>
         <it>Pianificato per</it>
         <ur>کے لئے شیڈول</ur>
-    <es>Agendado para</es></entry>
+        <es>Agendado para</es>
+        <iw>נקבע ל</iw>
+    </entry>
     <entry>
         <key>Thumbnails</key>
         <en>Thumbnails</en>
@@ -682,7 +752,9 @@
         <de>thumbnails</de>
         <it>Miniature</it>
         <ur>تمبنےل</ur>
-    <es>Miniaturas</es></entry>
+        <es>Miniaturas</es>
+        <iw>תמונות ממוזערות</iw>
+    </entry>
     <entry>
         <key>Last edited by</key>
         <en>Last edited by</en>
@@ -701,7 +773,9 @@
         <de>Zuletzt bearbeitet von</de>
         <it>Ultima modifica di</it>
         <ur>آخری کی طرف سے ترمیم</ur>
-    <es>Última redacción por</es></entry>
+        <es>Última redacción por</es>
+        <iw>נערך לאחרונה על ידי</iw>
+    </entry>
     <entry>
         <key>Added</key>
         <en>Added</en>
@@ -720,7 +794,9 @@
         <de>Hinzugefügt</de>
         <it>aggiunto</it>
         <ur>شامل کر دیا گیا</ur>
-    <es>Añadido</es></entry>
+        <es>Añadido</es>
+        <iw>נוסף</iw>
+    </entry>
     <entry>
         <key>at</key>
         <en>at</en>
@@ -739,7 +815,9 @@
         <de>beim</de>
         <it>a</it>
         <ur>پر</ur>
-    <es>en</es></entry>
+        <es>en</es>
+        <iw>בְּ-</iw>
+    </entry>
     <entry>
         <key>Send at</key>
         <en>Send at</en>
@@ -758,7 +836,9 @@
         <de>senden an</de>
         <it>Invia a</it>
         <ur>میں ارسال کریں</ur>
-    <es>Enviar en</es></entry>
+        <es>Enviar en</es>
+        <iw>שלח ב</iw>
+    </entry>
     <entry>
         <key>No Search Terms</key>
         <en>No Search Terms</en>
@@ -777,7 +857,9 @@
         <de>Keine Suchbegriffe</de>
         <it>Non ci sono termini di ricerca</it>
         <ur>کوئی تلاش کی شرائط</ur>
-    <es>Sin términos de búsqueda</es></entry>
+        <es>Sin términos de búsqueda</es>
+        <iw>אין תנאי חיפוש</iw>
+    </entry>
     <entry>
         <key>Please enter text to search</key>
         <en>Please enter text to search</en>
@@ -796,7 +878,9 @@
         <de>Bitte geben Sie den Text zu suchen</de>
         <it>Si prega di inserire il testo da ricercare</it>
         <ur>تلاش کرنے کے لئے متن درج کریں</ur>
-    <es>Por favor inserte texo para buscar</es></entry>
+        <es>Por favor inserte texo para buscar</es>
+        <iw>נא להזין את הטקסט כדי לחפש</iw>
+    </entry>
     <entry>
         <key>Your message is limited to 140 characters when publishing to Twitter.</key>
         <en>Your message is limited to 140 characters when publishing to Twitter.</en>
@@ -815,7 +899,9 @@
         <de>Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
         <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
         <ur>فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
-    <es>Su mensaje es limitado a 140 carácteres cuando publica a Twitter.</es></entry>
+        <es>Su mensaje es limitado a 140 carácteres cuando publica a Twitter.</es>
+        <iw>המסר מוגבל ל -140 תווים בעת פרסום לטוויטר.</iw>
+    </entry>
     <entry>
         <key>Message is blank</key>
         <en>Message is blank</en>
@@ -834,7 +920,9 @@
         <de>Nachricht ist leer</de>
         <it>Messaggio è vuoto</it>
         <ur>پیغام خالی ہے</ur>
-    <es>Mensaje en blanco</es></entry>
+        <es>Mensaje en blanco</es>
+        <iw>הודעה ריקה</iw>
+    </entry>
     <entry>
         <key>Please enter a message.</key>
         <en>Please enter a message.</en>
@@ -853,7 +941,9 @@
         <de>Bitte geben Sie eine Nachricht.</de>
         <it>Si prega di inserire un messaggio.</it>
         <ur>ایک پیغام درج کریں.</ur>
-    <es>Por favor inserte un mensaje</es></entry>
+        <es>Por favor inserte un mensaje</es>
+        <iw>נא להזין הודעה.</iw>
+    </entry>
     <entry>
         <key>Please verify your date and time range.</key>
         <en>Please verify your date and time range.</en>
@@ -872,7 +962,9 @@
         <de>Bitte überprüfen Sie das Datum und Zeitbereich.</de>
         <it>Si prega di verificare la data e l'intervallo di tempo.</it>
         <ur>آپ کی تاریخ اور وقت کی حد کی تصدیق کریں.</ur>
-    <es>Por favor verifique su fecha y rango de tiempo.</es></entry>
+        <es>Por favor verifique su fecha y rango de tiempo.</es>
+        <iw>ודא הדייט שלך ואת טווח הזמן.</iw>
+    </entry>
     <entry>
         <key>Your message is in your queue set to optimized!</key>
         <en>Your message is in your queue set to optimized!</en>
@@ -891,7 +983,9 @@
         <de>Ihre Nachricht wird in die Warteschlange gesetzt optimiert!</de>
         <it>Il suo messaggio è in coda impostato ottimizzato!</it>
         <ur>آپ کا پیغام آپ کی قطار میں مرضی کے لئے مقرر کیا جاتا ہے!</ur>
-    <es>Su mensaje está en su lista en espera configurado como optimizar!</es></entry>
+        <es>Su mensaje está en su lista en espera configurado como optimizar!</es>
+        <iw>הודעתך בתור שלך מוגדרת אופטימיזציה!</iw>
+    </entry>
     <entry>
         <key>Your message will publish shortly!</key>
         <en>Your message will publish shortly!</en>
@@ -910,7 +1004,9 @@
         <de>Ihre Nachricht wird in Kürze veröffentlichen!</de>
         <it>Il tuo messaggio pubblicherà a breve!</it>
         <ur>آپ کا پیغام کچھ ہی دیر شائع کریں گے!</ur>
-    <es>Su mensaje será publicado en breve!</es></entry>
+        <es>Su mensaje será publicado en breve!</es>
+        <iw>הודעתך תפרסם בקרוב!</iw>
+    </entry>
     <entry>
         <key>Your message has been scheduled!</key>
         <en>Your message has been scheduled!</en>
@@ -929,7 +1025,9 @@
         <de>Ihre Nachricht wurde geplant!</de>
         <it>Il messaggio è stato programmato!</it>
         <ur>آپ کا پیغام شیڈول کیا گیا ہے!</ur>
-    <es>Su mensaje ha sido programado!</es></entry>
+        <es>Su mensaje ha sido programado!</es>
+        <iw>הודעתך תוזם!</iw>
+    </entry>
     <entry>
         <key>Something went wrong.</key>
         <en>Something went wrong.</en>
@@ -948,7 +1046,9 @@
         <de>Etwas ist schief gelaufen.</de>
         <it>Qualcosa è andato storto.</it>
         <ur>کچھ غلط ہو گیا.</ur>
-    <es>Ocurrió algun error.</es></entry>
+        <es>Ocurrió algun error.</es>
+        <iw>משהו השתבש.</iw>
+    </entry>
     <entry>
         <key>Invalid date(s)</key>
         <en>Invalid date(s)</en>
@@ -967,7 +1067,9 @@
         <de>Datum ungültig (n)</de>
         <it>Data non valida (s)</it>
         <ur>غلط تاریخ (ے)</ur>
-    <es>Fecha(s) inválida</es></entry>
+        <es>Fecha(s) inválida</es>
+        <iw>תאריך לא חוקי (ים)</iw>
+    </entry>
     <entry>
         <key>There was a problem scraping this page.</key>
         <en>There was a problem scraping this page.</en>
@@ -986,7 +1088,9 @@
         <de>Es gab ein Problem Diese Seite Schaben.</de>
         <it>C'è stato un problema raschiando questa pagina.</it>
         <ur>اس صفحے scraping کی ایک دشواری تھی.</ur>
-    <es>Hubo un problema leyendo esta página.</es></entry>
+        <es>Hubo un problema leyendo esta página.</es>
+        <iw>אירעה בעיה גירוד בדף זה.</iw>
+    </entry>
     <entry>
         <key>Please check the link and try again.</key>
         <en>Please check the link and try again.</en>
@@ -1005,7 +1109,9 @@
         <de>Bitte überprüfen Sie den Link und versuchen Sie es erneut.</de>
         <it>Si prega di verificare il link e riprova.</it>
         <ur>لنک کو چیک کریں اور دوبارہ کوشش کریں براہ مہربانی.</ur>
-    <es>Por favor verifique el enlace e intente de nuevo</es></entry>
+        <es>Por favor verifique el enlace e intente de nuevo</es>
+        <iw>אנא בדוק את הקישור ולנסות שוב.</iw>
+    </entry>
     <entry>
         <key>You must specify the country.</key>
         <en>You must specify the country.</en>
@@ -1024,7 +1130,9 @@
         <de>Sie müssen das Land angeben.</de>
         <it>È necessario specificare il paese.</it>
         <ur>آپ ملک کی وضاحت لازمی ہے.</ur>
-    <es>Debe especificar el país.</es></entry>
+        <es>Debe especificar el país.</es>
+        <iw>אתה חייב לציין את הארץ.</iw>
+    </entry>
     <entry>
         <key>There was an error uploading your image.</key>
         <en>There was an error uploading your image.</en>
@@ -1043,7 +1151,9 @@
         <de>Es ist ein Fehler aufgetreten Bild hochladen.</de>
         <it>Si è verificato un errore durante il caricamento delle immagini.</it>
         <ur>آپ کی تصویر اپ لوڈ کرنے میں ایک خامی تھی.</ur>
-    <es>Hubo un error subiendo su imagen.</es></entry>
+        <es>Hubo un error subiendo su imagen.</es>
+        <iw>אירעה שגיאה בעת טעינת התמונה שלך.</iw>
+    </entry>
     <entry>
         <key>Please try again.</key>
         <en>Please try again.</en>
@@ -1062,7 +1172,9 @@
         <de>Bitte versuche es erneut.</de>
         <it>Riprova.</it>
         <ur>دوبارہ کوشش کریں.</ur>
-    <es>Por favor intente de nuevo</es></entry>
+        <es>Por favor intente de nuevo</es>
+        <iw>בבקשה נסה שוב.</iw>
+    </entry>
     <entry>
         <key>Hmmmm...</key>
         <en>Hmmmm...</en>
@@ -1081,7 +1193,9 @@
         <de>Hmmmm ...</de>
         <it>Hmmmm ...</it>
         <ur>Hmmmm میں ...</ur>
-    <es>Hmm...</es></entry>
+        <es>Hmm...</es>
+        <iw>הממממ ...</iw>
+    </entry>
     <entry>
         <key>Something went wrong.</key>
         <en>Something went wrong.</en>
@@ -1100,7 +1214,9 @@
         <de>Etwas ist schief gelaufen.</de>
         <it>Qualcosa è andato storto.</it>
         <ur>کچھ غلط ہو گیا.</ur>
-    <es>Ocurrió algun error.</es></entry>
+        <es>Ocurrió algun error.</es>
+        <iw>משהו השתבש.</iw>
+    </entry>
     <entry>
         <key>Message is blank</key>
         <en>Message is blank</en>
@@ -1119,7 +1235,9 @@
         <de>Nachricht ist leer</de>
         <it>Messaggio è vuoto</it>
         <ur>پیغام خالی ہے</ur>
-    <es>El mensaje está en blanco</es></entry>
+        <es>El mensaje está en blanco</es>
+        <iw>הודעה ריקה</iw>
+    </entry>
     <entry>
         <key>Please enter a message</key>
         <en>Please enter a message</en>
@@ -1138,7 +1256,9 @@
         <de>Bitte geben Sie eine Nachricht</de>
         <it>Si prega di inserire un messaggio</it>
         <ur>ایک پیغام درج کریں</ur>
-    <es>Por favor inserte un mensaje</es></entry>
+        <es>Por favor inserte un mensaje</es>
+        <iw>נא להזין הודעה</iw>
+    </entry>
     <entry>
         <key>Schedule date is empty</key>
         <en>Schedule date is empty</en>
@@ -1157,7 +1277,9 @@
         <de>Geplantes Datum ist leer</de>
         <it>data di pianificazione è vuota</it>
         <ur>تاریخ کے شیڈول خالی ہے</ur>
-    <es>La fecha para programar está vacia</es></entry>
+        <es>La fecha para programar está vacia</es>
+        <iw>תאריך לוח זמנים ריק</iw>
+    </entry>
     <entry>
         <key>Please enter a schedule date</key>
         <en>Please enter a schedule date</en>
@@ -1176,7 +1298,9 @@
         <de>Bitte geben Sie einen Zeitplan Datum</de>
         <it>Si prega di inserire una data di pianificazione</it>
         <ur>ایک شیڈول کوڈ داخل کریں.</ur>
-    <es>Por favor inserte una fecha para programar</es></entry>
+        <es>Por favor inserte una fecha para programar</es>
+        <iw>נא להזין תאריך תזמון</iw>
+    </entry>
     <entry>
         <key>Your message will publish ASAP!</key>
         <en>Your message will publish ASAP!</en>
@@ -1195,7 +1319,9 @@
         <de>Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
         <it>Il tuo messaggio pubblicherà al più presto!</it>
         <ur>آپ کا پیغام ASAP شائع کریں گے!</ur>
-    <es>Su mensaje será publicado lo mas pronto posible!</es></entry>
+        <es>Su mensaje será publicado lo mas pronto posible!</es>
+        <iw>הודעתך תפרסם בהקדם האפשרי!</iw>
+    </entry>
     <entry>
         <key>Something went wrong...</key>
         <en>Something went wrong...</en>
@@ -1214,7 +1340,9 @@
         <de>Etwas ist schief gelaufen...</de>
         <it>Qualcosa è andato storto...</it>
         <ur>کچھ غلط ہو گیا...</ur>
-    <es>Ocurrió algun error...</es></entry>
+        <es>Ocurrió algun error...</es>
+        <iw>משהו השתבש...</iw>
+    </entry>
     <entry>
         <key>Error</key>
         <en>Error</en>
@@ -1233,7 +1361,9 @@
         <de>Fehler</de>
         <it>Errore</it>
         <ur>خرابی</ur>
-    <es>Error</es></entry>
+        <es>Error</es>
+        <iw>שְׁגִיאָה</iw>
+    </entry>
     <entry>
         <key>Authorizing your website Google Analytics account(s)</key>
         <en>Authorizing your website Google Analytics account(s)</en>
@@ -1252,7 +1382,9 @@
         <de>Berechtigen Ihre Website Google Analytics-Konto (en)</de>
         <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
         <ur>اپنی ویب سائٹ اختیار تجزیاتی گوگل اکاؤنٹ (زبانیں)</ur>
-    <es>Autorizando su cuenta(s) de Google Analytics de su sitio</es></entry>
+        <es>Autorizando su cuenta(s) de Google Analytics de su sitio</es>
+        <iw>מתן הרשאה האתר שלך לחשבון Google Analytics (ים)</iw>
+    </entry>
     <entry>
         <key>Authorizing your website Google Analytics account(s) will help us better optimize your messages by</key>
         <en>Authorizing your website Google Analytics account(s) will help us better optimize your messages by</en>
@@ -1271,7 +1403,9 @@
         <de>Berechtigen Ihre Website Google Analytics-Konto (en) wird uns helfen, besser optimieren Sie Ihre Nachrichten</de>
         <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
         <ur>آپ کی ویب سائٹ گوگل کے تجزیات کے اکاؤنٹ (زبانیں) اختیار بہتر ہمیں مدد کی طرف سے آپ کے پیغامات کو بہتر بنانے گا</ur>
-    <es>Autorizando su cuenta(s) de Google Analytics de su sitio nos ayudará a optimizar sus mensajes por</es></entry>
+        <es>Autorizando su cuenta(s) de Google Analytics de su sitio nos ayudará a optimizar sus mensajes por</es>
+        <iw>מתן הרשאת חשבון Google Analytics באתר שלך (הים) תעזור לנו לבצע אופטימיזציה טובה יותר ההודעות שלך על ידי</iw>
+    </entry>
     <entry>
         <key>giving us a better understanding of how your messages affect your site performance.</key>
         <en>giving us a better understanding of how your messages affect your site performance.</en>
@@ -1290,7 +1424,9 @@
         <de>die uns ein besseres Verständnis, wie Ihre Nachrichten die Leistung Ihrer Website beeinflussen.</de>
         <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
         <ur>ہمیں کس طرح آپ کے پیغامات آپ کی ویب سائٹ کی کارکردگی کو متاثر کی بہتر تفہیم دینے کے.</ur>
-    <es>darnos un mejor entendimiento de como sus mensajes afectan el desempeño de su sitio.</es></entry>
+        <es>darnos un mejor entendimiento de como sus mensajes afectan el desempeño de su sitio.</es>
+        <iw>נותן לנו הבנה טובה יותר של כמה הודעות שלך להשפיע על הביצועים באתר שלך.</iw>
+    </entry>
     <entry>
         <key>Authorize Google Analytics!</key>
         <en>Authorize Google Analytics!</en>
@@ -1309,7 +1445,9 @@
         <de>Autorisieren Google Analytics!</de>
         <it>Autorizzo Google Analytics!</it>
         <ur>گوگل کے تجزیات کی اجازت!</ur>
-    <es>Autorice Google Analytics!</es></entry>
+        <es>Autorice Google Analytics!</es>
+        <iw>תן הרשאה Google Analytics!</iw>
+    </entry>
     <entry>
         <key>No data available for the selected time period.</key>
         <en>No data available for the selected time period.</en>
@@ -1328,7 +1466,9 @@
         <de>Keine Daten für den gewählten Zeitraum.</de>
         <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
         <ur>کوئی ڈیٹا نہیں منتخب وقت کی مدت کے لئے دستیاب.</ur>
-    <es>No hay datos disponibles para el intérvalo de tiempo seleccionado</es></entry>
+        <es>No hay datos disponibles para el intérvalo de tiempo seleccionado</es>
+        <iw>אין נתונים זמינים עבור תקופת הזמן שנבחרה.</iw>
+    </entry>
     <entry>
         <key>Please change your time frame or</key>
         <en>Please change your time frame or</en>
@@ -1347,7 +1487,9 @@
         <de>Bitte ändern Sie Ihre Zeitrahmen oder</de>
         <it>Si prega di modificare il periodo di tempo o</it>
         <ur>آپ کے وقت کی حد کو تبدیل یا براہ کرم</ur>
-    <es>Por favor modifique su rango de tiempo o</es></entry>
+        <es>Por favor modifique su rango de tiempo o</es>
+        <iw>אנא שנה מסגרת הזמן שלך או</iw>
+    </entry>
     <entry>
         <key>publish some messages</key>
         <en>publish some messages</en>
@@ -1366,7 +1508,9 @@
         <de>veröffentlichen einige Nachrichten</de>
         <it>pubblicare alcuni messaggi</it>
         <ur>کچھ پیغامات شائع</ur>
-    <es>Publique algunos mensajes</es></entry>
+        <es>Publique algunos mensajes</es>
+        <iw>לפרסם כמה הודעות</iw>
+    </entry>
     <entry>
         <key>using SocialFlow!</key>
         <en>using SocialFlow!</en>
@@ -1385,7 +1529,9 @@
         <de>mit SocialFlow!</de>
         <it>utilizzando SocialFlow!</it>
         <ur>SocialFlow استعمال کرتے ہوئے!</ur>
-    <es>usando SocialFlow!</es></entry>
+        <es>usando SocialFlow!</es>
+        <iw>באמצעות SocialFlow!</iw>
+    </entry>
     <entry>
         <key>Current Clicks</key>
         <en>Current Clicks</en>
@@ -1404,7 +1550,9 @@
         <de>Aktuelle Klicks</de>
         <it>Clic attuali</it>
         <ur>موجودہ کلکس</ur>
-    <es>Clics Actuales</es></entry>
+        <es>Clics Actuales</es>
+        <iw>קליקים נוכחיים</iw>
+    </entry>
     <entry>
         <key>Current Audience Gains</key>
         <en>Current Audience Gains</en>
@@ -1423,7 +1571,9 @@
         <de>Aktuelle Audience Gewinne</de>
         <it>Utili pubblico attuale</it>
         <ur>موجودہ سامعین فوائد</ur>
-    <es>Ganancias de Audiencia Actuales</es></entry>
+        <es>Ganancias de Audiencia Actuales</es>
+        <iw>רווחי קהל נוכחיים</iw>
+    </entry>
     <entry>
         <key>Past Audience Gains</key>
         <en>Past Audience Gains</en>
@@ -1442,7 +1592,9 @@
         <de>Vergangene Publikum Gewinne</de>
         <it>Utili Pubblico passati</it>
         <ur>ماضی سامعین فوائد</ur>
-    <es>Ganancias de Audiencia Pasadas</es></entry>
+        <es>Ganancias de Audiencia Pasadas</es>
+        <iw>רווחי קהל עבר</iw>
+    </entry>
     <entry>
         <key>Current Interactions</key>
         <en>Current Interactions</en>
@@ -1461,7 +1613,9 @@
         <de>Aktuelle Wechselwirkungen</de>
         <it>Interazioni attuali</it>
         <ur>موجودہ سہباگتا</ur>
-    <es>Interacciones Actuales</es></entry>
+        <es>Interacciones Actuales</es>
+        <iw>אינטראקציות נוכחיות</iw>
+    </entry>
     <entry>
         <key>Past Interactions</key>
         <en>Past Interactions</en>
@@ -1480,7 +1634,9 @@
         <de>Historische Wechselwirkungen</de>
         <it>interazioni passate</it>
         <ur>سابقہ ​​تعامل</ur>
-    <es>Interacciones Pasadas</es></entry>
+        <es>Interacciones Pasadas</es>
+        <iw>אינטראקציות קודמות</iw>
+    </entry>
     <entry>
         <key>Please select a social account to view.</key>
         <en>Please select a social account to view.</en>
@@ -1499,7 +1655,9 @@
         <de>Bitte wählen Sie einen sozialen Konto anzuzeigen.</de>
         <it>Si prega di selezionare un account di social per visualizzare.</it>
         <ur>دیکھنے کے لئے ایک سماجی اکاؤنٹ منتخب کیجیے.</ur>
-    <es>Por favor seleccione una cuenta social para visualizar.</es></entry>
+        <es>Por favor seleccione una cuenta social para visualizar.</es>
+        <iw>אנא בחר חשבון חברתי להציג.</iw>
+    </entry>
     <entry>
         <key>No Social Accounts Available</key>
         <en>No Social Accounts Available</en>
@@ -1518,7 +1676,9 @@
         <de>Keine Social Accounts verfügbar</de>
         <it>Nessun account sociali disponibili</it>
         <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
-    <es>Niguna Cuenta Social Disponible</es></entry>
+        <es>Niguna Cuenta Social Disponible</es>
+        <iw>אין מספר ביטוח חשבונות זמינים</iw>
+    </entry>
     <entry>
         <key>Please click here to authorize your Social Accounts!</key>
         <en>Please click here to authorize your Social Accounts!</en>
@@ -1537,7 +1697,9 @@
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
         <it>Clicca qui per autorizzare account di social!</it>
         <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
-    <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales</es></entry>
+        <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales</es>
+        <iw>אנא לחץ כאן כדי לאשר החשבונות הלאומיים שלך!</iw>
+    </entry>
     <entry>
         <key>Loading Event Data</key>
         <en>Loading Event Data</en>
@@ -1556,7 +1718,9 @@
         <de>Laden von Ereignisdaten</de>
         <it>Caricamento Dati evento</it>
         <ur>واقعہ ڈیٹا لوڈ</ur>
-    <es>Cargando Datos de Evento</es></entry>
+        <es>Cargando Datos de Evento</es>
+        <iw>טוען אירוע נתונים</iw>
+    </entry>
     <entry>
         <key>Loading Click Data</key>
         <en>Loading Click Data</en>
@@ -1575,7 +1739,9 @@
         <de>Laden Klicken Sie auf Daten</de>
         <it>Loading Clicca Dati</it>
         <ur>لوڈ کر رہا ہے پر کلک ڈیٹا</ur>
-    <es>Cargando Datos de Clic</es></entry>
+        <es>Cargando Datos de Clic</es>
+        <iw>נתונים לחץ Loading</iw>
+    </entry>
     <entry>
         <key>Loading Interactions Data</key>
         <en>Loading Interactions Data</en>
@@ -1594,7 +1760,9 @@
         <de>Laden Wechselwirkungen Daten</de>
         <it>Caricamento Interazioni dati</it>
         <ur>سہباگتا ڈیٹا لوڈ</ur>
-    <es>Cargando Datos de Interacciones</es></entry>
+        <es>Cargando Datos de Interacciones</es>
+        <iw>טוען אינטראקציות נתונים</iw>
+    </entry>
     <entry>
         <key>Loading Audience Data</key>
         <en>Loading Audience Data</en>
@@ -1613,7 +1781,9 @@
         <de>Laden Publikumsdaten</de>
         <it>Caricamento Pubblico dati</it>
         <ur>لوڈ ہو رہا ہے سامعین ڈیٹا</ur>
-    <es>Cargando Datos de Audiencia</es></entry>
+        <es>Cargando Datos de Audiencia</es>
+        <iw>נתוני קהל Loading</iw>
+    </entry>
     <entry>
         <key>Missing Title</key>
         <en>Missing Title</en>
@@ -1632,7 +1802,9 @@
         <de>Fehlende Titel</de>
         <it>Titolo mancante</it>
         <ur>لاپتہ سرخی</ur>
-    <es>Sin Título</es></entry>
+        <es>Sin Título</es>
+        <iw>כותרת חסרה</iw>
+    </entry>
     <entry>
         <key>You can not save a report without a title</key>
         <en>You can not save a report without a title</en>
@@ -1651,7 +1823,9 @@
         <de>Sie können einen Bericht ohne Titel speichern</de>
         <it>Non è possibile salvare un report senza un titolo</it>
         <ur>آپ کو ایک عنوان کے بغیر ایک رپورٹ کر بچا نہیں سکتا</ur>
-    <es>No puede guardar un reporte sin título</es></entry>
+        <es>No puede guardar un reporte sin título</es>
+        <iw>אתה לא יכול לשמור דוח ללא כותרת</iw>
+    </entry>
     <entry>
         <key>Your information has been saved!</key>
         <en>Your information has been saved!</en>
@@ -1670,7 +1844,9 @@
         <de>Ihre Angaben wurden gespeichert!</de>
         <it>I tuoi dati è stato salvato!</it>
         <ur>آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
-    <es>Su información ha sido guardada!</es></entry>
+        <es>Su información ha sido guardada!</es>
+        <iw>המידע שלך נשמר!</iw>
+    </entry>
     <entry>
         <key>No Social Accounts Available</key>
         <en>No Social Accounts Available</en>
@@ -1689,7 +1865,9 @@
         <de>Keine Social Accounts verfügbar</de>
         <it>Nessun account sociali disponibili</it>
         <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
-    <es>No Hay Cuentas Sociales Disponibles</es></entry>
+        <es>No Hay Cuentas Sociales Disponibles</es>
+        <iw>אין מספר ביטוח חשבונות זמינים</iw>
+    </entry>
     <entry>
         <key>Please click here to authorize your Social Accounts!</key>
         <en>Please click here to authorize your Social Accounts!</en>
@@ -1708,7 +1886,9 @@
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
         <it>Clicca qui per autorizzare account di social!</it>
         <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
-    <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales!</es></entry>
+        <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales!</es>
+        <iw>אנא לחץ כאן כדי לאשר החשבונות הלאומיים שלך!</iw>
+    </entry>
     <entry>
         <key>Please select an account to view.</key>
         <en>Please select an account to view.</en>
@@ -1727,7 +1907,9 @@
         <de>Bitte wählen Sie ein Konto anzuzeigen.</de>
         <it>Seleziona un account per visualizzare.</it>
         <ur>دیکھنے کیلئے ایک اکاؤنٹ منتخب کیجیے.</ur>
-    <es>Por favor seleccione una cuenta para visualizar.</es></entry>
+        <es>Por favor seleccione una cuenta para visualizar.</es>
+        <iw>אנא בחר חשבון כדי להציג.</iw>
+    </entry>
     <entry>
         <key>End date is before your start date!</key>
         <en>End date is before your start date!</en>
@@ -1746,7 +1928,9 @@
         <de>Enddatum ist vor Ihrem Startdatum!</de>
         <it>La data di fine è prima della data di inizio!</it>
         <ur>ختم ہونے کی تاریخ آپ کے آغاز کی تاریخ سے پہلے ہے!</ur>
-    <es>La fecha de finalización es antes de su fecha de inicio!</es></entry>
+        <es>La fecha de finalización es antes de su fecha de inicio!</es>
+        <iw>תאריך הסיום לפני תאריך ההתחלה שלך!</iw>
+    </entry>
     <entry>
         <key>Please fix the items highlighted in red below.</key>
         <en>Please fix the items highlighted in red below.</en>
@@ -1765,7 +1949,9 @@
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
-    <es>Por favor corrija los elementos marcados en rojo debajo.</es></entry>
+        <es>Por favor corrija los elementos marcados en rojo debajo.</es>
+        <iw>אנא לתקן את הפריטים המסומנים באדום למטה.</iw>
+    </entry>
     <entry>
         <key>Your report has been submitted!</key>
         <en>Your report has been submitted!</en>
@@ -1784,7 +1970,9 @@
         <de>Ihr Bericht wurde vor Ort!</de>
         <it>Il tuo rapporto è stato presentato!</it>
         <ur>آپ کی رپورٹ جمع کرائی گئی ہے!</ur>
-    <es>Su reporte ha sido enviado!</es></entry>
+        <es>Su reporte ha sido enviado!</es>
+        <iw>הדו"ח שלך נשלח!</iw>
+    </entry>
     <entry>
         <key>Will be complete shortly.</key>
         <en>Will be complete shortly.</en>
@@ -1803,7 +1991,9 @@
         <de>Wird in Kürze abgeschlossen sein.</de>
         <it>Sarà completata a breve.</it>
         <ur>کچھ ہی دیر مکمل ہو جائے گا.</ur>
-    <es>Estará completo en breve.</es></entry>
+        <es>Estará completo en breve.</es>
+        <iw>יהיה שלם בקרוב.</iw>
+    </entry>
     <entry>
         <key>Pending</key>
         <en>Pending</en>
@@ -1822,7 +2012,9 @@
         <de>anstehend</de>
         <it>in attesa di</it>
         <ur>زیر التوا</ur>
-    <es>Pendiente</es></entry>
+        <es>Pendiente</es>
+        <iw>ממתין ל</iw>
+    </entry>
     <entry>
         <key>Your report has been deleted!</key>
         <en>Your report has been deleted!</en>
@@ -1841,7 +2033,9 @@
         <de>Ihr Bericht wurde gelöscht!</de>
         <it>Il tuo rapporto è stato cancellato!</it>
         <ur>آپ کی رپورٹ پر خارج کر دیا گیا ہے!</ur>
-    <es>Su reporte ha sido eliminado!</es></entry>
+        <es>Su reporte ha sido eliminado!</es>
+        <iw>הדו"ח שלך נמחק!</iw>
+    </entry>
     <entry>
         <key>Incomplete Form!</key>
         <en>Incomplete Form!</en>
@@ -1860,7 +2054,9 @@
         <de>Unvollständige Formular!</de>
         <it>Forma incompleta!</it>
         <ur>نامکمل فارم!</ur>
-    <es>Formulario Incompleto!</es></entry>
+        <es>Formulario Incompleto!</es>
+        <iw>בצורה חלקית!</iw>
+    </entry>
     <entry>
         <key>Please fix the items highlighted in red below.</key>
         <en>Please fix the items highlighted in red below.</en>
@@ -1879,5 +2075,7 @@
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
-    <es>Por favor corrija los elementos marcados en rojo debajo.</es></entry>
+        <es>Por favor corrija los elementos marcados en rojo debajo.</es>
+        <iw>אנא לתקן את הפריטים המסומנים באדום למטה.</iw>
+    </entry>
 </translations>

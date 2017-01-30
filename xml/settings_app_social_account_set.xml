@@ -17,7 +17,9 @@
         <de>Social-Kontoeinstellungen</de>
         <it>Impostazioni account sociale</it>
         <ur>سوشل اکاؤنٹ کی ترتیبات</ur>
-    <es>Configuraciones de Cuenta Social</es></entry>
+        <es>Configuraciones de Cuenta Social</es>
+        <iw>הגדרות חשבון חברתי</iw>
+    </entry>
     <entry>
         <key>Add Social Account</key>
         <en>Add Social Account</en>
@@ -36,7 +38,9 @@
         <de>In Social Konto</de>
         <it>Aggiungi account sociale</it>
         <ur>سوشل اکاؤنٹ شامل کریں</ur>
-    <es>Añadir Cuenta Social</es></entry>
+        <es>Añadir Cuenta Social</es>
+        <iw>הוסף חשבון חברתי</iw>
+    </entry>
     <entry>
         <key>Add Group</key>
         <en>Add Group</en>
@@ -55,7 +59,9 @@
         <de>Gruppe hinzufügen</de>
         <it>Aggiungere gruppo</it>
         <ur>گروپ میں شامل</ur>
-    <es>Añadir Grupo</es></entry>
+        <es>Añadir Grupo</es>
+        <iw>הוספת קבוצה</iw>
+    </entry>
     <entry>
         <key>Add Social Accounts ( Available | Upgrade)</key>
         <en>Add Social Accounts ( Available | Upgrade)</en>
@@ -74,7 +80,9 @@
         <de>In Social-Accounts (| Aktualisierung)</de>
         <it>Aggiungere Conti sociali (Disponibile | Upgrade)</it>
         <ur>سماجی اکاؤنٹس شامل کریں (دستیاب | اپ ڈیٹ کریں)</ur>
-    <es>Añadir Cuentas Sociales ( Disponible | Upgrade )</es></entry>
+        <es>Añadir Cuentas Sociales ( Disponible | Upgrade )</es>
+        <iw>להוסיף חברתי חשבונות (זמין | שדרוג)</iw>
+    </entry>
     <entry>
         <key>Authorize</key>
         <en>Authorize</en>
@@ -93,7 +101,9 @@
         <de>Autorisieren</de>
         <it>Autorizzare</it>
         <ur>اجازت دیں</ur>
-    <es>Autorizar</es></entry>
+        <es>Autorizar</es>
+        <iw>לְאַשֵׁר</iw>
+    </entry>
     <entry>
         <key>Your Current Publishing Accounts</key>
         <en>Your Current Publishing Accounts</en>
@@ -112,7 +122,9 @@
         <de>Ihre aktuelle Publishing-Konten</de>
         <it>Il tuo account di pubblicazione corrente</it>
         <ur>اپنے موجودہ پبلشنگ اکاؤنٹس</ur>
-    <es>Sus Cuentas para Publicar Actuales</es></entry>
+        <es>Sus Cuentas para Publicar Actuales</es>
+        <iw>חשבונות ההוצאה הנוכחיים שלך</iw>
+    </entry>
     <entry>
         <key>Type</key>
         <en>Type</en>
@@ -131,7 +143,9 @@
         <de>Art</de>
         <it>Digitare</it>
         <ur>قسم</ur>
-    <es>Tipo</es></entry>
+        <es>Tipo</es>
+        <iw>סוּג</iw>
+    </entry>
     <entry>
         <key>Name</key>
         <en>Name</en>
@@ -150,7 +164,9 @@
         <de>Name</de>
         <it>Nome</it>
         <ur>نام</ur>
-    <es>Nombre</es></entry>
+        <es>Nombre</es>
+        <iw>שֵׁם</iw>
+    </entry>
     <entry>
         <key>Status</key>
         <en>Status</en>
@@ -169,7 +185,9 @@
         <de>Status</de>
         <it>Stato</it>
         <ur>سٹیٹس</ur>
-    <es>Status</es></entry>
+        <es>Status</es>
+        <iw>סטָטוּס</iw>
+    </entry>
     <entry>
         <key>Date Added</key>
         <en>Date Added</en>
@@ -188,7 +206,9 @@
         <de>Datum hinzugefügt</de>
         <it>data aggiunta</it>
         <ur>تاریخ شامل کر دیا گیا</ur>
-    <es>Fecha Añadido</es></entry>
+        <es>Fecha Añadido</es>
+        <iw>תאריך הוסף</iw>
+    </entry>
     <entry>
         <key>Edit</key>
         <en>Edit</en>
@@ -207,7 +227,9 @@
         <de>Bearbeiten</de>
         <it>Modifica</it>
         <ur>تصیح</ur>
-    <es>Editar</es></entry>
+        <es>Editar</es>
+        <iw>לַעֲרוֹך</iw>
+    </entry>
     <entry>
         <key>Delete</key>
         <en>Delete</en>
@@ -226,7 +248,9 @@
         <de>Löschen</de>
         <it>cancellare</it>
         <ur>حذف کریں</ur>
-    <es>Eliminar</es></entry>
+        <es>Eliminar</es>
+        <iw>לִמְחוֹק</iw>
+    </entry>
     <entry>
         <key>Loading pages...</key>
         <en>Loading pages...</en>
@@ -245,7 +269,9 @@
         <de>Laden Seiten ...</de>
         <it>Caricamento pagine ...</it>
         <ur>لوڈنگ کے صفحات ...</ur>
-    <es>Cargando páginas...</es></entry>
+        <es>Cargando páginas...</es>
+        <iw>דפי Loading ...</iw>
+    </entry>
     <entry>
         <key>Choose which Facebook pages you want to use for publishing.</key>
         <en>Choose which Facebook pages you want to use for publishing.</en>
@@ -264,7 +290,9 @@
         <de>Wählen Sie die Facebook-Seiten, die Sie für die Veröffentlichung verwenden möchten.</de>
         <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
         <ur>آپ پبلشنگ کے لئے استعمال کرنا چاہتے ہیں جس کے فیس بک کے صفحات میں سے انتخاب کریں.</ur>
-    <es>Escoja cuales páginas de Facebook desea usar para publicar.</es></entry>
+        <es>Escoja cuales páginas de Facebook desea usar para publicar.</es>
+        <iw>בחר את דפי פייסבוק ברצונך להשתמש עבור פרסום.</iw>
+    </entry>
     <entry>
         <key>Add Now</key>
         <en>Add Now</en>
@@ -283,7 +311,9 @@
         <de>Jetzt hinzufügen</de>
         <it>Aggiungere ora</it>
         <ur>ابھی شامل کریں</ur>
-    <es>Añadir Ahora</es></entry>
+        <es>Añadir Ahora</es>
+        <iw>הוסף עכשיו</iw>
+    </entry>
     <entry>
         <key>Finished</key>
         <en>Finished</en>
@@ -302,7 +332,9 @@
         <de>Fertig</de>
         <it>Finito</it>
         <ur>ختم</ur>
-    <es>Terminado</es></entry>
+        <es>Terminado</es>
+        <iw>גָמוּר</iw>
+    </entry>
     <entry>
         <key>Are you sure you want to perform this action?</key>
         <en>Are you sure you want to perform this action?</en>
@@ -321,6 +353,8 @@
         <de>Sind Sie sicher, dass Sie diese Aktion durchführen?</de>
         <it>Sei sicuro di voler eseguire questa azione?</it>
         <ur>آپ کو یہ فعل انجام دینے کے لئے چاہتے ہیں؟</ur>
-    <es>Está seguro que desea ejecutar esta acción?</es></entry>
+        <es>Está seguro que desea ejecutar esta acción?</es>
+        <iw>האם אתה בטוח שברצונך לבצע פעולה זו?</iw>
+    </entry>
     <section>settings_app_social_account_set</section>
 </translations>

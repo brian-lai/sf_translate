@@ -17,7 +17,9 @@
         <de>Site Analytics</de>
         <it>analisi del sito</it>
         <ur>سائٹ کے تجزیے</ur>
-    <es>Análisis de Sitio</es></entry>
+        <es>Análisis de Sitio</es>
+        <iw>Analytics האתר</iw>
+    </entry>
     <entry>
         <key>Authorize Another Domain</key>
         <en>Authorize Another Domain</en>
@@ -36,7 +38,9 @@
         <de>Autorisieren einer anderen Domäne</de>
         <it>Autorizzare un altro dominio</it>
         <ur>دوسرے ڈومین اختیار</ur>
-    <es>Autoriazr Otro Dominio</es></entry>
+        <es>Autoriazr Otro Dominio</es>
+        <iw>מתן הרשאה נוספת דומיין</iw>
+    </entry>
     <entry>
         <key>Visits</key>
         <en>Visits</en>
@@ -55,7 +59,9 @@
         <de>Besuche</de>
         <it>visite</it>
         <ur>دورہ</ur>
-    <es>Visitas</es></entry>
+        <es>Visitas</es>
+        <iw>ביקורים</iw>
+    </entry>
     <entry>
         <key>Page Views</key>
         <en>Page Views</en>
@@ -74,7 +80,9 @@
         <de>Seitenaufrufe</de>
         <it>Visualizzazioni della pagina</it>
         <ur>صفحہ مناظر</ur>
-    <es>Vistas de Página</es></entry>
+        <es>Vistas de Página</es>
+        <iw>תצוגות דף</iw>
+    </entry>
     <entry>
         <key>Time on Site</key>
         <en>Time on Site</en>
@@ -93,7 +101,9 @@
         <de>Zeit auf der Website</de>
         <it>Tempo sul sito</it>
         <ur>سائٹ پر وقت</ur>
-    <es>Tiempo en el Sitio</es></entry>
+        <es>Tiempo en el Sitio</es>
+        <iw>משך הביקור באתר</iw>
+    </entry>
     <entry>
         <key>% Bounce Rate</key>
         <en>% Bounce Rate</en>
@@ -112,7 +122,9 @@
         <de>% Absprungrate</de>
         <it>% Frequenza di rimbalzo</it>
         <ur>٪ اچھال کی شرح</ur>
-    <es>% Tasa de rebote</es></entry>
+        <es>% Tasa de rebote</es>
+        <iw>% קצב הקפיצה</iw>
+    </entry>
     <entry>
         <key>% New Visits</key>
         <en>% New Visits</en>
@@ -131,7 +143,9 @@
         <de>% Neue Besuche</de>
         <it>% nuove visite</it>
         <ur>٪ نئے ملاحظات</ur>
-    <es>% Visitas Nuevas</es></entry>
+        <es>% Visitas Nuevas</es>
+        <iw>% ביקורים חדשים</iw>
+    </entry>
     <entry>
         <key>Events</key>
         <en>Events</en>
@@ -150,7 +164,9 @@
         <de>Veranstaltungen</de>
         <it>eventi</it>
         <ur>تقریبات</ur>
-    <es>Eventos</es></entry>
+        <es>Eventos</es>
+        <iw>אירועים</iw>
+    </entry>
     <entry>
         <key>Visits</key>
         <en>Visits</en>
@@ -169,7 +185,9 @@
         <de>Besuche</de>
         <it>visite</it>
         <ur>دورہ</ur>
-    <es>Visitas</es></entry>
+        <es>Visitas</es>
+        <iw>ביקורים</iw>
+    </entry>
     <entry>
         <key>Total</key>
         <en>Total</en>
@@ -188,7 +206,9 @@
         <de>Gesamt</de>
         <it>Totale</it>
         <ur>کل</ur>
-    <es>Total</es></entry>
+        <es>Total</es>
+        <iw>סה"כ</iw>
+    </entry>
     <entry>
         <key>Twitter (All Tweets)</key>
         <en>Twitter (All Tweets)</en>
@@ -207,7 +227,9 @@
         <de>Twitter (Alle Tweets)</de>
         <it>Twitter (Tutti i tweet)</it>
         <ur>ٹویٹر (تمام ٹویٹس)</ur>
-    <es>Twitter (Todos los Tweets)</es></entry>
+        <es>Twitter (Todos los Tweets)</es>
+        <iw>טוויטר (כל הציוצים)</iw>
+    </entry>
     <entry>
         <key>Facebook (All Post)</key>
         <en>Facebook (All Post)</en>
@@ -226,7 +248,9 @@
         <de>Facebook (Alle Post)</de>
         <it>Facebook (Tutti Post)</it>
         <ur>فیس بک (تمام پوسٹ)</ur>
-    <es>Facebook (Todas las Publicaciones)</es></entry>
+        <es>Facebook (Todas las Publicaciones)</es>
+        <iw>פייסבוק (כל ההודעה)</iw>
+    </entry>
     <entry>
         <key>Other</key>
         <en>Other</en>
@@ -245,7 +269,9 @@
         <de>Andere</de>
         <it>Altro</it>
         <ur>دیگر</ur>
-    <es>Otro</es></entry>
+        <es>Otro</es>
+        <iw>אַחֵר</iw>
+    </entry>
     <entry>
         <key>Sources</key>
         <en>Sources</en>
@@ -264,7 +290,9 @@
         <de>Quellen</de>
         <it>fonti</it>
         <ur>ذرائع</ur>
-    <es>Fuentes</es></entry>
+        <es>Fuentes</es>
+        <iw>מקורות</iw>
+    </entry>
     <entry>
         <key>Visits</key>
         <en>Visits</en>
@@ -283,7 +311,9 @@
         <de>Besuche</de>
         <it>visite</it>
         <ur>دورہ</ur>
-    <es>Visitas</es></entry>
+        <es>Visitas</es>
+        <iw>ביקורים</iw>
+    </entry>
     <entry>
         <key>% Visits</key>
         <en>% Visits</en>
@@ -302,7 +332,9 @@
         <de>% Besuche</de>
         <it>Visite%</it>
         <ur>٪ دورہ</ur>
-    <es>% Visitas</es></entry>
+        <es>% Visitas</es>
+        <iw>ביקורי%</iw>
+    </entry>
     <entry>
         <key>No Data Available!</key>
         <en>No Data Available!</en>
@@ -321,7 +353,9 @@
         <de>Keine Daten verfügbar!</de>
         <it>Nessun dato disponibile!</it>
         <ur>کوئی ڈیٹا دستیاب نہیں!</ur>
-    <es>No Hay Datos Dispnibles!</es></entry>
+        <es>No Hay Datos Dispnibles!</es>
+        <iw>אין נתונים זמינים!</iw>
+    </entry>
     <entry>
         <key>Please choose a different time range or metric.</key>
         <en>Please choose a different time range or metric.</en>
@@ -340,6 +374,8 @@
         <de>Bitte wählen Sie einen anderen Zeitbereich oder Metrik.</de>
         <it>Scegliere un intervallo di tempo diverso o metrica.</it>
         <ur>ایک مختلف وقت کی حد یا میٹرک منتخب کریں.</ur>
-    <es>Por favor escoja un intérvalo de tiempo o métrico diferente.</es></entry>
+        <es>Por favor escoja un intérvalo de tiempo o métrico diferente.</es>
+        <iw>בחר טווח זמנים אחר או מטרי.</iw>
+    </entry>
     <section>site_analytics</section>
 </translations>
