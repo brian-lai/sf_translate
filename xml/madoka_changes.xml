@@ -17,7 +17,7 @@
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen.</de>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda.</it>
         <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا.</ur>
-    </entry>
+    <es>ATENCIÓN: Eliminar una fuente de contenido también eliminará todos los mensajes de esta fuente de contenido en sus mensajes en espera.</es></entry>
     <entry>
         <key>If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead.</key>
         <en>If you would like to stop importing new messages from this content source without deleting the messages that have already been queued, please change the content source status from active to inactive instead.</en>
@@ -36,7 +36,7 @@
         <de>Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
         <it>Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
         <ur>آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی.</ur>
-    </entry>
+    <es>Si desea detener la importación de nuevos mensajes de esta fuente de contenido sin eliminar los mensajes que ya se han puesto en espera, cambie el estado de la fuente de contenido de activo a inactivo.</es></entry>
     <entry>
         <key>Note: changing these may impact SocialFlow's ability to optimize content.</key>
         <en>Note: changing these may impact SocialFlow's ability to optimize content.</en>
@@ -55,7 +55,7 @@
         <de>Hinweis: Ändern können diese SocialFlow Fähigkeit auswirken Inhalte zu optimieren.</de>
         <it>Nota: la modifica questi può influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <ur>نوٹ: ان بدلتے ہوئے مواد کو بہتر کرنے کے SocialFlow کی صلاحیت پر اثر انداز ہو سکتا ہے.</ur>
-    </entry>
+    <es>Nota: El cambio de estos puede afectar la capacidad de SocialFlow para optimizar contenido.</es></entry>
     <entry>
         <key>Add Existing Shortener</key>
         <en>Add Existing Shortener</en>
@@ -74,7 +74,7 @@
         <de>Vorhandene hinzufügen Shortener</de>
         <it>Aggiungere Shortener esistente</it>
         <ur>موجودہ اختصار شامل کریں</ur>
-    </entry>
+    <es>Añadir Acortador de Enlaces Existente</es></entry>
     <entry>
         <key>Error with your credit card information.</key>
         <en>Error with your credit card information.</en>
@@ -93,7 +93,7 @@
         <de>Fehler mit Ihrer Kreditkarteninformationen.</de>
         <it>Errore con i dati della carta di credito.</it>
         <ur>آپ کے کریڈٹ کارڈ کی معلومات میں خامی.</ur>
-    </entry>
+    <es>Error con la información de su tarjeta de crédito</es></entry>
     <entry>
         <key>PLAN OVERVIEW</key>
         <en>PLAN OVERVIEW</en>
@@ -112,7 +112,7 @@
         <de>PLAN IM ÜBERBLICK</de>
         <it>Quadro</it>
         <ur>PLAN جائزہ</ur>
-    </entry>
+    <es>VISTA GENERAL DEL PLAN</es></entry>
     <entry>
         <key>Account Options</key>
         <en>Account Options</en>
@@ -131,7 +131,7 @@
         <de>Kontoeinstellungen</de>
         <it>Opzioni dell'account</it>
         <ur>اکاؤنٹ اختیارات</ur>
-    </entry>
+    <es>Opciones de Cuenta</es></entry>
     <entry>
         <key>How many new accounts do you want?</key>
         <en>How many new accounts do you want?</en>
@@ -150,7 +150,7 @@
         <de>Wie viele neue Konten wollen Sie?</de>
         <it>Quanti account nuova vuoi?</it>
         <ur>آپ نئے کتنے اکاؤنٹس چاہتے ہو؟</ur>
-    </entry>
+    <es>Cuantas cuentas nuevas desea?</es></entry>
     <entry>
         <key>Social Account</key>
         <en>Social Account</en>
@@ -169,7 +169,7 @@
         <de>Social Konto</de>
         <it>account di social</it>
         <ur>سماجی اکاؤنٹ</ur>
-    </entry>
+    <es>Cuenta Social</es></entry>
     <entry>
         <key>Payment Options</key>
         <en>Payment Options</en>
@@ -188,7 +188,7 @@
         <de>Zahlungsmöglichkeiten</de>
         <it>Opzioni di pagamento</it>
         <ur>آدائیگی کے طریقے</ur>
-    </entry>
+    <es>Opciones de Pago</es></entry>
     <entry>
         <key>Annual - get 2 months free on all new accounts</key>
         <en>Annual - get 2 months free on all new accounts</en>
@@ -207,7 +207,7 @@
         <de>Jährlich - erhalten Sie 2 Monate kostenlos für alle neuen Konten</de>
         <it>Annuale - ottenere 2 mesi gratis su tutti i nuovi account</it>
         <ur>سالانہ - حاصل تمام نئے اکاؤنٹس پر 2 ماہ کے مفت</ur>
-    </entry>
+    <es>Anual - Obtenga 2 meses gratis en todas las cuentas nuevas</es></entry>
     <entry>
         <key>Month-to-month - get new accounts for $1 for the first month</key>
         <en>Month-to-month - get new accounts for $1 for the first month</en>
@@ -226,7 +226,7 @@
         <de>Monat zu Monat - bekommen neue Konten für $ 1 für den ersten Monat</de>
         <it>Mese per mese - ottenere nuovi account per $ 1 per il primo mese</it>
         <ur>ماہ بہ ماہ - پہلے مہینے کے لئے $ 1 کے لئے نئے اکاؤنٹس حاصل</ur>
-    </entry>
+    <es>Mes-a-Mes - Obtenga cuentas nuevas por $1 por el primer mes</es></entry>
     <entry>
         <key>Use Information on file</key>
         <en>Use Information on file</en>
@@ -245,7 +245,7 @@
         <de>Verwenden Sie Informationen zur Datei</de>
         <it>Utilizzare informazioni in archivio</it>
         <ur>فائل پر معلومات استعمال کریں</ur>
-    </entry>
+    <es>Utilizar Información en Archivo</es></entry>
     <entry>
         <key>Choose a different payment method</key>
         <en>Choose a different payment method</en>
@@ -264,7 +264,7 @@
         <de>Wählen Sie eine andere Zahlungsmethode</de>
         <it>Scegliere un metodo di pagamento diverso</it>
         <ur>ایک مختلف ادائیگی کے طریقہ کار کا انتخاب کریں</ur>
-    </entry>
+    <es>Seleccionar un método de pago diferente</es></entry>
     <entry>
         <key>By signing up, you agree to our</key>
         <en>By signing up, you agree to our</en>
@@ -283,7 +283,7 @@
         <de>Wenn Sie sich erklären Sie sich mit unseren</de>
         <it>Con la firma, accettate la nostra</it>
         <ur>سائن اپ کرنے کی طرف سے، آپ سے اتفاق کرتا ہوں کہ ہمارے</ur>
-    </entry>
+    <es>Al registrarse, usted acepta nuestro</es></entry>
     <entry>
         <key>Select a country</key>
         <en>Select a country</en>
@@ -302,7 +302,7 @@
         <de>Wähle ein Land</de>
         <it>Seleziona un Paese</it>
         <ur>ایک ملک منتخب کریں</ur>
-    </entry>
+    <es>Seleccione un país</es></entry>
     <entry>
         <key>Privacy policies</key>
         <en>Privacy policies</en>
@@ -321,7 +321,7 @@
         <de>Datenschutzrichtlinien</de>
         <it>politiche sulla privacy</it>
         <ur>رازداری کی پالیسیوں</ur>
-    </entry>
+    <es>Políticas de privacidad</es></entry>
     <entry>
         <key>SUMMARY OF CHARGES</key>
         <en>SUMMARY OF CHARGES</en>
@@ -340,7 +340,7 @@
         <de>ZUSAMMENFASSUNG DER GEBÜHREN</de>
         <it>SINTESI DELLE SPESE</it>
         <ur>الزامات کی خلاصہ</ur>
-    </entry>
+    <es>RESUMEN DE CARGOS</es></entry>
     <entry>
         <key>Annual: Get two free months when you pay for one year.</key>
         <en>Annual: Get two free months when you pay for one year.</en>
@@ -359,7 +359,7 @@
         <de>Jährlich: zwei kostenlose Monate erhalten, wenn Sie für ein Jahr zahlen.</de>
         <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <ur>سالانہ: اگر آپ ایک سال کے لئے ادائیگی کرتے ہیں جب دو ماہ تک مفت حاصل کریں.</ur>
-    </entry>
+    <es>Anual: Obtenga dos meses grátis cuando paga por un año</es></entry>
     <entry>
         <key>Monthly</key>
         <en>Monthly</en>
@@ -378,7 +378,7 @@
         <de>Monatlich</de>
         <it>Mensile</it>
         <ur>ماہانہ</ur>
-    </entry>
+    <es>Mensual</es></entry>
     <entry>
         <key>Monthly Payment Discount</key>
         <en>Monthly Payment Discount</en>
@@ -397,7 +397,7 @@
         <de>Monatliche Zahlung Discount</de>
         <it>Sconto pagamento mensile</it>
         <ur>ماہانہ ادائیگی ڈسکاؤنٹ</ur>
-    </entry>
+    <es>Descuento por Pago Mensual</es></entry>
     <entry>
         <key>Promo Discount</key>
         <en>Promo Discount</en>
@@ -416,7 +416,7 @@
         <de>Promo Discount</de>
         <it>Sconto Promo</it>
         <ur>پرومو ڈسکاؤنٹ</ur>
-    </entry>
+    <es>Descuento Promocional</es></entry>
     <entry>
         <key>Subtotal</key>
         <en>Subtotal</en>
@@ -435,7 +435,7 @@
         <de>Zwischensumme</de>
         <it>totale parziale</it>
         <ur>ذیلی کل</ur>
-    </entry>
+    <es>Subtotal</es></entry>
     <entry>
         <key>Tax (NY and CA only)</key>
         <en>Tax (NY and CA only)</en>
@@ -454,7 +454,7 @@
         <de>Tax (NY und nur CA)</de>
         <it>Fiscale (NY e solo CA)</it>
         <ur>ٹیکس (NY اور CA صرف)</ur>
-    </entry>
+    <es>Impuesto (NY y CA solamente)</es></entry>
     <entry>
         <key>You will be charged</key>
         <en>You will be charged</en>
@@ -473,7 +473,7 @@
         <de>Sie werden in Rechnung gestellt</de>
         <it>Ti verrà addebitato</it>
         <ur>آپ وصول کی جائے گی</ur>
-    </entry>
+    <es>Usted será cobrado</es></entry>
     <entry>
         <key>PLAN</key>
         <en>PLAN</en>
@@ -492,7 +492,7 @@
         <de>PLANEN</de>
         <it>PIANO</it>
         <ur>PLAN</ur>
-    </entry>
+    <es>PLAN</es></entry>
     <entry>
         <key>SocialFlow Business</key>
         <en>SocialFlow Business</en>
@@ -511,7 +511,7 @@
         <de>SocialFlow Geschäfts</de>
         <it>SocialFlow Affari</it>
         <ur>SocialFlow بزنس</ur>
-    </entry>
+    <es>SocialFlow Negocios</es></entry>
     <entry>
         <key>2 or more Publishing Accounts</key>
         <en>2 or more Publishing Accounts</en>
@@ -530,7 +530,7 @@
         <de>2 oder mehr Publishing-Konten</de>
         <it>2 o più account editoria</it>
         <ur>2 یا زیادہ پبلشنگ اکاؤنٹس</ur>
-    </entry>
+    <es>2 o más Cuentas de Publicación</es></entry>
     <entry>
         <key>Comprehensive Reports</key>
         <en>Comprehensive Reports</en>
@@ -549,7 +549,7 @@
         <de>Umfassende Berichte</de>
         <it>rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
-    </entry>
+    <es>Reportes Completos</es></entry>
     <entry>
         <key>Community Support</key>
         <en>Community Support</en>
@@ -568,7 +568,7 @@
         <de>Gemeinschaftliche Unterstützung</de>
         <it>Support Community</it>
         <ur>کمیونٹی سپورٹ</ur>
-    </entry>
+    <es>Soporte Comunitario</es></entry>
     <entry>
         <key>Plan</key>
         <en>Plan</en>
@@ -587,7 +587,7 @@
         <de>Planen</de>
         <it>Piano</it>
         <ur>پلان</ur>
-    </entry>
+    <es>Plan</es></entry>
     <entry>
         <key>Cost</key>
         <en>Cost</en>
@@ -606,7 +606,7 @@
         <de>Kosten</de>
         <it>Costo</it>
         <ur>لاگت</ur>
-    </entry>
+    <es>Costo</es></entry>
     <entry>
         <key>$0</key>
         <en>$0</en>
@@ -625,7 +625,7 @@
         <de>$ 0</de>
         <it>$ 0</it>
         <ur>$ 0</ur>
-    </entry>
+    <es>$0</es></entry>
     <entry>
         <key>You don't have any editable users yet. Invite some new users to get started.</key>
         <en>You don't have any editable users yet. Invite some new users to get started.</en>
@@ -644,7 +644,7 @@
         <de>Sie haben noch keine editierbaren Benutzer noch. Laden Sie einige neue Benutzer zu beginnen.</de>
         <it>Non avete ancora utenti modificabili. Invitare alcuni nuovi utenti per iniziare.</it>
         <ur>ابھی تک آپ کوئی قابل تدوین صارفین کی ضرورت نہیں ہے. کچھ نئے صارفین کو مدعو شروع کرنے کے لئے.</ur>
-    </entry>
+    <es>Aún no tiene usuarios editables. Invite algunos usuarios nuevos para comenzar.</es></entry>
     <entry>
         <key>(No Saved Name)</key>
         <en>(No Saved Name)</en>
@@ -663,7 +663,7 @@
         <de>(No gespeicherte Name)</de>
         <it>(No Name salvati)</it>
         <ur>(کوئی محفوظ نام)</ur>
-    </entry>
+    <es>(Nigún Nombre Guardado)</es></entry>
     <entry>
         <key>Last Changed:</key>
         <en>Last Changed:</en>
@@ -682,7 +682,7 @@
         <de>Zuletzt geändert:</de>
         <it>Ultima modifica:</it>
         <ur>آخری تبدیل:</ur>
-    </entry>
+    <es>Última Modificación:</es></entry>
     <entry>
         <key>Notify me when these events occur:</key>
         <en>Notify me when these events occur:</en>
@@ -701,7 +701,7 @@
         <de>Benachrichtigen Sie mich, wenn diese Ereignisse auftreten:</de>
         <it>Inviami una notifica quando si verificano questi eventi:</it>
         <ur>ان واقعات پائے جاتے ہیں جب مجھے مطلع کریں:</ur>
-    </entry>
+    <es>Notificarme cuando ocurran estos eventos:</es></entry>
     <entry>
         <key>Updates from SocialFlow</key>
         <en>Updates from SocialFlow</en>
@@ -720,7 +720,7 @@
         <de>Updates von SocialFlow</de>
         <it>Aggiornamenti da SocialFlow</it>
         <ur>SocialFlow سے تازہ ترین معلومات کے</ur>
-    </entry>
+    <es>Actualizaciones de SocialFlow</es></entry>
     <entry>
         <key>Current Plan:</key>
         <en>Current Plan:</en>
@@ -739,7 +739,7 @@
         <de>Derzeitiger Plan:</de>
         <it>Piano di corrente:</it>
         <ur>موجودہ پلان:</ur>
-    </entry>
+    <es>Plan Corriente:</es></entry>
     <entry>
         <key>Number of accounts included:</key>
         <en>Number of accounts included:</en>
@@ -758,7 +758,7 @@
         <de>Anzahl der Konten enthalten:</de>
         <it>Numero di account inclusi:</it>
         <ur>اکاؤنٹس کی بڑی تعداد شامل:</ur>
-    </entry>
+    <es>Número de cuentas incluidas:</es></entry>
     <entry>
         <key>Upgrade to SocialFlow Business</key>
         <en>Upgrade to SocialFlow Business</en>
@@ -777,7 +777,7 @@
         <de>Upgrade auf SocialFlow Geschäfts</de>
         <it>Aggiornamento a SocialFlow business</it>
         <ur>SocialFlow کاروبار میں اپ گریڈ کریں</ur>
-    </entry>
+    <es>Upgrade a SocialFlow Business</es></entry>
     <entry>
         <key>Add on Social Accounts</key>
         <en>Add on Social Accounts</en>
@@ -796,7 +796,7 @@
         <de>Fügen Sie auf Social Accounts</de>
         <it>Aggiungere sui conti sociali</it>
         <ur>سماجی اکاؤنٹس پر شامل کریں</ur>
-    </entry>
+    <es>Añadir en Cuentas Sociales</es></entry>
     <entry>
         <key>Upgrade Enterprise Account</key>
         <en>Upgrade Enterprise Account</en>
@@ -815,7 +815,7 @@
         <de>Upgrade-Enterprise-Konto</de>
         <it>Aggiornamento Enterprise Account</it>
         <ur>انٹرپرائز اکاؤنٹ اپ گریڈ</ur>
-    </entry>
+    <es>Upgrade Cuenta Empresarial</es></entry>
     <entry>
         <key>If you want to upgrade, please contact</key>
         <en>If you want to upgrade, please contact</en>
@@ -834,7 +834,7 @@
         <de>Wenn Sie aktualisieren möchten, wenden Sie sich bitte</de>
         <it>Se si desidera aggiornare, si prega di contattare</it>
         <ur>آپ کو اپ گریڈ کرنا چاہتے ہیں تو، برائے مہربانی رابطہ کریں</ur>
-    </entry>
+    <es>Si desea upgrade, por favor contacte</es></entry>
     <entry>
         <key>upgrade@socialflow.com</key>
         <en>upgrade@socialflow.com</en>
@@ -853,7 +853,7 @@
         <de>upgrade@socialflow.com</de>
         <it>upgrade@socialflow.com</it>
         <ur>upgrade@socialflow.com</ur>
-    </entry>
+    <es>upgrade@socialflow.com</es></entry>
     <entry>
         <key>Optimized Publishing for</key>
         <en>Optimized Publishing for</en>
@@ -872,7 +872,7 @@
         <de>Optimierte Publishing für</de>
         <it>Ottimizzato per editoria</it>
         <ur>کیلئے شائع آپٹمائزڈ</ur>
-    </entry>
+    <es>Publicación Optimizada para</es></entry>
     <entry>
         <key>2 or more Twitter or Facebook Accounts</key>
         <en>2 or more Twitter or Facebook Accounts</en>
@@ -891,7 +891,7 @@
         <de>2 oder mehr Twitter oder Facebook-Konten</de>
         <it>2 o più account Twitter o Facebook</it>
         <ur>2 یا زیادہ ٹویٹر یا فیس بک کے اکاؤنٹس</ur>
-    </entry>
+    <es>2 o más Cuentas de Facebook o Twitter</es></entry>
     <entry>
         <key>up to 30 Twitter or Facebook Accounts</key>
         <en>up to 30 Twitter or Facebook Accounts</en>
@@ -910,7 +910,7 @@
         <de>bis zu 30 Twitter oder Facebook-Konten</de>
         <it>fino a 30 account Twitter o Facebook</it>
         <ur>30 ٹویٹر یا فیس بک کے اکاؤنٹس</ur>
-    </entry>
+    <es>Hasta 30 Cuentas de Twitter o Facebook</es></entry>
     <entry>
         <key>Add even more accounts starting at</key>
         <en>Add even more accounts starting at</en>
@@ -929,7 +929,7 @@
         <de>Fügen Sie noch mehr Konten ab</de>
         <it>Aggiungere ancora più conti a partire da</it>
         <ur>سے شروع بھی زیادہ اکاؤنٹس کا اضافہ کریں</ur>
-    </entry>
+    <es>Añadir hasta más cuentas desde</es></entry>
     <entry>
         <key>Create a Client with Different Billing Details</key>
         <en>Create a Client with Different Billing Details</en>
@@ -948,7 +948,7 @@
         <de>Erstellen Sie eine Client mit unterschiedlichen Rechnungsdetails</de>
         <it>Creare un client con diverse fatturazione Dettagli</it>
         <ur>مختلف بلنگ تفصیلات کے ساتھ ایک کلائنٹ بنائیں</ur>
-    </entry>
+    <es>Crear un Cliente con Diferentes Detalles de Facturación</es></entry>
     <entry>
         <key>Want to add accounts to SocialFlow with different billing information?</key>
         <en>Want to add accounts to SocialFlow with different billing information?</en>
@@ -967,7 +967,7 @@
         <de>Möchten Konten SocialFlow mit unterschiedlichen Abrechnungsinformationen hinzufügen?</de>
         <it>Vuoi aggiungere account a SocialFlow con diversi dati di fatturazione?</it>
         <ur>مختلف بلنگ کی معلومات SocialFlow کرنے اکاؤنٹس شامل کرنا چاہتے ہیں؟</ur>
-    </entry>
+    <es>Desea añadir cuentas a SocialFlow con información de facturación diferentes?</es></entry>
     <entry>
         <key>Create New Client</key>
         <en>Create New Client</en>
@@ -986,7 +986,7 @@
         <de>Erstellen neuer Kunde</de>
         <it>Crea Nuovo Cliente</it>
         <ur>نئے گاہک بنائیں</ur>
-    </entry>
+    <es>Crear Nuevo Cliente</es></entry>
     <entry>
         <key>Enterprise Services</key>
         <en>Enterprise Services</en>
@@ -1005,7 +1005,7 @@
         <de>Enterprise Services</de>
         <it>Enterprise Services</it>
         <ur>انٹرپرائز سروسز</ur>
-    </entry>
+    <es>Servicios Empresariales</es></entry>
     <entry>
         <key>SocialFlow Enterprise services include full support, custom integration, custom reports, specialized functionality, and more. We're here to help create the plan that's right for you. Get in touch!</key>
         <en>SocialFlow Enterprise services include full support, custom integration, custom reports, specialized functionality, and more. We're here to help create the plan that's right for you. Get in touch!</en>
@@ -1024,7 +1024,7 @@
         <de>SocialFlow Enterprise-Dienste umfassen die volle Unterstützung, kundenspezifische Integration, benutzerdefinierte Berichte, spezielle Funktionen und vieles mehr. Wir sind hier um zu helfen, den Plan zu erstellen, der für Sie richtig ist. In Kontakt kommen!</de>
         <it>servizi SocialFlow Enterprise comprendono il pieno supporto, integrazione personalizzata, report personalizzati, funzionalità specializzate, e altro ancora. Siamo qui per aiutare a creare il piano che fa per voi. Entra in contatto!</it>
         <ur>SocialFlow انٹرپرائز سروسز مکمل حمایت، اپنی مرضی کے انضمام، اپنی مرضی کی رپورٹیں، خصوصی فعالیت، اور مزید شامل ہیں. ہم آپ کے لئے صحیح ہے کہ منصوبہ بندی تخلیق کرنے میں مدد کے لئے یہاں ہیں. رابطے میں رہنا!</ur>
-    </entry>
+    <es>Los servicios de SocialFlow Empresarial incluyen soporte completo, integración personalizada, informes personalizados, funcionalidad especializada y más. Estamos aquí para ayudarle a crear el plan adecuado para usted. ¡Póngase en contacto!</es></entry>
     <entry>
         <key>Contact Sales</key>
         <en>Contact Sales</en>
@@ -1043,7 +1043,7 @@
         <de>Kontakt zum Vertrieb</de>
         <it>Contatta l'ufficio vendite</it>
         <ur>سیلز سے رابطہ کریں</ur>
-    </entry>
+    <es>Contactar Ventas</es></entry>
     <entry>
         <key>Completely impact multifunctional processes and wireless supply chains. Dynamically engage business metaservices for market-driven data. Collaboratively restore cross-platform users before client-centered manufactured products.</key>
         <en>Completely impact multifunctional processes and wireless supply chains. Dynamically engage business metaservices for market-driven data. Collaboratively restore cross-platform users before client-centered manufactured products.</en>
@@ -1062,7 +1062,7 @@
         <de>Auswirkungen Komplett multifunktionale Prozesse und drahtlose Lieferketten. Dynamisch Geschäft MetaServices für marktorientierte Daten engagieren. Kollaborativ wiederherstellen Cross-Plattform-Benutzer vor klientenzentrierte hergestellten Produkte.</de>
         <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <ur>مکمل طور پر کثیر عمل اور وائرلیس سپلائی چین اثر انداز. متحرک طور پر مارکیٹ پر مبنی اعداد و شمار کے لئے کاروبار metaservices مشغول. مل کر کلائنٹ مرکوز تیار کردہ مصنوعات سے پہلے کراس پلیٹ فارم صارفین کو بحال.</ur>
-    </entry>
+    <es>Impacte completamente los procesos multifuncionales y las cadenas de suministro inalámbricas. Involucrese dinámicamente a metaservicios empresariales para datos orientados al mercado. Restablezca de forma colaborativa a usuarios de distintas plataformas antes de productos manufacturados centrados en el cliente.</es></entry>
     <entry>
         <key>Assertively evolve long-term high-impact vortals through visionary solutions. Professionally harness standardized portals vis-a-vis resource maximizing deliverables. Continually coordinate stand-alone applications rather than virtual communities.</key>
         <en>Assertively evolve long-term high-impact vortals through visionary solutions. Professionally harness standardized portals vis-a-vis resource maximizing deliverables. Continually coordinate stand-alone applications rather than virtual communities.</en>
@@ -1081,7 +1081,7 @@
         <de>langfristige High-Impact Vortale durch visionäre Lösungen assertively entwickeln. Professionell nutzen standardisierte Portale vis-a-vis Ressourcenmaximierung zu erbringenden Leistungen. Stand-alone-Anwendungen eher als virtuelle Gemeinschaften Kontinuierlich koordinieren.</de>
         <it>Assertivo evolversi vortals ad alto impatto a lungo termine attraverso soluzioni visionarie. Professionalmente sfruttare portali standardizzati vis-a-vis deliverable risorse massimizzando. Continuamente coordinare applicazioni stand-alone, piuttosto che le comunità virtuali.</it>
         <ur>Assertively بصیرت حل کے ذریعے طویل مدتی اعلی اثر vortals تیار. پیشہ ورانہ معیار کیا پورٹلز مقابلے- A- مقابلے وسائل بڑھانے ڈیلیورایبلز دوہن. کھڑے اکیلے ایپلی کیشنز کی بجائے مجازی کمیونٹیز محدد.</ur>
-    </entry>
+    <es>Asertivamente evolucionar portales de largo plazo y alto impacto a través de soluciones visionarias. Profesionalmente aproveche portales estandarizados frente a recursos que maximizan los resultados. Coordine continuamente aplicaciones autónomas en lugar de comunidades virtuales.</es></entry>
     <entry>
         <key>You don't have any domains yet.</key>
         <en>You don't have any domains yet.</en>
@@ -1100,7 +1100,7 @@
         <de>Sie haben noch keine Domains noch.</de>
         <it>Non avete ancora domini.</it>
         <ur>ابھی تک آپ کوئی ڈومینز کی ضرورت نہیں ہے.</ur>
-    </entry>
+    <es>Usted no tiene dominios aún.</es></entry>
     <entry>
         <key>Completely impact multifunctional processes and wireless supply chains. Dynamically engage business metaservices for market-driven data. Collaboratively restore cross-platform users before client-centered manufactured products.</key>
         <en>Completely impact multifunctional processes and wireless supply chains. Dynamically engage business metaservices for market-driven data. Collaboratively restore cross-platform users before client-centered manufactured products.</en>
@@ -1119,7 +1119,7 @@
         <de>Auswirkungen Komplett multifunktionale Prozesse und drahtlose Lieferketten. Dynamisch Geschäft MetaServices für marktorientierte Daten engagieren. Kollaborativ wiederherstellen Cross-Plattform-Benutzer vor klientenzentrierte hergestellten Produkte.</de>
         <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <ur>مکمل طور پر کثیر عمل اور وائرلیس سپلائی چین اثر انداز. متحرک طور پر مارکیٹ پر مبنی اعداد و شمار کے لئے کاروبار metaservices مشغول. مل کر کلائنٹ مرکوز تیار کردہ مصنوعات سے پہلے کراس پلیٹ فارم صارفین کو بحال.</ur>
-    </entry>
+    <es>Impacte completamente los procesos multifuncionales y las cadenas de suministro inalámbricas. Involucrese dinámicamente a metaservicios empresariales para datos orientados al mercado. Restablezca de forma colaborativa a usuarios de distintas plataformas antes de productos manufacturados centrados en el cliente.</es></entry>
     <entry>
         <key>Assertively evolve long-term high-impact vortals through visionary solutions. Professionally harness standardized portals vis-a-vis resource maximizing deliverables. Continually coordinate stand-alone applications rather than virtual communities.</key>
         <en>Assertively evolve long-term high-impact vortals through visionary solutions. Professionally harness standardized portals vis-a-vis resource maximizing deliverables. Continually coordinate stand-alone applications rather than virtual communities.</en>
@@ -1138,7 +1138,7 @@
         <de>langfristige High-Impact Vortale durch visionäre Lösungen assertively entwickeln. Professionell nutzen standardisierte Portale vis-a-vis Ressourcenmaximierung zu erbringenden Leistungen. Stand-alone-Anwendungen eher als virtuelle Gemeinschaften Kontinuierlich koordinieren.</de>
         <it>Assertivo evolversi vortals ad alto impatto a lungo termine attraverso soluzioni visionarie. Professionalmente sfruttare portali standardizzati vis-a-vis deliverable risorse massimizzando. Continuamente coordinare applicazioni stand-alone, piuttosto che le comunità virtuali.</it>
         <ur>Assertively بصیرت حل کے ذریعے طویل مدتی اعلی اثر vortals تیار. پیشہ ورانہ معیار کیا پورٹلز مقابلے- A- مقابلے وسائل بڑھانے ڈیلیورایبلز دوہن. کھڑے اکیلے ایپلی کیشنز کی بجائے مجازی کمیونٹیز محدد.</ur>
-    </entry>
+    <es>Asertivamente evolucionar portales de largo plazo y alto impacto a través de soluciones visionarias. Profesionalmente aproveche portales estandarizados frente a recursos que maximizan los resultados. Coordine continuamente aplicaciones autónomas en lugar de comunidades virtuales.</es></entry>
     <entry>
         <key>Thank You!</key>
         <en>Thank You!</en>
@@ -1157,7 +1157,7 @@
         <de>Danke!</de>
         <it>Grazie!</it>
         <ur>آپ کا شکریہ!</ur>
-    </entry>
+    <es>Gracias!</es></entry>
     <entry>
         <key>Thank you for your interest in SocialFlow Enterprise. We will be in contact shortly.</key>
         <en>Thank you for your interest in SocialFlow Enterprise. We will be in contact shortly.</en>
@@ -1176,7 +1176,7 @@
         <de>Vielen Dank für Ihr Interesse an SocialFlow Unternehmen. In Kürze werden wir in Kontakt stehen.</de>
         <it>Grazie per il vostro interesse in SocialFlow Enterprise. Saremo in contatto a breve.</it>
         <ur>SocialFlow انٹرپرائز میں آپ کی دلچسپی کے لئے آپ کا شکریہ. ہم جلد ہی رابطے میں ہو جائے گا.</ur>
-    </entry>
+    <es>Gracias por su interés en SocialFlow Empresarial. Estaremos en contacto en breve.</es></entry>
     <entry>
         <key>Reports Dashboard</key>
         <en>Reports Dashboard</en>
@@ -1195,7 +1195,7 @@
         <de>Berichte Dashboards</de>
         <it>Rapporti Dashboard</it>
         <ur>رپورٹیں ڈیش بورڈ</ur>
-    </entry>
+    <es>Panel de Reportes</es></entry>
     <entry>
         <key>Successful Upgrade page</key>
         <en>Successful Upgrade page</en>
@@ -1214,7 +1214,7 @@
         <de>Erfolgreiche Upgrade-Seite</de>
         <it>pagina Aggiornamento di successo</it>
         <ur>کامیاب اپ گریڈ صفحہ</ur>
-    </entry>
+    <es>Página de Upgrade Exitoso</es></entry>
     <entry>
         <key>Group</key>
         <en>Group</en>
@@ -1233,7 +1233,7 @@
         <de>Gruppe</de>
         <it>Gruppo</it>
         <ur>گروپ</ur>
-    </entry>
+    <es>Grupo</es></entry>
     <entry>
         <key>Valid</key>
         <en>Valid</en>
@@ -1252,7 +1252,7 @@
         <de>Gültig</de>
         <it>Valido</it>
         <ur>درست</ur>
-    </entry>
+    <es>Válido</es></entry>
     <entry>
         <key>Invalid</key>
         <en>Invalid</en>
@@ -1271,7 +1271,7 @@
         <de>Ungültig</de>
         <it>Non valido</it>
         <ur>غلط</ur>
-    </entry>
+    <es>Inválido</es></entry>
     <entry>
         <key>Reauthorize</key>
         <en>Reauthorize</en>
@@ -1290,7 +1290,7 @@
         <de>reauthorize</de>
         <it>ri-autorizzare</it>
         <ur>دوبارہ اجازت</ur>
-    </entry>
+    <es>Reautorizar</es></entry>
     <entry>
         <key>You don't have any accounts yet.</key>
         <en>You don't have any accounts yet.</en>
@@ -1309,7 +1309,7 @@
         <de>Sie haben noch keine Konten noch.</de>
         <it>Non avete ancora conti.</it>
         <ur>ابھی تک آپ کوئی اکاؤنٹس نہیں.</ur>
-    </entry>
+    <es>Usted no tiene cuentas aún.</es></entry>
     <entry>
         <key>Create New Client</key>
         <en>Create New Client</en>
@@ -1328,7 +1328,7 @@
         <de>Erstellen neuer Kunde</de>
         <it>Crea Nuovo Cliente</it>
         <ur>نئے گاہک بنائیں</ur>
-    </entry>
+    <es>Crear Cliente Nuevo</es></entry>
     <entry>
         <key>Client Information</key>
         <en>Client Information</en>
@@ -1347,7 +1347,7 @@
         <de>Kundeninformation</de>
         <it>Informazioni sul client</it>
         <ur>کلائنٹ معلومات</ur>
-    </entry>
+    <es>Información de Cliente</es></entry>
     <entry>
         <key>*Website:</key>
         <en>*Website:</en>
@@ -1366,7 +1366,7 @@
         <de>*Webseite:</de>
         <it>*Sito web:</it>
         <ur>* ویب سائٹ:</ur>
-    </entry>
+    <es>*Website:</es></entry>
     <entry>
         <key>Payment Options</key>
         <en>Payment Options</en>
@@ -1385,7 +1385,7 @@
         <de>Zahlungsmöglichkeiten</de>
         <it>Opzioni di pagamento</it>
         <ur>آدائیگی کے طریقے</ur>
-    </entry>
+    <es>Opciones de Pago</es></entry>
     <entry>
         <key>You are currently paying</key>
         <en>You are currently paying</en>
@@ -1404,7 +1404,7 @@
         <de>Sie zahlen derzeit</de>
         <it>Si sta pagando</it>
         <ur>آپ فی الحال ادا کر رہے ہیں</ur>
-    </entry>
+    <es>Usted está pagando actualmente</es></entry>
     <entry>
         <key>Keep Annual Billing and get 2 months free on all your accounts</key>
         <en>Keep Annual Billing and get 2 months free on all your accounts</en>
@@ -1423,7 +1423,7 @@
         <de>Halten jährliche Abrechnung und Sie erhalten 2 Monate kostenlos auf alle Ihre Konten</de>
         <it>Mantenere fatturazione annuale e ottenere 2 mesi gratis su tutti i tuoi account</it>
         <ur>سالانہ بلنگ رکھیں اور آپ کے تمام اکاؤنٹس پر 2 ماہ کے مفت حاصل</ur>
-    </entry>
+    <es>Mantener Facturación Anual y obtener 2 meses grátis en todas sus cuentas</es></entry>
     <entry>
         <key>Switch to billing me Month-to-Month and get my new accounts for 99¢ for the first month.</key>
         <en>Switch to billing me Month-to-Month and get my new accounts for 99¢ for the first month.</en>
@@ -1442,7 +1442,7 @@
         <de>Wechseln Sie die Abrechnung mich Monat zu Monat und meine neue Konten für 99 ¢ für den ersten Monat.</de>
         <it>Passa alla fatturazione me mese per mese e ottenere i miei nuovi account per 99 ¢ per il primo mese.</it>
         <ur>مجھے ایک مہینہ ٹو ماہ کے بلنگ پر سوئچ کریں اور پہلے مہینے کے لئے 99 ¢ لئے میرے نئے اکاؤنٹ ملتا.</ur>
-    </entry>
+    <es>Cambiar a facturarme Mes-aMes y obtener mis cuentas por 99¢ por el primer mes.</es></entry>
     <entry>
         <key>Switch to Annual Billing and get 2 months free on all your accounts</key>
         <en>Switch to Annual Billing and get 2 months free on all your accounts</en>
@@ -1461,7 +1461,7 @@
         <de>Wechseln Sie in den Annual Billing und Sie erhalten 2 Monate kostenlos auf alle Ihre Konten</de>
         <it>Passa alla fatturazione annuale e ottenere 2 mesi gratis su tutti i tuoi account</it>
         <ur>سالانہ بلنگ پر سوئچ کریں اور آپ کے تمام اکاؤنٹس پر 2 ماہ کے مفت حاصل</ur>
-    </entry>
+    <es>Cambiar a Facturación Anual y obtener 2 meses grátis en todas sus cuentas.</es></entry>
     <entry>
         <key>Keep billing me Month-to-Month and get my new accounts</key>
         <en>Keep billing me Month-to-Month and get my new accounts</en>
@@ -1480,7 +1480,7 @@
         <de>Halten Sie mich Monat zu Monat Abrechnung und meine neuen Konten erhalten</de>
         <it>Tienimi fatturazione mese per mese e ottenere i miei nuovi account</it>
         <ur>مجھے ایک مہینہ ٹو ماہ کے بلنگ رکھیں اور اپنے نئے اکاؤنٹس حاصل</ur>
-    </entry>
+    <es>Mantener facturación Mes-a-Mes y obtener mis cuentas nuevas</es></entry>
     <entry>
         <key>Billing Information</key>
         <en>Billing Information</en>
@@ -1499,7 +1499,7 @@
         <de>Abrechnungsdaten</de>
         <it>Informazioni di fatturazione</it>
         <ur>بلنگ کی معلومات</ur>
-    </entry>
+    <es>Información de Facturación</es></entry>
     <entry>
         <key>for the first month.</key>
         <en>for the first month.</en>
@@ -1518,7 +1518,7 @@
         <de>für für den ersten Monat.</de>
         <it>per il primo mese.</it>
         <ur>پہلے مہینے کے لئے.</ur>
-    </entry>
+    <es>por el primer mes.</es></entry>
     <entry>
         <key>By signing up, you agree to our</key>
         <en>By signing up, you agree to our</en>
@@ -1537,7 +1537,7 @@
         <de>Wenn Sie sich erklären Sie sich mit unseren</de>
         <it>Con la firma, accettate la nostra</it>
         <ur>سائن اپ کرنے کی طرف سے، آپ سے اتفاق کرتا ہوں کہ ہمارے</ur>
-    </entry>
+    <es>Al registrarse, usted acepta nuestras</es></entry>
     <entry>
         <key>Privacy policies</key>
         <en>Privacy policies</en>
@@ -1556,7 +1556,7 @@
         <de>Datenschutzrichtlinien</de>
         <it>politiche sulla privacy</it>
         <ur>رازداری کی پالیسیوں</ur>
-    </entry>
+    <es>Políticas de privacidad</es></entry>
     <entry>
         <key>SUMMARY OF CHARGES</key>
         <en>SUMMARY OF CHARGES</en>
@@ -1575,7 +1575,7 @@
         <de>ZUSAMMENFASSUNG DER GEBÜHREN</de>
         <it>SINTESI DELLE SPESE</it>
         <ur>الزامات کی خلاصہ</ur>
-    </entry>
+    <es>RESUMEN DE CARGOS</es></entry>
     <entry>
         <key>Plan</key>
         <en>Plan</en>
@@ -1594,7 +1594,7 @@
         <de>Planen</de>
         <it>Piano</it>
         <ur>پلان</ur>
-    </entry>
+    <es>Plan</es></entry>
     <entry>
         <key>Annual: Get two free months when you pay for one year.</key>
         <en>Annual: Get two free months when you pay for one year.</en>
@@ -1613,7 +1613,7 @@
         <de>Jährlich: zwei kostenlose Monate erhalten, wenn Sie für ein Jahr zahlen.</de>
         <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <ur>سالانہ: اگر آپ ایک سال کے لئے ادائیگی کرتے ہیں جب دو ماہ تک مفت حاصل کریں.</ur>
-    </entry>
+    <es>Anual: Obtenga dos meses grátis al pagar por un año.</es></entry>
     <entry>
         <key>Plan</key>
         <en>Plan</en>
@@ -1632,7 +1632,7 @@
         <de>Planen</de>
         <it>Piano</it>
         <ur>پلان</ur>
-    </entry>
+    <es>Plan</es></entry>
     <entry>
         <key>Monthly</key>
         <en>Monthly</en>
@@ -1651,7 +1651,7 @@
         <de>Monatlich</de>
         <it>Mensile</it>
         <ur>ماہانہ</ur>
-    </entry>
+    <es>Mensual</es></entry>
     <entry>
         <key>Cost</key>
         <en>Cost</en>
@@ -1670,7 +1670,7 @@
         <de>Kosten</de>
         <it>Costo</it>
         <ur>لاگت</ur>
-    </entry>
+    <es>Costo</es></entry>
     <entry>
         <key>Monthly Payment Discount</key>
         <en>Monthly Payment Discount</en>
@@ -1689,7 +1689,7 @@
         <de>Monatliche Zahlung Discount</de>
         <it>Sconto pagamento mensile</it>
         <ur>ماہانہ ادائیگی ڈسکاؤنٹ</ur>
-    </entry>
+    <es>Descuento de Pago Mensual</es></entry>
     <entry>
         <key>Promo Discount</key>
         <en>Promo Discount</en>
@@ -1708,7 +1708,7 @@
         <de>Promo Discount</de>
         <it>Sconto Promo</it>
         <ur>پرومو ڈسکاؤنٹ</ur>
-    </entry>
+    <es>Descuento Promocional</es></entry>
     <entry>
         <key>Subtotal</key>
         <en>Subtotal</en>
@@ -1727,7 +1727,7 @@
         <de>Zwischensumme</de>
         <it>totale parziale</it>
         <ur>ذیلی کل</ur>
-    </entry>
+    <es>Subtotal</es></entry>
     <entry>
         <key>Tax (NY and CA only)</key>
         <en>Tax (NY and CA only)</en>
@@ -1746,7 +1746,7 @@
         <de>Tax (NY und nur CA)</de>
         <it>Fiscale (NY e solo CA)</it>
         <ur>ٹیکس (NY اور CA صرف)</ur>
-    </entry>
+    <es>Impuesto (NY y CA solamente)</es></entry>
     <entry>
         <key>PLAN OVERVIEW</key>
         <en>PLAN OVERVIEW</en>
@@ -1765,7 +1765,7 @@
         <de>PLAN IM ÜBERBLICK</de>
         <it>Quadro</it>
         <ur>PLAN جائزہ</ur>
-    </entry>
+    <es>VISTA GENERAL DEL PLAN</es></entry>
     <entry>
         <key>2 or more Publishing Accounts</key>
         <en>2 or more Publishing Accounts</en>
@@ -1784,7 +1784,7 @@
         <de>2 oder mehr Publishing-Konten</de>
         <it>2 o più account editoria</it>
         <ur>2 یا زیادہ پبلشنگ اکاؤنٹس</ur>
-    </entry>
+    <es>2 o más Cuentas de Publicación</es></entry>
     <entry>
         <key>Comprehensive Reports</key>
         <en>Comprehensive Reports</en>
@@ -1803,7 +1803,7 @@
         <de>Umfassende Berichte</de>
         <it>rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
-    </entry>
+    <es>Reportes Completos</es></entry>
     <entry>
         <key>Community Support</key>
         <en>Community Support</en>
@@ -1822,7 +1822,7 @@
         <de>Gemeinschaftliche Unterstützung</de>
         <it>Support Community</it>
         <ur>کمیونٹی سپورٹ</ur>
-    </entry>
+    <es>Soporte Comunitario</es></entry>
     <entry>
         <key>Take the guesswork out of publishing. Sign up today!</key>
         <en>Take the guesswork out of publishing. Sign up today!</en>
@@ -1841,7 +1841,7 @@
         <de>Nehmen Sie das Rätselraten bei der Veröffentlichung. Heute anmelden!</de>
         <it>Prendere la congettura di pubblicazione. Iscriviti oggi!</it>
         <ur>پبلشنگ کے guesswork لے لو. آج سائن اپ کریں!</ur>
-    </entry>
+    <es>Elimine las conjeturas de la publicación. ¡Regístrese hoy!</es></entry>
     <entry>
         <key>STANDARD</key>
         <en>STANDARD</en>
@@ -1860,7 +1860,7 @@
         <de>STANDARD</de>
         <it>STANDARD</it>
         <ur>STANDARD</ur>
-    </entry>
+    <es>ESTANDAR</es></entry>
     <entry>
         <key>month</key>
         <en>month</en>
@@ -1879,7 +1879,7 @@
         <de>Monat</de>
         <it>mese</it>
         <ur>مہینہ</ur>
-    </entry>
+    <es>mes</es></entry>
     <entry>
         <key>Optimized Publishing for 1 Twitter or Facebook Account</key>
         <en>Optimized Publishing for 1 Twitter or Facebook Account</en>
@@ -1898,7 +1898,7 @@
         <de>Optimierte Publishing für 1 Twitter oder Facebook Account</de>
         <it>Ottimizzato Publishing per 1 Twitter o Facebook account</it>
         <ur>1 ٹویٹر یا فیس بک اکاؤنٹ کیلئے شائع آپٹمائزڈ</ur>
-    </entry>
+    <es>Publicación Optimizada para 1 Cuenta de Twitter o Facebook</es></entry>
     <entry>
         <key>Discounted Annual plan available</key>
         <en>Discounted Annual plan available</en>
@@ -1917,7 +1917,7 @@
         <de>Ermäßigte Jahresplan verfügbar</de>
         <it>Scontato Piano annuale disponibile</it>
         <ur>رعایتی سالانہ دستیاب کی منصوبہ بندی</ur>
-    </entry>
+    <es>Plan Anual con descuento disponible</es></entry>
     <entry>
         <key>Unlimited Users</key>
         <en>Unlimited Users</en>
@@ -1936,7 +1936,7 @@
         <de>unbegrenzte Benutzer</de>
         <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
-    </entry>
+    <es>Usuarios Ilimitados</es></entry>
     <entry>
         <key>Comprehensive Reports</key>
         <en>Comprehensive Reports</en>
@@ -1955,7 +1955,7 @@
         <de>Umfassende Berichte</de>
         <it>rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
-    </entry>
+    <es>Reportes Completos</es></entry>
     <entry>
         <key>Community Support</key>
         <en>Community Support</en>
@@ -1974,7 +1974,7 @@
         <de>Gemeinschaftliche Unterstützung</de>
         <it>Support Community</it>
         <ur>کمیونٹی سپورٹ</ur>
-    </entry>
+    <es>Soporte Comunitario</es></entry>
     <entry>
         <key>Easy Upgrade to Business</key>
         <en>Easy Upgrade to Business</en>
@@ -1993,7 +1993,7 @@
         <de>Einfaches Upgrade to Business</de>
         <it>Facile aggiornamento to Business</it>
         <ur>بزنس کے لئے آسان اپ گریڈ</ur>
-    </entry>
+    <es>Upgrade Fácil para Negocio</es></entry>
     <entry>
         <key>Cancel at any time.</key>
         <en>Cancel at any time.</en>
@@ -2012,7 +2012,7 @@
         <de>Abbrechen jederzeit.</de>
         <it>Annullare in qualsiasi momento.</it>
         <ur>کسی بھی وقت منسوخ.</ur>
-    </entry>
+    <es>Cancele en cualquier momento</es></entry>
     <entry>
         <key>Sign Up</key>
         <en>Sign Up</en>
@@ -2031,7 +2031,7 @@
         <de>Anmelden</de>
         <it>Registrazione</it>
         <ur>ممبر بنیں</ur>
-    </entry>
+    <es>Regístrese</es></entry>
     <entry>
         <key>BUSINESS</key>
         <en>BUSINESS</en>
@@ -2050,7 +2050,7 @@
         <de>GESCHÄFT</de>
         <it>ATTIVITÀ COMMERCIALE</it>
         <ur>BUSINESS</ur>
-    </entry>
+    <es>NEGOCIO</es></entry>
     <entry>
         <key>starting at</key>
         <en>starting at</en>
@@ -2069,7 +2069,7 @@
         <de>beginnt um</de>
         <it>a partire da</it>
         <ur>سے شروع</ur>
-    </entry>
+    <es>desde</es></entry>
     <entry>
         <key>month</key>
         <en>month</en>
@@ -2088,7 +2088,7 @@
         <de>Monat</de>
         <it>mese</it>
         <ur>مہینہ</ur>
-    </entry>
+    <es>mes</es></entry>
     <entry>
         <key>Optimized Publishing for 2 Accounts (Twitter or Facebook)</key>
         <en>Optimized Publishing for 2 Accounts (Twitter or Facebook)</en>
@@ -2107,7 +2107,7 @@
         <de>Optimierte Publishing für 2 Accounts (Twitter oder Facebook)</de>
         <it>Ottimizzato Publishing per 2 Conti (Twitter o Facebook)</it>
         <ur>2 اکاؤنٹس کے لئے مرضی کے پبلشنگ (ٹویٹر یا فیس بک)</ur>
-    </entry>
+    <es>Publicación Optimizada para 2 Cuentas (Twitter o Facebook)</es></entry>
     <entry>
         <key>Additional Accounts $79/month each</key>
         <en>Additional Accounts $79/month each</en>
@@ -2126,7 +2126,7 @@
         <de>Zusätzliche Accounts $ 79 / Monat je</de>
         <it>Ulteriori Conti $ 79 / mese ciascuno</it>
         <ur>اضافی اکاؤنٹس $ 79 / ماہ سے ہر ایک</ur>
-    </entry>
+    <es>Cuentas Adicionales $79/mes cada una</es></entry>
     <entry>
         <key>Discounted Annual plan available</key>
         <en>Discounted Annual plan available</en>
@@ -2145,7 +2145,7 @@
         <de>Ermäßigte Jahresplan verfügbar</de>
         <it>Scontato Piano annuale disponibile</it>
         <ur>رعایتی سالانہ دستیاب کی منصوبہ بندی</ur>
-    </entry>
+    <es>Plan Anual con descuento disponible</es></entry>
     <entry>
         <key>Unlimited Users</key>
         <en>Unlimited Users</en>
@@ -2164,7 +2164,7 @@
         <de>unbegrenzte Benutzer</de>
         <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
-    </entry>
+    <es>Usuarios Ilimitados</es></entry>
     <entry>
         <key>Cancel at any time and we'll refund any unused months.</key>
         <en>Cancel at any time and we'll refund any unused months.</en>
@@ -2183,7 +2183,7 @@
         <de>Abbrechen jederzeit und wir erstatten alle nicht verwendeten Monate.</de>
         <it>Annullare in qualsiasi momento e rimborseremo eventuali mesi non utilizzati.</it>
         <ur>کسی بھی وقت منسوخ اور ہم کسی بھی غیر استعمال شدہ مہینوں واپس کریں گے.</ur>
-    </entry>
+    <es>ancele en cualquier momento y le reembolsaremos los meses no utilizados.</es></entry>
     <entry>
         <key>ENTERPRISE</key>
         <en>ENTERPRISE</en>
@@ -2202,7 +2202,7 @@
         <de>UNTERNEHMEN</de>
         <it>ENTERPRISE</it>
         <ur>ENTERPRISE</ur>
-    </entry>
+    <es>EMPRESARIAL</es></entry>
     <entry>
         <key>Pricing on Request</key>
         <en>Pricing on Request</en>
@@ -2221,7 +2221,7 @@
         <de>Preise auf Anfrage</de>
         <it>Prezzi su richiesta</it>
         <ur>درخواست پر قیمتوں کا تعین</ur>
-    </entry>
+    <es>Precios a petición</es></entry>
     <entry>
         <key>Optimized Publishing for 10+ Social Accounts (Twitter or Facebook)</key>
         <en>Optimized Publishing for 10+ Social Accounts (Twitter or Facebook)</en>
@@ -2240,7 +2240,7 @@
         <de>Optimierte Publishing für 10+ Social Accounts (Twitter oder Facebook)</de>
         <it>Ottimizzato Publishing per 10+ Conti sociali (Twitter o Facebook)</it>
         <ur>10+ سماجی اکاؤنٹس کے لئے مرضی کے پبلشنگ (ٹویٹر یا فیس بک)</ur>
-    </entry>
+    <es>Publicación Optimizada para 10+ Cuentas Sociales (Twitter o Facebook)</es></entry>
     <entry>
         <key>Unlimited Users</key>
         <en>Unlimited Users</en>
@@ -2259,7 +2259,7 @@
         <de>unbegrenzte Benutzer</de>
         <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
-    </entry>
+    <es>Usuarios Ilimitados</es></entry>
     <entry>
         <key>We're here to help create the plan that's right for you. Get in touch!</key>
         <en>We're here to help create the plan that's right for you. Get in touch!</en>
@@ -2278,7 +2278,7 @@
         <de>Wir sind hier um zu helfen, den Plan zu erstellen, der für Sie richtig ist. In Kontakt kommen!</de>
         <it>Siamo qui per aiutare a creare il piano che fa per voi. Entra in contatto!</it>
         <ur>ہم آپ کے لئے صحیح ہے کہ منصوبہ بندی تخلیق کرنے میں مدد کے لئے یہاں ہیں. رابطے میں رہنا!</ur>
-    </entry>
+    <es>Estamos aquí para ayudarle a crear el plan adecuado para usted. ¡Póngase en contacto!</es></entry>
     <entry>
         <key>Published</key>
         <en>Published</en>
@@ -2297,7 +2297,7 @@
         <de>Veröffentlicht</de>
         <it>Pubblicato</it>
         <ur>اشاعت</ur>
-    </entry>
+    <es>Publicado</es></entry>
     <entry>
         <key>Learn More about AttentionScore</key>
         <en>Learn More about AttentionScore</en>
@@ -2316,7 +2316,7 @@
         <de>Erfahren Sie mehr über AttentionScore</de>
         <it>Ulteriori informazioni su AttentionScore</it>
         <ur>AttentionScore بارے میں مزید جانیں</ur>
-    </entry>
+    <es>Aprenda más acerca de AttentionScore</es></entry>
     <entry>
         <key>Timeline</key>
         <en>Timeline</en>
@@ -2335,7 +2335,7 @@
         <de>Zeitleiste</de>
         <it>Sequenza temporale</it>
         <ur>ٹائم لائن</ur>
-    </entry>
+    <es>Cronograma</es></entry>
     <entry>
         <key>Add</key>
         <en>Add</en>
@@ -2354,7 +2354,7 @@
         <de>Hinzufügen</de>
         <it>Aggiungere</it>
         <ur>شامل کریں</ur>
-    </entry>
+    <es>Añadir</es></entry>
     <entry>
         <key>Average for Previously Published Content</key>
         <en>Average for Previously Published Content</en>
@@ -2373,7 +2373,7 @@
         <de>Die durchschnittliche Bewertung für bereits veröffentlichte Inhalte</de>
         <it>Media per i contenuti pubblicati in precedenza</it>
         <ur>پہلے شائع مواد کے لئے اوسط</ur>
-    </entry>
+    <es>Promedio del Contenido Publicado Anteriormente</es></entry>
     <entry>
         <key>Predicted Average if Optimized with SocialFlow</key>
         <en>Predicted Average if Optimized with SocialFlow</en>
@@ -2392,7 +2392,7 @@
         <de>Prognostizierte Durchschnittliche optimiert, wenn mit SocialFlow</de>
         <it>Previsto media se ottimizzato con SocialFlow</it>
         <ur>SocialFlow ساتھ مرضی ہے تو اوسط پیش گوئی</ur>
-    </entry>
+    <es>Promedio previsto si es Optimizado con SocialFlow</es></entry>
     <entry>
         <key>How is the SocialFlow AttentionScore derived?</key>
         <en>How is the SocialFlow AttentionScore derived?</en>
@@ -2411,7 +2411,7 @@
         <de>Wie wird die SocialFlow AttentionScore abgeleitet?</de>
         <it>Come è derivato il SocialFlow AttentionScore?</it>
         <ur>SocialFlow AttentionScore کس طرح حاصل کیا جاتا ہے؟</ur>
-    </entry>
+    <es>¿Cómo se deriva el SocialFlow AttentionScore?</es></entry>
     <entry>
         <key>We look at 3 things to determine your SocialFlow AttentionScore:</key>
         <en>We look at 3 things to determine your SocialFlow AttentionScore:</en>
@@ -2430,7 +2430,7 @@
         <de>Wir schauen auf 3 Dinge, die Ihr SocialFlow AttentionScore zu bestimmen:</de>
         <it>Guardiamo a 3 cose per determinare il vostro SocialFlow AttentionScore:</it>
         <ur>ہم نے آپ کی SocialFlow AttentionScore تعین کرنے کے لئے 3 چیزوں پر نظر ڈالیں:</ur>
-    </entry>
+    <es>Observamos 3 cosas para determinar tu SocialFlow AttentionScore:</es></entry>
     <entry>
         <key>Historical Performance of Language: some topics are seasonal, and some are more popular with niche audiences versus wide audiences. We look at the language used in your messages and compare that against past performance of similar types of content over time.</key>
         <en>Historical Performance of Language: some topics are seasonal, and some are more popular with niche audiences versus wide audiences. We look at the language used in your messages and compare that against past performance of similar types of content over time.</en>
@@ -2449,7 +2449,7 @@
         <de>Historische Entwicklung der Sprache: einige Themen sind saisonal, und einige sind beliebt bei Nischenpublikum gegen ein breites Publikum. Wir schauen auf die Sprache in Ihrer Nachricht benutzt und vergleichen Sie, dass gegen frühere Leistungen und ähnliche Arten von Inhalten über die Zeit.</de>
         <it>Performance storica del linguaggio: alcuni argomenti sono stagionali, e alcuni sono più popolare tra il pubblico di nicchia rispetto a un vasto pubblico. Guardiamo la lingua usata nei tuoi messaggi e confrontare quella contro performance storica simili tipi di contenuti nel corso del tempo.</it>
         <ur>زبان کا تاریخی کارکردگی: کچھ موضوعات موسمی ہیں، اور کچھ وسیع سامعین کے مقابلے میں طاق ناظرین کے ساتھ زیادہ مقبول ہیں. ہمیں یقین ہے کہ وقت کے ساتھ مواد کی اسی طرح کی اقسام کی ماضی کی کارکردگی کے خلاف اپنے پیغامات میں استعمال کی گئی زبان پر نظر ڈالیں اور آپس میں موازنہ.</ur>
-    </entry>
+    <es>Rendimiento histórico del Lenguaje: algunos temas son estacionales, y algunos son más populares entre las audiencias niches contra audiencias amplias. Observamos el lenguaje utilizado en sus mensajes y comparamos esto con el rendimiento pasado de tipos de contenido similares a lo largo del tiempo.</es></entry>
     <entry>
         <key>Audience Activity: How active are the members of your audience and what are they clicking on right now?</key>
         <en>Audience Activity: How active are the members of your audience and what are they clicking on right now?</en>
@@ -2468,7 +2468,7 @@
         <de>Audience Aktivität: Wie aktiv sind die Mitglieder des Publikums und was sie klicken jetzt auf?</de>
         <it>Pubblico Attività: come attiva sono i membri del vostro pubblico e cosa stanno scattando in questo momento?</it>
         <ur>سامعین سرگرمی: کس طرح فعال اپنے ناظرین اور کیا کے ارکان ابھی وہ پر کلک کر رہے ہو؟</ur>
-    </entry>
+    <es>Actividad de la audiencia: ¿Qué tan activos están los miembros de su audiencia y en qué están haciendo clic ahora mismo?</es></entry>
     <entry>
         <key>Real-time resonance: When it comes to a fast-moving real-time social networks like Twitter and Facebook, topics can change in an instant--SocialFlow constantly measures, ranks and re-ranks the overall performance of your content against the real-time data sources we analyze.</key>
         <en>Real-time resonance: When it comes to a fast-moving real-time social networks like Twitter and Facebook, topics can change in an instant--SocialFlow constantly measures, ranks and re-ranks the overall performance of your content against the real-time data sources we analyze.</en>
@@ -2487,7 +2487,7 @@
         <de>Echtzeit-Resonanz: Wenn es darum geht, eine sich schnell bewegende Echtzeit sozialen Netzwerken wie Twitter und Facebook, können Themen in einem Augenblick ändern - SocialFlow ständig Maßnahmen, rangiert und neu ordnet die Gesamtleistung Ihrer Inhalte gegen die Echt Zeitdatenquellen wir analysieren.</de>
         <it>In tempo reale risonanza: Quando si tratta di un rapido movimento in tempo reale, social network come Twitter e Facebook, gli argomenti può cambiare in un istante - SocialFlow costantemente misure, classifica e ri-posiziona le prestazioni complessive del suo sito web contro il reale dati in tempo fonti andremo ad analizzare.</it>
         <ur>ریئل ٹائم گونج: - SocialFlow مسلسل اقدامات، رینکوں اور real- خلاف آپ کے مواد کی مجموعی کارکردگی کو دوبارہ صفوں جو ٹویٹر اور فیس بک کی طرح ایک تیزی سے چلنے اصل وقت سوشل نیٹ ورک کے لئے آتا ہے، موضوعات کا ایک پل میں تبدیل کر سکتے ہیں وقت اعداد و شمار کا تجزیہ ہم ذرائع.</ur>
-    </entry>
+    <es>Resonancia en tiempo real: Cuando se trata de redes sociales en tiempo real de rápido movimiento como Twitter y Facebook, los temas pueden cambiar en un instante - SocialFlow constantemente mide, clasifica y vuelve a clasificar el rendimiento general de su contenido contra las fuentas de datos en tiempo real que nosotros analizamos.</es></entry>
     <entry>
         <key>You do not have access to any social accounts. Please contact your account administrator.</key>
         <en>You do not have access to any social accounts. Please contact your account administrator.</en>
@@ -2506,7 +2506,7 @@
         <de>Sie haben keinen Zugang zu sozialen Konten. Bitte kontaktieren Sie Ihren Administrator-Konto.</de>
         <it>Non si dispone di accesso a qualsiasi account sociali. Si prega di contattare l'amministratore del conto.</it>
         <ur>آپ کسی بھی سماجی اکاؤنٹس تک رسائی حاصل نہیں ہے. اپنے اکاؤنٹ منتظم سے رابطہ کریں.</ur>
-    </entry>
+    <es>Usted no tiene acceso a ninguna cuenta social. Por favor contacte a su administrador de cuenta.</es></entry>
     <entry>
         <key>To see click statistics here, publish some content with SocialFlow!</key>
         <en>To see click statistics here, publish some content with SocialFlow!</en>
@@ -2525,7 +2525,7 @@
         <de>Um zu sehen, klicken Sie hier Statistiken, veröffentlichen einige Inhalte mit SocialFlow!</de>
         <it>Per vedere le statistiche clicca qui, pubblicare alcuni contenuti con SocialFlow!</it>
         <ur>یہاں شماریات کلک ملاحظہ کرنے کے لئے، SocialFlow ساتھ کچھ مواد شائع!</ur>
-    </entry>
+    <es>Para ver estadísticas de clics aquí, publique algun contenido con SocialFlow!</es></entry>
     <entry>
         <key>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments and shares.</key>
         <en>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments and shares.</en>
@@ -2544,7 +2544,7 @@
         <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
         <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <ur>سامعین سرگرمی کلکس، ٹویٹس، تذکرے، ریٹویٹ، پسند کرتا ہے، تبصرے اور حصص شامل ہیں.</ur>
-    </entry>
+    <es>Actividade de Audiencia incluye clics, tweets, menciones, retweets, likes, comentarios y shares.</es></entry>
     <entry>
         <key>User Rank</key>
         <en>User Rank</en>
@@ -2563,7 +2563,7 @@
         <de>User Rang</de>
         <it>user Rank</it>
         <ur>یوزر رینک</ur>
-    </entry>
+    <es>Rango de Usuario</es></entry>
     <entry>
         <key>To see click statistics here, publish some content with SocialFlow!</key>
         <en>To see click statistics here, publish some content with SocialFlow!</en>
@@ -2582,7 +2582,7 @@
         <de>Um zu sehen, klicken Sie hier Statistiken, veröffentlichen einige Inhalte mit SocialFlow!</de>
         <it>Per vedere le statistiche clicca qui, pubblicare alcuni contenuti con SocialFlow!</it>
         <ur>یہاں شماریات کلک ملاحظہ کرنے کے لئے، SocialFlow ساتھ کچھ مواد شائع!</ur>
-    </entry>
+    <es>Para ver estadísticas de clics aquí, publique algun contenido con SocialFlow!</es></entry>
     <entry>
         <key>Sun</key>
         <en>Sun</en>
@@ -2601,7 +2601,7 @@
         <de>Sonne</de>
         <it>Sole</it>
         <ur>اتوار</ur>
-    </entry>
+    <es>Dom</es></entry>
     <entry>
         <key>Mon</key>
         <en>Mon</en>
@@ -2620,7 +2620,7 @@
         <de>Mon</de>
         <it>Mon</it>
         <ur>سوموار</ur>
-    </entry>
+    <es>Lun</es></entry>
     <entry>
         <key>Tue</key>
         <en>Tue</en>
@@ -2639,7 +2639,7 @@
         <de>Di</de>
         <it>mar</it>
         <ur>منگل</ur>
-    </entry>
+    <es>Mar</es></entry>
     <entry>
         <key>Wed</key>
         <en>Wed</en>
@@ -2658,7 +2658,7 @@
         <de>Heiraten</de>
         <it>sposare</it>
         <ur>بدھ</ur>
-    </entry>
+    <es>Mier</es></entry>
     <entry>
         <key>Thu</key>
         <en>Thu</en>
@@ -2677,7 +2677,7 @@
         <de>Do</de>
         <it>gio</it>
         <ur>جمعرات</ur>
-    </entry>
+    <es>Jue</es></entry>
     <entry>
         <key>Fri</key>
         <en>Fri</en>
@@ -2696,7 +2696,7 @@
         <de>Fr</de>
         <it>ven</it>
         <ur>جمعہ</ur>
-    </entry>
+    <es>Vier</es></entry>
     <entry>
         <key>Sat</key>
         <en>Sat</en>
@@ -2715,7 +2715,7 @@
         <de>Sa</de>
         <it>Sat</it>
         <ur>ہفتہ</ur>
-    </entry>
+    <es>Sab</es></entry>
     <entry>
         <key>12a</key>
         <en>12a</en>
@@ -2734,7 +2734,7 @@
         <de>12a</de>
         <it>12a</it>
         <ur>12A</ur>
-    </entry>
+    <es>12a</es></entry>
     <entry>
         <key>1a</key>
         <en>1a</en>
@@ -2753,7 +2753,7 @@
         <de>1a</de>
         <it>1a</it>
         <ur>1A</ur>
-    </entry>
+    <es>1a</es></entry>
     <entry>
         <key>2a</key>
         <en>2a</en>
@@ -2772,7 +2772,7 @@
         <de>2a</de>
         <it>2a</it>
         <ur>2A</ur>
-    </entry>
+    <es>2a</es></entry>
     <entry>
         <key>3a</key>
         <en>3a</en>
@@ -2791,7 +2791,7 @@
         <de>3a</de>
         <it>3a</it>
         <ur>3A</ur>
-    </entry>
+    <es>3a</es></entry>
     <entry>
         <key>4a</key>
         <en>4a</en>
@@ -2810,7 +2810,7 @@
         <de>4a</de>
         <it>4a</it>
         <ur>4A</ur>
-    </entry>
+    <es>4a</es></entry>
     <entry>
         <key>5a</key>
         <en>5a</en>
@@ -2829,7 +2829,7 @@
         <de>5a</de>
         <it>5a</it>
         <ur>5A</ur>
-    </entry>
+    <es>5a</es></entry>
     <entry>
         <key>6a</key>
         <en>6a</en>
@@ -2848,7 +2848,7 @@
         <de>6a</de>
         <it>6a</it>
         <ur>6A</ur>
-    </entry>
+    <es>6a</es></entry>
     <entry>
         <key>7a</key>
         <en>7a</en>
@@ -2867,7 +2867,7 @@
         <de>7a</de>
         <it>7a</it>
         <ur>7A</ur>
-    </entry>
+    <es>7a</es></entry>
     <entry>
         <key>8a</key>
         <en>8a</en>
@@ -2886,7 +2886,7 @@
         <de>8a</de>
         <it>8a</it>
         <ur>8A</ur>
-    </entry>
+    <es>8a</es></entry>
     <entry>
         <key>9a</key>
         <en>9a</en>
@@ -2905,7 +2905,7 @@
         <de>9a</de>
         <it>9 bis</it>
         <ur>9A</ur>
-    </entry>
+    <es>9a</es></entry>
     <entry>
         <key>10a</key>
         <en>10a</en>
@@ -2924,7 +2924,7 @@
         <de>10a</de>
         <it>10a</it>
         <ur>10A</ur>
-    </entry>
+    <es>10a</es></entry>
     <entry>
         <key>11a</key>
         <en>11a</en>
@@ -2943,7 +2943,7 @@
         <de>11a</de>
         <it>11 bis</it>
         <ur>11A</ur>
-    </entry>
+    <es>11a</es></entry>
     <entry>
         <key>12p</key>
         <en>12p</en>
@@ -2962,7 +2962,7 @@
         <de>12p</de>
         <it>12p</it>
         <ur>12P</ur>
-    </entry>
+    <es>12p</es></entry>
     <entry>
         <key>1p</key>
         <en>1p</en>
@@ -2981,7 +2981,7 @@
         <de>1P</de>
         <it>1p</it>
         <ur>1P</ur>
-    </entry>
+    <es>1p</es></entry>
     <entry>
         <key>2p</key>
         <en>2p</en>
@@ -3000,7 +3000,7 @@
         <de>2p</de>
         <it>2p</it>
         <ur>2P</ur>
-    </entry>
+    <es>2p</es></entry>
     <entry>
         <key>3p</key>
         <en>3p</en>
@@ -3019,7 +3019,7 @@
         <de>3p</de>
         <it>3p</it>
         <ur>3P</ur>
-    </entry>
+    <es>3p</es></entry>
     <entry>
         <key>4p</key>
         <en>4p</en>
@@ -3038,7 +3038,7 @@
         <de>4p</de>
         <it>4p</it>
         <ur>4P</ur>
-    </entry>
+    <es>4p</es></entry>
     <entry>
         <key>5p</key>
         <en>5p</en>
@@ -3057,7 +3057,7 @@
         <de>5P</de>
         <it>5p</it>
         <ur>5P</ur>
-    </entry>
+    <es>5p</es></entry>
     <entry>
         <key>6p</key>
         <en>6p</en>
@@ -3076,7 +3076,7 @@
         <de>6p</de>
         <it>6p</it>
         <ur>6P</ur>
-    </entry>
+    <es>6p</es></entry>
     <entry>
         <key>7p</key>
         <en>7p</en>
@@ -3095,7 +3095,7 @@
         <de>7p</de>
         <it>7p</it>
         <ur>7P</ur>
-    </entry>
+    <es>7p</es></entry>
     <entry>
         <key>8p</key>
         <en>8p</en>
@@ -3114,7 +3114,7 @@
         <de>8P</de>
         <it>8p</it>
         <ur>8P</ur>
-    </entry>
+    <es>8p</es></entry>
     <entry>
         <key>9p</key>
         <en>9p</en>
@@ -3133,7 +3133,7 @@
         <de>9P</de>
         <it>9p</it>
         <ur>9P</ur>
-    </entry>
+    <es>9p</es></entry>
     <entry>
         <key>10p</key>
         <en>10p</en>
@@ -3152,7 +3152,7 @@
         <de>10p</de>
         <it>10p</it>
         <ur>10P</ur>
-    </entry>
+    <es>10p</es></entry>
     <entry>
         <key>11p</key>
         <en>11p</en>
@@ -3171,7 +3171,7 @@
         <de>11p</de>
         <it>11p</it>
         <ur>11p</ur>
-    </entry>
+    <es>11p</es></entry>
     <entry>
         <key>34</key>
         <en>34</en>
@@ -3190,7 +3190,7 @@
         <de>34</de>
         <it>34</it>
         <ur>34</ur>
-    </entry>
+    <es>34</es></entry>
     <entry>
         <key>78</key>
         <en>78</en>
@@ -3209,7 +3209,7 @@
         <de>78</de>
         <it>78</it>
         <ur>78</ur>
-    </entry>
+    <es>78</es></entry>
     <entry>
         <key>Rolling Date</key>
         <en>Rolling Date</en>
@@ -3228,7 +3228,7 @@
         <de>Rolltermin</de>
         <it>rotolamento Data</it>
         <ur>رولنگ تاریخ</ur>
-    </entry>
+    <es>Fecha Continua</es></entry>
     <entry>
         <key>Exact Time</key>
         <en>Exact Time</en>
@@ -3247,7 +3247,7 @@
         <de>Genaue Zeit</de>
         <it>Tempo esatto</it>
         <ur>عین مطابق وقت</ur>
-    </entry>
+    <es>Hora Exacta</es></entry>
     <entry>
         <key>(Loading)</key>
         <en>(Loading)</en>
@@ -3266,7 +3266,7 @@
         <de>(Laden)</de>
         <it>(Caricamento in corso)</it>
         <ur>(لوڈنگ)</ur>
-    </entry>
+    <es>(Cargando)</es></entry>
     <entry>
         <key>Prev</key>
         <en>Prev</en>
@@ -3285,7 +3285,7 @@
         <de>Zurück</de>
         <it>prev</it>
         <ur>پچھلا</ur>
-    </entry>
+    <es>Anterior</es></entry>
     <entry>
         <key>Groups</key>
         <en>Groups</en>
@@ -3304,7 +3304,7 @@
         <de>Gruppen</de>
         <it>gruppi</it>
         <ur>گروپس</ur>
-    </entry>
+    <es>Grupos</es></entry>
     <entry>
         <key>Trend</key>
         <en>Trend</en>
@@ -3323,7 +3323,7 @@
         <de>Trend</de>
         <it>Tendenza</it>
         <ur>رجحان</ur>
-    </entry>
+    <es>Tendencia</es></entry>
     <entry>
         <key>Choose Month</key>
         <en>Choose Month</en>
@@ -3342,7 +3342,7 @@
         <de>wählen Sie Monat</de>
         <it>Scegli il mese</it>
         <ur>ماہ سے انتخاب کریں</ur>
-    </entry>
+    <es>Escoger Mes</es></entry>
     <entry>
         <key>january, 2010</key>
         <en>january, 2010</en>
@@ -3361,7 +3361,7 @@
         <de>Januar 2010</de>
         <it>gennaio 2010</it>
         <ur>جنوری، 2010</ur>
-    </entry>
+    <es>enero, 2010</es></entry>
     <entry>
         <key>Loading Reports...</key>
         <en>Loading Reports...</en>
@@ -3380,7 +3380,7 @@
         <de>Laden Berichte ...</de>
         <it>Caricamento Rapporti ...</it>
         <ur>لوڈ ہو رہا ہے رپورٹیں ...</ur>
-    </entry>
+    <es>Cargando Reportes...</es></entry>
     <entry>
         <key>You have no saved reports</key>
         <en>You have no saved reports</en>
@@ -3399,7 +3399,7 @@
         <de>Sie haben keine gespeicherten Berichte</de>
         <it>Non ci sono rapporti salvati</it>
         <ur>آپ کے پاس کوئی محفوظ شدہ رپورٹیں ہے</ur>
-    </entry>
+    <es>No tiene reportes guardados</es></entry>
     <entry>
         <key>Single Message Report</key>
         <en>Single Message Report</en>
@@ -3418,7 +3418,7 @@
         <de>Einzelmeldung Bericht</de>
         <it>Rapporto Messaggio Singolo</it>
         <ur>ایک پیغام کی رپورٹ</ur>
-    </entry>
+    <es>Reporte de Mensaje Único</es></entry>
     <entry>
         <key>Message Lifespan</key>
         <en>Message Lifespan</en>
@@ -3437,7 +3437,7 @@
         <de>Nachricht Lebensdauer</de>
         <it>Durata della vita Messaggio</it>
         <ur>پیغام ہوگی</ur>
-    </entry>
+    <es>Ciclo de Vida del Mensaje</es></entry>
     <entry>
         <key>Message Content</key>
         <en>Message Content</en>
@@ -3456,7 +3456,7 @@
         <de>Nachrichteninhalt</de>
         <it>Messaggio</it>
         <ur>پیغام مواد</ur>
-    </entry>
+    <es>Contenido del Mensaje</es></entry>
     <entry>
         <key>Manual Entry by:</key>
         <en>Manual Entry by:</en>
@@ -3475,7 +3475,7 @@
         <de>Manuelle Eingabe von:</de>
         <it>Inserimento manuale da:</it>
         <ur>کی طرف سے دستی انٹری:</ur>
-    </entry>
+    <es>Entrada Manual por:</es></entry>
     <entry>
         <key>Published by:</key>
         <en>Published by:</en>
@@ -3494,7 +3494,7 @@
         <de>Veröffentlicht von:</de>
         <it>Pubblicato da:</it>
         <ur>کی طرف سے شائع:</ur>
-    </entry>
+    <es>Publicado por:</es></entry>
     <entry>
         <key>Date Published:</key>
         <en>Date Published:</en>
@@ -3513,7 +3513,7 @@
         <de>Datum der Veröffentlichung:</de>
         <it>Data di pubblicazione:</it>
         <ur>تاریخ شائع:</ur>
-    </entry>
+    <es>Fecha Publicado</es></entry>
     <entry>
         <key>Sent as:</key>
         <en>Sent as:</en>
@@ -3532,7 +3532,7 @@
         <de>Sent als:</de>
         <it>Inviato come:</it>
         <ur>کے طور پر بھیجا:</ur>
-    </entry>
+    <es>Enviado como:</es></entry>
     <entry>
         <key>SocialFlow</key>
         <en>SocialFlow</en>
@@ -3551,7 +3551,7 @@
         <de>SocialFlow</de>
         <it>SocialFlow</it>
         <ur>SocialFlow</ur>
-    </entry>
+    <es>SocialFlow</es></entry>
     <entry>
         <key>Message Flow</key>
         <en>Message Flow</en>
@@ -3570,7 +3570,7 @@
         <de>Nachrichtenfluss</de>
         <it>Flusso dei messaggi</it>
         <ur>پیغام روانی</ur>
-    </entry>
+    <es>Flujo de Mensaje</es></entry>
     <entry>
         <key>Click and Message Locations</key>
         <en>Click and Message Locations</en>
@@ -3589,7 +3589,7 @@
         <de>Klicken und Nachrichten Standorte</de>
         <it>Fare clic e messaggi Sedi</it>
         <ur>پر کلک کریں اور پیغام مقامات</ur>
-    </entry>
+    <es>Clic y Localizaciones del Mensaje</es></entry>
     <entry>
         <key>Client Account Settings</key>
         <en>Client Account Settings</en>
@@ -3608,7 +3608,7 @@
         <de>Client-Account-Einstellungen</de>
         <it>Impostazioni account client</it>
         <ur>کلائنٹ کے اکاؤنٹ کی ترتیبات</ur>
-    </entry>
+    <es>Configuraciones de Cuenta del Cliente</es></entry>
     <entry>
         <key>Plan</key>
         <en>Plan</en>
@@ -3627,7 +3627,7 @@
         <de>Planen</de>
         <it>Piano</it>
         <ur>پلان</ur>
-    </entry>
+    <es>Plan</es></entry>
     <entry>
         <key>Plan - will bill on</key>
         <en>Plan - will bill on</en>
@@ -3646,7 +3646,7 @@
         <de>Plan - wird in Rechnung auf</de>
         <it>Piano - si legge sulla</it>
         <ur>منصوبہ - بل گے</ur>
-    </entry>
+    <es>Plan - será facturado el</es></entry>
     <entry>
         <key>Receipt Recipients</key>
         <en>Receipt Recipients</en>
@@ -3665,7 +3665,7 @@
         <de>Receipt Empfänger</de>
         <it>Destinatari ricevute</it>
         <ur>رسید وصول کنندگان</ur>
-    </entry>
+    <es>Recipientes del Recibo</es></entry>
     <entry>
         <key>ending in</key>
         <en>ending in</en>
@@ -3684,7 +3684,7 @@
         <de>endet in</de>
         <it>termina</it>
         <ur>میں ختم ہونے والے</ur>
-    </entry>
+    <es>terminando el</es></entry>
     <entry>
         <key>Twitter Feed</key>
         <en>Twitter Feed</en>
@@ -3703,7 +3703,7 @@
         <de>Twitter-Feed</de>
         <it>Feed di Twitter</it>
         <ur>ٹویٹر فیڈ</ur>
-    </entry>
+    <es>Feed de Twitter</es></entry>
     <entry>
         <key>Screen name</key>
         <en>Screen name</en>
@@ -3722,7 +3722,7 @@
         <de>Künstlername</de>
         <it>Nome della schermata</it>
         <ur>سکرین نام</ur>
-    </entry>
+    <es>Nombre de usuario</es></entry>
     <entry>
         <key>No messages were added due to the following errors. Please correct these errors and resubmit the file.</key>
         <en>No messages were added due to the following errors. Please correct these errors and resubmit the file.</en>
@@ -3741,7 +3741,7 @@
         <de>Es wurden keine Nachrichten aufgrund der folgenden Fehler hinzugefügt. Bitte korrigieren Sie diese Fehler und die Datei erneut.</de>
         <it>Nessun messaggio sono state aggiunte a causa dei seguenti errori. Si prega di correggere questi errori e inviare nuovamente il file.</it>
         <ur>کوئی پیغام درج ذیل غلطیوں کی وجہ سے شامل کیا گیا ہے. ان غلطیوں کو درست کریں اور فائل کو دوبارہ جمع کریں.</ur>
-    </entry>
+    <es>Nigún mensaje fue añadido debido a los siguientes errores. Por favor corrija esos errores y vuelva a enviar el archivo.</es></entry>
     <entry>
         <key>Use the following spreadsheet as a template when adding messages. Enter messages, one per line, after the header line. </key>
         <en>Use the following spreadsheet as a template when adding messages. Enter messages, one per line, after the header line. </en>
@@ -3760,7 +3760,7 @@
         <de>Verwenden Sie die folgende Tabelle als Vorlage, wenn Nachrichten hinzufügen. Geben Sie Nachrichten, eine pro Zeile, nach der Kopfzeile.</de>
         <it>Utilizzare il seguente foglio di calcolo come modello quando si aggiungono i messaggi. Inserire messaggi, uno per riga, dopo la riga di intestazione.</it>
         <ur>پیغامات اضافہ جب ایک سانچے کے طور درج ذیل سپریڈ شیٹ کا استعمال. ہیڈر لائن کے بعد، پیغامات، فی لائن درج کریں.</ur>
-    </entry>
+    <es>Use la siguiente hoja de cálculo como plantilla al agregar mensajes. Introduzca los mensajes, uno por línea, después de la línea de encabezado.</es></entry>
     <entry>
         <key>Message Template</key>
         <en>Message Template</en>
@@ -3779,7 +3779,7 @@
         <de>Nachrichtenvorlage</de>
         <it>modello di messaggio</it>
         <ur>پیغام سانچہ</ur>
-    </entry>
+    <es>Plantilla de Mensaje</es></entry>
     <entry>
         <key>Choose File</key>
         <en>Choose File</en>
@@ -3798,7 +3798,7 @@
         <de>Datei wählen</de>
         <it>Scegli il file</it>
         <ur>فائل منتخب کریں</ur>
-    </entry>
+    <es>Escoger Archivo</es></entry>
     <entry>
         <key>Choose Account</key>
         <en>Choose Account</en>
@@ -3817,7 +3817,7 @@
         <de>wählen Sie Konto</de>
         <it>scegliere account</it>
         <ur>اکاؤنٹ کا انتخاب کریں</ur>
-    </entry>
+    <es>Escoger Cuenta</es></entry>
     <entry>
         <key>Copy From</key>
         <en>Copy From</en>
@@ -3836,7 +3836,7 @@
         <de>Kopie von</de>
         <it>Copia da</it>
         <ur>سے کاپی</ur>
-    </entry>
+    <es>Copiar de</es></entry>
     <entry>
         <key>List of Feeds</key>
         <en>List of Feeds</en>
@@ -3855,7 +3855,7 @@
         <de>Liste der Feeds</de>
         <it>Elenco dei Feed</it>
         <ur>فیڈ کی لسٹ</ur>
-    </entry>
+    <es>Lista de Feeds</es></entry>
     <entry>
         <key>Available</key>
         <en>Available</en>
@@ -3874,7 +3874,7 @@
         <de>Erhältlich</de>
         <it>A disposizione</it>
         <ur>دستیاب</ur>
-    </entry>
+    <es>Disponible</es></entry>
     <entry>
         <key>Add</key>
         <en>Add</en>
@@ -3893,7 +3893,7 @@
         <de>Hinzufügen</de>
         <it>Aggiungere</it>
         <ur>شامل کریں</ur>
-    </entry>
+    <es>Añadir</es></entry>
     <entry>
         <key>Valid</key>
         <en>Valid</en>
@@ -3912,7 +3912,7 @@
         <de>Gültig</de>
         <it>Valido</it>
         <ur>درست</ur>
-    </entry>
+    <es>Válido</es></entry>
     <entry>
         <key>Invalid</key>
         <en>Invalid</en>
@@ -3931,7 +3931,7 @@
         <de>Ungültig</de>
         <it>Non valido</it>
         <ur>غلط</ur>
-    </entry>
+    <es>Inválido</es></entry>
     <entry>
         <key>Reauthorize</key>
         <en>Reauthorize</en>
@@ -3950,7 +3950,7 @@
         <de>reauthorize</de>
         <it>ri-autorizzare</it>
         <ur>دوبارہ اجازت</ur>
-    </entry>
+    <es>Reautorizar</es></entry>
     <entry>
         <key>Inactive</key>
         <en>Inactive</en>
@@ -3969,7 +3969,7 @@
         <de>Inaktiv</de>
         <it>Inattivo</it>
         <ur>غیر فعال</ur>
-    </entry>
+    <es>Inactivo</es></entry>
     <entry>
         <key>You don't have any apps setup.</key>
         <en>You don't have any apps setup.</en>
@@ -3988,7 +3988,7 @@
         <de>Sie haben noch keine Apps-Setup.</de>
         <it>Non si dispone di alcuna configurazione di applicazioni.</it>
         <ur>آپ کسی بھی ایپس سیٹ اپ کی ضرورت نہیں ہے.</ur>
-    </entry>
+    <es>Usted no tiene aplicaciones configuradas.</es></entry>
     <entry>
         <key>Introduce Yourself</key>
         <en>Introduce Yourself</en>
@@ -4007,7 +4007,7 @@
         <de>Sich vorstellen</de>
         <it>Presentati</it>
         <ur>اپنا تعارف کراوء</ur>
-    </entry>
+    <es>Presentarse</es></entry>
     <entry>
         <key>Welcome to SocialFlow! Please fill out the short form below to create your account.</key>
         <en>Welcome to SocialFlow! Please fill out the short form below to create your account.</en>
@@ -4026,7 +4026,7 @@
         <de>Willkommen bei SocialFlow! Bitte füllen Sie das folgende kurze Formular Ihr Konto zu erstellen.</de>
         <it>Benvenuto in SocialFlow! Si prega di compilare il modulo breve qui sotto per creare il tuo account.</it>
         <ur>SocialFlow میں خوش آمدید! اپنا اکاؤنٹ بنانے کے لئے ذیل میں مختصر فارم کو بھرنے کریں.</ur>
-    </entry>
+    <es>Bienvenido a SocialFlow! Por favor llene el formulario debajo para crear su cuenta.</es></entry>
     <entry>
         <key>Already have an account?</key>
         <en>Already have an account?</en>
@@ -4045,7 +4045,7 @@
         <de>Habe schon einen Account?</de>
         <it>Hai già un account?</it>
         <ur>پہلے سے ہی ایک اکاؤنٹ ہے؟</ur>
-    </entry>
+    <es>Ya tiene una cuenta?</es></entry>
     <entry>
         <key>Sign In Here</key>
         <en>Sign In Here</en>
@@ -4064,7 +4064,7 @@
         <de>Hier anmelden</de>
         <it>Registrati qui</it>
         <ur>یہاں سائن ان کریں</ur>
-    </entry>
+    <es>Registrese Aquí</es></entry>
     <entry>
         <key>Company</key>
         <en>Company</en>
@@ -4083,7 +4083,7 @@
         <de>Unternehmen</de>
         <it>Società</it>
         <ur>کمپنی</ur>
-    </entry>
+    <es>Compañia</es></entry>
     <entry>
         <key>Confirm Password</key>
         <en>Confirm Password</en>
@@ -4102,7 +4102,7 @@
         <de>Bestätige das Passwort</de>
         <it>conferma password</it>
         <ur>پاس ورڈ کی توثیق</ur>
-    </entry>
+    <es>Confirmar Contraseña</es></entry>
     <entry>
         <key>Social Account Group:</key>
         <en>Social Account Group:</en>
@@ -4121,7 +4121,7 @@
         <de>Social Kontengruppe:</de>
         <it>Sociale Gruppo Account:</it>
         <ur>سماجی اکاؤنٹ گروپ:</ur>
-    </entry>
+    <es>Grupo de Cuenta Social:</es></entry>
     <entry>
         <key>All accounts have been added</key>
         <en>All accounts have been added</en>
@@ -4140,7 +4140,7 @@
         <de>Alle Konten wurden hinzugefügt</de>
         <it>sono stati aggiunti tutti i conti</it>
         <ur>تمام اکاؤنٹس شامل کیا گیا ہے</ur>
-    </entry>
+    <es>Todas las cuentas han sido añadidas</es></entry>
     <entry>
         <key>Add to Group</key>
         <en>Add to Group</en>
@@ -4159,7 +4159,7 @@
         <de>Zur Gruppe hinzufügen</de>
         <it>Aggiungi al gruppo</it>
         <ur>گروپ میں شامل کریں</ur>
-    </entry>
+    <es>Añadir al Grupo</es></entry>
     <entry>
         <key>Change Group</key>
         <en>Change Group</en>
@@ -4178,7 +4178,7 @@
         <de>Change Group</de>
         <it>Gruppo Change</it>
         <ur>تبدیل گروپ</ur>
-    </entry>
+    <es>Cambiar Grupo</es></entry>
     <entry>
         <key>Change</key>
         <en>Change</en>
@@ -4197,7 +4197,7 @@
         <de>Veränderung</de>
         <it>Cambiamento</it>
         <ur>تبدیل کریں</ur>
-    </entry>
+    <es>Modificar</es></entry>
     <entry>
         <key>12AM</key>
         <en>12AM</en>
@@ -4216,7 +4216,7 @@
         <de>12 UHR MITTAGS</de>
         <it>00:00</it>
         <ur>12AM</ur>
-    </entry>
+    <es>12AM</es></entry>
     <entry>
         <key>1AM</key>
         <en>1AM</en>
@@ -4235,7 +4235,7 @@
         <de>01.00</de>
         <it>01:00</it>
         <ur>1AM</ur>
-    </entry>
+    <es>1AM</es></entry>
     <entry>
         <key>2AM</key>
         <en>2AM</en>
@@ -4254,7 +4254,7 @@
         <de>2 UHR MORGENS</de>
         <it>2 DEL MATTINO</it>
         <ur>2AM</ur>
-    </entry>
+    <es>2AM</es></entry>
     <entry>
         <key>3AM</key>
         <en>3AM</en>
@@ -4273,7 +4273,7 @@
         <de>03.00</de>
         <it>3 DI MATTINA</it>
         <ur>3AM</ur>
-    </entry>
+    <es>3AM</es></entry>
     <entry>
         <key>4AM</key>
         <en>4AM</en>
@@ -4292,7 +4292,7 @@
         <de>04.00</de>
         <it>04:00</it>
         <ur>آپ 4am</ur>
-    </entry>
+    <es>4AM</es></entry>
     <entry>
         <key>5AM</key>
         <en>5AM</en>
@@ -4311,7 +4311,7 @@
         <de>5 UHR MORGENS</de>
         <it>5 DEL MATTINO</it>
         <ur>5AM</ur>
-    </entry>
+    <es>5AM</es></entry>
     <entry>
         <key>6AM</key>
         <en>6AM</en>
@@ -4330,7 +4330,7 @@
         <de>6 UHR MORGENS</de>
         <it>6 DEL MATTINO</it>
         <ur>6AM</ur>
-    </entry>
+    <es>6AM</es></entry>
     <entry>
         <key>7AM</key>
         <en>7AM</en>
@@ -4349,7 +4349,7 @@
         <de>7 UHR MORGENS</de>
         <it>7 DEL MATTINO</it>
         <ur>7am کی</ur>
-    </entry>
+    <es>7AM</es></entry>
     <entry>
         <key>8AM</key>
         <en>8AM</en>
@@ -4368,7 +4368,7 @@
         <de>8 UHR MORGENS</de>
         <it>8 DEL MATTINO</it>
         <ur>8AM</ur>
-    </entry>
+    <es>8AM</es></entry>
     <entry>
         <key>9AM</key>
         <en>9AM</en>
@@ -4387,7 +4387,7 @@
         <de>9 UHR MORGENS</de>
         <it>9 DEL MATTINO</it>
         <ur>9AM</ur>
-    </entry>
+    <es>9AM</es></entry>
     <entry>
         <key>10AM</key>
         <en>10AM</en>
@@ -4406,7 +4406,7 @@
         <de>10 UHR MORGENS</de>
         <it>10 DEL MATTINO</it>
         <ur>10AM</ur>
-    </entry>
+    <es>10AM</es></entry>
     <entry>
         <key>11AM</key>
         <en>11AM</en>
@@ -4425,7 +4425,7 @@
         <de>11.00 Uhr</de>
         <it>11:00</it>
         <ur>دن 11am</ur>
-    </entry>
+    <es>11AM</es></entry>
     <entry>
         <key>12PM</key>
         <en>12PM</en>
@@ -4444,7 +4444,7 @@
         <de>12 UHR</de>
         <it>12 PM</it>
         <ur>12PM</ur>
-    </entry>
+    <es>12PM</es></entry>
     <entry>
         <key>1PM</key>
         <en>1PM</en>
@@ -4463,7 +4463,7 @@
         <de>01.00</de>
         <it>1 PM</it>
         <ur>1pm کے</ur>
-    </entry>
+    <es>1PM</es></entry>
     <entry>
         <key>2PM</key>
         <en>2PM</en>
@@ -4482,7 +4482,7 @@
         <de>02.00</de>
         <it>02:00</it>
         <ur>2PM</ur>
-    </entry>
+    <es>2PM</es></entry>
     <entry>
         <key>3PM</key>
         <en>3PM</en>
@@ -4501,7 +4501,7 @@
         <de>03.00</de>
         <it>03:00</it>
         <ur>3PM</ur>
-    </entry>
+    <es>3PM</es></entry>
     <entry>
         <key>4PM</key>
         <en>4PM</en>
@@ -4520,7 +4520,7 @@
         <de>4 UHR NACHMITTAGS</de>
         <it>04:00</it>
         <ur>4PM</ur>
-    </entry>
+    <es>4PM</es></entry>
     <entry>
         <key>5PM</key>
         <en>5PM</en>
@@ -4539,7 +4539,7 @@
         <de>05.00</de>
         <it>05:00</it>
         <ur>5PM</ur>
-    </entry>
+    <es>5PM</es></entry>
     <entry>
         <key>6PM</key>
         <en>6PM</en>
@@ -4558,7 +4558,7 @@
         <de>06.00</de>
         <it>06:00</it>
         <ur>6PM</ur>
-    </entry>
+    <es>6PM</es></entry>
     <entry>
         <key>7PM</key>
         <en>7PM</en>
@@ -4577,7 +4577,7 @@
         <de>07.00</de>
         <it>07:00</it>
         <ur>7PM</ur>
-    </entry>
+    <es>7PM</es></entry>
     <entry>
         <key>8PM</key>
         <en>8PM</en>
@@ -4596,7 +4596,7 @@
         <de>08.00 Uhr</de>
         <it>08:00</it>
         <ur>8PM</ur>
-    </entry>
+    <es>8PM</es></entry>
     <entry>
         <key>9PM</key>
         <en>9PM</en>
@@ -4615,7 +4615,7 @@
         <de>09.00 Uhr</de>
         <it>09:00</it>
         <ur>9PM</ur>
-    </entry>
+    <es>9PM</es></entry>
     <entry>
         <key>10PM</key>
         <en>10PM</en>
@@ -4634,7 +4634,7 @@
         <de>10.00 Uhr</de>
         <it>10:00</it>
         <ur>10PM</ur>
-    </entry>
+    <es>10PM</es></entry>
     <entry>
         <key>11PM</key>
         <en>11PM</en>
@@ -4653,7 +4653,7 @@
         <de>11.00 Uhr</de>
         <it>11:00</it>
         <ur>11pm کے</ur>
-    </entry>
+    <es>11PM</es></entry>
     <entry>
         <key>Your Average</key>
         <en>Your Average</en>
@@ -4672,7 +4672,7 @@
         <de>Ihre durchschnittliche</de>
         <it>La vostra media</it>
         <ur>آپ کی اوسط</ur>
-    </entry>
+    <es>Su Promedio</es></entry>
     <entry>
         <key>Report Title</key>
         <en>Report Title</en>
@@ -4691,7 +4691,7 @@
         <de>Titel des Berichts</de>
         <it>Titolo report</it>
         <ur>رپورٹ کی سرخی</ur>
-    </entry>
+    <es>Título del Reporte</es></entry>
     <entry>
         <key>Exact Time</key>
         <en>Exact Time</en>
@@ -4710,7 +4710,7 @@
         <de>Genaue Zeit</de>
         <it>Tempo esatto</it>
         <ur>عین مطابق وقت</ur>
-    </entry>
+    <es>Hora Exacta</es></entry>
     <entry>
         <key>Trending Terms on Twitter</key>
         <en>Trending Terms on Twitter</en>
@@ -4729,7 +4729,7 @@
         <de>Trending Begriffe auf Twitter</de>
         <it>Trending Termini su Twitter</it>
         <ur>ٹویٹر پر رجحان ساز شرائط</ur>
-    </entry>
+    <es>Términos de tendencia en Twitter</es></entry>
     <entry>
         <key>Trending Terms for Your Audience</key>
         <en>Trending Terms for Your Audience</en>
@@ -4748,7 +4748,7 @@
         <de>Trending Bedingungen für Ihr Publikum</de>
         <it>Trending Termini per il pubblico</it>
         <ur>اپنے ناظرین کے لئے رجحان سازی شرائط</ur>
-    </entry>
+    <es>Términos de tendencia para Su Audiencia</es></entry>
     <entry>
         <key>Published</key>
         <en>Published</en>
@@ -4767,7 +4767,7 @@
         <de>Veröffentlicht</de>
         <it>Pubblicato</it>
         <ur>اشاعت</ur>
-    </entry>
+    <es>Punlicado</es></entry>
     <entry>
         <key>Upload Thumbnail</key>
         <en>Upload Thumbnail</en>
@@ -4786,7 +4786,7 @@
         <de>hochladen Thumbnail</de>
         <it>Carica Thumbnail</it>
         <ur>اپ لوڈ کریں اظفورہ</ur>
-    </entry>
+    <es>Subir Miniatura</es></entry>
     <entry>
         <key>Thumbnail</key>
         <en>Thumbnail</en>
@@ -4805,7 +4805,7 @@
         <de>Miniaturansicht</de>
         <it>Thumbnail</it>
         <ur>تھمب نیل</ur>
-    </entry>
+    <es>Miniatura</es></entry>
     <entry>
         <key>No Thumbnail</key>
         <en>No Thumbnail</en>
@@ -4824,7 +4824,7 @@
         <de>keine Vorschau</de>
         <it>Nessuna miniatura</it>
         <ur>کوئی تھمب نیل</ur>
-    </entry>
+    <es>Sin Miniatura</es></entry>
     <entry>
         <key>Queue</key>
         <en>Queue</en>
@@ -4843,7 +4843,7 @@
         <de>Warteschlange</de>
         <it>Fare la coda</it>
         <ur>قطار</ur>
-    </entry>
+    <es>Mensajes en Espera</es></entry>
     <entry>
         <key>Send At</key>
         <en>Send At</en>
@@ -4862,7 +4862,7 @@
         <de>senden An</de>
         <it>Invia A</it>
         <ur>میں بھیج</ur>
-    </entry>
+    <es>Enviar a las</es></entry>
     <entry>
         <key>Date &amp; Time</key>
         <en>Date &amp; Time</en>
@@ -4881,7 +4881,7 @@
         <de>Terminzeit</de>
         <it>Appuntamento</it>
         <ur>تاریخ وقت</ur>
-    </entry>
+    <es>Fecha &amp; Hora</es></entry>
     <entry>
         <key>Message Draft</key>
         <en>Message Draft</en>
@@ -4900,7 +4900,7 @@
         <de>Nachricht Draft</de>
         <it>Progetto Messaggio</it>
         <ur>پیغام مسودہ</ur>
-    </entry>
+    <es>Borrador de Mensaje</es></entry>
     <entry>
         <key>Are you sure you want to publish this message?</key>
         <en>Are you sure you want to publish this message?</en>
@@ -4919,7 +4919,7 @@
         <de>Sind Sie sicher, dass Sie diese Nachricht zu veröffentlichen?</de>
         <it>Sei sicuro di voler pubblicare questo messaggio?</it>
         <ur>اس پیغام کو شائع کرنے کے لئے چاہتے ہیں؟</ur>
-    </entry>
+    <es>Está seguro que desea publicar este mensaje?</es></entry>
     <entry>
         <key>Are you sure you want to "delete this item?</key>
         <en>Are you sure you want to "delete this item?</en>
@@ -4938,7 +4938,7 @@
         <de>Sind Sie sicher, dass Sie auf "diesen Artikel löschen?</de>
         <it>Sei sicuro di voler eliminare questo articolo?</it>
         <ur>آپ "اس شے کو حذف کرنا چاہتے ہیں؟</ur>
-    </entry>
+    <es>Está seguro que desde eliminar este ítem?</es></entry>
     <entry>
         <key>Success!</key>
         <en>Success!</en>
@@ -4957,7 +4957,7 @@
         <de>Erfolg!</de>
         <it>Successo!</it>
         <ur>کامیابی!</ur>
-    </entry>
+    <es>Éxito!</es></entry>
     <entry>
         <key>Your message is now on hold!</key>
         <en>Your message is now on hold!</en>
@@ -4976,7 +4976,7 @@
         <de>Ihre Nachricht ist jetzt in der Warteschleife!</de>
         <it>Il tuo messaggio è ora in attesa!</it>
         <ur>آپ کا پیغام ہولڈ پر اب ہے!</ur>
-    </entry>
+    <es>Su mensaje está aguantado!</es></entry>
     <entry>
         <key>Schedule date is empty!</key>
         <en>Schedule date is empty!</en>
@@ -4995,7 +4995,7 @@
         <de>Geplantes Datum ist leer!</de>
         <it>Data Schedule è vuoto!</it>
         <ur>تاریخ کے شیڈول خالی ہے!</ur>
-    </entry>
+    <es>Programar está vacío!</es></entry>
     <entry>
         <key>Please enter a schedule date.</key>
         <en>Please enter a schedule date.</en>
@@ -5014,7 +5014,7 @@
         <de>Bitte geben Sie einen Zeitplan Datum.</de>
         <it>Si prega di inserire una data di pianificazione.</it>
         <ur>ایک شیڈول کوڈ داخل کریں.</ur>
-    </entry>
+    <es>Por favor programe una fecha</es></entry>
     <entry>
         <key>expires on</key>
         <en>expires on</en>
@@ -5033,7 +5033,7 @@
         <de>Läuft aus am</de>
         <it>scade il</it>
         <ur>اختتامی میعاد</ur>
-    </entry>
+    <es>expira en</es></entry>
     <entry>
         <key>indefinitely</key>
         <en>indefinitely</en>
@@ -5052,7 +5052,7 @@
         <de>unbegrenzt</de>
         <it>indefinitamente</it>
         <ur>غیر معینہ مدت تک</ur>
-    </entry>
+    <es>indefinidamente</es></entry>
     <entry>
         <key>Your message(s) were deleted</key>
         <en>Your message(s) were deleted</en>
@@ -5071,7 +5071,7 @@
         <de>Ihre Nachricht (en) wurden gelöscht</de>
         <it>Il tuo messaggio (s) sono stati cancellati</it>
         <ur>آپ کا پیغام (ے) کو خارج کر دیا گیا تھا</ur>
-    </entry>
+    <es>Su mensaje(s) fue eliminado</es></entry>
     <entry>
         <key>hour(s) ago</key>
         <en>hour(s) ago</en>
@@ -5090,7 +5090,7 @@
         <de>Vor Stunden</de>
         <it>ore fa</it>
         <ur>گھنٹوں پہلے</ur>
-    </entry>
+    <es>hora(s) atrás</es></entry>
     <entry>
         <key>week(s) ago</key>
         <en>week(s) ago</en>
@@ -5109,7 +5109,7 @@
         <de>vor Wochen</de>
         <it>settimane fa</it>
         <ur>ہفتے پہلے</ur>
-    </entry>
+    <es>semana(s) atrás</es></entry>
     <entry>
         <key>month(s) ago</key>
         <en>month(s) ago</en>
@@ -5128,7 +5128,7 @@
         <de>vor wenigen Monaten</de>
         <it>mesi fa</it>
         <ur>مہینوں پہلے</ur>
-    </entry>
+    <es>mes(es) atrás</es></entry>
     <entry>
         <key>year(s) ago</key>
         <en>year(s) ago</en>
@@ -5147,5 +5147,5 @@
         <de>Jahre zuvor</de>
         <it>anni fa</it>
         <ur>کئی برس قبل</ur>
-    </entry>
+    <es>año(s) atrás</es></entry>
 </translations>

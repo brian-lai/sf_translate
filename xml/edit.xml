@@ -17,7 +17,7 @@
         <de>Hinweis: Die Links bei Veröffentlichung verkürzen</de>
         <it>Nota: Collegamenti accorciano a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر</ur>
-    </entry>
+    <es>Nota: Enlaces se acortan al publicar</es></entry>
     <entry>
         <key>Added [[[&lt;date/time&gt;]]] pm from Manual</key>
         <en>Added [[[&lt;date/time&gt;]]] pm from Manual</en>
@@ -42,7 +42,7 @@
         <de>Zuletzt von auf bearbeitet</de>
         <it>Ultima modifica di su</it>
         <ur>آخری بار ترمیم کے ذریعے</ur>
-    </entry>
+    <es>Última edición por el</es></entry>
     <entry>
         <key>Set to</key>
         <en>Set to</en>
@@ -61,7 +61,7 @@
         <de>Einstellen</de>
         <it>Impostato</it>
         <ur>تیار</ur>
-    </entry>
+    <es>Ajustado a</es></entry>
     <entry>
         <key>Expires at</key>
         <en>Expires at</en>
@@ -80,7 +80,7 @@
         <de>Verfällt bei</de>
         <it>scade a</it>
         <ur>میں ختم</ur>
-    </entry>
+    <es>expira a</es></entry>
     <entry>
         <key>Send Now</key>
         <en>Send Now</en>
@@ -99,7 +99,7 @@
         <de>Jetzt abschicken</de>
         <it>Spedisci ora</it>
         <ur>ابھی حساب</ur>
-    </entry>
+    <es>Enviar ahora</es></entry>
     <entry>
         <key>Close</key>
         <en>Close</en>
@@ -118,7 +118,7 @@
         <de>Schließen</de>
         <it>Vicino</it>
         <ur>بند کریں</ur>
-    </entry>
+    <es>Cerca</es></entry>
     <entry>
         <key>Save Changes</key>
         <en>Save Changes</en>
@@ -137,6 +137,6 @@
         <de>Änderungen speichern</de>
         <it>Salva I Cambiamenti</it>
         <ur>تبدیلیاں محفوظ کرو</ur>
-    </entry>
+    <es>Guardar cambios</es></entry>
     <section>edit</section>
 </translations>

@@ -17,7 +17,7 @@
         <de>Kunden-Account Setttings</de>
         <it>Setttings account cliente</it>
         <ur>کلائنٹ اکاؤنٹ Setttings</ur>
-    </entry>
+    <es>Configuraciones de Cuenta de Cliente</es></entry>
     <entry>
         <key>Company Name</key>
         <en>Company Name</en>
@@ -36,7 +36,7 @@
         <de>Name der Firma</de>
         <it>Nome della ditta</it>
         <ur>کمپنی کا نام</ur>
-    </entry>
+    <es>Nombre de Compañia</es></entry>
     <entry>
         <key>Billing Contact</key>
         <en>Billing Contact</en>
@@ -55,7 +55,7 @@
         <de>Rechnungskontakt</de>
         <it>Contatto per la fatturazione</it>
         <ur>بلنگ رابطہ</ur>
-    </entry>
+    <es>Contacto de Facturación</es></entry>
     <entry>
         <key>(none)</key>
         <en>(none)</en>
@@ -74,7 +74,7 @@
         <de>(keiner)</de>
         <it>(nessuna)</it>
         <ur>(کوئی نہیں)</ur>
-    </entry>
+    <es>(ninguno)</es></entry>
     <entry>
         <key>Select User</key>
         <en>Select User</en>
@@ -93,7 +93,7 @@
         <de>Wählen Sie Benutzer</de>
         <it>Selezionare utente</it>
         <ur>صارف منتخب کریں</ur>
-    </entry>
+    <es>Seleccionar Usuario</es></entry>
     <entry>
         <key>Client Account Administrator</key>
         <en>Client Account Administrator</en>
@@ -112,7 +112,7 @@
         <de>Kunden-Account-Administrator</de>
         <it>Administrator Account client</it>
         <ur>کلائنٹ اکاؤنٹ ایڈمنسٹریٹر</ur>
-    </entry>
+    <es>Administrador de Cuenta de Cliente</es></entry>
     <entry>
         <key>Select User</key>
         <en>Select User</en>
@@ -131,7 +131,7 @@
         <de>Wählen Sie Benutzer</de>
         <it>Selezionare utente</it>
         <ur>صارف منتخب کریں</ur>
-    </entry>
+    <es>Seleccionar Usuario</es></entry>
     <entry>
         <key>Billing Preferences</key>
         <en>Billing Preferences</en>
@@ -150,7 +150,7 @@
         <de>Rechnungseinstellungen</de>
         <it>Preferenze di fatturazione</it>
         <ur>بلنگ کی ترجیحات</ur>
-    </entry>
+    <es>Preferencias de Facturación</es></entry>
     <entry>
         <key>Client Since</key>
         <en>Client Since</en>
@@ -169,7 +169,7 @@
         <de>-Client Da</de>
         <it>Dal client</it>
         <ur>کلائنٹ کے بعد سے</ur>
-    </entry>
+    <es>Cliente Desde</es></entry>
     <entry>
         <key>Service Tier</key>
         <en>Service Tier</en>
@@ -188,7 +188,7 @@
         <de>Service-Tier</de>
         <it>Livello di servizio</it>
         <ur>سروس ٹائیر</ur>
-    </entry>
+    <es>Nivel de Servicio</es></entry>
     <entry>
         <key>Enterprise Plan</key>
         <en>Enterprise Plan</en>
@@ -207,7 +207,7 @@
         <de>Unternehmen planen</de>
         <it>Enterprise Piano</it>
         <ur>انٹرپرائز کی منصوبہ بندی</ur>
-    </entry>
+    <es>Plan Empresarial</es></entry>
     <entry>
         <key>Business Plan</key>
         <en>Business Plan</en>
@@ -226,7 +226,7 @@
         <de>Geschäftsplan</de>
         <it>business Plan</it>
         <ur>کاروبار کی منصوبہ بندی</ur>
-    </entry>
+    <es>Plan de Negocio</es></entry>
     <entry>
         <key>Standard</key>
         <en>Standard</en>
@@ -245,7 +245,7 @@
         <de>Standard</de>
         <it>Standard</it>
         <ur>سٹینڈرڈ</ur>
-    </entry>
+    <es>Estándar</es></entry>
     <entry>
         <key>Next Bill Dates</key>
         <en>Next Bill Dates</en>
@@ -264,7 +264,7 @@
         <de>Weiter Bill Termine</de>
         <it>Prossima fattura Date</it>
         <ur>اگلے بل تواریخ</ur>
-    </entry>
+    <es>Próximas Fechas de Facturación</es></entry>
     <entry>
         <key>Reciept Recipients</key>
         <en>Reciept Recipients</en>
@@ -283,7 +283,7 @@
         <de>reciept Empfänger</de>
         <it>Destinatari ricevuta</it>
         <ur>Reciept وصول کنندگان</ur>
-    </entry>
+    <es>Recipiente de Recibos</es></entry>
     <entry>
         <key>Receipts</key>
         <en>Receipts</en>
@@ -302,7 +302,7 @@
         <de>Einkünfte</de>
         <it>ricevute</it>
         <ur>رسیدیں</ur>
-    </entry>
+    <es>Recibos</es></entry>
     <entry>
         <key>Download</key>
         <en>Download</en>
@@ -321,7 +321,7 @@
         <de>Herunterladen</de>
         <it>Scaricare</it>
         <ur>لوڈ</ur>
-    </entry>
+    <es>Descargar</es></entry>
     <entry>
         <key>Cancel SocialFlow</key>
         <en>Cancel SocialFlow</en>
@@ -340,7 +340,7 @@
         <de>Abbrechen SocialFlow</de>
         <it>Annulla SocialFlow</it>
         <ur>SocialFlow منسوخ</ur>
-    </entry>
+    <es>Cancelar SocialFlow</es></entry>
     <entry>
         <key>Things not working out for you?</key>
         <en>Things not working out for you?</en>
@@ -359,7 +359,7 @@
         <de>Die Dinge sind nicht das Ausarbeiten für Sie?</de>
         <it>Le cose non funziona per voi?</it>
         <ur>چیزیں آپ کے لئے باہر کام نہیں؟</ur>
-    </entry>
+    <es>No le está funcionando ciertas cosas?</es></entry>
     <entry>
         <key>Cancel SocialFlow</key>
         <en>Cancel SocialFlow</en>
@@ -378,7 +378,7 @@
         <de>Abbrechen SocialFlow</de>
         <it>Annulla SocialFlow</it>
         <ur>SocialFlow منسوخ</ur>
-    </entry>
+    <es>Cancelar SocialFlow</es></entry>
     <entry>
         <key>Payment Methods</key>
         <en>Payment Methods</en>
@@ -397,7 +397,7 @@
         <de>Zahlungsarten</de>
         <it>Modalità di pagamento</it>
         <ur>ادائیگی کے طریقے</ur>
-    </entry>
+    <es>Métodos de Pago</es></entry>
     <entry>
         <key>Add Payment Method</key>
         <en>Add Payment Method</en>
@@ -416,7 +416,7 @@
         <de>Zahlungsmethode hinzufügen</de>
         <it>Aggiungere metodo di pagamento</it>
         <ur>ادائیگی کا طریقہ شامل</ur>
-    </entry>
+    <es>Agregar Métodos de Pago</es></entry>
     <entry>
         <key>Credit Card Number</key>
         <en>Credit Card Number</en>
@@ -435,7 +435,7 @@
         <de>Kreditkartennummer</de>
         <it>Numero di carta di credito</it>
         <ur>کریڈٹ کارڈ نمبر</ur>
-    </entry>
+    <es>Número de Tarjeta de Crédito</es></entry>
     <entry>
         <key>Name on Card</key>
         <en>Name on Card</en>
@@ -454,7 +454,7 @@
         <de>Name auf der Karte</de>
         <it>Nome sulla carta</it>
         <ur>کارڈ پہ درج نام</ur>
-    </entry>
+    <es>Nombre en Tarjeta</es></entry>
     <entry>
         <key>*Expiration</key>
         <en>*Expiration</en>
@@ -473,7 +473,7 @@
         <de>*Ablauf</de>
         <it>*Scadenza</it>
         <ur>* میعاد ختم ہونے کی</ur>
-    </entry>
+    <es>*Expiración</es></entry>
     <entry>
         <key>Month</key>
         <en>Month</en>
@@ -492,7 +492,7 @@
         <de>Monat</de>
         <it>Mese</it>
         <ur>مہینہ</ur>
-    </entry>
+    <es>Mes</es></entry>
     <entry>
         <key>Year</key>
         <en>Year</en>
@@ -511,7 +511,7 @@
         <de>Jahr</de>
         <it>Anno</it>
         <ur>سال</ur>
-    </entry>
+    <es>Año</es></entry>
     <entry>
         <key>Select Country</key>
         <en>Select Country</en>
@@ -530,7 +530,7 @@
         <de>Land auswählen</de>
         <it>Seleziona il paese</it>
         <ur>ملک کا انتخاب کریں</ur>
-    </entry>
+    <es>Seleccionar País</es></entry>
     <entry>
         <key>Zip Code</key>
         <en>Zip Code</en>
@@ -549,7 +549,7 @@
         <de>Postleitzahl</de>
         <it>Cap</it>
         <ur>زپ کوڈ</ur>
-    </entry>
+    <es>Código Postal</es></entry>
     <entry>
         <key>Address 1</key>
         <en>Address 1</en>
@@ -568,7 +568,7 @@
         <de>Adresse 1</de>
         <it>Indirizzo 1</it>
         <ur>پتہ 1</ur>
-    </entry>
+    <es>Dirección 1</es></entry>
     <entry>
         <key>Address 2</key>
         <en>Address 2</en>
@@ -587,7 +587,7 @@
         <de>Adresse 2</de>
         <it>Indirizzo 2</it>
         <ur>ایڈریس 2</ur>
-    </entry>
+    <es>Dirección 2</es></entry>
     <entry>
         <key>City</key>
         <en>City</en>
@@ -606,7 +606,7 @@
         <de>Stadt</de>
         <it>Città</it>
         <ur>شہر</ur>
-    </entry>
+    <es>Ciudad</es></entry>
     <entry>
         <key>State</key>
         <en>State</en>
@@ -625,7 +625,7 @@
         <de>Bundesland</de>
         <it>Stato</it>
         <ur>حالت</ur>
-    </entry>
+    <es>Estado</es></entry>
     <entry>
         <key>Select a State</key>
         <en>Select a State</en>
@@ -644,7 +644,7 @@
         <de>Wähle einen Staat</de>
         <it>Scegli uno Stato</it>
         <ur>کسی ریاست کریں</ur>
-    </entry>
+    <es>Seleccionar un Estado</es></entry>
     <entry>
         <key>Primary Payment Method</key>
         <en>Primary Payment Method</en>
@@ -663,7 +663,7 @@
         <de>Primäre Zahlungsmethode</de>
         <it>Metodo di pagamento principale</it>
         <ur>بنیادی ادائیگی کے طریقے</ur>
-    </entry>
+    <es>Método de Pago Primario</es></entry>
     <entry>
         <key>No Card Found</key>
         <en>No Card Found</en>
@@ -682,7 +682,7 @@
         <de>Keine Karte gefunden</de>
         <it>No Card Trovato</it>
         <ur>کوئی کارڈ نہیں ملا</ur>
-    </entry>
+    <es>Ninguna Tarjeta Encontrada</es></entry>
     <entry>
         <key>Additional Payment Method</key>
         <en>Additional Payment Method</en>
@@ -701,7 +701,7 @@
         <de>Zusätzliche Zahlungsmethode</de>
         <it>Ulteriori Metodo di pagamento</it>
         <ur>ایڈیشنل ادائیگی کا طریقہ</ur>
-    </entry>
+    <es>Método de Pago Adicional</es></entry>
     <entry>
         <key>Make Primary</key>
         <en>Make Primary</en>
@@ -720,6 +720,6 @@
         <de>Make Primary</de>
         <it>Rendi principale</it>
         <ur>پرائمری بنائیں</ur>
-    </entry>
+    <es>Hacer Primario</es></entry>
     <section>settings_admin_account_and_bill</section>
 </translations>

@@ -17,7 +17,7 @@
         <de>Herzlich willkommen</de>
         <it>benvenuto</it>
         <ur>خوش آمدید</ur>
-    </entry>
+    <es>Bienvenido</es></entry>
     <entry>
         <key>Notifications</key>
         <en>Notifications</en>
@@ -36,7 +36,7 @@
         <de>Benachrichtigungen</de>
         <it>notifiche</it>
         <ur>نوٹیفیکیشن</ur>
-    </entry>
+    <es>Notificaciones</es></entry>
     <entry>
         <key>Optimized Publisher</key>
         <en>Optimized Publisher</en>
@@ -55,7 +55,7 @@
         <de>Optimierte Verlag</de>
         <it>Ottimizzato Editore</it>
         <ur>آپٹمائزڈ پبلیشر</ur>
-    </entry>
+    <es>Publicador Optimizado</es></entry>
     <entry>
         <key>Listen</key>
         <en>Listen</en>
@@ -74,7 +74,7 @@
         <de>Hören</de>
         <it>Ascolta</it>
         <ur>سنیے</ur>
-    </entry>
+    <es>Tendencias</es></entry>
     <entry>
         <key>Reports</key>
         <en>Reports</en>
@@ -93,7 +93,7 @@
         <de>Berichte</de>
         <it>Rapporti</it>
         <ur>رپورٹس</ur>
-    </entry>
+    <es>Reportes</es></entry>
     <entry>
         <key>Link Shortening</key>
         <en>Link Shortening</en>
@@ -112,7 +112,7 @@
         <de>Link-Verkürzungs</de>
         <it>collegamento accorciamento</it>
         <ur>لنک قصر</ur>
-    </entry>
+    <es>Acortador de Enlaces</es></entry>
     <entry>
         <key>Dashboard</key>
         <en>Dashboard</en>
@@ -131,7 +131,7 @@
         <de>Instrumententafel</de>
         <it>scrivania</it>
         <ur>ڈیش بورڈ</ur>
-    </entry>
+    <es>Panel</es></entry>
     <entry>
         <key>Performance Report</key>
         <en>Performance Report</en>
@@ -150,7 +150,7 @@
         <de>Leistungsbericht</de>
         <it>Rapporto sul rendimento</it>
         <ur>کارکردگی کی رپورٹ</ur>
-    </entry>
+    <es>Reporte de Desempeño</es></entry>
     <entry>
         <key>Downloadable and Saved Reports</key>
         <en>Downloadable and Saved Reports</en>
@@ -169,7 +169,7 @@
         <de>Zum Herunterladen und Gespeicherte Berichte</de>
         <it>Scaricabili e rapporti salvati</it>
         <ur>ڈاؤن لوڈ کے قابل ہے اور محفوظ شدہ رپورٹیں</ur>
-    </entry>
+    <es>Reportes Guardados y para Descargar</es></entry>
     <entry>
         <key>Settings</key>
         <en>Settings</en>
@@ -188,7 +188,7 @@
         <de>Einstellungen</de>
         <it>impostazioni</it>
         <ur>ترتیبات</ur>
-    </entry>
+    <es>Configuraciones</es></entry>
     <entry>
         <key>User Account</key>
         <en>User Account</en>
@@ -207,7 +207,7 @@
         <de>Benutzerkonto</de>
         <it>Account utente</it>
         <ur>صارف کے اکاؤنٹ</ur>
-    </entry>
+    <es>Cuenta de Usuario</es></entry>
     <entry>
         <key>Application</key>
         <en>Application</en>
@@ -226,7 +226,7 @@
         <de>Anwendung</de>
         <it>Applicazione</it>
         <ur>درخواست</ur>
-    </entry>
+    <es>Aplicación</es></entry>
     <entry>
         <key>Social Accounts</key>
         <en>Social Accounts</en>
@@ -245,7 +245,7 @@
         <de>Social Accounts</de>
         <it>Conti sociali</it>
         <ur>سماجی اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas Sociales</es></entry>
     <entry>
         <key>Content Sources</key>
         <en>Content Sources</en>
@@ -264,7 +264,7 @@
         <de>Inhaltsquellen</de>
         <it>Fonti di contenuti</it>
         <ur>مواد کے ذرائع</ur>
-    </entry>
+    <es>Fuentes de Contenido</es></entry>
     <entry>
         <key>Tracking and Analytics</key>
         <en>Tracking and Analytics</en>
@@ -283,7 +283,7 @@
         <de>Tracking und Analytics</de>
         <it>Monitoraggio e analisi</it>
         <ur>ٹریکنگ اور تجزیات</ur>
-    </entry>
+    <es>Monitoreo y Análisis</es></entry>
     <entry>
         <key>Apps</key>
         <en>Apps</en>
@@ -302,7 +302,7 @@
         <de>Apps</de>
         <it>applicazioni</it>
         <ur>آپلیکیشنز</ur>
-    </entry>
+    <es>Apps</es></entry>
     <entry>
         <key>Admin</key>
         <en>Admin</en>
@@ -321,7 +321,7 @@
         <de>Administrator</de>
         <it>Admin</it>
         <ur>ایڈمن</ur>
-    </entry>
+    <es>Admin</es></entry>
     <entry>
         <key>Account and Billing</key>
         <en>Account and Billing</en>
@@ -340,7 +340,7 @@
         <de>Account- und Rechnungs</de>
         <it>Account e fatturazione</it>
         <ur>اکاؤنٹ اور بلنگ</ur>
-    </entry>
+    <es>Cuenta y Facturación</es></entry>
     <entry>
         <key>Users and Permissions</key>
         <en>Users and Permissions</en>
@@ -359,7 +359,7 @@
         <de>Benutzer und Berechtigungen</de>
         <it>Utenti e autorizzazioni</it>
         <ur>صارفین اور اجازت</ur>
-    </entry>
+    <es>Usuarios y Permisos</es></entry>
     <entry>
         <key>Upgrade</key>
         <en>Upgrade</en>
@@ -378,7 +378,7 @@
         <de>Aktualisierung</de>
         <it>aggiornamento</it>
         <ur>اپ گریڈ</ur>
-    </entry>
+    <es>Upgrade</es></entry>
     <entry>
         <key>About Us</key>
         <en>About Us</en>
@@ -397,7 +397,7 @@
         <de>Über uns</de>
         <it>Riguardo a noi</it>
         <ur>ہمارے متعلق</ur>
-    </entry>
+    <es>Sobre Nosotros</es></entry>
     <entry>
         <key>Careers</key>
         <en>Careers</en>
@@ -416,7 +416,7 @@
         <de>Karriere</de>
         <it>Opportunità di lavoro</it>
         <ur>کیریئرز</ur>
-    </entry>
+    <es>Carreras</es></entry>
     <entry>
         <key>Terms</key>
         <en>Terms</en>
@@ -435,7 +435,7 @@
         <de>Bedingungen</de>
         <it>condizioni</it>
         <ur>شرائط</ur>
-    </entry>
+    <es>Términos</es></entry>
     <entry>
         <key>Privacy Policy</key>
         <en>Privacy Policy</en>
@@ -454,7 +454,7 @@
         <de>Datenschutz-Bestimmungen</de>
         <it>politica sulla riservatezza</it>
         <ur>رازداری کی پالیسی</ur>
-    </entry>
+    <es>Política de Privacidad</es></entry>
     <entry>
         <key>Contact</key>
         <en>Contact</en>
@@ -473,7 +473,7 @@
         <de>Kontakt</de>
         <it>contatto</it>
         <ur>رابطہ کریں</ur>
-    </entry>
+    <es>Contacto</es></entry>
     <entry>
         <key>Support</key>
         <en>Support</en>
@@ -492,7 +492,7 @@
         <de>Unterstützen</de>
         <it>Supporto</it>
         <ur>سپورٹ</ur>
-    </entry>
+    <es>Soporte</es></entry>
     <entry>
         <key>Account Settings</key>
         <en>Account Settings</en>
@@ -511,7 +511,7 @@
         <de>Account Einstellungen</de>
         <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>
-    </entry>
+    <es>Configuraciones de Cuenta</es></entry>
     <entry>
         <key>Log Out</key>
         <en>Log Out</en>
@@ -530,7 +530,7 @@
         <de>Ausloggen</de>
         <it>Disconnettersi</it>
         <ur>لاگ آوٹ</ur>
-    </entry>
+    <es>Desconectar</es></entry>
     <entry>
         <key>Help</key>
         <en>Help</en>
@@ -549,6 +549,6 @@
         <de>Hilfe</de>
         <it>Aiuto</it>
         <ur>مدد</ur>
-    </entry>
+    <es>Ayuda</es></entry>
     <section>navigation</section>
 </translations>

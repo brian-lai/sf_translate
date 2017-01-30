@@ -17,7 +17,7 @@
         <de>Geplant</de>
         <it>In programma</it>
         <ur>تخسوچت</ur>
-    </entry>
+    <es>Programado</es></entry>
     <entry>
         <key>Trending Candidates on Hold</key>
         <en>Trending Candidates on Hold</en>
@@ -36,7 +36,7 @@
         <de>Trending Kandidaten in die Warteschleife</de>
         <it>Trend I candidati in attesa</it>
         <ur>ہولڈ پر رجحان ساز امیدوار</ur>
-    </entry>
+    <es>Candidatos de Tendencia Aguardando</es></entry>
     <entry>
         <key>Manage Queue</key>
         <en>Manage Queue</en>
@@ -55,7 +55,7 @@
         <de>Warteschlange verwalten</de>
         <it>Gestisci coda</it>
         <ur>قطار انتظام کریں</ur>
-    </entry>
+    <es>Administrar Mensajes en Espera</es></entry>
     <entry>
         <key>Average Per Post</key>
         <en>Average Per Post</en>
@@ -74,7 +74,7 @@
         <de>Durchschnitt pro Beitrag</de>
         <it>Media per messaggio</it>
         <ur>اوسط فی پوسٹ</ur>
-    </entry>
+    <es>Promedio Por Publicación</es></entry>
     <entry>
         <key>Average Per Audience Member</key>
         <en>Average Per Audience Member</en>
@@ -93,7 +93,7 @@
         <de>Das durchschnittliche Pro-Zuschauer</de>
         <it>Media A Membro del pubblico</it>
         <ur>اوسط فی سامعین رکن</ur>
-    </entry>
+    <es>Promedio Por Miembro De Audiencia</es></entry>
     <entry>
         <key>Interactions</key>
         <en>Interactions</en>
@@ -112,7 +112,7 @@
         <de>Wechselwirkungen</de>
         <it>interazioni</it>
         <ur>سہباگتا</ur>
-    </entry>
+    <es>Interacciones</es></entry>
     <entry>
         <key>Average Per Post</key>
         <en>Average Per Post</en>
@@ -131,7 +131,7 @@
         <de>Durchschnitt pro Beitrag</de>
         <it>Media per messaggio</it>
         <ur>اوسط فی پوسٹ</ur>
-    </entry>
+    <es>Promedio Por Publicación</es></entry>
     <entry>
         <key>Average Per Audience Member</key>
         <en>Average Per Audience Member</en>
@@ -150,7 +150,7 @@
         <de>Das durchschnittliche Pro-Zuschauer</de>
         <it>Media A Membro del pubblico</it>
         <ur>اوسط فی سامعین رکن</ur>
-    </entry>
+    <es>Promedio Por Miembro De Audiencia</es></entry>
     <entry>
         <key>Total Audience</key>
         <en>Total Audience</en>
@@ -169,7 +169,7 @@
         <de>insgesamt Publikum</de>
         <it>pubblico totale</it>
         <ur>کل سامعین</ur>
-    </entry>
+    <es>Audiencia Total</es></entry>
     <entry>
         <key>New</key>
         <en>New</en>
@@ -188,7 +188,7 @@
         <de>Neu</de>
         <it>Nuovo</it>
         <ur>نئی</ur>
-    </entry>
+    <es>Nuevo</es></entry>
     <entry>
         <key>Messages Sent:</key>
         <en>Messages Sent:</en>
@@ -207,7 +207,7 @@
         <de>Gesendete Nachrichten:</de>
         <it>Messaggi inviati:</it>
         <ur>پیغامات بھیجے:</ur>
-    </entry>
+    <es>Mensajes Enviados:</es></entry>
     <entry>
         <key>Clicks:</key>
         <en>Clicks:</en>
@@ -226,7 +226,7 @@
         <de>Klicks:</de>
         <it>Lettori:</it>
         <ur>کلکس:</ur>
-    </entry>
+    <es>Clics:</es></entry>
     <entry>
         <key>Interactions:</key>
         <en>Interactions:</en>
@@ -245,7 +245,7 @@
         <de>Wechselwirkungen:</de>
         <it>interazioni:</it>
         <ur>بات چیت:</ur>
-    </entry>
+    <es>Interacciones:</es></entry>
     <entry>
         <key>Audience Gains:</key>
         <en>Audience Gains:</en>
@@ -264,7 +264,7 @@
         <de>Audience Gewinne:</de>
         <it>Utili Pubblico:</it>
         <ur>سامعین فوائد:</ur>
-    </entry>
+    <es>Ganancias de Audiencia:</es></entry>
     <entry>
         <key>Audience Engagement</key>
         <en>Audience Engagement</en>
@@ -283,7 +283,7 @@
         <de>Publikum Engagement</de>
         <it>coinvolgimento del pubblico</it>
         <ur>حاضرین کی مشغولیت</ur>
-    </entry>
+    <es>Participación de Audiencia</es></entry>
     <entry>
         <key>View Message Report</key>
         <en>View Message Report</en>
@@ -302,7 +302,7 @@
         <de>Nachricht anzeigen Bericht</de>
         <it>Vista Segnala</it>
         <ur>پیغام نظارہ رپورٹ</ur>
-    </entry>
+    <es>Ver Reporte de Mensaje</es></entry>
     <entry>
         <key>Twitter</key>
         <en>Twitter</en>
@@ -321,7 +321,7 @@
         <de>zwitschern</de>
         <it>Twitter</it>
         <ur>ٹویٹر</ur>
-    </entry>
+    <es>Twitter</es></entry>
     <entry>
         <key>Previous Clicks</key>
         <en>Previous Clicks</en>
@@ -340,7 +340,7 @@
         <de>Zurück Klicks</de>
         <it>Clic precedenti</it>
         <ur>پچھلا کلکس</ur>
-    </entry>
+    <es>Clics Previos</es></entry>
     <entry>
         <key>Adjust your report timeframe and show performance indicators compared to previous timeframe if data is available.</key>
         <en>Adjust your report timeframe and show performance indicators compared to previous timeframe if data is available.</en>
@@ -359,7 +359,7 @@
         <de>Passen Sie Ihren Bericht zeitlichen Rahmen und zeigen Leistungsindikatoren im Vergleich zum vorherigen Zeitraum, wenn Daten verfügbar sind.</de>
         <it>Regolare il rapporto temporale e mostra indicatori di performance rispetto al periodo precedente, se i dati sono disponibili.</it>
         <ur>آپ کی رپورٹ ٹائم فریم کو ایڈجسٹ کریں اور اعداد و شمار دستیاب ہے اگر پچھلے ٹائم فریم کے مقابلے میں کارکردگی کے اشارے دکھائے.</ur>
-    </entry>
+    <es>Ajustar intérvalos de tiempo del informe y mostrar los indicadores de rendimiento en comparación con intérvalos anteriores si los datos están disponibles.</es></entry>
     <entry>
         <key>January, February, March, etc</key>
         <en>January, February, March, etc</en>
@@ -378,7 +378,7 @@
         <de>Januar, Februar, März, etc</de>
         <it>Gennaio, Febbraio, Marzo, ecc</it>
         <ur>جنوری، فروری، مارچ، وغیرہ</ur>
-    </entry>
+    <es>Enero, Febrero, Marzo, etc.</es></entry>
     <entry>
         <key>Fans</key>
         <en>Fans</en>
@@ -397,7 +397,7 @@
         <de>Fans</de>
         <it>Fan</it>
         <ur>پرستار</ur>
-    </entry>
+    <es>Fans</es></entry>
     <entry>
         <key>Followers</key>
         <en>Followers</en>
@@ -416,6 +416,6 @@
         <de>Verfolger</de>
         <it>Seguaci</it>
         <ur>فالونگ</ur>
-    </entry>
+    <es>Seguidores</es></entry>
     <section>reports_dashboard</section>
 </translations>

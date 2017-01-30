@@ -17,7 +17,7 @@
         <de>Enterprise-Upgrade-</de>
         <it>Enterprise aggiornamento</it>
         <ur>انٹرپرائز اپ گریڈ</ur>
-    </entry>
+    <es>Upgrade Empresarial</es></entry>
     <entry>
         <key>Contact Information</key>
         <en>Contact Information</en>
@@ -36,7 +36,7 @@
         <de>Kontakt Informationen</de>
         <it>Informazioni sui contatti</it>
         <ur>رابطے کی معلومات</ur>
-    </entry>
+    <es>información de Contacto</es></entry>
     <entry>
         <key>Phone</key>
         <en>Phone</en>
@@ -55,7 +55,7 @@
         <de>Telefon</de>
         <it>Telefono</it>
         <ur>فون</ur>
-    </entry>
+    <es>Teléfono</es></entry>
     <entry>
         <key>Account types:</key>
         <en>Account types:</en>
@@ -74,7 +74,7 @@
         <de>Kontotypen:</de>
         <it>tipi di account:</it>
         <ur>اکاؤنٹ کی اقسام:</ur>
-    </entry>
+    <es>Tipos de Cuenta:</es></entry>
     <entry>
         <key>Company type:</key>
         <en>Company type:</en>
@@ -93,7 +93,7 @@
         <de>Branche:</de>
         <it>Tipo di azienda:</it>
         <ur>کمپنی کی قسم:</ur>
-    </entry>
+    <es>Tipo de Empresa:</es></entry>
     <entry>
         <key>Goals:</key>
         <en>Goals:</en>
@@ -112,7 +112,7 @@
         <de>Ziele:</de>
         <it>obiettivi:</it>
         <ur>مقاصد:</ur>
-    </entry>
+    <es>Metas:</es></entry>
     <entry>
         <key>Plan Overview</key>
         <en>Plan Overview</en>
@@ -131,7 +131,7 @@
         <de>Planübersicht</de>
         <it>Quadro</it>
         <ur>پلان کا جائزہ</ur>
-    </entry>
+    <es>Vista General del Plan</es></entry>
     <entry>
         <key>SocialFlow Enterprise</key>
         <en>SocialFlow Enterprise</en>
@@ -150,7 +150,7 @@
         <de>SocialFlow Unternehmen</de>
         <it>SocialFlow Enterprise</it>
         <ur>SocialFlow انٹرپرائز</ur>
-    </entry>
+    <es>SocialFlow Empresarial</es></entry>
     <entry>
         <key>10+ Accounts</key>
         <en>10+ Accounts</en>
@@ -169,7 +169,7 @@
         <de>10+ Accounts</de>
         <it>10+ Conti</it>
         <ur>10+ اکاؤنٹس</ur>
-    </entry>
+    <es>10+ Cuentas</es></entry>
     <entry>
         <key>Custom setup</key>
         <en>Custom setup</en>
@@ -188,7 +188,7 @@
         <de>Benutzerdefinierte Einrichtung</de>
         <it>Installazione personalizzata</it>
         <ur>اپنی مرضی کے سیٹ اپ</ur>
-    </entry>
+    <es>Configuración Personalizada</es></entry>
     <entry>
         <key>Optimized Publishing</key>
         <en>Optimized Publishing</en>
@@ -207,7 +207,7 @@
         <de>Optimierte Publishing</de>
         <it>Editoria ottimizzata</it>
         <ur>آپٹمائزڈ پبلشنگ</ur>
-    </entry>
+    <es>Publicación Optimizada</es></entry>
     <entry>
         <key>Custom Reports</key>
         <en>Custom Reports</en>
@@ -226,7 +226,7 @@
         <de>Benutzerdefinierte Berichte</de>
         <it>Rapporti personalizzati</it>
         <ur>اپنی مرضی کی رپورٹیں</ur>
-    </entry>
+    <es>Reportes Personalizados</es></entry>
     <entry>
         <key>Enterprise-level support</key>
         <en>Enterprise-level support</en>
@@ -245,7 +245,7 @@
         <de>Enterprise-Level-Support</de>
         <it>supporto di livello enterprise</it>
         <ur>انٹرپرائز کی سطح کی حمایت</ur>
-    </entry>
+    <es>Soporte de Nivel Empresarial</es></entry>
     <entry>
         <key>Submit</key>
         <en>Submit</en>
@@ -264,7 +264,7 @@
         <de>einreichen</de>
         <it>invio</it>
         <ur>جمع کرائیں</ur>
-    </entry>
+    <es>Enviar</es></entry>
     <entry>
         <key>Choose One</key>
         <en>Choose One</en>
@@ -283,7 +283,7 @@
         <de>Wähle ein</de>
         <it>Scegline uno</it>
         <ur>ایک کا انتخاب کریں</ur>
-    </entry>
+    <es>Elija Uno</es></entry>
     <entry>
         <key>Facebook</key>
         <en>Facebook</en>
@@ -302,7 +302,7 @@
         <de>Facebook</de>
         <it>Facebook</it>
         <ur>فیس بک</ur>
-    </entry>
+    <es>Facebook</es></entry>
     <entry>
         <key>Both</key>
         <en>Both</en>
@@ -321,7 +321,7 @@
         <de>Beide</de>
         <it>Entrambi</it>
         <ur>دونوں</ur>
-    </entry>
+    <es>Ambos</es></entry>
     <entry>
         <key>Retail</key>
         <en>Retail</en>
@@ -340,7 +340,7 @@
         <de>Verkauf</de>
         <it>Al dettaglio</it>
         <ur>پرچون</ur>
-    </entry>
+    <es>Al por menor</es></entry>
     <entry>
         <key>Brand Marketer</key>
         <en>Brand Marketer</en>
@@ -359,7 +359,7 @@
         <de>Marke Marketer</de>
         <it>Marca Marketer</it>
         <ur>برانڈ مارکیٹر</ur>
-    </entry>
+    <es>Vendedor de Marca</es></entry>
     <entry>
         <key>Agency</key>
         <en>Agency</en>
@@ -378,6 +378,6 @@
         <de>Agentur</de>
         <it>Agenzia</it>
         <ur>ایجنسی</ur>
-    </entry>
+    <es>Agencia</es></entry>
     <section>settings_admin_upgrade</section>
 </translations>

@@ -17,7 +17,7 @@
         <de>Tracking und Analytics-Einstellungen</de>
         <it>Monitoraggio e Impostazioni Analytics</it>
         <ur>ٹریکنگ اور تجزیات ترتیبات</ur>
-    </entry>
+    <es>Configuraciones de Seguimiento y Análisis</es></entry>
     <entry>
         <key>Website Analytics</key>
         <en>Website Analytics</en>
@@ -36,7 +36,7 @@
         <de>Website Analytics</de>
         <it>analisi dei siti web</it>
         <ur>ویب سائٹ کے تجزیات</ur>
-    </entry>
+    <es>Análisis de Sitio Web</es></entry>
     <entry>
         <key>Add Google Analytics</key>
         <en>Add Google Analytics</en>
@@ -55,7 +55,7 @@
         <de>In Google Analytics</de>
         <it>Aggiungere Google Analytics</it>
         <ur>گوگل کے تجزیات کا اضافہ کریں</ur>
-    </entry>
+    <es>Añadir Google Analytics</es></entry>
     <entry>
         <key>Optimized for</key>
         <en>Optimized for</en>
@@ -74,7 +74,7 @@
         <de>Optimiert für</de>
         <it>Ottimizzato per</it>
         <ur>کے لئے مرضی کے</ur>
-    </entry>
+    <es>Optimizado para</es></entry>
     <entry>
         <key>New Visits</key>
         <en>New Visits</en>
@@ -93,7 +93,7 @@
         <de>Neue Besuche</de>
         <it>nuove visite</it>
         <ur>نئے ملاحظات</ur>
-    </entry>
+    <es>Nuevas Visitas</es></entry>
     <entry>
         <key>Repeat Visits</key>
         <en>Repeat Visits</en>
@@ -112,7 +112,7 @@
         <de>Wiederholte Besuche</de>
         <it>visite ripetute</it>
         <ur>دہرائیں دورہ</ur>
-    </entry>
+    <es>Visitas Repetidas</es></entry>
     <entry>
         <key>New Visits</key>
         <en>New Visits</en>
@@ -131,7 +131,7 @@
         <de>Neue Besuche</de>
         <it>nuove visite</it>
         <ur>نئے ملاحظات</ur>
-    </entry>
+    <es>Nuevas Visitas</es></entry>
     <entry>
         <key>Repeat Visits</key>
         <en>Repeat Visits</en>
@@ -150,7 +150,7 @@
         <de>Wiederholen Sie Eliophot</de>
         <it>ripetere Visitis</it>
         <ur>دہرائیں دورہ</ur>
-    </entry>
+    <es>Visitas Repetidas</es></entry>
     <entry>
         <key>You don't have any shorteners yet.</key>
         <en>You don't have any shorteners yet.</en>
@@ -169,7 +169,7 @@
         <de>Sie haben noch keine Verkürzungen noch.</de>
         <it>Non ha ancora nessun shorteners.</it>
         <ur>ابھی تک آپ کوئی مختصر کرنے کی ضرورت نہیں ہے.</ur>
-    </entry>
+    <es>No tiene ningun acortador aún.</es></entry>
     <entry>
         <key>optional</key>
         <en>optional</en>
@@ -188,7 +188,7 @@
         <de>optional</de>
         <it>facoltativo</it>
         <ur>اختیاری</ur>
-    </entry>
+    <es>opcional</es></entry>
     <entry>
         <key>Client Wide</key>
         <en>Client Wide</en>
@@ -207,6 +207,6 @@
         <de>Client-Weit</de>
         <it>Cliente larga</it>
         <ur>وائڈ کلائنٹ</ur>
-    </entry>
+    <es>Todo el Cliente</es></entry>
     <section>settings_application_tracking_a</section>
 </translations>

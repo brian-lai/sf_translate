@@ -17,7 +17,7 @@
         <de>Lange URL:</de>
         <it>URL lungo:</it>
         <ur>لانگ URL:</ur>
-    </entry>
+    <es>URL largo:</es></entry>
     <entry>
         <key>Created:</key>
         <en>Created:</en>
@@ -36,7 +36,7 @@
         <de>Erstellt:</de>
         <it>Creato:</it>
         <ur>اپ ڈیٹ:</ur>
-    </entry>
+    <es>Creado</es></entry>
     <entry>
         <key>Clicks</key>
         <en>Clicks</en>
@@ -55,7 +55,7 @@
         <de>Klicks</de>
         <it>clic</it>
         <ur>کلکس</ur>
-    </entry>
+    <es>Clics</es></entry>
     <entry>
         <key>Total:</key>
         <en>Total:</en>
@@ -74,7 +74,7 @@
         <de>Gesamt:</de>
         <it>Totale:</it>
         <ur>کل:</ur>
-    </entry>
+    <es>Total</es></entry>
     <entry>
         <key>All Time</key>
         <en>All Time</en>
@@ -93,7 +93,7 @@
         <de>all Time</de>
         <it>Tutto il Tempo</it>
         <ur>تمام وقت</ur>
-    </entry>
+    <es>Histórico Total</es></entry>
     <entry>
         <key>7d</key>
         <en>7d</en>
@@ -112,7 +112,7 @@
         <de>7d</de>
         <it>7d</it>
         <ur>7D</ur>
-    </entry>
+    <es>7d</es></entry>
     <entry>
         <key>14d</key>
         <en>14d</en>
@@ -131,7 +131,7 @@
         <de>14d</de>
         <it>14d</it>
         <ur>14D</ur>
-    </entry>
+    <es>14d</es></entry>
     <entry>
         <key>30d</key>
         <en>30d</en>
@@ -150,7 +150,7 @@
         <de>30d</de>
         <it>30d</it>
         <ur>30D</ur>
-    </entry>
+    <es>30d</es></entry>
     <entry>
         <key>Manage Links</key>
         <en>Manage Links</en>
@@ -169,7 +169,7 @@
         <de>Links verwalten</de>
         <it>Gestisci collegamenti</it>
         <ur>روابط انتظام کریں</ur>
-    </entry>
+    <es>Administrar Enlaces</es></entry>
     <entry>
         <key>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</key>
         <en>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</en>
@@ -188,7 +188,7 @@
         <de>einen Link Verkürzung Dienstes ermöglicht eine detaillierte Verfolgung von Klicks, Referrer und andere Details zu Ihrem Publikum.</de>
         <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
         <ur>ایک لنک کمی سروس کا استعمال کرتے ہوئے کلکس، تجویز کنندگان، اور اپنے ناظرین کے بارے میں دیگر تفصیلات کی تفصیلی نظر رکھنے کے قابل بناتا ہے.</ur>
-    </entry>
+    <es>El uso de un servicio de acortamiento de enalces permite un seguimiento detallado de los clics, referentes y otros detalles sobre su audiencia.</es></entry>
     <entry>
         <key>With SocialFlow, you can track links with our own trib.al or sflow.us shorteners; authorize a</key>
         <en>With SocialFlow, you can track links with our own trib.al or sflow.us shorteners; authorize a</en>
@@ -207,7 +207,7 @@
         <de>Mit SocialFlow können Sie Links mit unseren eigenen trib.al oder sflow.us Shortener verfolgen; ermächtigen, eine</de>
         <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
         <ur>SocialFlow ساتھ، آپ کو ہماری اپنی trib.al یا sflow.us کو مختصر کرنے کے ساتھ روابط کو ٹریک کر سکتے ہیں؛ اختیار ایک</ur>
-    </entry>
+    <es>Con SocialFlow, usted puede rastrear enlaces con nuestros propios acortadores trib.al o sflow.us; autorice una</es></entry>
     <entry>
         <key>bitly</key>
         <en>bitly</en>
@@ -226,7 +226,7 @@
         <de>bitly</de>
         <it>bitly</it>
         <ur>ہے bitly</ur>
-    </entry>
+    <es>bitly</es></entry>
     <entry>
         <key>or</key>
         <en>or</en>
@@ -245,7 +245,7 @@
         <de>oder</de>
         <it>o</it>
         <ur>یا</ur>
-    </entry>
+    <es>o</es></entry>
     <entry>
         <key>goo.gl</key>
         <en>goo.gl</en>
@@ -264,7 +264,7 @@
         <de>goo.gl</de>
         <it>goo.gl</it>
         <ur>goo.gl</ur>
-    </entry>
+    <es>goo.gl</es></entry>
     <entry>
         <key>account, or shorten with your own custom domain (provided you control DNS for that domain). You can shorten any link here; we also shorten links published to Twitter or Facebook by SocialFlow.</key>
         <en>account, or shorten with your own custom domain (provided you control DNS for that domain). You can shorten any link here; we also shorten links published to Twitter or Facebook by SocialFlow.</en>
@@ -283,7 +283,7 @@
         <de>Konto oder mit Ihrem eigenen Domain verkürzen (vorausgesetzt, Sie DNS-Steuerung für die Domäne). Sie können einen beliebigen Link hier zu verkürzen; wir verkürzen auch auf Twitter oder Facebook von SocialFlow veröffentlichten Links.</de>
         <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
         <ur>اکاؤنٹ، یا آپ اپنی مرضی ڈومین کے ساتھ قصر (بشرطیکہ آپ اس ڈومین کے لئے DNS کنٹرول). آپ یہاں کسی بھی لنک قصر کر سکتے ہیں؛ ہم نے SocialFlow طرف سے ٹویٹر یا فیس بک پر شائع لنکس قصر.</ur>
-    </entry>
+    <es>cuenta, o acorte con un dominio personalizado (siempre y cuando controle el DNS para ese dominio). Puede acortar cualquier enlace aquí; también acortamos enlaces publicados a Twitter o Facebook por SocialFlow.</es></entry>
     <entry>
         <key>Shorten Link</key>
         <en>Shorten Link</en>
@@ -302,7 +302,7 @@
         <de>kürzen Verbindung</de>
         <it>accorciare link</it>
         <ur>لنک قصر</ur>
-    </entry>
+    <es>Acortar Enlace</es></entry>
     <entry>
         <key>Add Custom Domain</key>
         <en>Add Custom Domain</en>
@@ -321,7 +321,7 @@
         <de>Hinzufügen von benutzerdefinierten Domain</de>
         <it>Aggiungere dominio personalizzato</it>
         <ur>اپنی مرضی ڈومین کا اضافہ کریں</ur>
-    </entry>
+    <es>Añadir Dominio Personalizado</es></entry>
     <entry>
         <key>Select Domain:</key>
         <en>Select Domain:</en>
@@ -340,7 +340,7 @@
         <de>Wählen Sie Domain:</de>
         <it>Seleziona Dominio:</it>
         <ur>ڈومین کا انتخاب کریں:</ur>
-    </entry>
+    <es>Seleccione un Dominio</es></entry>
     <entry>
         <key>trib.al</key>
         <en>trib.al</en>
@@ -359,7 +359,7 @@
         <de>trib.al</de>
         <it>trib.al</it>
         <ur>trib.al</ur>
-    </entry>
+    <es>trib.al</es></entry>
     <entry>
         <key>dev.trib.al</key>
         <en>dev.trib.al</en>
@@ -378,7 +378,7 @@
         <de>dev.trib.al</de>
         <it>dev.trib.al</it>
         <ur>dev.trib.al</ur>
-    </entry>
+    <es>dev.trib.al</es></entry>
     <entry>
         <key>Today</key>
         <en>Today</en>
@@ -397,7 +397,7 @@
         <de>Heute</de>
         <it>Oggi</it>
         <ur>آج</ur>
-    </entry>
+    <es>Hoy</es></entry>
     <entry>
         <key>7d</key>
         <en>7d</en>
@@ -416,7 +416,7 @@
         <de>7d</de>
         <it>7d</it>
         <ur>7D</ur>
-    </entry>
+    <es>7d</es></entry>
     <entry>
         <key>14d</key>
         <en>14d</en>
@@ -435,7 +435,7 @@
         <de>14d</de>
         <it>14d</it>
         <ur>14D</ur>
-    </entry>
+    <es>14d</es></entry>
     <entry>
         <key>30d</key>
         <en>30d</en>
@@ -454,7 +454,7 @@
         <de>30d</de>
         <it>30d</it>
         <ur>30D</ur>
-    </entry>
+    <es>30d</es></entry>
     <entry>
         <key>Date</key>
         <en>Date</en>
@@ -473,7 +473,7 @@
         <de>Datum</de>
         <it>Data</it>
         <ur>تاریخ</ur>
-    </entry>
+    <es>Fecha</es></entry>
     <entry>
         <key>Clicks</key>
         <en>Clicks</en>
@@ -492,7 +492,7 @@
         <de>Klicks</de>
         <it>clic</it>
         <ur>کلکس</ur>
-    </entry>
+    <es>Clics</es></entry>
     <entry>
         <key>Action</key>
         <en>Action</en>
@@ -511,7 +511,7 @@
         <de>Aktion</de>
         <it>Azione</it>
         <ur>عمل</ur>
-    </entry>
+    <es>Acción</es></entry>
     <entry>
         <key>Manage Shorteners</key>
         <en>Manage Shorteners</en>
@@ -530,7 +530,7 @@
         <de>verwalten Shorteners</de>
         <it>gestire shorteners</it>
         <ur>مختصر کرنے کا انتظام کریں</ur>
-    </entry>
+    <es>Administrar Enlaces</es></entry>
     <entry>
         <key>Link Shorteners</key>
         <en>Link Shorteners</en>
@@ -549,7 +549,7 @@
         <de>Link Shorteners</de>
         <it>collegamento shorteners</it>
         <ur>لنک کو مختصر کرنے</ur>
-    </entry>
+    <es>Acortadores de Enlaces</es></entry>
     <entry>
         <key>Service</key>
         <en>Service</en>
@@ -568,7 +568,7 @@
         <de>Bedienung</de>
         <it>Servizio</it>
         <ur>سروس</ur>
-    </entry>
+    <es>Servicio</es></entry>
     <entry>
         <key>Bitly</key>
         <en>Bitly</en>
@@ -587,7 +587,7 @@
         <de>Bitly</de>
         <it>bitly</it>
         <ur>ہے bitly</ur>
-    </entry>
+    <es>Bitly</es></entry>
     <entry>
         <key>Account Name</key>
         <en>Account Name</en>
@@ -606,7 +606,7 @@
         <de>Kontobezeichnung</de>
         <it>Nome utente</it>
         <ur>کھاتے کا نام</ur>
-    </entry>
+    <es>Nombre de Cuenta</es></entry>
     <entry>
         <key>Domain</key>
         <en>Domain</en>
@@ -625,7 +625,7 @@
         <de>Domain</de>
         <it>Dominio</it>
         <ur>ڈومین</ur>
-    </entry>
+    <es>Dominio</es></entry>
     <entry>
         <key>API Key</key>
         <en>API Key</en>
@@ -644,7 +644,7 @@
         <de>API-Schlüssel</de>
         <it>API Key</it>
         <ur>API کلید</ur>
-    </entry>
+    <es>LLave API</es></entry>
     <entry>
         <key>Add Link Shortener</key>
         <en>Add Link Shortener</en>
@@ -663,7 +663,7 @@
         <de>Link hinzufügen Shortener</de>
         <it>Aggiungi link Shortener</it>
         <ur>لنک اختصار شامل کریں</ur>
-    </entry>
+    <es>Añadir Acortador de Enlaces</es></entry>
     <entry>
         <key>Service</key>
         <en>Service</en>
@@ -682,7 +682,7 @@
         <de>Bedienung</de>
         <it>Servizio</it>
         <ur>سروس</ur>
-    </entry>
+    <es>Servicio</es></entry>
     <entry>
         <key>Domain</key>
         <en>Domain</en>
@@ -701,7 +701,7 @@
         <de>Domain</de>
         <it>Dominio</it>
         <ur>ڈومین</ur>
-    </entry>
+    <es>Dominio</es></entry>
     <entry>
         <key>Username</key>
         <en>Username</en>
@@ -720,7 +720,7 @@
         <de>Benutzername</de>
         <it>Nome utente</it>
         <ur>صارف کا نام</ur>
-    </entry>
+    <es>Nombre de Usuario</es></entry>
     <entry>
         <key>API Key</key>
         <en>API Key</en>
@@ -739,7 +739,7 @@
         <de>API-Schlüssel</de>
         <it>API Key</it>
         <ur>API کلید</ur>
-    </entry>
+    <es>Llave API</es></entry>
     <entry>
         <key>Associated Social Account</key>
         <en>Associated Social Account</en>
@@ -758,5 +758,5 @@
         <de>Assoziierte Sozial Konto</de>
         <it>Associated account di social</it>
         <ur>ایسوسی سماجی اکاؤنٹ</ur>
-    </entry>
+    <es>Cuenta Social Asociada</es></entry>
 </translations>

@@ -17,7 +17,7 @@
         <de>Bericht speichern</de>
         <it>Salva report</it>
         <ur>محفوظ کریں اور رپورٹ</ur>
-    </entry>
+    <es>Guardar Reporte</es></entry>
     <entry>
         <key>More Options</key>
         <en>More Options</en>
@@ -36,7 +36,7 @@
         <de>Mehr Optionen</de>
         <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
-    </entry>
+    <es>Más Opciones</es></entry>
     <entry>
         <key>More Options</key>
         <en>More Options</en>
@@ -55,7 +55,7 @@
         <de>Mehr Optionen</de>
         <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
-    </entry>
+    <es>Más Opciones</es></entry>
     <entry>
         <key>Accounts</key>
         <en>Accounts</en>
@@ -74,7 +74,7 @@
         <de>Accounts</de>
         <it>conti</it>
         <ur>اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas</es></entry>
     <entry>
         <key>Chart Settings</key>
         <en>Chart Settings</en>
@@ -93,7 +93,7 @@
         <de>Charteinstellungen</de>
         <it>Impostazioni grafico</it>
         <ur>چارٹ ترتیبات</ur>
-    </entry>
+    <es>Configuración de Gráfico</es></entry>
     <entry>
         <key>Conversion</key>
         <en>Conversion</en>
@@ -112,7 +112,7 @@
         <de>Umwandlung</de>
         <it>Conversione</it>
         <ur>تبادلوں سے</ur>
-    </entry>
+    <es>Conversión</es></entry>
     <entry>
         <key>Contribution</key>
         <en>Contribution</en>
@@ -131,7 +131,7 @@
         <de>Beitrag</de>
         <it>Contributo</it>
         <ur>شراکت</ur>
-    </entry>
+    <es>Contribución</es></entry>
     <entry>
         <key>Comments</key>
         <en>Comments</en>
@@ -150,7 +150,7 @@
         <de>Bemerkungen</de>
         <it>Commenti</it>
         <ur>تبصرے</ur>
-    </entry>
+    <es>Comentarios</es></entry>
     <entry>
         <key>Mentions</key>
         <en>Mentions</en>
@@ -169,7 +169,7 @@
         <de>Mentions</de>
         <it>menzioni</it>
         <ur>ذکر</ur>
-    </entry>
+    <es>Menciones</es></entry>
     <entry>
         <key>Likes</key>
         <en>Likes</en>
@@ -188,7 +188,7 @@
         <de>Likes</de>
         <it>Piace</it>
         <ur>پسندیدگیاں</ur>
-    </entry>
+    <es>Likes</es></entry>
     <entry>
         <key>Sharing</key>
         <en>Sharing</en>
@@ -207,7 +207,7 @@
         <de>teilen</de>
         <it>compartecipazione</it>
         <ur>اشتراک کرنا</ur>
-    </entry>
+    <es>Compartir</es></entry>
     <entry>
         <key>Retweets</key>
         <en>Retweets</en>
@@ -226,7 +226,7 @@
         <de>Retweets</de>
         <it>retweet</it>
         <ur>ریٹویٹ</ur>
-    </entry>
+    <es>Retweets</es></entry>
     <entry>
         <key>Shares</key>
         <en>Shares</en>
@@ -245,7 +245,7 @@
         <de>Anteile</de>
         <it>azioni</it>
         <ur>حصص</ur>
-    </entry>
+    <es>Shares</es></entry>
     <entry>
         <key>Audience</key>
         <en>Audience</en>
@@ -264,7 +264,7 @@
         <de>Publikum</de>
         <it>Pubblico</it>
         <ur>سامعین</ur>
-    </entry>
+    <es>Audiencia</es></entry>
     <entry>
         <key>Follows</key>
         <en>Follows</en>
@@ -283,7 +283,7 @@
         <de>folgt</de>
         <it>segue</it>
         <ur>مندرجہ ذیل ہے</ur>
-    </entry>
+    <es>Seguidores</es></entry>
     <entry>
         <key>Page Likes</key>
         <en>Page Likes</en>
@@ -302,7 +302,7 @@
         <de>Seite Likes</de>
         <it>Mi piace Pagina</it>
         <ur>صفحہ پسند کرتا ہے</ur>
-    </entry>
+    <es>Likes de Página</es></entry>
     <entry>
         <key>(No Data)</key>
         <en>(No Data)</en>
@@ -321,7 +321,7 @@
         <de>(Keine Daten)</de>
         <it>(Nessun dato)</it>
         <ur>(کوئی مواد نہیں)</ur>
-    </entry>
+    <es>(Sin Datos)</es></entry>
     <entry>
         <key>Accounts</key>
         <en>Accounts</en>
@@ -340,7 +340,7 @@
         <de>Accounts</de>
         <it>conti</it>
         <ur>اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas</es></entry>
     <entry>
         <key>Retweets/Shares</key>
         <en>Retweets/Shares</en>
@@ -359,7 +359,7 @@
         <de>Retweets / Aktien</de>
         <it>Retweets / Azioni</it>
         <ur>ریٹویٹ / حصص</ur>
-    </entry>
+    <es>Retweets/Shares</es></entry>
     <entry>
         <key>Published Date</key>
         <en>Published Date</en>
@@ -378,7 +378,7 @@
         <de>Veröffentlichungsdatum</de>
         <it>Data pubblicazione</it>
         <ur>اشاعت کی تاریخ</ur>
-    </entry>
+    <es>Fecha de Publicación</es></entry>
     <entry>
         <key>Message</key>
         <en>Message</en>
@@ -397,7 +397,7 @@
         <de>Nachricht</de>
         <it>Messaggio</it>
         <ur>پیغام</ur>
-    </entry>
+    <es>Mensaje</es></entry>
     <entry>
         <key>External Message</key>
         <en>External Message</en>
@@ -416,7 +416,7 @@
         <de>Externe Nachricht</de>
         <it>Messaggio esterno</it>
         <ur>بیرونی پیغام</ur>
-    </entry>
+    <es>Mensaje Externo</es></entry>
     <entry>
         <key>View Report</key>
         <en>View Report</en>
@@ -435,7 +435,7 @@
         <de>Zeige Bericht</de>
         <it>Visualizza rapporto</it>
         <ur>رپورٹ ملاحظہ کریں</ur>
-    </entry>
+    <es>Ver Reporte</es></entry>
     <entry>
         <key>Accounts</key>
         <en>Accounts</en>
@@ -454,7 +454,7 @@
         <de>Accounts</de>
         <it>conti</it>
         <ur>اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas</es></entry>
     <entry>
         <key>More Options</key>
         <en>More Options</en>
@@ -473,7 +473,7 @@
         <de>Mehr Optionen</de>
         <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
-    </entry>
+    <es>Más Opciones</es></entry>
     <entry>
         <key>Adjust your report timeframe.</key>
         <en>Adjust your report timeframe.</en>
@@ -492,7 +492,7 @@
         <de>Passen Sie Ihren Bericht Zeitrahmen.</de>
         <it>Regolare il rapporto temporale.</it>
         <ur>آپ کی رپورٹ ٹائم فریم کو ایڈجسٹ کریں.</ur>
-    </entry>
+    <es>Ajuste el intérvalo de tiempo de su reporte</es></entry>
     <entry>
         <key>Select from bar, stacked bar, line or area graphs.</key>
         <en>Select from bar, stacked bar, line or area graphs.</en>
@@ -511,7 +511,7 @@
         <de>Wählen Sie aus Bar, gestapelt Balken-, Linien- oder Flächendiagramme.</de>
         <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
         <ur>بار، سجا دیئے بار، لکیر یا گراف سے منتخب کریں.</ur>
-    </entry>
+    <es>Seleccione entre barras, barras apiladas, líneas o gráficos de área.</es></entry>
     <entry>
         <key>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance. Learn More about AttentionScore™</key>
         <en>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance. Learn More about AttentionScore™</en>
@@ -530,7 +530,7 @@
         <de>Die SocialFlow AttentionScore ™ Raten von 1 bis 100 durch einen Blick auf drei Faktoren Publikum Engagement mit Ihren Inhalten auf einer Skala vorhergesagt, da sie auf Ihre sozialen Konten beziehen: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-Resonanz. Erfahren Sie mehr über AttentionScore ™</de>
         <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
         <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس گونج: SocialFlow AttentionScore ™ ریٹس وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ ناظرین کی سگائ کی پیش گوئی کی. AttentionScore ™ کے بارے میں مزید معلومات حاصل کریں</ur>
-    </entry>
+    <es>SocialFlow AttentionScore™ evalúa la participación de la audiencia predecida con su contenido, en una escala del 1 al 100, examinando tres factores relacionados con sus cuentas sociales: disponibilidad del público, análisis del lenguaje histórico y resonancia en tiempo real. Aprenda más sobre AttentionScore™</es></entry>
     <entry>
         <key>Interactions include retweets, mentions, comments, shares and likes of your content.</key>
         <en>Interactions include retweets, mentions, comments, shares and likes of your content.</en>
@@ -549,7 +549,7 @@
         <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
         <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
-    </entry>
+    <es>Interacciones incluyen retweets, menciones, comentarios, shares y liked de su contenido.</es></entry>
     <entry>
         <key>Chart Settings</key>
         <en>Chart Settings</en>
@@ -568,7 +568,7 @@
         <de>Charteinstellungen</de>
         <it>Impostazioni grafico</it>
         <ur>چارٹ ترتیبات</ur>
-    </entry>
+    <es>Configuraciones de Gráfico</es></entry>
     <entry>
         <key>Chart Type</key>
         <en>Chart Type</en>
@@ -587,7 +587,7 @@
         <de>Diagrammtyp</de>
         <it>Tipo di grafico</it>
         <ur>چارٹ کی قسم</ur>
-    </entry>
+    <es>Tipo de Gráfico</es></entry>
     <entry>
         <key>Lines</key>
         <en>Lines</en>
@@ -606,7 +606,7 @@
         <de>Linien</de>
         <it>Linee</it>
         <ur>لکیریں</ur>
-    </entry>
+    <es>Lineas</es></entry>
     <entry>
         <key>Bars</key>
         <en>Bars</en>
@@ -625,7 +625,7 @@
         <de>Riegel</de>
         <it>Barre</it>
         <ur>باریں</ur>
-    </entry>
+    <es>Barras</es></entry>
     <entry>
         <key>Stacked Bars</key>
         <en>Stacked Bars</en>
@@ -644,7 +644,7 @@
         <de>Gestapelte Bars</de>
         <it>Bar Stacked</it>
         <ur>انبار باریں</ur>
-    </entry>
+    <es>Barras Apiladas</es></entry>
     <entry>
         <key>Area</key>
         <en>Area</en>
@@ -663,7 +663,7 @@
         <de>Bereich</de>
         <it>La zona</it>
         <ur>ایریا</ur>
-    </entry>
+    <es>Área</es></entry>
     <entry>
         <key>Chart Scale</key>
         <en>Chart Scale</en>
@@ -682,7 +682,7 @@
         <de>Kartenmaßstab</de>
         <it>scala della carta</it>
         <ur>چارٹ اسکیل</ur>
-    </entry>
+    <es>Escala de Gráfico</es></entry>
     <entry>
         <key>Absolute</key>
         <en>Absolute</en>
@@ -701,7 +701,7 @@
         <de>Absolute</de>
         <it>Assoluto</it>
         <ur>مطلق</ur>
-    </entry>
+    <es>Absoluto</es></entry>
     <entry>
         <key>Normalize</key>
         <en>Normalize</en>
@@ -720,7 +720,7 @@
         <de>Normalisieren</de>
         <it>Normalizzare</it>
         <ur>معمول</ur>
-    </entry>
+    <es>Normalizar</es></entry>
     <entry>
         <key>No data</key>
         <en>No data</en>
@@ -739,7 +739,7 @@
         <de>Keine Daten</de>
         <it>Nessun dato</it>
         <ur>کوئی مواد نہیں</ur>
-    </entry>
+    <es>No hay datos</es></entry>
     <entry>
         <key>Use this to add, remove and rearrange columns.</key>
         <en>Use this to add, remove and rearrange columns.</en>
@@ -758,7 +758,7 @@
         <de>Verwenden Sie diese Option zum Hinzufügen, Entfernen und Spalten neu anordnen.</de>
         <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
         <ur>، شامل، کو ہٹانے اور پنرویوستیت کالموں کے لیے اس کا استعمال کریں.</ur>
-    </entry>
+    <es>Utilice esto para añadir, eliminar y reordenar columnas.</es></entry>
     <entry>
         <key>Interactions include retweets, mentions, comments, shares and likes of your content.</key>
         <en>Interactions include retweets, mentions, comments, shares and likes of your content.</en>
@@ -777,6 +777,6 @@
         <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
         <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
-    </entry>
+    <es>Interacciones incluyen retweets, menciones, comentarios, shares y likes de su contenido.</es></entry>
     <section>reports_performance_report</section>
 </translations>

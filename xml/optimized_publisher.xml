@@ -17,7 +17,7 @@
         <de>[[[Was ist das richtige Datum und Zeitformat für Japan? Zum Beispiel ist Monat / Tag oder Tag / Monat. Haben sie den 24-Stunden oder 12 Stunden Zeit nutzen?]]]</de>
         <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
         <ur>[[[جاپان لئے صحیح تاریخ اور وقت کی شکل کیا ہے؟ مثال کے طور پر مہینہ / دن یا دن / ماہ یہ ہے. وہ 24H وقت یا 12H وقت استعمال کرتے ہیں؟]]]</ur>
-    </entry>
+    <es>[[[In Latin America 12h time is the most popular. Date format is day/month/year.]]]</es></entry>
     <entry>
         <key>Twitter accounts</key>
         <en>Twitter accounts</en>
@@ -36,7 +36,7 @@
         <de>Twitter-Konten</de>
         <it>account Twitter</it>
         <ur>ٹویٹر اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas de Twitter</es></entry>
     <entry>
         <key>Facebook accounts</key>
         <en>Facebook accounts</en>
@@ -55,7 +55,7 @@
         <de>Facebook-Konten</de>
         <it>account di Facebook</it>
         <ur>فیس بک کے اکاؤنٹس</ur>
-    </entry>
+    <es>Cuentas de Facebook</es></entry>
     <entry>
         <key>Hide Stats</key>
         <en>Hide Stats</en>
@@ -74,7 +74,7 @@
         <de>ausblenden Statistik</de>
         <it>Hide Statistiche</it>
         <ur>اعدادوشمار چھپائیں</ur>
-    </entry>
+    <es>Esconder Estadísticas</es></entry>
     <entry>
         <key>Show Stats</key>
         <en>Show Stats</en>
@@ -93,7 +93,7 @@
         <de>Statistiken anzeigen</de>
         <it>Visualizza statistiche</it>
         <ur>اعدادوشمار دکھائیں</ur>
-    </entry>
+    <es>Mostrar Estadísticas</es></entry>
     <entry>
         <key>Add Feed</key>
         <en>Add Feed</en>
@@ -112,7 +112,7 @@
         <de>Feed hinzufügen</de>
         <it>Aggiungere feed</it>
         <ur>فیڈ شامل</ur>
-    </entry>
+    <es>Añadir Feed</es></entry>
     <entry>
         <key>Close Compose</key>
         <en>Close Compose</en>
@@ -131,7 +131,7 @@
         <de>Schließen Compose</de>
         <it>Chiudi Compose</it>
         <ur>تحریر بند کریں</ur>
-    </entry>
+    <es>Cerrar Componer</es></entry>
     <entry>
         <key>Active Audience</key>
         <en>Active Audience</en>
@@ -150,7 +150,7 @@
         <de>Aktive Publikum</de>
         <it>Pubblico attivo</it>
         <ur>فعال ناظرین</ur>
-    </entry>
+    <es>Audiencia Activa</es></entry>
     <entry>
         <key>(last hour)</key>
         <en>(last hour)</en>
@@ -169,7 +169,7 @@
         <de>(letzte Stunde)</de>
         <it>(ultima ora)</it>
         <ur>(گزشتہ قیامت)</ur>
-    </entry>
+    <es>(última hora)</es></entry>
     <entry>
         <key>Returning</key>
         <en>Returning</en>
@@ -188,7 +188,7 @@
         <de>Rückkehr</de>
         <it>ritornando</it>
         <ur>ریٹرننگ</ur>
-    </entry>
+    <es>Volver</es></entry>
     <entry>
         <key>Interactive</key>
         <en>Interactive</en>
@@ -207,7 +207,7 @@
         <de>Interactive</de>
         <it>Interactive</it>
         <ur>انٹرایکٹو</ur>
-    </entry>
+    <es>Interactivo</es></entry>
     <entry>
         <key>Passive</key>
         <en>Passive</en>
@@ -226,7 +226,7 @@
         <de>Passiv</de>
         <it>Passivo</it>
         <ur>غیر فعال</ur>
-    </entry>
+    <es>Pasivo</es></entry>
     <entry>
         <key>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments, and shares.</key>
         <en>Audience Activity includes clicks, tweets, mentions, retweets, likes, comments, and shares.</en>
@@ -245,7 +245,7 @@
         <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
         <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <ur>سامعین سرگرمی کلکس، ٹویٹس، تذکرے، ریٹویٹ، پسند کرتا ہے، تبصرے، اور حصص شامل ہیں.</ur>
-    </entry>
+    <es>Actividad de la Audiencia incluye clics, tweets, menciones, retweets, likes, comentarios y shares.</es></entry>
     <entry>
         <key>When we have enough data, we show trending terms for your audience.</key>
         <en>When we have enough data, we show trending terms for your audience.</en>
@@ -264,7 +264,7 @@
         <de>Wenn wir genug Daten haben, zeigen wir Trending Bedingungen für Ihr Publikum.</de>
         <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
         <ur>ہم نے کافی اعداد و شمار ہیں تو، ہم اپنے ناظرین کے لئے رجحان سازی کی اصطلاحات کو ظاہر.</ur>
-    </entry>
+    <es>Cuando tenemos suficiente información, mostramos términos de tendencia para su audiencia.</es></entry>
     <entry>
         <key>There was not enough recent activity in your audience to generate trending terms. Please check again later.</key>
         <en>There was not enough recent activity in your audience to generate trending terms. Please check again later.</en>
@@ -283,7 +283,7 @@
         <de>Es gab nicht genug aktuellen Aktivitäten in Ihrem Publikum Trending Bedingungen zu generieren. Bitte überprüfen Sie es später erneut.</de>
         <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
         <ur>رجحان سازی کی اصطلاحات پیدا کرنے کے لئے اپنے ناظرین میں کافی کی حالیہ سرگرمی نہیں تھا. بعد میں پھر سے چیک کریں.</ur>
-    </entry>
+    <es>No hubo actividad reciente suficiente en su audiencia para generar términos de tendencia. Por favor verifique más tarde.</es></entry>
     <entry>
         <key>There is insufficient audience activity to generate active posts. Please check later.</key>
         <en>There is insufficient audience activity to generate active posts. Please check later.</en>
@@ -302,7 +302,7 @@
         <de>Es ist nicht genügend Publikum Aktivität Beiträge generieren. Bitte versuchen Sie es später.</de>
         <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
         <ur>فعال پیغامات پیدا کرنے کے لئے ناکافی سامعین سرگرمی نہیں ہے. بعد میں براہ مہربانی چیک کریں.</ur>
-    </entry>
+    <es>No ha habido suficiente actividad en su audiencia para generar publicaciones activas. Por favor verifique más tarde.</es></entry>
     <entry>
         <key>AttentionScore&amp;trade;</key>
         <en>AttentionScore&amp;trade;</en>
@@ -321,7 +321,7 @@
         <de>AttentionScore ™</de>
         <it>AttentionScore ™</it>
         <ur>AttentionScore ™</ur>
-    </entry>
+    <es>AttentionScore&amp;trade;</es></entry>
     <entry>
         <key>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance.Learn More about AttentionScore™</key>
         <en>The SocialFlow AttentionScore™ rates predicted audience engagement with your content on a scale from 1 to 100 by looking at three factors as they relate to your social accounts: audience availability, historical language analysis, and realtime resonance.Learn More about AttentionScore™</en>
@@ -340,7 +340,7 @@
         <de>Die SocialFlow AttentionScore ™ Raten vorhergesagt Publikum Engagement mit dem Inhalt auf einer Skala von 1 bis 100 um drei Faktoren suchen, wie sie beziehen sich auf Ihre sozialen Konten: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-resonance.Learn Mehr über AttentionScore ™</de>
         <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
         <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس resonance.Learn AttentionScore ™ کے بارے میں مزید: وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ SocialFlow AttentionScore ™ ریٹس پیش گوئی سامعین کی مصروفیت</ur>
-    </entry>
+    <es>SocialFlow AttentionScore ™ evalúa la participación de la audiencia predecida con su contenido, en una escala del 1 al 100, examinando tres factores relacionados con sus cuentas sociales: disponibilidad del público, análisis del lenguaje histórico y resonancia en tiempo real. Aprenda más sobre AttentionScore™</es></entry>
     <entry>
         <key>Queue Average</key>
         <en>Queue Average</en>
@@ -359,7 +359,7 @@
         <de>Queue Durchschnitt</de>
         <it>media coda</it>
         <ur>قطار اوسط</ur>
-    </entry>
+    <es>Promedio de Mensajes en Espera</es></entry>
     <entry>
         <key>Published Average</key>
         <en>Published Average</en>
@@ -378,7 +378,7 @@
         <de>Veröffentlicht Durchschnitt</de>
         <it>pubblicato media</it>
         <ur>اشاعت اوسط</ur>
-    </entry>
+    <es>Promedio de Publicados</es></entry>
     <entry>
         <key>Pause Reordering</key>
         <en>Pause Reordering</en>
@@ -397,7 +397,7 @@
         <de>Pause Neuordnen</de>
         <it>Pausa Riordino</it>
         <ur>دوبارہ مرتب روک دیں</ur>
-    </entry>
+    <es>Pausar Reordenamiento</es></entry>
     <entry>
         <key>Start Reordering</key>
         <en>Start Reordering</en>
@@ -416,7 +416,7 @@
         <de>Starten Sie neu ordnen</de>
         <it>Inizio Riordino</it>
         <ur>شروع کریں دوبارہ مرتب</ur>
-    </entry>
+    <es>Comenzar Reordenamiento</es></entry>
     <entry>
         <key>Candidates</key>
         <en>Candidates</en>
@@ -435,7 +435,7 @@
         <de>Die Kandidaten</de>
         <it>I candidati</it>
         <ur>امیدوار</ur>
-    </entry>
+    <es>Candidatos</es></entry>
     <entry>
         <key>On Hold</key>
         <en>On Hold</en>
@@ -454,7 +454,7 @@
         <de>In Wartestellung</de>
         <it>In attesa</it>
         <ur>ہولڈ پر</ur>
-    </entry>
+    <es>Aguardando</es></entry>
     <entry>
         <key>Filter</key>
         <en>Filter</en>
@@ -473,7 +473,7 @@
         <de>Filter</de>
         <it>Filtro</it>
         <ur>فلٹر</ur>
-    </entry>
+    <es>Filtro</es></entry>
     <entry>
         <key>Filter and update status, view by source, adjust sort order.</key>
         <en>Filter and update status, view by source, adjust sort order.</en>
@@ -492,7 +492,7 @@
         <de>Filter und Update-Status, Anzeige nach Quelle, anpassen Sortierreihenfolge.</de>
         <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
         <ur>فلٹر اور اپ ڈیٹ کی حیثیت، منبع کی طرف سے نقطہ نظر، قسم کا حکم ایڈجسٹ.</ur>
-    </entry>
+    <es>Filtrar y actualizar status, ver por fuente, ajustar orden de clasificación</es></entry>
     <entry>
         <key>All</key>
         <en>All</en>
@@ -511,7 +511,7 @@
         <de>Alle</de>
         <it>Tutti</it>
         <ur>تمام</ur>
-    </entry>
+    <es>Todos</es></entry>
     <entry>
         <key>Manual</key>
         <en>Manual</en>
@@ -530,7 +530,7 @@
         <de>Handbuch</de>
         <it>Manuale</it>
         <ur>دستی</ur>
-    </entry>
+    <es>Manual</es></entry>
     <entry>
         <key>Statuses</key>
         <en>Statuses</en>
@@ -549,7 +549,7 @@
         <de>Stati</de>
         <it>Gli stati</it>
         <ur>حیثیت</ur>
-    </entry>
+    <es>Status</es></entry>
     <entry>
         <key>All</key>
         <en>All</en>
@@ -568,7 +568,7 @@
         <de>Alle</de>
         <it>Tutti</it>
         <ur>تمام</ur>
-    </entry>
+    <es>Todos</es></entry>
     <entry>
         <key>Sort by</key>
         <en>Sort by</en>
@@ -587,7 +587,7 @@
         <de>Sortiere nach</de>
         <it>Ordina per</it>
         <ur>بہ ترتیب</ur>
-    </entry>
+    <es>Ordenar por</es></entry>
     <entry>
         <key>Score</key>
         <en>Score</en>
@@ -606,7 +606,7 @@
         <de>Ergebnis</de>
         <it>Punto</it>
         <ur>اسکور</ur>
-    </entry>
+    <es>Puntuación</es></entry>
     <entry>
         <key>Date (descending)</key>
         <en>Date (descending)</en>
@@ -625,7 +625,7 @@
         <de>Datum (absteigend)</de>
         <it>Data (discendente)</it>
         <ur>تاریخ (نزولی)</ur>
-    </entry>
+    <es>Fecha (descendiente)</es></entry>
     <entry>
         <key>Date (ascending)</key>
         <en>Date (ascending)</en>
@@ -644,7 +644,7 @@
         <de>Datum (aufsteigend)</de>
         <it>Data (ascendente)</it>
         <ur>تاریخ (صعودی)</ur>
-    </entry>
+    <es>Fecha (ascendiente)</es></entry>
     <entry>
         <key>Expiring Date (descending)</key>
         <en>Expiring Date (descending)</en>
@@ -663,7 +663,7 @@
         <de>Ablaufdatum (absteigend)</de>
         <it>Data di scadenza (discendente)</it>
         <ur>تاریخ ختم (نزولی)</ur>
-    </entry>
+    <es>Fecha de Expiración (descendiente)</es></entry>
     <entry>
         <key>Expiring Date (ascending)</key>
         <en>Expiring Date (ascending)</en>
@@ -682,7 +682,7 @@
         <de>Ablaufdatum (aufsteigend)</de>
         <it>Data di scadenza (ascendente)</it>
         <ur>تاریخ ختم (صعودی)</ur>
-    </entry>
+    <es>Fecha de Expitación (ascendiente)</es></entry>
     <entry>
         <key>Scheduled Date (descending)</key>
         <en>Scheduled Date (descending)</en>
@@ -701,7 +701,7 @@
         <de>Geplante Datum (absteigend)</de>
         <it>In programma Data (discendente)</it>
         <ur>تاریخ شیڈول (نزولی)</ur>
-    </entry>
+    <es>Fecha Programada (descendiente)</es></entry>
     <entry>
         <key>Scheduled Date (ascending)</key>
         <en>Scheduled Date (ascending)</en>
@@ -720,7 +720,7 @@
         <de>Geplante Datum (aufsteigend)</de>
         <it>In programma Data (ascendente)</it>
         <ur>تاریخ شیڈول (صعودی)</ur>
-    </entry>
+    <es>Fecha Programada (ascendiente)</es></entry>
     <entry>
         <key>Optimized After Date (descending)</key>
         <en>Optimized After Date (descending)</en>
@@ -739,7 +739,7 @@
         <de>Optimiert Nach Datum (absteigend)</de>
         <it>Ottimizzato dopo Data (discendente)</it>
         <ur>تاریخ کے بعد آپٹمائزڈ (نزولی)</ur>
-    </entry>
+    <es>Optimizado Despues de Fecha (descendiente)</es></entry>
     <entry>
         <key>Optimized After Date (ascending)</key>
         <en>Optimized After Date (ascending)</en>
@@ -758,7 +758,7 @@
         <de>Optimiert nach dem Datum (aufsteigend)</de>
         <it>Ottimizzato dopo Data (ascendente)</it>
         <ur>تاریخ کے بعد آپٹمائزڈ (صعودی)</ur>
-    </entry>
+    <es>Optimizado Despues de Fecha (ascendiente)</es></entry>
     <entry>
         <key>Recycle As</key>
         <en>Recycle As</en>
@@ -777,7 +777,7 @@
         <de>Recycle Als</de>
         <it>riciclare</it>
         <ur>ردی کے طور پر</ur>
-    </entry>
+    <es>Reciclar Como</es></entry>
     <entry>
         <key>Enter a Search Term</key>
         <en>Enter a Search Term</en>
@@ -796,7 +796,7 @@
         <de>Geben Sie einen Suchbegriff</de>
         <it>Inserire un termine di ricerca</it>
         <ur>ایک اصطلاح درج کریں</ur>
-    </entry>
+    <es>Inserte un Término de Búsqueda</es></entry>
     <entry>
         <key>Published  day(s) ago</key>
         <en>Published  day(s) ago</en>
@@ -815,7 +815,7 @@
         <de>Veröffentlicht Tag (e) vor</de>
         <it>giorno Pubblicato (s) fa</it>
         <ur>اشاعت دن پہلے</ur>
-    </entry>
+    <es>Publicado  dia(s) atrás</es></entry>
     <entry>
         <key>Published  week(s) ago</key>
         <en>Published  week(s) ago</en>
@@ -834,7 +834,7 @@
         <de>Veröffentlicht Woche (n)</de>
         <it>settimana Pubblicato (s) fa</it>
         <ur>اشاعت ہفتے پہلے</ur>
-    </entry>
+    <es>Publicado  semana(s) atrás</es></entry>
     <entry>
         <key>Published  month(s) ago</key>
         <en>Published  month(s) ago</en>
@@ -853,7 +853,7 @@
         <de>Veröffentlicht Monat (en)</de>
         <it>mese Pubblicato (s) fa</it>
         <ur>اشاعت مہینوں پہلے</ur>
-    </entry>
+    <es>Publicado  mes(es) atrás</es></entry>
     <entry>
         <key>You have nothing to display. Please check your filters or add content.</key>
         <en>You have nothing to display. Please check your filters or add content.</en>
@@ -872,7 +872,7 @@
         <de>Sie haben nichts angezeigt werden soll. Bitte überprüfen Sie Ihre Filter oder Inhalte hinzufügen.</de>
         <it>Non hai nulla da visualizzare. Si prega di verificare i filtri o aggiungere contenuti.</it>
         <ur>آپ کو ظاہر کرنے کے لئے کچھ بھی نہیں ہے. آپ کے فلٹرز چیک یا مواد شامل کریں براہ مہربانی.</ur>
-    </entry>
+    <es>No tiene nada que mostrar. Compruebe sus filtros o agregue contenido.</es></entry>
     <entry>
         <key>Active Posts</key>
         <en>Active Posts</en>
@@ -891,7 +891,7 @@
         <de>Aktive Beiträge</de>
         <it>Messaggi</it>
         <ur>ایکٹو مراسلات</ur>
-    </entry>
+    <es>Publicaciones Activas</es></entry>
     <entry>
         <key>Messages Published to</key>
         <en>Messages Published to</en>
@@ -910,7 +910,7 @@
         <de>Nachrichten Veröffentlicht</de>
         <it>Messaggi pubblicati per</it>
         <ur>پیغامات اشاعت</ur>
-    </entry>
+    <es>Mensajes Publicados a</es></entry>
     <entry>
         <key>No more messages to display.</key>
         <en>No more messages to display.</en>
@@ -929,7 +929,7 @@
         <de>Keine Meldungen mehr angezeigt werden soll.</de>
         <it>Niente più messaggi da visualizzare.</it>
         <ur>کوئی زیادہ پیغامات کو ظاہر کرنے کے لئے.</ur>
-    </entry>
+    <es>No hay más mensajes para exhibir.</es></entry>
     <entry>
         <key>Want to see the rest of your queue? Sort by date</key>
         <en>Want to see the rest of your queue? Sort by date</en>
@@ -948,7 +948,7 @@
         <de>Wollen Sie den Rest Ihrer Warteschlange zu sehen? Nach Datum sortieren</de>
         <it>Vuoi vedere il resto della coda? Ordinare per data</it>
         <ur>آپ کی قطار کے باقی دیکھنا چاہتے ہیں؟ تاریخ کے مطابق ترتیب</ur>
-    </entry>
+    <es>Desea ver el resto de sus mensajes en espera? Ordenar por fecha</es></entry>
     <entry>
         <key>Added Via</key>
         <en>Added Via</en>
@@ -967,7 +967,7 @@
         <de>Added Via</de>
         <it>Aggiunto Via</it>
         <ur>شامل کر دیا گیا ویا</ur>
-    </entry>
+    <es>Via Añadido</es></entry>
     <entry>
         <key>Send to Queue</key>
         <en>Send to Queue</en>
@@ -986,7 +986,7 @@
         <de>Senden to Queue</de>
         <it>Invia alla coda</it>
         <ur>قطار کو بھیجیں</ur>
-    </entry>
+    <es>Enviar a Mensajes en Espera</es></entry>
     <entry>
         <key># of comments</key>
         <en># of comments</en>
@@ -1005,7 +1005,7 @@
         <de># Kommentare</de>
         <it># Di commenti</it>
         <ur>تبصرے کی #</ur>
-    </entry>
+    <es># de comentarios</es></entry>
     <entry>
         <key>All Twitter</key>
         <en>All Twitter</en>
@@ -1024,7 +1024,7 @@
         <de>Alle Twitter</de>
         <it>Tutti Twitter</it>
         <ur>تمام ٹویٹر</ur>
-    </entry>
+    <es>Todo Twitter</es></entry>
     <entry>
         <key>Your Audience</key>
         <en>Your Audience</en>
@@ -1043,7 +1043,7 @@
         <de>Ihr Publikum</de>
         <it>il tuo pubblico</it>
         <ur>اپنے شائقین</ur>
-    </entry>
+    <es>Su Audiencia</es></entry>
     <entry>
         <key>Account settings</key>
         <en>Account settings</en>
@@ -1062,7 +1062,7 @@
         <de>Account Einstellungen</de>
         <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>
-    </entry>
+    <es>Configuraciones de Cuenta</es></entry>
     <entry>
         <key>Publishing Paused</key>
         <en>Publishing Paused</en>
@@ -1081,7 +1081,7 @@
         <de>Publishing Paused</de>
         <it>Editoria in pausa</it>
         <ur>پبلشنگ روک دیا گیا</ur>
-    </entry>
+    <es>Publicar Pausado</es></entry>
     <entry>
         <key>scheduled</key>
         <en>scheduled</en>
@@ -1100,7 +1100,7 @@
         <de>geplant</de>
         <it>in programma</it>
         <ur>شیڈول</ur>
-    </entry>
+    <es>programado</es></entry>
     <entry>
         <key>messages are currently stopped from publishing.</key>
         <en>messages are currently stopped from publishing.</en>
@@ -1119,7 +1119,7 @@
         <de>Nachrichten werden derzeit von Veröffentlichung beendet.</de>
         <it>messaggi sono attualmente impedito di pubblicazione.</it>
         <ur>پیغامات فی الحال پبلشنگ سے بند کر دیا ہے.</ur>
-    </entry>
+    <es>publicación de mensajes está pausado actualmente.</es></entry>
     <entry>
         <key>While publishing is paused you may continue to compose and queue messages. Only Publish Now messages will successfully post. </key>
         <en>While publishing is paused you may continue to compose and queue messages. Only Publish Now messages will successfully post. </en>
@@ -1138,7 +1138,7 @@
         <de>Während Verlags pausiert können Sie weiterhin Nachrichten verfassen und in die Warteschlange. Veröffentlichen Sie erst jetzt Nachrichten werden erfolgreich veröffentlichen.</de>
         <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
         <ur>پبلشنگ روک دیا گیا ہے، جبکہ آپ کو تحریر اور پیغامات قطار میں جاری رکھ سکتے ہیں. صرف اب شائع پیغامات کامیابی سے پوسٹ کیا جائے گا.</ur>
-    </entry>
+    <es>Mientras publicación está pausado, puede continuar componiendo y poner mensajes en espera. Sólo los mensajes Publicar Ahora se publicarán correctamente.</es></entry>
     <entry>
         <key>Learn More.</key>
         <en>Learn More.</en>
@@ -1157,7 +1157,7 @@
         <de>Erfahren Sie mehr.</de>
         <it>Per saperne di più.</it>
         <ur>اورجانیے.</ur>
-    </entry>
+    <es>Aprenda Más.</es></entry>
     <entry>
         <key>Pause more accounts?</key>
         <en>Pause more accounts?</en>
@@ -1176,7 +1176,7 @@
         <de>Pause mehr Konten?</de>
         <it>Pause più account?</it>
         <ur>مزید اکاؤنٹس روک دیں؟</ur>
-    </entry>
+    <es>Pausar más cuentas?</es></entry>
     <entry>
         <key>Publishing Resumed</key>
         <en>Publishing Resumed</en>
@@ -1195,7 +1195,7 @@
         <de>Publishing Resumed</de>
         <it>Editoria Ripreso</it>
         <ur>پبلشنگ کا سلسلہ دوبارہ شروع</ur>
-    </entry>
+    <es>Publicación Reanudada</es></entry>
     <entry>
         <key>While the queue was paused,</key>
         <en>While the queue was paused,</en>
@@ -1214,7 +1214,7 @@
         <de>Während wurde die Warteschlange angehalten,</de>
         <it>Mentre la coda è stata messa in pausa,</it>
         <ur>قطار روک دیا گیا تھا جبکہ،</ur>
-    </entry>
+    <es>Mientras los mensajes en espera estaba pausado,</es></entry>
     <entry>
         <key>messages</key>
         <en>messages</en>
@@ -1233,7 +1233,7 @@
         <de>Nachrichten</de>
         <it>messaggi</it>
         <ur>پیغامات</ur>
-    </entry>
+    <es>mensajes</es></entry>
     <entry>
         <key>missed their</key>
         <en>missed their</en>
@@ -1252,7 +1252,7 @@
         <de>verfehlten ihr</de>
         <it>perso il loro</it>
         <ur>ان کو یاد کیا</ur>
-    </entry>
+    <es>perdieron su</es></entry>
     <entry>
         <key>or optimized window to publish.</key>
         <en>or optimized window to publish.</en>
@@ -1271,7 +1271,7 @@
         <de>oder optimierte Fenster zu veröffentlichen.</de>
         <it>o finestra di pubblicare ottimizzato.</it>
         <ur>یا شائع کرنے کی کھڑکی مرضی.</ur>
-    </entry>
+    <es>o ventana optimizada para publicar.</es></entry>
     <entry>
         <key>Review failed to send messages</key>
         <en>Review failed to send messages</en>
@@ -1290,6 +1290,6 @@
         <de>Bewertung fehlgeschlagen Nachrichten zu versenden</de>
         <it>Review non è riuscito a inviare messaggi</it>
         <ur>کا جائزہ لیں پیغامات بھیجنے میں ناکام</ur>
-    </entry>
+    <es>Revisar mensajes que no fueron enviados</es></entry>
     <section>optimized_publisher</section>
 </translations>

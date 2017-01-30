@@ -16,7 +16,7 @@
         <de>Komponieren</de>
         <it>Comporre</it>
         <ur>تحریر کریں</ur>
-    </entry>
+    <es>Componer</es></entry>
     <entry>
         <key>Publish to these accounts</key>
         <en>Publish to these accounts</en>
@@ -34,7 +34,7 @@
         <de>Veröffentlichen Sie auf diese Konten</de>
         <it>Pubblica su questi conti</it>
         <ur>ان اکاؤنٹس پر شائع کریں</ur>
-    </entry>
+    <es>Publicar a estas cuentas</es></entry>
     <entry>
         <key>Time Zone:</key>
         <en>Time Zone:</en>
@@ -52,7 +52,7 @@
         <de>Zeitzone:</de>
         <it>Fuso orario:</it>
         <ur>ٹائم زون:</ur>
-    </entry>
+    <es>Zona horaria</es></entry>
     <entry>
         <key>Optimize</key>
         <en>Optimize</en>
@@ -70,7 +70,7 @@
         <de>Optimieren</de>
         <it>Ottimizzare</it>
         <ur>اصلاح کریں</ur>
-    </entry>
+    <es>Optimizar</es></entry>
     <entry>
         <key>Publish</key>
         <en>Publish</en>
@@ -88,7 +88,7 @@
         <de>Veröffentlichen</de>
         <it>Pubblicare</it>
         <ur>شائع کریں</ur>
-    </entry>
+    <es>Publicar</es></entry>
     <entry>
         <key>Schedule</key>
         <en>Schedule</en>
@@ -106,7 +106,7 @@
         <de>Zeitplan</de>
         <it>programma</it>
         <ur>شیڈول</ur>
-    </entry>
+    <es>Agendar</es></entry>
     <entry>
         <key>Hold</key>
         <en>Hold</en>
@@ -124,7 +124,7 @@
         <de>Halten</de>
         <it>tenere</it>
         <ur>پکڑو</ur>
-    </entry>
+    <es>Aguardar</es></entry>
     <entry>
         <key>Can Send</key>
         <en>Can Send</en>
@@ -142,7 +142,7 @@
         <de>Kann senden</de>
         <it>Posso inviare</it>
         <ur>بھیج سکتا</ur>
-    </entry>
+    <es>Puede Enviar</es></entry>
     <entry>
         <key>Must Send</key>
         <en>Must Send</en>
@@ -160,7 +160,7 @@
         <de>Muss senden</de>
         <it>deve inviare</it>
         <ur>ضرور بھیجیں</ur>
-    </entry>
+    <es>Debe Enviar</es></entry>
     <entry>
         <key>from</key>
         <en>from</en>
@@ -178,7 +178,7 @@
         <de>von</de>
         <it>da parte di</it>
         <ur>سے</ur>
-    </entry>
+    <es>de</es></entry>
     <entry>
         <key>Now</key>
         <en>Now</en>
@@ -196,7 +196,7 @@
         <de>Jetzt</de>
         <it>Adesso</it>
         <ur>ابھی</ur>
-    </entry>
+    <es>Ahora</es></entry>
     <entry>
         <key>to</key>
         <en>to</en>
@@ -214,7 +214,7 @@
         <de>nach</de>
         <it>a</it>
         <ur>کرنے</ur>
-    </entry>
+    <es>a</es></entry>
     <entry>
         <key>Any Time</key>
         <en>Any Time</en>
@@ -232,7 +232,7 @@
         <de>Jederzeit</de>
         <it>qualsiasi Tempo</it>
         <ur>کسی بھی وقت</ur>
-    </entry>
+    <es>Cualquier Hora</es></entry>
     <entry>
         <key>Send within</key>
         <en>Send within</en>
@@ -250,7 +250,7 @@
         <de>senden innerhalb</de>
         <it>Invia all'interno</it>
         <ur>کے اندر اندر بھیج</ur>
-    </entry>
+    <es>Enviar dentro de</es></entry>
     <entry>
         <key>1 hour</key>
         <en>1 hour</en>
@@ -268,7 +268,7 @@
         <de>1 Stunde</de>
         <it>1 ora</it>
         <ur>1 گھنٹے</ur>
-    </entry>
+    <es>1 hora</es></entry>
     <entry>
         <key>3 hours</key>
         <en>3 hours</en>
@@ -286,7 +286,7 @@
         <de>3 Stunden</de>
         <it>3 ore</it>
         <ur>3 گھنٹے</ur>
-    </entry>
+    <es>3 horas</es></entry>
     <entry>
         <key>1 day</key>
         <en>1 day</en>
@@ -304,7 +304,7 @@
         <de>1 Tag</de>
         <it>1 giorno</it>
         <ur>1 دن</ur>
-    </entry>
+    <es>1 día</es></entry>
     <entry>
         <key>3 days</key>
         <en>3 days</en>
@@ -322,7 +322,7 @@
         <de>3 Tage</de>
         <it>3 giorni</it>
         <ur>3 دن</ur>
-    </entry>
+    <es>3 días</es></entry>
     <entry>
         <key>1 week</key>
         <en>1 week</en>
@@ -340,7 +340,7 @@
         <de>1 Woche</de>
         <it>1 settimana</it>
         <ur>1 ہفتہ</ur>
-    </entry>
+    <es>1 semana</es></entry>
     <entry>
         <key>2 weeks</key>
         <en>2 weeks</en>
@@ -358,7 +358,7 @@
         <de>2 Wochen</de>
         <it>2 settimane</it>
         <ur>2 ہفتے</ur>
-    </entry>
+    <es>2 semanas</es></entry>
     <entry>
         <key>Cancel</key>
         <en>Cancel</en>
@@ -376,7 +376,7 @@
         <de>Stornieren</de>
         <it>Annulla</it>
         <ur>منسوخ کریں</ur>
-    </entry>
+    <es>Cancelar</es></entry>
     <entry>
         <key>Resonance Prediction</key>
         <en>Resonance Prediction</en>
@@ -394,7 +394,7 @@
         <de>Resonance Prediction</de>
         <it>Resonance Prediction</it>
         <ur>گونج پیشن گوئی</ur>
-    </entry>
+    <es>Predicción de Resonancia</es></entry>
     <entry>
         <key>Shorten Links</key>
         <en>Shorten Links</en>
@@ -412,7 +412,7 @@
         <de>kürzen Verbindungen</de>
         <it>accorciare Link</it>
         <ur>روابط قصر</ur>
-    </entry>
+    <es>Acortar Enlaces</es></entry>
     <entry>
         <key>Note: Links are shortened at publication</key>
         <en>Note: Links are shortened at publication</en>
@@ -430,7 +430,7 @@
         <de>Hinweis: Die Links werden bei Veröffentlichung verkürzt</de>
         <it>Nota: I link sono accorciati a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر کر رہے ہیں</ur>
-    </entry>
+    <es>Nota: enlaces son acortados al publicar</es></entry>
     <entry>
         <key>Time Zone: New York</key>
         <en>Time Zone: New York</en>
@@ -448,7 +448,7 @@
         <de>Time Zone: New York</de>
         <it>Fuso orario: New York</it>
         <ur>ٹائم زون: نیویارک</ur>
-    </entry>
+    <es>Zona horaria: Nueva York</es></entry>
     <entry>
         <key>Reset All</key>
         <en>Reset All</en>
@@ -466,7 +466,7 @@
         <de>Alles zurücksetzen</de>
         <it>Resetta tutto</it>
         <ur>تمام ری سیٹ کر دیں</ur>
-    </entry>
+    <es>Recomponer todo</es></entry>
     <entry>
         <key>Finish</key>
         <en>Finish</en>
@@ -484,6 +484,6 @@
         <de>Fertig</de>
         <it>finire</it>
         <ur>ختم</ur>
-    </entry>
+    <es>Terminar</es></entry>
     <section>compose</section>
 </translations>

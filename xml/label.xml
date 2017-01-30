@@ -17,7 +17,7 @@
         <de>ETIKETTE</de>
         <it>ETICHETTA</it>
         <ur>LABEL</ur>
-    </entry>
+    <es>ETIQUETA</es></entry>
     <entry>
         <key>Labels help organize your messages into categories for reporting or to easily find later.</key>
         <en>Labels help organize your messages into categories for reporting or to easily find later.</en>
@@ -36,7 +36,7 @@
         <de>Labels helfen, Ihre Nachrichten in Kategorien organisieren für die Berichterstattung oder später leicht zu finden.</de>
         <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
         <ur>لیبل رپورٹنگ یا بعد میں آسانی سے تلاش کرنے کے لئے اقسام میں آپ کے پیغامات کو منظم کرنے میں مدد.</ur>
-    </entry>
+    <es>Etiquetas ayudan a organizar sus mensajes en categorías para reportes o para encontrar fácilmente más adelante.</es></entry>
     <entry>
         <key>Labels are not published with your message and can only be seen by you and SocialFlow users accessing this account.</key>
         <en>Labels are not published with your message and can only be seen by you and SocialFlow users accessing this account.</en>
@@ -55,7 +55,7 @@
         <de>Die Etiketten werden nicht mit Ihrer Nachricht veröffentlicht und kann nur von Ihnen und SocialFlow Benutzer Zugriff auf dieses Konto zu sehen.</de>
         <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
         <ur>لیبل آپ کے پیغام کے ساتھ شائع نہیں ہیں اور صرف آپ اور SocialFlow اس اکاؤنٹ تک رسائی حاصل صارفین کی طرف سے دیکھا جا سکتا ہے.</ur>
-    </entry>
+    <es>Las etiquetas no se publican con su mensaje y sólo pueden ser vistos por ti y SocialFlow usuarios que acceden a esta cuenta.</es></entry>
     <entry>
         <key>Label examples: Fall Campaign, favorite, livetweet</key>
         <en>Label examples: Fall Campaign, favorite, livetweet</en>
@@ -74,7 +74,7 @@
         <de>Label-Beispiele: Fall-Kampagne, Favorit, livetweet</de>
         <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
         <ur>لیبل مثالیں: موسم خزاں مہم، پسندیدہ، livetweet</ur>
-    </entry>
+    <es>ejemplos de etiqueta: campaña de otoño, favorito, livetweet</es></entry>
     <entry>
         <key>Message has successfully been labeled.</key>
         <en>Message has successfully been labeled.</en>
@@ -93,7 +93,7 @@
         <de>Nachricht wurde erfolgreich markiert worden.</de>
         <it>Il messaggio è stato correttamente etichettati.</it>
         <ur>پیغام کامیابی کا لیبل لگا دیا گیا ہے.</ur>
-    </entry>
+    <es>Mensaje éxito ha sido etiquetado.</es></entry>
     <entry>
         <key>This message has already been labeled.</key>
         <en>This message has already been labeled.</en>
@@ -112,7 +112,7 @@
         <de>Diese Nachricht wurde bereits markiert worden.</de>
         <it>Questo messaggio è già stato etichettato.</it>
         <ur>یہ پیغام پہلے سے ہی لگا دیا گیا ہے.</ur>
-    </entry>
+    <es>Este mensaje ya ha sido etiquetado.</es></entry>
     <entry>
         <key>Something went wrong labeling your message.</key>
         <en>Something went wrong labeling your message.</en>
@@ -131,6 +131,6 @@
         <de>Etwas ging Beschriftung falsch Ihre Nachricht.</de>
         <it>Qualcosa è andato storto etichettare il messaggio.</it>
         <ur>کچھ غلط ہو آپ کا پیغام لیبل گئے.</ur>
-    </entry>
+    <es>Algo salió mal al etiquetado de su mensaje.</es></entry>
     <section>label</section>
 </translations>

@@ -17,7 +17,7 @@
         <de>Inhalt Quelle:</de>
         <it>Contenuti Fonte:</it>
         <ur>مواد کے ماخذ:</ur>
-    </entry>
+    <es>Fuente de Contenido:</es></entry>
     <entry>
         <key>Default Message Status</key>
         <en>Default Message Status</en>
@@ -36,7 +36,7 @@
         <de>Standardnachrichtenstatus</de>
         <it>Predefinito Messaggio di stato</it>
         <ur>بنیادی پیغام حیثیت</ur>
-    </entry>
+    <es>Estado de Mensaje Predeterminado</es></entry>
     <entry>
         <key>Default Status</key>
         <en>Default Status</en>
@@ -55,7 +55,7 @@
         <de>Standard-Status</de>
         <it>Stato di default</it>
         <ur>پہلے سے طے شدہ حیثیت</ur>
-    </entry>
+    <es>Estado Predeterminado</es></entry>
     <entry>
         <key>Optimized</key>
         <en>Optimized</en>
@@ -74,7 +74,7 @@
         <de>Optimiert</de>
         <it>Ottimizzato</it>
         <ur>آپٹمائزڈ</ur>
-    </entry>
+    <es>Optimizado</es></entry>
     <entry>
         <key>Publish Now</key>
         <en>Publish Now</en>
@@ -93,7 +93,7 @@
         <de>Jetzt veröffentlichen</de>
         <it>Pubblica ora</it>
         <ur>ابھی شائع کریں</ur>
-    </entry>
+    <es>Publicar Ahora</es></entry>
     <entry>
         <key>Copy to Another Social Account</key>
         <en>Copy to Another Social Account</en>
@@ -112,7 +112,7 @@
         <de>Kopieren auf ein anderes Konto Social</de>
         <it>Copia in un altro account sociale</it>
         <ur>ایک اور سماجی اکاؤنٹ میں کاپی کریں</ur>
-    </entry>
+    <es>Copiar a Otra Cuenta Social</es></entry>
     <entry>
         <key>Copy to Account</key>
         <en>Copy to Account</en>
@@ -131,7 +131,7 @@
         <de>Kopieren Konto</de>
         <it>Copia sul conto</it>
         <ur>اکاؤنٹ میں کاپی</ur>
-    </entry>
+    <es>Copiar a Cuenta</es></entry>
     <entry>
         <key>Messages Expiration</key>
         <en>Messages Expiration</en>
@@ -150,7 +150,7 @@
         <de>Nachrichten Expiration</de>
         <it>I messaggi di scadenza</it>
         <ur>پیغامات میعاد ختم ہونے کی</ur>
-    </entry>
+    <es>Expiración de Mensajes</es></entry>
     <entry>
         <key>Default</key>
         <en>Default</en>
@@ -169,7 +169,7 @@
         <de>Standard</de>
         <it>Predefinito</it>
         <ur>پہلے سے طے شدہ</ur>
-    </entry>
+    <es>Predeterminado</es></entry>
     <entry>
         <key>Never</key>
         <en>Never</en>
@@ -188,7 +188,7 @@
         <de>Nie</de>
         <it>Mai</it>
         <ur>کبھی</ur>
-    </entry>
+    <es>Nunca</es></entry>
     <entry>
         <key>30 Minutes</key>
         <en>30 Minutes</en>
@@ -207,7 +207,7 @@
         <de>30 Minuten</de>
         <it>30 minuti</it>
         <ur>30 منٹ</ur>
-    </entry>
+    <es>30 Minutos</es></entry>
     <entry>
         <key>1 Hour</key>
         <en>1 Hour</en>
@@ -226,7 +226,7 @@
         <de>1 Stunde</de>
         <it>1 ora</it>
         <ur>1 گھنٹہ</ur>
-    </entry>
+    <es>1 Hora</es></entry>
     <entry>
         <key>6 Hours</key>
         <en>6 Hours</en>
@@ -245,7 +245,7 @@
         <de>6 Stunden</de>
         <it>6 ore</it>
         <ur>6 گھنٹے</ur>
-    </entry>
+    <es>6 Horas</es></entry>
     <entry>
         <key>9 Hours</key>
         <en>9 Hours</en>
@@ -264,7 +264,7 @@
         <de>9 Stunden</de>
         <it>9 Ore</it>
         <ur>9 گھنٹے</ur>
-    </entry>
+    <es>9 Horas</es></entry>
     <entry>
         <key>12 Hours</key>
         <en>12 Hours</en>
@@ -283,7 +283,7 @@
         <de>12 Stunden</de>
         <it>12 ore</it>
         <ur>12 گھنٹے</ur>
-    </entry>
+    <es>12 Horas</es></entry>
     <entry>
         <key>1 Day</key>
         <en>1 Day</en>
@@ -302,7 +302,7 @@
         <de>1 Tag</de>
         <it>1 giorno</it>
         <ur>1 دن</ur>
-    </entry>
+    <es>1 Día</es></entry>
     <entry>
         <key>2 Days</key>
         <en>2 Days</en>
@@ -321,7 +321,7 @@
         <de>2 Tage</de>
         <it>2 giorni</it>
         <ur>2 دن</ur>
-    </entry>
+    <es>2 Días</es></entry>
     <entry>
         <key>3 Days</key>
         <en>3 Days</en>
@@ -340,7 +340,7 @@
         <de>3 Tage</de>
         <it>3 giorni</it>
         <ur>3 دن</ur>
-    </entry>
+    <es>3 Días</es></entry>
     <entry>
         <key>5 Days</key>
         <en>5 Days</en>
@@ -359,7 +359,7 @@
         <de>5 Tage</de>
         <it>5 giorni</it>
         <ur>5 دن</ur>
-    </entry>
+    <es>5 Días</es></entry>
     <entry>
         <key>1 Week</key>
         <en>1 Week</en>
@@ -378,7 +378,7 @@
         <de>1 Woche</de>
         <it>1 settimana</it>
         <ur>1 ہفتہ</ur>
-    </entry>
+    <es>1 Semana</es></entry>
     <entry>
         <key>2 Weeks</key>
         <en>2 Weeks</en>
@@ -397,7 +397,7 @@
         <de>2 Wochen</de>
         <it>2 settimane</it>
         <ur>2 ہفتے</ur>
-    </entry>
+    <es>2 Semanas</es></entry>
     <entry>
         <key>3 Weeks</key>
         <en>3 Weeks</en>
@@ -416,7 +416,7 @@
         <de>3 Wochen</de>
         <it>3 settimane</it>
         <ur>3 ہفتے</ur>
-    </entry>
+    <es>3 Semanas</es></entry>
     <entry>
         <key>1 Month</key>
         <en>1 Month</en>
@@ -435,7 +435,7 @@
         <de>1 Monat</de>
         <it>1 mese</it>
         <ur>1 مہینہ</ur>
-    </entry>
+    <es>1 Mes</es></entry>
     <entry>
         <key>45 Days</key>
         <en>45 Days</en>
@@ -454,7 +454,7 @@
         <de>45 Tage</de>
         <it>45 Giorni</it>
         <ur>45 دن</ur>
-    </entry>
+    <es>45 Días</es></entry>
     <entry>
         <key>Expiration Behavior</key>
         <en>Expiration Behavior</en>
@@ -473,7 +473,7 @@
         <de>Ablaufverhalten</de>
         <it>Comportamento di scadenza</it>
         <ur>میعاد ختم ہونے رویہ</ur>
-    </entry>
+    <es>Comportamiento de Expiración</es></entry>
     <entry>
         <key>Expire at expiration date</key>
         <en>Expire at expiration date</en>
@@ -492,7 +492,7 @@
         <de>Gültig bis auf Ablaufdatum</de>
         <it>Scadono alla data di scadenza</it>
         <ur>آخری اپ ڈیٹ کی تاریخ میں میعاد ختم</ur>
-    </entry>
+    <es>Expirar en la fecha de expiración</es></entry>
     <entry>
         <key>Must Publish by expiration date</key>
         <en>Must Publish by expiration date</en>
@@ -511,7 +511,7 @@
         <de>Muss nach Ablaufdatum veröffentlichen</de>
         <it>Devono pubblicare in base alla data di scadenza</it>
         <ur>آخری اپ ڈیٹ کی تاریخ کی طرف سے کی اشاعت لازمی</ur>
-    </entry>
+    <es>Debe Publicar antes de la fecha de expiración</es></entry>
     <entry>
         <key>Delete Content Source</key>
         <en>Delete Content Source</en>
@@ -530,7 +530,7 @@
         <de>Löschen Inhaltsquelle</de>
         <it>Eliminare il contenuto Fonte</it>
         <ur>مواد کے ماخذ چھپانا</ur>
-    </entry>
+    <es>Borrar Fuente de Contenido</es></entry>
     <entry>
         <key>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
 
@@ -557,7 +557,11 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
         <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا. آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی.</ur>
-    </entry>
+    <es>ATENCIÓN: La eliminación de una fuente de contenido también eliminará todos los mensajes de esta fuente de contenido en sus mensajes en espera.
+    
+        Si desea detener la importación de nuevos mensajes de esta fuente de contenido sin eliminar los mensajes que ya se han puesto en sus mensajes en espera, cambie el estado de la fuente de contenido de activo a inactivo.
+
+¿Está seguro de que desea eliminar esta fuente de contenido y todos los mensajes asociados?</es></entry>
     <entry>
         <key>Templates</key>
         <en>Templates</en>
@@ -576,7 +580,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Vorlagen</de>
         <it>Modelli</it>
         <ur>سانچے</ur>
-    </entry>
+    <es>Plantillas</es></entry>
     <entry>
         <key>Content source templates let you add prefix, postfix, titles, and more.</key>
         <en>Content source templates let you add prefix, postfix, titles, and more.</en>
@@ -595,7 +599,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Inhaltsquelle Vorlagen können Sie fügen Präfix, Postfix, Titel und vieles mehr.</de>
         <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
         <ur>مواد کے ماخذ کے سانچوں آپ اپسرگ، postfix، عنوانات، اور مزید شامل ہیں.</ur>
-    </entry>
+    <es>Plantillas de fuente de contenido le permite añadir prefijo, sufijo, títulos y más.</es></entry>
     <entry>
         <key>Template:</key>
         <en>Template:</en>
@@ -614,7 +618,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Vorlage:</de>
         <it>Modello:</it>
         <ur>سانچے:</ur>
-    </entry>
+    <es>Plantilla:</es></entry>
     <entry>
         <key>[title][link]</key>
         <en>[title][link]</en>
@@ -633,7 +637,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Title] [link]</de>
         <it>[Titolo] [link]</it>
         <ur>[عنوان] [لنک]</ur>
-    </entry>
+    <es>[título][link]</es></entry>
     <entry>
         <key>[title]</key>
         <en>[title]</en>
@@ -652,7 +656,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Titel]</de>
         <it>[titolo]</it>
         <ur>[عنوان]</ur>
-    </entry>
+    <es>[título]</es></entry>
     <entry>
         <key>[link]</key>
         <en>[link]</en>
@@ -671,7 +675,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Link]</de>
         <it>[Link]</it>
         <ur>[لنک]</ur>
-    </entry>
+    <es>[link]</es></entry>
     <entry>
         <key>[link] [title]</key>
         <en>[link] [title]</en>
@@ -690,7 +694,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Link] [title]</de>
         <it>[Link] [titolo]</it>
         <ur>[لنک] [عنوان]</ur>
-    </entry>
+    <es>[link] [título]</es></entry>
     <entry>
         <key>[prefix] [title] [link]</key>
         <en>[prefix] [title] [link]</en>
@@ -709,7 +713,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Prefix] [title] [link]</de>
         <it>[Prefisso] [titolo] [link]</it>
         <ur>[اپسرگ] [عنوان] [لنک]</ur>
-    </entry>
+    <es>[prefijo] [título] [link]</es></entry>
     <entry>
         <key>[prefix] [title] [link] [postfix]</key>
         <en>[prefix] [title] [link] [postfix]</en>
@@ -728,7 +732,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Prefix] [title] [link] [Postfix]</de>
         <it>[Prefisso] [titolo] [link] [suffisso]</it>
         <ur>[اپسرگ] [عنوان] [لنک] [postfix]</ur>
-    </entry>
+    <es>[prefijo] [título] [link] [sufijo]</es></entry>
     <entry>
         <key>[prefix] [title] [link] [default text] [postfix]</key>
         <en>[prefix] [title] [link] [default text] [postfix]</en>
@@ -747,7 +751,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Prefix] [title] [link] [Standardtext] [Postfix]</de>
         <it>[Prefisso] [titolo] [link] [testo predefinito] [Postfix]</it>
         <ur>[اپسرگ] [عنوان] [لنک] [ڈیفالٹ ٹیکسٹ] [postfix]</ur>
-    </entry>
+    <es>[prefijo] [título] [link] [texto predeterminado] [sufijo]</es></entry>
     <entry>
         <key>[prefix] [default text] [link] [postfix]</key>
         <en>[prefix] [default text] [link] [postfix]</en>
@@ -766,7 +770,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Prefix] [Standardtext] [link] [Postfix]</de>
         <it>[Prefisso] [testo predefinito] [link] [suffisso]</it>
         <ur>[اپسرگ] [ڈیفالٹ ٹیکسٹ] [لنک] [postfix]</ur>
-    </entry>
+    <es>[prefijo] [texto predeterminado] [link] [sufijo]</es></entry>
     <entry>
         <key>[truncated_content] [link]</key>
         <en>[truncated_content] [link]</en>
@@ -785,7 +789,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Truncated_content] [link]</de>
         <it>[Truncated_content] [link]</it>
         <ur>[truncated_content] [لنک]</ur>
-    </entry>
+    <es>[contenido_truncado] [lnk]</es></entry>
     <entry>
         <key>[truncated_content]</key>
         <en>[truncated_content]</en>
@@ -804,7 +808,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Truncated_content]</de>
         <it>[Truncated_content]</it>
         <ur>[truncated_content]</ur>
-    </entry>
+    <es>[contenido_truncado]</es></entry>
     <entry>
         <key>[content]</key>
         <en>[content]</en>
@@ -823,7 +827,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Inhalt]</de>
         <it>[contenuto]</it>
         <ur>[مواد]</ur>
-    </entry>
+    <es>[contenido]</es></entry>
     <entry>
         <key>[content] [link]</key>
         <en>[content] [link]</en>
@@ -842,7 +846,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Content] [link]</de>
         <it>[Content] [link]</it>
         <ur>[مواد] [لنک]</ur>
-    </entry>
+    <es>[contenido] [link]</es></entry>
     <entry>
         <key>[title] [default text] [link]</key>
         <en>[title] [default text] [link]</en>
@@ -861,7 +865,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Title] [default text] [link]</de>
         <it>[Titolo] [testo predefinito] [link]</it>
         <ur>[عنوان] [ڈیفالٹ ٹیکسٹ] [لنک]</ur>
-    </entry>
+    <es>[título] [texto predeterminado] [link]</es></entry>
     <entry>
         <key>[title] [truncated content] [link]</key>
         <en>[title] [truncated content] [link]</en>
@@ -880,7 +884,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Title] [abgeschnitten content] [link]</de>
         <it>[Titolo] [contenuto troncato] [link]</it>
         <ur>[عنوان] [مقطوع مواد] [لنک]</ur>
-    </entry>
+    <es>[título] [contenido truncado] [link]</es></entry>
     <entry>
         <key>[title] [content] [link]</key>
         <en>[title] [content] [link]</en>
@@ -899,7 +903,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Title] [content] [link]</de>
         <it>[Titolo] [content] [link]</it>
         <ur>[عنوان] [مواد] [لنک]</ur>
-    </entry>
+    <es>[título] [contenido] [link]</es></entry>
     <entry>
         <key>[default text]</key>
         <en>[default text]</en>
@@ -918,7 +922,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Default text]</de>
         <it>[Testo predefinito]</it>
         <ur>[ڈیفالٹ ٹیکسٹ]</ur>
-    </entry>
+    <es>[texto predeterminado]</es></entry>
     <entry>
         <key>Default Text</key>
         <en>Default Text</en>
@@ -937,7 +941,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Standardtext</de>
         <it>Testo predefinito</it>
         <ur>طے شدہ متن</ur>
-    </entry>
+    <es>Texto Predeterminado</es></entry>
     <entry>
         <key>Not Set</key>
         <en>Not Set</en>
@@ -956,7 +960,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Nicht eingestellt</de>
         <it>Non impostato</it>
         <ur>سیٹ نہیں ہے</ur>
-    </entry>
+    <es>No Configurado</es></entry>
     <entry>
         <key>Prefix</key>
         <en>Prefix</en>
@@ -975,7 +979,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Präfix</de>
         <it>Prefisso</it>
         <ur>اپسرگ</ur>
-    </entry>
+    <es>Prefijo</es></entry>
     <entry>
         <key>Postfix</key>
         <en>Postfix</en>
@@ -994,7 +998,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Postfix</de>
         <it>Postfix</it>
         <ur>Postfix</ur>
-    </entry>
+    <es>Sufijo</es></entry>
     <entry>
         <key>Filters</key>
         <en>Filters</en>
@@ -1013,7 +1017,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Filter</de>
         <it>filtri</it>
         <ur>فلٹرز</ur>
-    </entry>
+    <es>Filtros</es></entry>
     <entry>
         <key>Filters let you include or exclude content containing certain words</key>
         <en>Filters let you include or exclude content containing certain words</en>
@@ -1032,7 +1036,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Mit Filtern können Sie ein- oder ausschließen Inhalte, die bestimmte Wörter</de>
         <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
         <ur>فلٹرز آپ شامل یا مخصوص الفاظ استعمال مواد خارج کرنے دو</ur>
-    </entry>
+    <es>Filtros le permite incluir o excluir contenido que contenga ciertas palabras</es></entry>
     <entry>
         <key>Only Include</key>
         <en>Only Include</en>
@@ -1051,7 +1055,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Nur Fügen</de>
         <it>solo Includere</it>
         <ur>صرف شامل</ur>
-    </entry>
+    <es>Solo Incluir</es></entry>
     <entry>
         <key>Exclude</key>
         <en>Exclude</en>
@@ -1070,7 +1074,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Ausschließen</de>
         <it>Escludere</it>
         <ur>علیحدہ کر دیں</ur>
-    </entry>
+    <es>Excluir</es></entry>
     <entry>
         <key>+ Add Another Filter</key>
         <en>+ Add Another Filter</en>
@@ -1089,7 +1093,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>+ Weiteren Filter hinzufügen</de>
         <it>+ Aggiungere un altro filtro</it>
         <ur>+ ایک اور فلٹر شامل کریں</ur>
-    </entry>
+    <es>+ Añadir Otro Filtro</es></entry>
     <entry>
         <key>Tracking Tags</key>
         <en>Tracking Tags</en>
@@ -1108,7 +1112,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Tracking-Tags</de>
         <it>tag di monitoraggio</it>
         <ur>ٹریکنگ ٹیگز</ur>
-    </entry>
+    <es>Etiquetas de Seguimiento</es></entry>
     <entry>
         <key>Tracking tags let you include Google Analytics and Omniture tags to your content.</key>
         <en>Tracking tags let you include Google Analytics and Omniture tags to your content.</en>
@@ -1127,7 +1131,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Tracking-Tags können Sie umfassen Google Analytics und Omniture-Tags, um Ihre Inhalte.</de>
         <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
         <ur>ٹریکنگ ٹیگز آپ کو آپ کے مواد کے لئے گوگل کے تجزیات اور Omniture ٹیگز شامل ہونے دیں.</ur>
-    </entry>
+    <es>Etiquetas de Seguimiento le permite incluir etiquetas de Google Analytics y Omniture a su contenido.</es></entry>
     <entry>
         <key>Google Analytics</key>
         <en>Google Analytics</en>
@@ -1146,7 +1150,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Google Analytics</de>
         <it>statistiche di Google</it>
         <ur>گوگل کے تجزیات</ur>
-    </entry>
+    <es>Google Analytics</es></entry>
     <entry>
         <key>Other Tags</key>
         <en>Other Tags</en>
@@ -1165,7 +1169,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Andere Tags</de>
         <it>Tags</it>
         <ur>دیگر ٹیگز</ur>
-    </entry>
+    <es>Otras Etiquetas</es></entry>
     <entry>
         <key>Key – Value</key>
         <en>Key – Value</en>
@@ -1184,7 +1188,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Schlüsselwert</de>
         <it>Valore chiave</it>
         <ur>کلیدی - ویلیو</ur>
-    </entry>
+    <es>Llave - Valor</es></entry>
     <entry>
         <key>Publication Limits</key>
         <en>Publication Limits</en>
@@ -1203,7 +1207,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Veröffentlichung Limits</de>
         <it>Limiti Pubblicazione</it>
         <ur>اشاعت کی حدود</ur>
-    </entry>
+    <es>Límites de Publicación</es></entry>
     <entry>
         <key>Set maximum number of messages for certain time periods, intervals, etc. Note: changing these may impact SocialFlow's ability to optimize content.</key>
         <en>Set maximum number of messages for certain time periods, intervals, etc. Note: changing these may impact SocialFlow's ability to optimize content.</en>
@@ -1222,7 +1226,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Legt die maximale Anzahl von Nachrichten für bestimmte Zeiträume, Intervalle usw. Hinweis: Ändern können diese SocialFlow die Fähigkeit, Inhalte zu optimieren auswirken.</de>
         <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <ur>مخصوص وقت کے ادوار، وقفے، وغیرہ کے لئے پیغامات کی زیادہ سے زیادہ تعداد مقرر کریں نوٹ: ان کے مواد کو بہتر کرنے کے SocialFlow کی صلاحیت پر اثر انداز ہو سکتا ہے کو تبدیل کرنے کے.</ur>
-    </entry>
+    <es>Establezca el número máximo de mensajes para determinados períodos de tiempo, intervalos, etc. Nota: estos cambios puede afectar la capacidad de SocialFlow para optimizar contenido.</es></entry>
     <entry>
         <key>[truncated_title][link]</key>
         <en>[truncated_title][link]</en>
@@ -1241,7 +1245,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Truncated_title] [link]</de>
         <it>[Truncated_title] [link]</it>
         <ur>[truncated_title] [لنک]</ur>
-    </entry>
+    <es>[título_truncado][link]</es></entry>
     <entry>
         <key>[truncated_title]</key>
         <en>[truncated_title]</en>
@@ -1260,7 +1264,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>[Truncated_title]</de>
         <it>[Truncated_title]</it>
         <ur>[truncated_title]</ur>
-    </entry>
+    <es>título_truncado</es></entry>
     <entry>
         <key>utm_source</key>
         <en>utm_source</en>
@@ -1279,7 +1283,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>utm_source</de>
         <it>utm_source</it>
         <ur>utm_source</ur>
-    </entry>
+    <es>utm_source</es></entry>
     <entry>
         <key>utm_medium</key>
         <en>utm_medium</en>
@@ -1298,7 +1302,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>utm_medium</de>
         <it>utm_medium</it>
         <ur>utm_medium</ur>
-    </entry>
+    <es>utm_medium</es></entry>
     <entry>
         <key>utm_campaign</key>
         <en>utm_campaign</en>
@@ -1317,7 +1321,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>utm_campaign</de>
         <it>utm_campaign</it>
         <ur>utm_campaign</ur>
-    </entry>
+    <es>utm_campaign</es></entry>
     <entry>
         <key>utm_content</key>
         <en>utm_content</en>
@@ -1336,7 +1340,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>utm_content</de>
         <it>utm_content</it>
         <ur>utm_content</ur>
-    </entry>
+    <es>utm_content</es></entry>
     <entry>
         <key>utm_link</key>
         <en>utm_link</en>
@@ -1355,7 +1359,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>utm_link</de>
         <it>utm_link</it>
         <ur>utm_link</ur>
-    </entry>
+    <es>utm_link</es></entry>
     <entry>
         <key>Reset All to Optimized</key>
         <en>Reset All to Optimized</en>
@@ -1374,7 +1378,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Alle zurücksetzen auf Optimized</de>
         <it>Ripristina tutto per ottimizzato</it>
         <ur>آپٹمائزڈ لئے تمام ری سیٹ کر دیں</ur>
-    </entry>
+    <es>Reconfigurar Todo a Optimizado</es></entry>
     <entry>
         <key>Reset to Optimized</key>
         <en>Reset to Optimized</en>
@@ -1393,7 +1397,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Zurücksetzen auf Optimiert</de>
         <it>Ripristina ottimizzata</it>
         <ur>آپٹمائزڈ کرنا ری سیٹ کر دیں</ur>
-    </entry>
+    <es>Reconfigurado a Optimizado</es></entry>
     <entry>
         <key>Max Messages per day</key>
         <en>Max Messages per day</en>
@@ -1412,7 +1416,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Max Nachrichten pro Tag</de>
         <it>Max messaggi al giorno</it>
         <ur>فی دن زیادہ سے زیادہ پیغامات</ur>
-    </entry>
+    <es>Máximo de Mensajes por Día</es></entry>
     <entry>
         <key>Enter the maximum number of messages that can be published in 1 day</key>
         <en>Enter the maximum number of messages that can be published in 1 day</en>
@@ -1431,7 +1435,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Geben Sie die maximale Anzahl von Nachrichten, die an 1 Tag veröffentlicht werden können</de>
         <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 giorno</it>
         <ur>1 دن میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
-    </entry>
+    <es>Inserte el número máximo de mensajes que pueden ser publicados en 1 día</es></entry>
     <entry>
         <key>Max Messages Per Hour</key>
         <en>Max Messages Per Hour</en>
@@ -1450,7 +1454,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Max Nachrichten pro Stunde</de>
         <it>Max messaggi all'ora</it>
         <ur>فی گھنٹہ زیادہ سے زیادہ پیغامات</ur>
-    </entry>
+    <es>Máximo de Mensajes Por Hora</es></entry>
     <entry>
         <key>Enter the maximum number of messages that can be published in 1 hour</key>
         <en>Enter the maximum number of messages that can be published in 1 hour</en>
@@ -1469,7 +1473,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Geben Sie die maximale Anzahl der Nachrichten, die in 1 Stunde veröffentlicht werden können</de>
         <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 ora</it>
         <ur>1 گھنٹے میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
-    </entry>
+    <es>Inserte el número máximo de mensajes que pueden ser publicados en 1 hora</es></entry>
     <entry>
         <key>Message Window</key>
         <en>Message Window</en>
@@ -1488,7 +1492,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Nachrichtenfenster</de>
         <it>finestra dei messaggi</it>
         <ur>پیغام ونڈو</ur>
-    </entry>
+    <es>Ventana de Mensajes</es></entry>
     <entry>
         <key>Publish Between</key>
         <en>Publish Between</en>
@@ -1507,7 +1511,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>veröffentlichen Zwischen</de>
         <it>pubblicare Tra</it>
         <ur>درمیان شائع</ur>
-    </entry>
+    <es>Publicar Entre</es></entry>
     <entry>
         <key>and</key>
         <en>and</en>
@@ -1526,7 +1530,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>und</de>
         <it>e</it>
         <ur>اور</ur>
-    </entry>
+    <es>y</es></entry>
     <entry>
         <key>Minimum Message Interval</key>
         <en>Minimum Message Interval</en>
@@ -1545,7 +1549,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Mindestmeldungsintervall</de>
         <it>Minimo Messaggio Intervallo</it>
         <ur>کم از کم کے پیغام وقفہ</ur>
-    </entry>
+    <es>Intervalo Mínimo de Mensaje</es></entry>
     <entry>
         <key>Enter the number of minutes that must elapse between messages</key>
         <en>Enter the number of minutes that must elapse between messages</en>
@@ -1564,7 +1568,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Geben Sie die Anzahl der Minuten sthat zwischen Nachrichten verstreichen muss,</de>
         <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
         <ur>پیغامات درمیان گزر جانا چاہیے کہ منٹ کی تعداد درج کریں</ur>
-    </entry>
+    <es>Inserte el número de minutos que debe pasar entre mensajes</es></entry>
     <entry>
         <key>Prevent Collisions</key>
         <en>Prevent Collisions</en>
@@ -1583,7 +1587,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Prevent Collisions</de>
         <it>evitare collisioni</it>
         <ur>روک تھام کوللسانس</ur>
-    </entry>
+    <es>Prevenir Colisiones</es></entry>
     <entry>
         <key>When multiple messages are set to "Publish Now" and are imported simultaneously, you can set one or more messages to publish right away. The remaining messages (if applicable) will be set to "hold" status. </key>
         <en>When multiple messages are set to "Publish Now" and are imported simultaneously, you can set one or more messages to publish right away. The remaining messages (if applicable) will be set to "hold" status. </en>
@@ -1602,7 +1606,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Wenn mehrere Nachrichten werden auf "Jetzt veröffentlichen" und werden gleichzeitig importiert haben, können Sie eine oder mehrere Nachrichten setzen, sofort zu veröffentlichen. Die übrigen Meldungen (falls vorhanden) wird auf "Halten" Status.</de>
         <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
         <ur>ایک سے زیادہ پیغامات "اب شائع" کی تیاری میں ہیں اور ساتھ ہی درآمد کر رہے ہیں تو، آپ کو فورا شائع کرنے میں ایک یا زیادہ پیغامات کو مقرر کر سکتے ہیں. باقی پیغامات (قابل اطلاق ہو) کی حیثیت "پکڑ" کے لئے مقرر کیا جائے گا.</ur>
-    </entry>
+    <es>Cuando multiples mensajes están configurados como "Publicar Ahora" y son importados simultaneamente, usted puede configurar uno o más mensajes como publicar inmediatamente. Los mensajes restantes (si aplica) serán configurados como "aguardar".</es></entry>
     <entry>
         <key>Send</key>
         <en>Send</en>
@@ -1621,7 +1625,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Senden</de>
         <it>Inviare</it>
         <ur>حساب</ur>
-    </entry>
+    <es>Enviar</es></entry>
     <entry>
         <key>1 Message</key>
         <en>1 Message</en>
@@ -1640,7 +1644,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>1 Nachricht</de>
         <it>1 messaggio</it>
         <ur>1 پیغام</ur>
-    </entry>
+    <es>1 Mensaje</es></entry>
     <entry>
         <key>2 Messages</key>
         <en>2 Messages</en>
@@ -1659,7 +1663,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>2 Nachrichten</de>
         <it>2 Messaggi</it>
         <ur>2 پیغامات</ur>
-    </entry>
+    <es>2 Mensajes</es></entry>
     <entry>
         <key>Send all messages (not recommended)</key>
         <en>Send all messages (not recommended)</en>
@@ -1678,6 +1682,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <de>Senden Sie alle Nachrichten (nicht empfohlen)</de>
         <it>Inviare tutti i messaggi (non raccomandato)</it>
         <ur>تمام پیغامات (سفارش کی نہیں)</ur>
-    </entry>
+    <es>Enviar todos los mensajes (no recomendado)</es></entry>
     <section>settings_app_edit_content_sourc</section>
 </translations>
