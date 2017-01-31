@@ -129,7 +129,7 @@
         <key>On</key>
         <en>On</en>
         <ja>On</ja>
-        <pt>On</pt>
+        <pt>Ativa</pt>
         <zh-CN>开</zh-CN>
         <fr>Sur</fr>
         <ar>على</ar>
@@ -150,7 +150,7 @@
         <key>Off</key>
         <en>Off</en>
         <ja>Off</ja>
-        <pt>Off</pt>
+        <pt>Inativa</pt>
         <zh-CN>关</zh-CN>
         <fr>De</fr>
         <ar>إيقاف</ar>
@@ -465,7 +465,7 @@
         <key>View All Content Sources</key>
         <en>View All Content Sources</en>
         <ja>全てのコンテンツソースを見る</ja>
-        <pt>Ver TODAS as Fontes de Conteúdo</pt>
+        <pt>Ver Todas as Fontes de Conteúdo</pt>
         <zh-CN>查看所有内容源</zh-CN>
         <fr>Voir toutes les sources de contenu</fr>
         <ar>عرض جميع مصادر المحتوى</ar>

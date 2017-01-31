@@ -23,3 +23,4 @@ translation stuff for socialflow
 ## Languages Completed:
 - Chinese (simplified)
 - Spanish
+- Portuguese
