@@ -843,7 +843,7 @@
         <key>No Search Terms</key>
         <en>No Search Terms</en>
         <ja>検索する言葉がありません</ja>
-        <pt>Sem termos de busca</pt>
+        <pt>Sem termos de pesquisa</pt>
         <zh-CN>没有搜索条款</zh-CN>
         <fr>Aucun Termes de recherche</fr>
         <ar>لا مصطلحات البحث</ar>
@@ -864,7 +864,7 @@
         <key>Please enter text to search</key>
         <en>Please enter text to search</en>
         <ja>検索する文字を入力してください</ja>
-        <pt>Por favor, insira texto para busca</pt>
+        <pt>Por favor, insira texto para pesquisar</pt>
         <zh-CN>请输入要搜索的文本</zh-CN>
         <fr>S'il vous plaît saisir du texte à la recherche</fr>
         <ar>الرجاء إدخال النص للبحث</ar>

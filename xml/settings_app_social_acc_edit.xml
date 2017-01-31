@@ -360,7 +360,7 @@
         <key>Limit Duplication</key>
         <en>Limit Duplication</en>
         <ja>重複を制限</ja>
-        <pt>Duplicação do Limite</pt>
+        <pt>Limite de Duplicação</pt>
         <zh-CN>限制复制</zh-CN>
         <fr>Limite Duplication</fr>
         <ar>الحد الازدواجية</ar>
@@ -675,7 +675,7 @@
         <key>Remove this account</key>
         <en>Remove this account</en>
         <ja>このアカウントを削除</ja>
-        <pt>Remover esta conta</pt>
+        <pt>Excluir esta conta</pt>
         <zh-CN>删除此帐号</zh-CN>
         <fr>Supprimer le compte</fr>
         <ar>ازالة الحساب</ar>
