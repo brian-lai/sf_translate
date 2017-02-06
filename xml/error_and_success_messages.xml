@@ -12,7 +12,7 @@
         <ko>멀게 ... 뭔가 대기열을 검색하는 문제가 있습니다.</ko>
         <bn>Hmmmmm ... কোনো কিছু আপনার কিউ পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
         <ru>Hmmmmm ... Что-то пошло не так получении вашей очереди.</ru>
-        <sq>Hmmmmm ... Diçka ka shkuar keq retrieving radhë tuaj.</sq>
+        <sq>Hmmmmm ... Diçka ka shkuar keq nderkohe qe lista juaj behet gati.</sq>
         <it>Hmmmmm ... Qualcosa è andato storto recuperare la coda.</it>
         <de>Hmmmmm ... Etwas schief gegangen Warteschlange abgerufen werden.</de>
         <it>Hmmmmm ... Qualcosa è andato storto recuperare la coda.</it>
@@ -50,7 +50,7 @@
         <ko>당신은 당신의 계정 제한에 있습니다. 계정을 추가하는 업그레이드 버튼을 클릭하십시오.</ko>
         <bn>আপনি আপনার একাউন্ট সীমাতে রয়েছেন. আরো অ্যাকাউন্ট যোগ করার জন্য আপগ্রেড বাটন ক্লিক করুন.</bn>
         <ru>Вы находитесь на свой лимит счета. Пожалуйста, нажмите кнопку обновления, чтобы добавить несколько учетных записей.</ru>
-        <sq>Ju jeni në kufirin e llogarisë suaj. Ju lutem klikoni butonin përmirësuar për të shtuar më shumë llogari.</sq>
+        <sq>Ju jeni në kufirin e llogarisë suaj. Ju lutem klikoni butonin e përmirësimit për të shtuar më shumë llogari.</sq>
         <it>Sei al tuo limite conto. Si prega di fare clic sul pulsante di aggiornamento per aggiungere più account.</it>
         <de>Sie befinden sich in Ihrem Konto zu begrenzen. Bitte klicken Sie auf die Schaltfläche Upgrade, um weitere Konten hinzufügen.</de>
         <it>Sei al tuo limite conto. Si prega di fare clic sul pulsante di aggiornamento per aggiungere più account.</it>
@@ -69,7 +69,7 @@
         <ko>성공! 귀하의 메시지가 최대한 빨리 게시됩니다!</ko>
         <bn>সাফল্য! আপনার বার্তা যত শীঘ্র সম্ভব প্রকাশ করা হবে!</bn>
         <ru>Успех! Ваше сообщение будет публиковать как можно скорее!</ru>
-        <sq>Sukses! Mesazhi juaj do të publikojë ASAP!</sq>
+        <sq>Sukses! Mesazhi juaj do të publikohet sa me shpejt!</sq>
         <it>Successo! Il tuo messaggio pubblicherà al più presto!</it>
         <de>Erfolg! Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
         <it>Successo! Il tuo messaggio pubblicherà al più presto!</it>
@@ -126,7 +126,7 @@
         <ko>사용자는 저장합니다. 이 사용자에 대한 설정이 저장되었습니다.</ko>
         <bn>ব্যবহারকারী সংরক্ষিত. এই ব্যবহারকারীর জন্য সেটিংস সংরক্ষণ করা হয়েছে.</bn>
         <ru>Сохраненный пользователя. Настройки для этого пользователя сохранены.</ru>
-        <sq>User ruajtura. Cilësimet për këtë përdorues kanë qenë të ruajtur.</sq>
+        <sq>Perdoruesi u ruajt. Opsionet për këtë përdorues u ruajten.</sq>
         <it>Salvato utente. Le impostazioni per questo utente sono state salvate.</it>
         <de>Benutzer gespeichert. Einstellungen für diesen Benutzer gespeichert wurden.</de>
         <it>Salvato utente. Le impostazioni per questo utente sono state salvate.</it>
@@ -138,15 +138,15 @@
         <ja>メッセージが長過ぎます。 Twitter で公開するメッセージは最長 140 文字までです。</ja>
         <pt>Sua mensagem é muito longa. Sua mensagem é limitada a 140 caracteres ao publicar no Twitter.</pt>
         <zh-CN>您的留言太长。发布到Twitter时，你的信息被限制在140个字符。</zh-CN>
-        <fr>Votre message est trop long. Votre message est limité à 140 caractères lors de la publication à Twitter.</fr>
+        <fr>Votre message est trop long. Votre message est limité à 140 caractères quand publié sur Twitter.</fr>
         <ar>رسالتك طويلة جدا. يقتصر رسالة إلى 140 حرفا عند نشر على تويتر.</ar>
         <zh-TW>您的留言太長。發布到Twitter時，你的信息被限制在140個字符。</zh-TW>
         <hi>आपका संदेश बहुत लंबा है। जब ट्विटर पर प्रकाशन आपका संदेश 140 अक्षरों तक सीमित है।</hi>
         <ko>귀하의 메시지가 너무 깁니다. 트위터에 게시 할 때 메시지는 140 자로 제한됩니다.</ko>
         <bn>আপনার বার্তাটি অত্যন্ত দীর্ঘ. যখন টুইটারে প্রকাশ আপনার বার্তা 140 অক্ষরের মধ্যে সীমিত আছে.</bn>
         <ru>Ваше сообщение слишком длинное. Ваше сообщение ограничено 140 символами при публикации в Twitter.</ru>
-        <sq>Mesazhi juaj është shumë e gjatë. Mesazhi juaj është e kufizuar në 140 karaktere, kur botuese në Twitter.</sq>
-        <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <sq>Mesazhi juaj është shumë i gjatë. Mesazhi juaj është i kufizuar në 140 karaktere, kur postohet në Twitter.</sq>
+        <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri quando e stato pubblicato su Twitter.</it>
         <de>Ihre Nachricht ist zu lang. Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
         <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
         <ur>آپ کا پیغام بہت طویل ہے. فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
@@ -164,7 +164,7 @@
         <ko>성공 메시지가 삭제되었습니다.</ko>
         <bn>সাফল্য আপনার বার্তা মুছে ফেলা হয়েছে.</bn>
         <ru>Успех ваши сообщения были удалены.</ru>
-        <sq>Suksesi mesazhet janë fshirë.</sq>
+        <sq>Sukses! Mesazhet janë fshirë.</sq>
         <it>Successo i messaggi sono stati cancellati.</it>
         <de>Erfolg Ihre Nachrichten wurden gelöscht.</de>
         <it>Successo i messaggi sono stati cancellati.</it>
@@ -183,7 +183,7 @@
         <ko>성공 메시지 보류를 표시했다.</ko>
         <bn>সাফল্য আপনার বার্তা ধরে চিহ্নিত করা হয়েছিল.</bn>
         <ru>Успех ваши сообщения были отмечены захват.</ru>
-        <sq>Suksesi mesazhet u shënuan mbajë.</sq>
+        <sq>Sukses! Mesazhet u shënuan ne listen e mbatjesë.</sq>
         <it>Successo tuoi messaggi sono stati contrassegnati attesa.</it>
         <de>Erfolg Ihre Nachrichten wurden markiert halten.</de>
         <it>Successo tuoi messaggi sono stati contrassegnati attesa.</it>
@@ -195,15 +195,15 @@
         <ja>成功! メッセージが最適化にマークされました。</ja>
         <pt>Sucesso! Suas mensagens foram marcadas para otimização.</pt>
         <zh-CN>成功! 您的邮件被标记了优化。</zh-CN>
-        <fr>Successed vous envoyer de messages ont été marqués optimisé.</fr>
+        <fr>Succès! Vos messages sont marqués comme étant optimisés.</fr>
         <ar>وتميزت الأمثل الرسائل Successed لك.</ar>
         <zh-TW>Successed你的郵件被標記了優化。</zh-TW>
         <hi>Successed आप संदेशों को अनुकूलित चिह्नित किया गया।</hi>
         <ko>Successed 당신이 메시지는 최적화 된 표시했다.</ko>
         <bn>Successed আপনাকে বার্তা অপ্টিমাইজ চিহ্নিত করা হয়েছিল.</bn>
         <ru>Вам сообщения В случае успешного были отмечены оптимизированы.</ru>
-        <sq>ju mesazhe successed u shënuan optimizuar.</sq>
-        <it>Successed messaggi che sono stati segnati ottimizzato.</it>
+        <sq>Sukses! Mesazhet jane shenuar per tu optimizua dhe zgjedhur opsionin me te mire..</sq>
+        <it>Successo!i messaggi sono contrassegnati come ottimizzato.</it>
         <de>Successed Sie Nachrichten wurden optimiert markiert.</de>
         <it>Successed messaggi che sono stati segnati ottimizzato.</it>
         <ur>کامیابی! آپ کے پیغامات مرضی کے نشان لگا دیا گیا تھا.</ur>
@@ -214,15 +214,15 @@
         <ja>成功 メッセージが予約されました。</ja>
         <pt>Sucesso. Suas mensagens foram agendadas.</pt>
         <zh-CN>成功! 您的消息已定。</zh-CN>
-        <fr>Succès Votre message a été prévu.</fr>
+        <fr>Succès! Votre message a été prévu.</fr>
         <ar>وكان من المقرر نجاح رسالتك.</ar>
         <zh-TW>成功的消息已定。</zh-TW>
         <hi>सफलता के लिए अपने संदेश निर्धारित किया गया है।</hi>
         <ko>성공 메시지가 예정되어 있습니다.</ko>
         <bn>সাফল্য আপনার বার্তা নির্ধারিত হয়েছে.</bn>
         <ru>Успех ваше сообщение было запланировано.</ru>
-        <sq>Suksesi mesazhi juaj ka qenë e planifikuar.</sq>
-        <it>Il successo il messaggio è stato programmato.</it>
+        <sq>Sukses! Mesazhi juaj eshte planifikuar.</sq>
+        <it>Successo! il messaggio è stato programmato.</it>
         <de>Erfolg Ihre Nachricht wurde geplant.</de>
         <it>Il successo il messaggio è stato programmato.</it>
         <ur>کامیابی! آپ کا پیغام شیڈول کیا گیا ہے.</ur>
@@ -240,7 +240,7 @@
         <ko>어떤 피드 URL을 찾을 수 없습니다. 죄송합니다, 우리는 어떤 피드를 찾지 못했습니다.</ko>
         <bn>কোন ফিড URL পাওয়া. দুঃখিত, আমরা কোনো ফিড খুঁজে পান না.</bn>
         <ru>Нет подачи URLS не найдено. К сожалению, мы не нашли ни одного канала.</ru>
-        <sq>Nuk URLS ushqim gjetur. Na vjen keq, ne nuk kemi gjetur asnjë feeds.</sq>
+        <sq>URL i lajmit nuk gjehet. Na vjen keq, ne nuk kemi gjetur asnjë lajm.</sq>
         <it>Nessun URL dei feed trovato. Siamo spiacenti, ma non abbiamo trovato nessun feed.</it>
         <de>Keine Feed-URLs gefunden. Leider können wir finden konnten keine Feeds.</de>
         <it>Nessun URL dei feed trovato. Siamo spiacenti, ma non abbiamo trovato nessun feed.</it>
@@ -259,8 +259,8 @@
         <ko>계정 선택. 당신은이 피드를 추가하기 위해 적어도 하나의 계정을 선택해야합니다</ko>
         <bn>অ্যাকাউন্ট নির্বাচন করুন. আপনি এই ফিড যোগ করার জন্য অন্তত একটি অ্যাকাউন্ট নির্বাচন করতে হবে</bn>
         <ru>Выбор учетной записи. Вы должны выбрать по крайней мере одну учетную запись, чтобы добавить этот канал</ru>
-        <sq>Zgjidhni Llogaria. Ju duhet të zgjidhni të paktën një llogari për të shtuar këtë ushqim të</sq>
-        <it>Selezionare Account. È necessario selezionare almeno un account per aggiungere questo feed per</it>
+        <sq>Zgjidhni Llogarin. Ju duhet të zgjidhni të paktën një llogari për të shtuar këtë lajm në</sq>
+        <it>Seleziona il conto. È necessario selezionare almeno un conto per aggiungere questo notizia a</it>
         <de>Wählen Sie Konto. Sie müssen mindestens ein Konto wählen diesen Feed hinzufügen</de>
         <it>Selezionare Account. È necessario selezionare almeno un account per aggiungere questo feed per</it>
         <ur>منتخب اکاؤنٹ. تم اس فیڈ شامل کرنے کے لئے کم از کم ایک اکاؤنٹ کا انتخاب کرنا ہوگا</ur>
@@ -278,7 +278,7 @@
         <ko>피드 덧붙였다. 피드가 성공적으로 추가되었습니다.</ko>
         <bn>ফিড যোগ. ফিড সফলভাবে যোগ করা হয়েছে.</bn>
         <ru>добавлен поток. Подача была успешно добавлена.</ru>
-        <sq>Feed shtuar. Ushqim u shtua me sukses.</sq>
+        <sq>Lajmi u shtua. Lajmi eshte shtuar me sukses.</sq>
         <it>Feed aggiunto. L'alimentazione è stato aggiunto correttamente.</it>
         <de>Feed hinzugefügt. Das Futter wurde erfolgreich hinzugefügt.</de>
         <it>Feed aggiunto. L'alimentazione è stato aggiunto correttamente.</it>
@@ -298,7 +298,7 @@
         <bn>সাফল্য! আপনার তথ্য সংরক্ষণ করা হয়েছে!</bn>
         <ru>Успех! Ваша информация была сохранена!</ru>
         <sq>Sukses! Informacioni juaj u ruajt!</sq>
-        <it>Successo! I tuoi dati è stato salvato!</it>
+        <it>Successo! I tuoi dati sono stati salvati!</it>
         <de>Erfolg! Ihre Angaben wurden gespeichert!</de>
         <it>Successo! I tuoi dati è stato salvato!</it>
         <ur>کامیابی! آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
@@ -316,7 +316,7 @@
         <ko>사용자 초대 초대장 전송</ko>
         <bn>ব্যবহারকারী আমন্ত্রিত আমন্ত্রণ পাঠানো</bn>
         <ru>Пользователь Приглашенный Приглашение отправлено</ru>
-        <sq>User ftuar Ftesë dërguar në</sq>
+        <sq>Ftesa i perdoruesit u dërgua në</sq>
         <it>Utente invitato Invito spedito a</it>
         <de>User eingeladen Einladung verschickt an</de>
         <it>Utente invitato Invito spedito a</it>
@@ -341,8 +341,8 @@
         <ko>이메일 전송. 비밀번호 재설정 이메일이 전송되었습니다</ko>
         <bn>ইমেইল পাঠানো. পাসওয়ার্ড রিসেট ইমেল পাঠানো হয়েছে</bn>
         <ru>Письмо отправлено. Восстановление пароля электронной почты было отправлено</ru>
-        <sq>Email dërguar. email Fjalëkalimi rishkruhet është dërguar në</sq>
-        <it>Email inviata. email di reimpostazione password è stata inviata al</it>
+        <sq>Email u dërgua. Email i  Fjalëkalimit është dërguar në</sq>
+        <it>Email inviata. email di reimpostazione di  password è stata inviata al</it>
         <de>E-Mail gesendet. Passwort-Reset E-Mail wurde gesendet</de>
         <it>Email inviata. email di reimpostazione password è stata inviata al</it>
         <ur>ای میل بھیج دی گئ. پاس ورڈ دوبارہ ترتیب دینے کا ای میل بھیجا گیا ہے</ur>
@@ -360,7 +360,7 @@
         <ko>이메일 전송! 비밀번호를 재설정 이메일을 확인하시기 바랍니다.</ko>
         <bn>ইমেইল পাঠানো! আপনার পাসওয়ার্ড পুনরায় সেট করার জন্য আপনার ইমেইল চেক করুন.</bn>
         <ru>Письмо отправлено! Пожалуйста, проверьте свою электронную почту, чтобы сбросить пароль.</ru>
-        <sq>Email dërguar! Ju lutem kontrolloni email tuaj për të rivendosur fjalëkalimin tuaj.</sq>
+        <sq>Email u dërgua! Ju lutem kontrolloni email tuaj për të rivendosur fjalëkalimin tuaj.</sq>
         <it>Email inviata! Si prega di controllare la posta elettronica per reimpostare la password.</it>
         <de>E-Mail gesendet! Bitte überprüfen Sie Ihre E-Mail Ihr Passwort zurücksetzen können.</de>
         <it>Email inviata! Si prega di controllare la posta elettronica per reimpostare la password.</it>
@@ -379,7 +379,7 @@
         <ko>메시지 삭제. 메시지가 성공적으로 삭제되었습니다.</ko>
         <bn>বার্তা মুছে ফেলা. বার্তা সফলভাবে মুছে ফেলা হয়েছে.</bn>
         <ru>Сообщение удалено. Сообщение успешно удалено.</ru>
-        <sq>Mesazhi Deleted. Mesazhi ka qenë sukses fshirë.</sq>
+        <sq>Mesazhi u fshi. Mesazhi ka qenë fshirë me sukses.</sq>
         <it>Messaggio cancellato. Il messaggio è stato cancellato con successo.</it>
         <de>Nachricht gelöscht. Nachricht wurde erfolgreich gelöscht.</de>
         <it>Messaggio cancellato. Il messaggio è stato cancellato con successo.</it>
@@ -410,15 +410,15 @@
         <ja>うまく処理できませんでした ! Bitly の認証情報が無効です。確認の上、もう一度試してみてください。</ja>
         <pt>Um erro ocorreu!  Suas credenciais do bitly são inválidas. Por favor, verifique-as e tente novamente.</pt>
         <zh-CN>出了些问题！你bitly凭证无效，请验证它们，然后再试一次。</zh-CN>
-        <fr>Quelque-chose s'est mal passé! Vos informations d'identification ne sont pas valides bitly S'il vous plaît vérifier et essayer à nouveau.</fr>
+        <fr>Quelque-chose s'est mal passé! Vos informations d'identification bitly ne sont pas valides. S'il vous plaît vérifier et essayer à nouveau.</fr>
         <ar>حدث خطأ! أوراق bitly الخاص بك غير صالحة الرجاء التحقق منها وحاول مرة أخرى.</ar>
         <zh-TW>出了些問題！你bitly憑證無效，請驗證它們，然後再試一次。</zh-TW>
         <hi>कुछ गलत हो गया! आपका Bitly साख अवैध उन्हें सत्यापित करने और फिर से कोशिश करें रहे हैं।</hi>
         <ko>문제가 발생했습니다! 당신의 bitly 자격 증명을 확인하고 다시 시도하십시오 유효하지 않습니다.</ko>
         <bn>কিছু ভুল হয়েছে! আপনার bitly পরিচয়পত্র অবৈধ তাদের যাচাই করুন এবং আবার চেষ্টা করুন.</bn>
         <ru>Что-то пошло не так! Ваши Bitly учетные данные неверны Пожалуйста, подтвердите их и повторите попытку.</ru>
-        <sq>Dicka shkoi keq! Kredencialet tuaja bitly janë të pavlefshme Ju lutem verifikoni dhe të provoni përsëri.</sq>
-        <it>Qualcosa è andato storto! Le credenziali non sono valide bitly Controllare e riprova.</it>
+        <sq>Dicka shkoi keq! Kredencialet tuaja te bitly janë të pavlefshme Ju lutem verifikoni dhe provoni përsëri.</sq>
+        <it>Qualcosa è andato storto! Le credenziali di bitly non sono valide. per favore, Controlla e riprova.</it>
         <de>Etwas ist schief gelaufen! Ihre bitly Anmeldeinformationen sind ungültig Bitte überprüfen sie und versuchen Sie es erneut.</de>
         <it>Qualcosa è andato storto! Le credenziali non sono valide bitly Controllare e riprova.</it>
         <ur>کچھ غلط ہو گیا! آپ کا ہے bitly اسناد باطل ان کی توثیق کریں اور دوبارہ کوشش کریں.</ur>
@@ -455,7 +455,7 @@
         <ko>일정 날짜가 비어 있습니다. 일정 날짜를 입력 해주세요.</ko>
         <bn>সূচি তারিখ খালি. একটি সময়সূচী তারিখ লিখুন দয়া করে.</bn>
         <ru>дата Расписание пуст. Пожалуйста, введите дату расписания.</ru>
-        <sq>date Orari është bosh. Ju lutem shkruani një datë orar.</sq>
+        <sq>Orari është bosh. Ju lutem shkruani një datë orari.</sq>
         <it>data di pianificazione è vuota. Si prega di inserire una data di pianificazione.</it>
         <de>Geplantes Datum ist leer. Bitte geben Sie einen Zeitplan Datum.</de>
         <it>data di pianificazione è vuota. Si prega di inserire una data di pianificazione.</it>
@@ -474,8 +474,8 @@
         <ko>성공 메시지는 최적화 된 설정 대기열에 있습니다.</ko>
         <bn>সাফল্য আপনার বার্তা আপনার সারিতে অপ্টিমাইজ সেট রয়েছে.</bn>
         <ru>Успех ваше сообщение в очереди, чтобы установить оптимизировано.</ru>
-        <sq>Suksesi mesazhi juaj është në radhë tuaj të vendosur për të optimizuar.</sq>
-        <it>Successo messaggio è in coda insieme a ottimizzato.</it>
+        <sq>Sukses! mesazhi juaj është në radhë për tu zgjedhur ne momentin me mire. </sq>
+        <it>Successo! Il messaggio è in coda a essere ottimizzato.</it>
         <de>Der Erfolg Ihrer Nachricht ist in der Warteschlange gesetzt optimiert.</de>
         <it>Successo messaggio è in coda insieme a ottimizzato.</it>
         <ur>کامیابی! آپ کا پیغام مرضی کے لئے مقرر کیا آپ کی قطار میں ہے.</ur>
@@ -493,7 +493,7 @@
         <ko>불완전한 형태! 아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
         <bn>অসম্পূর্ণ রূপ! নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
         <ru>Неполная форма! Исправьте элементы, выделенные красным цветом ниже.</ru>
-        <sq>formë jo të plota! Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <sq>forma jo e plota! Ju lutemi të rregulloni sendet e theksuara me të kuqe më poshtë.</sq>
         <it>forma incompleta! Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <de>Unvollständige Form! Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>forma incompleta! Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
@@ -505,15 +505,15 @@
         <ja>成功! レポートが提出されました! もうすぐ出来上がります。</ja>
         <pt>Sucesso! Seu relatório foi enviado! Ele será completado em breve.</pt>
         <zh-CN>成功您的报告已提交！将完成不久。</zh-CN>
-        <fr>Le succès de votre rapport a été soumis! Sera complète sous peu.</fr>
+        <fr>Succès! de votre rapport a été soumis! Sera complète sous peu.</fr>
         <ar>وقد قدم نجاح التقرير الخاص بك! سيكتمل قريبا.</ar>
         <zh-TW>成功您的報告已提交！將完成不久。</zh-TW>
         <hi>सफलता के लिए अपनी रिपोर्ट प्रस्तुत किया गया है! शीघ्र ही पूरा हो जाएगा।</hi>
         <ko>성공 보고서가 제출되었습니다! 곧 완료됩니다.</ko>
         <bn>সাফল্য আপনার প্রতিবেদন জমা দেওয়া হয়েছে! খুব শীঘ্রই সম্পূর্ণ হবে.</bn>
         <ru>Успех ваш отчет был представлен! Будет завершена в ближайшее время.</ru>
-        <sq>Suksesi raporti juaj është dorëzuar! A do të jetë i plotë shpejti.</sq>
-        <it>Il successo il vostro rapporto è stato presentato! Sarà completata a breve.</it>
+        <sq>Sukses! Raporti juaj është dorëzuar! Do të jetë i plotë shpejti.</sq>
+        <it>Successo! Il vostro rapporto è stato presentato! Sarà completata a breve.</it>
         <de>Erfolg Ihr Bericht wurde gesendet! Wird in Kürze abgeschlossen sein.</de>
         <it>Il successo il vostro rapporto è stato presentato! Sarà completata a breve.</it>
         <ur>کامیابی! آپ کی رپورٹ جمع کرائی گئی ہے! کچھ ہی دیر مکمل ہو جائے گا.</ur>
@@ -531,7 +531,7 @@
         <ko>일시 중지</ko>
         <bn>বিরাম দেওয়া</bn>
         <ru>Приостановлена</ru>
-        <sq>ndaluar</sq>
+        <sq>Ne pauze</sq>
         <it>In pausa</it>
         <de>Pausiert</de>
         <it>In pausa</it>
@@ -550,7 +550,7 @@
         <ko>출판이 클라이언트 서비스를 일시 중지되었습니다</ko>
         <bn>প্রকাশনা এই গ্রাহক সেবা জন্য বিরতি দেওয়া হয়েছে</bn>
         <ru>Издательство было приостановлено на эту услугу клиента</ru>
-        <sq>Publishing është ndaluar për këtë shërbim të klientit</sq>
+        <sq>Postimi është ndaluar për këtë shërbim të klientit</sq>
         <it>Editoria è stato sospeso per questo servizio al cliente</it>
         <de>Publishing wurde für diesen Client-Dienst angehalten</de>
         <it>Editoria è stato sospeso per questo servizio al cliente</it>
@@ -588,7 +588,7 @@
         <ko>출판이 클라이언트 서비스를 재개되었습니다</ko>
         <bn>প্রকাশনা এই গ্রাহক সেবা জন্য চালু হয়েছে</bn>
         <ru>Издательство было возобновлено для этого обслуживания клиентов</ru>
-        <sq>Publishing ka rinisur për këtë shërbim të klientit</sq>
+        <sq>Postimi ka rinisur për këtë shërbim të klientit</sq>
         <it>Editoria è stato ripreso per questo servizio al cliente</it>
         <de>Publishing wurde für diesen Client-Dienst wieder aufgenommen</de>
         <it>Editoria è stato ripreso per questo servizio al cliente</it>

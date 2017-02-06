@@ -12,8 +12,8 @@
         <ko>[[[일본에 대한 정확한 날짜와 시간 형식은 무엇입니까? 예는 들어하는 월 / 일 또는 일 / 월입니다. 그들은 24 시간 또는 12 시간 시간을 사용하십니까?]]]</ko>
         <bn>[[[সঠিক তারিখ এবং সময় ফর্ম্যাট জাপান কী? উদাহরণস্বরূপ জন্য মাস / দিন অথবা দিন / মাস. ]]] তারা 24h সময় বা 12h সময় ব্যবহার করতে চান?</bn>
         <ru>[[[Что такое правильный формат даты и времени для Японии? Для экземпляра в месяц / день или день / месяц. они используют 24ч время или время 12h ли?]]]</ru>
-        <sq>[[[Cila është data e saktë dhe format koha për Japoninë? Për shembull është është muaji / dita ose ditë / muaj. A ata përdorin kohën 24h apo kohë 12h?]]]</sq>
-        <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
+        <sq>[[[Cila është data e saktë dhe formati kohor për Japoninë? Për shembull është është muaji / dita ose ditë / muaj. A përdoret koha 24h apo koha 12h?]]]</sq>
+        <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
         <de>[[[Was ist das richtige Datum und Zeitformat für Japan? Zum Beispiel ist Monat / Tag oder Tag / Monat. Haben sie den 24-Stunden oder 12 Stunden Zeit nutzen?]]]</de>
         <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
         <ur>[[[جاپان لئے صحیح تاریخ اور وقت کی شکل کیا ہے؟ مثال کے طور پر مہینہ / دن یا دن / ماہ یہ ہے. وہ 24H وقت یا 12H وقت استعمال کرتے ہیں؟]]]</ur>
@@ -32,7 +32,7 @@
         <bn>টুইটার অ্যাকাউন্ট</bn>
         <ru>счета Twitter</ru>
         <sq>llogaritë Twitter</sq>
-        <it>account Twitter</it>
+        <it>il Conto Twitter</it>
         <de>Twitter-Konten</de>
         <it>account Twitter</it>
         <ur>ٹویٹر اکاؤنٹس</ur>
@@ -51,7 +51,7 @@
         <bn>ফেসবুক অ্যাকাউন্ট</bn>
         <ru>Facebook счета</ru>
         <sq>llogaritë Facebook</sq>
-        <it>account di Facebook</it>
+        <it>Il Conto Facebook</it>
         <de>Facebook-Konten</de>
         <it>account di Facebook</it>
         <ur>فیس بک کے اکاؤنٹس</ur>
@@ -70,7 +70,7 @@
         <bn>পরিসংখ্যান লুকান</bn>
         <ru>Скрыть Статистика</ru>
         <sq>Fshih Statistika</sq>
-        <it>Hide Statistiche</it>
+        <it>nascondi Statistiche</it>
         <de>ausblenden Statistik</de>
         <it>Hide Statistiche</it>
         <ur>اعدادوشمار چھپائیں</ur>
@@ -127,7 +127,7 @@
         <bn>বন্ধ কম্পোজ</bn>
         <ru>Закрыть Compose</ru>
         <sq>Mbylle Shkruaj</sq>
-        <it>Chiudi Compose</it>
+        <it>Chiudi Scrivere</it>
         <de>Schließen Compose</de>
         <it>Chiudi Compose</it>
         <ur>تحریر بند کریں</ur>
@@ -183,7 +183,7 @@
         <ko>반환</ko>
         <bn>ফিরতি</bn>
         <ru>возврате</ru>
-        <sq>Pas kthimit</sq>
+        <sq>Duke u kthyert</sq>
         <it>ritornando</it>
         <de>Rückkehr</de>
         <it>ritornando</it>
@@ -203,7 +203,7 @@
         <bn>ইন্টারেক্টিভ</bn>
         <ru>интерактивный</ru>
         <sq>interaktiv</sq>
-        <it>Interactive</it>
+        <it>Interattivo</it>
         <de>Interactive</de>
         <it>Interactive</it>
         <ur>انٹرایکٹو</ur>
@@ -240,7 +240,7 @@
         <ko>대상 활동은 클릭 수, 트윗, 멘션, 리트 윗, 좋아요, 댓글, 공유를 포함한다.</ko>
         <bn>দর্শকের কর্মকাণ্ড ক্লিকে, টুইট, উল্লেখ, পুন, পছন্দ, মন্তব্য, এবং শেয়ার রয়েছে.</bn>
         <ru>Аудитория активность включает в себя клики, твиты, ретвиты упоминает, любит, комментарии и акции.</ru>
-        <sq>Audienca Aktiviteti përfshin klikimeve, tweets, përmend, retweets, pëlqen, komente, dhe aksionet.</sq>
+        <sq> Aktiviteti audiences përfshin klikimet, tweets, mentions, retweets, pëlqimet, komentet, dhe aksionet.</sq>
         <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
         <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
@@ -259,8 +259,8 @@
         <ko>우리는 충분한 데이터가있을 때, 우리는 당신의 청중에 대한 동향 용어를 보여줍니다.</ko>
         <bn>আমরা যথেষ্ট তথ্য আছে, আমরা আপনার দর্শকদের জন্য ট্রেন্ডিং পদ দেন.</bn>
         <ru>Когда у нас есть достаточно данных, мы показываем отклоняющиеся условия для вашей аудитории.</ru>
-        <sq>Kur kemi të dhëna të mjaftueshme, që tregojnë kushtet trending për audiencën tuaj.</sq>
-        <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
+        <sq>Kur kemi të dhëna të mjaftueshme, do tregojmë termat qe trenden për audiencën tuaj.</sq>
+        <it>Quando abbiamo dati sufficienti, ci mostreràmo i termini di tendenza per il pubblico.</it>
         <de>Wenn wir genug Daten haben, zeigen wir Trending Bedingungen für Ihr Publikum.</de>
         <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
         <ur>ہم نے کافی اعداد و شمار ہیں تو، ہم اپنے ناظرین کے لئے رجحان سازی کی اصطلاحات کو ظاہر.</ur>
@@ -278,7 +278,7 @@
         <ko>유행하는 용어를 생성하는 청중에 충분한 최근 활동이 없었다. 나중에 다시 확인하시기 바랍니다.</ko>
         <bn>সেখানে আপনার দর্শকদের যথেষ্ট সাম্প্রতিক কার্যকলাপ trending পদ জেনারেট ছিল না. পরে আবার চেক করুন.</bn>
         <ru>Там не было достаточно недавней активности в вашей аудитории, чтобы генерировать трендовые термины. Пожалуйста, повторите попытку позже.</ru>
-        <sq>Nuk ishte e mjaftueshme aktiviteti i kohëve të fundit në audiencën tuaj për të gjeneruar kushtet trending. Ju lutem kontrolloni sërish më vonë.</sq>
+        <sq>Nuk kishte mjaftueshem aktivitetit ne kohët e fundit në audiencën tuaj për të gjeneruar termat qe trenden. Ju lutem kontrolloni sërish më vonë.</sq>
         <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
         <de>Es gab nicht genug aktuellen Aktivitäten in Ihrem Publikum Trending Bedingungen zu generieren. Bitte überprüfen Sie es später erneut.</de>
         <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
@@ -297,8 +297,8 @@
         <ko>활성 포스트 생성 부족 잠재 활성이있다. 나중에 확인하시기 바랍니다.</ko>
         <bn>অপর্যাপ্ত শ্রোতা কার্যকলাপ সক্রিয় পোস্ট উৎপন্ন হয়. দয়া করে পরে চেক.</bn>
         <ru>Существует недостаточная активность аудитории генерировать активные сообщения. Пожалуйста, проверьте позже.</ru>
-        <sq>Nuk është aktiviteti i pamjaftueshëm audience të gjeneruar postimet aktive. Ju lutemi, kontrolloni me vone.</sq>
-        <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
+        <sq>Nuk është aktiviteti i mjaftueshëm nga audienca per të gjeneruar postimet aktive. Ju lutemi, kontrolloni me vone.</sq>
+        <it>Non ha attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
         <de>Es ist nicht genügend Publikum Aktivität Beiträge generieren. Bitte versuchen Sie es später.</de>
         <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
         <ur>فعال پیغامات پیدا کرنے کے لئے ناکافی سامعین سرگرمی نہیں ہے. بعد میں براہ مہربانی چیک کریں.</ur>
@@ -335,7 +335,7 @@
         <ko>관객 가용성, 역사적 언어 분석, 실시간 resonance.Learn AttentionScore ™에 대해 자세히 : 그들은 소셜 계정과 관련 세 가지 요소를보고 100 1 ~ 규모에서 콘텐츠와 SocialFlow AttentionScore ™ 가격 예측 잠재 고객 참여</ko>
         <bn>শ্রোতা প্রাপ্যতা, ঐতিহাসিক ভাষা বিশ্লেষণ, এবং রিয়েলটাইম resonance.Learn AttentionScore ™ সম্পর্কে আরো: যেমন তারা আপনার সামাজিক অ্যাকাউন্ট সঙ্গে সম্পর্কযুক্ত তিনটি কারণের দিকে তাকিয়ে থেকে 100 1 থেকে একটি স্কেল উপর আপনার কন্টেন্ট সঙ্গে SocialFlow AttentionScore ™ হার পূর্বাভাস শ্রোতার</bn>
         <ru>Ставки SocialFlow AttentionScore ™ предсказывал взаимодействие с аудиторией с содержанием по шкале от 1 до 100, глядя на три фактора, как они соотносятся с вашими социальными счетами: доступность аудитории, исторический анализ языка, и в режиме реального времени resonance.Learn Подробнее о AttentionScore ™</ru>
-        <sq>Angazhimi Normat SocialFlow AttentionScore ™ parashikuar audience me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike dhe realtime resonance.Learn Më shumë rreth AttentionScore ™</sq>
+        <sq>Normat e SocialFlow AttentionScore ™ parashikojn angazhimin e audiencen me postet tuaja në një shkallë nga 1 deri në 100, duke pare tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike dhe rezonanca ne kohen reale. Meso më shumë rreth AttentionScore ™</sq>
         <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
         <de>Die SocialFlow AttentionScore ™ Raten vorhergesagt Publikum Engagement mit dem Inhalt auf einer Skala von 1 bis 100 um drei Faktoren suchen, wie sie beziehen sich auf Ihre sozialen Konten: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-resonance.Learn Mehr über AttentionScore ™</de>
         <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
@@ -354,7 +354,7 @@
         <ko>큐 평균</ko>
         <bn>সারি গড়</bn>
         <ru>Очередь Средняя</ru>
-        <sq>Queue mesatare</sq>
+        <sq>Mesatarja rradhes</sq>
         <it>media coda</it>
         <de>Queue Durchschnitt</de>
         <it>media coda</it>
@@ -373,7 +373,7 @@
         <ko>게시 평균</ko>
         <bn>Published গড়</bn>
         <ru>Опубликован Средняя</ru>
-        <sq>publikuar mesatare</sq>
+        <sq>Mesatare publikimeve</sq>
         <it>pubblicato media</it>
         <de>Veröffentlicht Durchschnitt</de>
         <it>pubblicato media</it>
@@ -392,7 +392,7 @@
         <ko>재정렬을 일시 중지</ko>
         <bn>বিরাম পুনরায় সাজানোয়</bn>
         <ru>Пауза переупорядочивание</ru>
-        <sq>Ndalo reordering</sq>
+        <sq>Ndalo renditjen</sq>
         <it>Pausa Riordino</it>
         <de>Pause Neuordnen</de>
         <it>Pausa Riordino</it>
@@ -411,7 +411,7 @@
         <ko>시작 재정렬</ko>
         <bn>স্টার্ট পুনরায় সাজানোয়</bn>
         <ru>Начать изменение порядка</ru>
-        <sq>fillimi reordering</sq>
+        <sq>fillimi renditjes</sq>
         <it>Inizio Riordino</it>
         <de>Starten Sie neu ordnen</de>
         <it>Inizio Riordino</it>
@@ -487,7 +487,7 @@
         <ko>필터 및 업데이트 상태, 소스로보기, 정렬 순서를 조정합니다.</ko>
         <bn>ফিল্টার করুন এবং আপডেট অবস্থা, উৎস দ্বারা দৃশ্য, সাজানোর ক্রম সমন্বয়.</bn>
         <ru>Фильтр и изменение статуса, просмотр с помощью источника, отрегулируйте порядок сортировки.</ru>
-        <sq>Filter dhe përditësimin e statusit, pamje sipas burimit, të rregulluar rendin renditjes.</sq>
+        <sq>Filter dhe përditësimin e statusit, shiko sipas burimit, rregullo rendin e renditjes.</sq>
         <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
         <de>Filter und Update-Status, Anzeige nach Quelle, anpassen Sortierreihenfolge.</de>
         <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
@@ -753,7 +753,7 @@
         <ko>날짜 후 최적화 (오름차순)</ko>
         <bn>তারিখের পরে অনুকূলকৃত (আরোহী)</bn>
         <ru>Оптимизированный После Дата (по возрастанию)</ru>
-        <sq>Optimizuar Pas Date (rritëse)</sq>
+        <sq>Zgjidh opsionin me te mire Pas Date (rritëse)</sq>
         <it>Ottimizzato dopo Data (ascendente)</it>
         <de>Optimiert nach dem Datum (aufsteigend)</de>
         <it>Ottimizzato dopo Data (ascendente)</it>
@@ -791,7 +791,7 @@
         <ko>검색어를 입력</ko>
         <bn>একটি অনুসন্ধান শব্দ লিখুন</bn>
         <ru>Введите поисковый запрос</ru>
-        <sq>Jepni një zë kërkimi</sq>
+        <sq>Kerkoni nje term</sq>
         <it>Inserire un termine di ricerca</it>
         <de>Geben Sie einen Suchbegriff</de>
         <it>Inserire un termine di ricerca</it>
@@ -810,8 +810,8 @@
         <ko>공개 일 전</ko>
         <bn>Published দিন (গুলি) আগে</bn>
         <ru>Опубликован день (ы) назад</ru>
-        <sq>(s) publikuar më parë</sq>
-        <it>giorno Pubblicato (s) fa</it>
+        <sq>Publikuar dite më parë</sq>
+        <it>Pubblicato giorni fa</it>
         <de>Veröffentlicht Tag (e) vor</de>
         <it>giorno Pubblicato (s) fa</it>
         <ur>اشاعت دن پہلے</ur>
@@ -848,7 +848,7 @@
         <ko>게시 된 월 (들) 전</ko>
         <bn>Published মাস (গুলি) আগে</bn>
         <ru>Опубликовано месяц (ев) назад</ru>
-        <sq>month (s) publikuar më parë</sq>
+        <sq>Publikuar muaj më parë</sq>
         <it>mese Pubblicato (s) fa</it>
         <de>Veröffentlicht Monat (en)</de>
         <it>mese Pubblicato (s) fa</it>
@@ -1019,7 +1019,7 @@
         <ko>모든 트위터</ko>
         <bn>সকল টুইটার</bn>
         <ru>Все Twitter</ru>
-        <sq>All Twitter</sq>
+        <sq>I gjithe Twitter</sq>
         <it>Tutti Twitter</it>
         <de>Alle Twitter</de>
         <it>Tutti Twitter</it>
@@ -1133,7 +1133,7 @@
         <ko>출판이 일시 정지 된 상태에서 당신이 작성하고 메시지를 큐에 계속 사용할 수 있습니다. 메시지 만 성공적으로 게시 할 예정입니다 지금 게시합니다.</ko>
         <bn>প্রকাশনা বিরতি দেওয়া হয় যখন আপনি রচনা এবং বার্তা কিউ চালিয়ে যেতে পারেন. শুধু এখন Publish বার্তা সফলভাবে পোস্ট করতে হবে.</bn>
         <ru>Во время публикации паузы вы можете продолжать создавать и очереди сообщений. Только Опубликовать Теперь сообщения будут успешно оставлять сообщения.</ru>
-        <sq>Ndërsa botuese është e ndaluar që ju mund të vazhdojë të shkruaj dhe radhë mesazhe. Vetëm Publikimi Tani mesazhet do të shpallë me sukses.</sq>
+        <sq>Ndërkohe qe postimi  është  ndaluar që ju mund të vazhdoni të shkruani dhe vini ne rradhe mesazhet. Vetëm Publikimi Tani mesazhet do të shpallë me sukses.</sq>
         <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
         <de>Während Verlags pausiert können Sie weiterhin Nachrichten verfassen und in die Warteschlange. Veröffentlichen Sie erst jetzt Nachrichten werden erfolgreich veröffentlichen.</de>
         <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
@@ -1209,7 +1209,7 @@
         <ko>큐가 일시 중지 된 동안,</ko>
         <bn>কিউ বিরাম দেওয়া হয়েছে যদিও,</bn>
         <ru>В то время как очередь была приостановлена,</ru>
-        <sq>Ndërsa radhë ishte ndaluar,</sq>
+        <sq>Ndërsa radha eshte ndaluar,</sq>
         <it>Mentre la coda è stata messa in pausa,</it>
         <de>Während wurde die Warteschlange angehalten,</de>
         <it>Mentre la coda è stata messa in pausa,</it>
@@ -1247,7 +1247,7 @@
         <ko>자신을 놓친</ko>
         <bn>মিস তাদের</bn>
         <ru>пропустил их</ru>
-        <sq>humbur i tyre duke</sq>
+        <sq>humben </sq>
         <it>perso il loro</it>
         <de>verfehlten ihr</de>
         <it>perso il loro</it>
@@ -1266,7 +1266,7 @@
         <ko>또는 게시하는 창을 최적화.</ko>
         <bn>বা প্রকাশ করার জন্য উইন্ডোর অপ্টিমাইজ করা.</bn>
         <ru>или оптимизировано окно для публикации.</ru>
-        <sq>ose dritare për të publikuar optimizuar.</sq>
+        <sq>ose dritare për të publikuar me te miren.</sq>
         <it>o finestra di pubblicare ottimizzato.</it>
         <de>oder optimierte Fenster zu veröffentlichen.</de>
         <it>o finestra di pubblicare ottimizzato.</it>

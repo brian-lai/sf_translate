@@ -12,7 +12,7 @@
         <ko>환영</ko>
         <bn>স্বাগত</bn>
         <ru>добро пожаловать</ru>
-        <sq>i mirëpritur</sq>
+        <sq>Mirësevjen</sq>
         <it>benvenuto</it>
         <de>Herzlich willkommen</de>
         <it>benvenuto</it>
@@ -50,7 +50,7 @@
         <ko>최적화 된 게시자</ko>
         <bn>অপ্টিমাইজ প্রকাশক</bn>
         <ru>Оптимизированный Издатель</ru>
-        <sq>optimizuar Botues</sq>
+        <sq>Publikimi me i mire</sq>
         <it>Ottimizzato Editore</it>
         <de>Optimierte Verlag</de>
         <it>Ottimizzato Editore</it>
@@ -69,7 +69,7 @@
         <ko>들리다</ko>
         <bn>শোনা</bn>
         <ru>Слушать</ru>
-        <sq>dëgjoj</sq>
+        <sq>dëgjo</sq>
         <it>Ascolta</it>
         <de>Hören</de>
         <it>Ascolta</it>
@@ -107,7 +107,7 @@
         <ko>링크 단축</ko>
         <bn>লিঙ্ক সংক্ষেপিত</bn>
         <ru>Ссылка Укорочение</ru>
-        <sq>Link shkurtimin</sq>
+        <sq>Shkurtimi adreses</sq>
         <it>collegamento accorciamento</it>
         <de>Link-Verkürzungs</de>
         <it>collegamento accorciamento</it>
@@ -126,7 +126,7 @@
         <ko>계기반</ko>
         <bn>ড্যাশবোর্ড</bn>
         <ru>Панель приборов</ru>
-        <sq>baltëpritëse</sq>
+        <sq>Faqja kryesore</sq>
         <it>scrivania</it>
         <de>Instrumententafel</de>
         <it>scrivania</it>
@@ -164,8 +164,8 @@
         <ko>다운로드 및 저장된 보고서</ko>
         <bn>ডাউনলোড এবং সংরক্ষিত রিপোর্ট</bn>
         <ru>Загруженные и сохраненные отчеты</ru>
-        <sq>Shkarkohen dhe të ruajtura Raportet</sq>
-        <it>Scaricabili e rapporti salvati</it>
+        <sq>Raportet e Shkarkuara dhe të ruajtura</sq>
+        <it>I rapporti scaricati e salvati</it>
         <de>Zum Herunterladen und Gespeicherte Berichte</de>
         <it>Scaricabili e rapporti salvati</it>
         <ur>ڈاؤن لوڈ کے قابل ہے اور محفوظ شدہ رپورٹیں</ur>
@@ -183,7 +183,7 @@
         <ko>설정</ko>
         <bn>সেটিংস</bn>
         <ru>настройки</ru>
-        <sq>Cilësimet</sq>
+        <sq>Opsionet</sq>
         <it>impostazioni</it>
         <de>Einstellungen</de>
         <it>impostazioni</it>
@@ -202,8 +202,8 @@
         <ko>사용자 계정</ko>
         <bn>ব্যবহারকারীর অ্যাকাউন্ট</bn>
         <ru>Учетная запись пользователя</ru>
-        <sq>Llogari perdoruesi</sq>
-        <it>Account utente</it>
+        <sq>Llogaria perdoruesi</sq>
+        <it>L'utente del conto</it>
         <de>Benutzerkonto</de>
         <it>Account utente</it>
         <ur>صارف کے اکاؤنٹ</ur>
@@ -259,7 +259,7 @@
         <ko>콘텐츠 소스</ko>
         <bn>বিষয়বস্তু সোর্স</bn>
         <ru>Источники контента</ru>
-        <sq>Burimet Përmbajtja</sq>
+        <sq>Burimet e Përmbajtjes</sq>
         <it>Fonti di contenuti</it>
         <de>Inhaltsquellen</de>
         <it>Fonti di contenuti</it>
@@ -278,7 +278,7 @@
         <ko>추적 및 분석</ko>
         <bn>ট্র্যাকিং এবং অ্যানালিটিক্স</bn>
         <ru>Отслеживание и аналитика</ru>
-        <sq>Ndjekja dhe Analytics</sq>
+        <sq>Ndjekja dhe Analiza</sq>
         <it>Monitoraggio e analisi</it>
         <de>Tracking und Analytics</de>
         <it>Monitoraggio e analisi</it>
@@ -336,7 +336,7 @@
         <bn>অ্যাকাউন্ট ও বিলিং</bn>
         <ru>Учет и биллинг</ru>
         <sq>Llogaria dhe Faturimi</sq>
-        <it>Account e fatturazione</it>
+        <it>Il Conto e fatturazione</it>
         <de>Account- und Rechnungs</de>
         <it>Account e fatturazione</it>
         <ur>اکاؤنٹ اور بلنگ</ur>
@@ -354,7 +354,7 @@
         <ko>사용자 및 권한</ko>
         <bn>ব্যবহারকারী এবং অনুমতিসমূহ</bn>
         <ru>Пользователи и права доступа</ru>
-        <sq>Përdoruesit dhe Permissions</sq>
+        <sq>Përdoruesit dhe lejet </sq>
         <it>Utenti e autorizzazioni</it>
         <de>Benutzer und Berechtigungen</de>
         <it>Utenti e autorizzazioni</it>
@@ -449,7 +449,7 @@
         <ko>개인 정보 정책</ko>
         <bn>গোপনীয়তা নীতি</bn>
         <ru>политика конфиденциальности</ru>
-        <sq>Politika e privatësisë</sq>
+        <sq>Termat e privatësisë</sq>
         <it>politica sulla riservatezza</it>
         <de>Datenschutz-Bestimmungen</de>
         <it>politica sulla riservatezza</it>
@@ -487,7 +487,7 @@
         <ko>지원하다</ko>
         <bn>সমর্থন</bn>
         <ru>Поддержка</ru>
-        <sq>mbështetje</sq>
+        <sq>Suport</sq>
         <it>Supporto</it>
         <de>Unterstützen</de>
         <it>Supporto</it>
@@ -507,7 +507,7 @@
         <bn>অ্যাকাউন্ট সেটিংস</bn>
         <ru>Настройки аккаунта</ru>
         <sq>Cilësimet e llogarisë</sq>
-        <it>Impostazioni dell 'account</it>
+        <it>Impostazioni del conto</it>
         <de>Account Einstellungen</de>
         <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>

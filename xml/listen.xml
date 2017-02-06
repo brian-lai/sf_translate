@@ -183,7 +183,7 @@
         <ko>, 해시 태그 또는 사용자를 따라 당신이 언급 또는 입소문 때 추적, 또는 특정 대화를 추적하고 싶으십니까? 클릭 오른쪽에 탭 "열 관리"더 많은 스트림을 추가 할 수 있습니다.</ko>
         <bn>, একটি হ্যাশট্যাগ অথবা ব্যবহারকারীর অনুসরণ ট্র্যাক রাখতে যখন আপনি উল্লেখ বা টুইট করা হয়, বা একটি নির্দিষ্ট কথোপকথন ট্র্যাক করতে চান? ক্লিক ডানদিকে ট্যাব "কলাম পরিচালনা করুন" এবং আরও স্ট্রিম যোগ করুন.</bn>
         <ru>Хотите следовать хэштегом или пользователя, отслеживать, когда вы упомянули или Процитировал, или отслеживать конкретный разговор? Нажмите кнопку "Управление" на вкладке Столбцы справа и добавьте несколько потоков.</ru>
-        <sq>Duan të ndjekin një hashtag apo përdorues, të mbajtur gjurmët e kur përmenden, ose retweeted, apo udhë një bisedë të veçantë? Kliko "Manage Columns" tab në të djathtë dhe të shtoni më shumë lumenj.</sq>
+        <sq>Do të ndjekesh një hashtag apo përdorues, të mbash gjurmët  kur përmendesh, ose retweet-esh, apo gjurmosh një bisedë të veçantë? Kliko "Menazho kollonat" në të djathtë dhe shtoni më shumë kerkesa.</sq>
         <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
         <de>Möchten Sie einen Hashtag oder Benutzer zu folgen, zu verfolgen, wenn Sie erwähnt sind oder retweeted oder ein bestimmtes Gespräch verfolgen? Klicken Sie auf "Spalten verwalten" Tab auf der rechten Seite und mehr Streams hinzuzufügen.</de>
         <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
@@ -202,7 +202,7 @@
         <ko>열 관리</ko>
         <bn>কলাম পরিচালনা</bn>
         <ru>Управление столбцами</ru>
-        <sq>Menaxho Columns</sq>
+        <sq>Menaxho kollonat</sq>
         <it>gestire Colonne</it>
         <de>Spalten verwalten</de>
         <it>gestire Colonne</it>
@@ -221,7 +221,7 @@
         <ko>열</ko>
         <bn>কলাম</bn>
         <ru>Колонны</ru>
-        <sq>Columns</sq>
+        <sq>Kollonat</sq>
         <it>colonne</it>
         <de>Spalten</de>
         <it>colonne</it>
@@ -240,7 +240,7 @@
         <ko>라이브 스트림</ko>
         <bn>সরাসরি সম্প্রচার</bn>
         <ru>прямая трансляция</ru>
-        <sq>Stream live</sq>
+        <sq>Trasmitimilive</sq>
         <it>Trasmissione in diretta</it>
         <de>Live Stream</de>
         <it>Trasmissione in diretta</it>
@@ -297,7 +297,7 @@
         <ko>편집 및 리트 윗</ko>
         <bn>সম্পাদনা এবং পুন:</bn>
         <ru>Редактирование и Retweet</ru>
-        <sq>Edit dhe Retweet</sq>
+        <sq>Modifiko dhe Retweet</sq>
         <it>Modifica e Retweet</it>
         <de>Bearbeiten und Retweet</de>
         <it>Modifica e Retweet</it>
@@ -335,7 +335,7 @@
         <ko>벽 게시물</ko>
         <bn>ওয়াল পোস্ট</bn>
         <ru>Посты на стене</ru>
-        <sq>Wall Posts</sq>
+        <sq>Postimi ne mur</sq>
         <it>Messaggi in bacheca</it>
         <de>Pinnwandeinträge</de>
         <it>Messaggi in bacheca</it>

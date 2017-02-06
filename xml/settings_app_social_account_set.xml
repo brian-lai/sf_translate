@@ -107,8 +107,8 @@
         <ko>귀하의 현재 출판 계정</ko>
         <bn>আপনার বর্তমান প্রকাশনা অ্যাকাউন্টস</bn>
         <ru>Ваши текущие счета Издательства</ru>
-        <sq>Tuaj Llogaritë rrjedhëse Botime</sq>
-        <it>Il tuo account di pubblicazione corrente</it>
+        <sq>LLogarite botuese aktuale</sq>
+        <it>Il tuoi conti di pubblicazione corrente</it>
         <de>Ihre aktuelle Publishing-Konten</de>
         <it>Il tuo account di pubblicazione corrente</it>
         <ur>اپنے موجودہ پبلشنگ اکاؤنٹس</ur>
@@ -183,7 +183,7 @@
         <ko>날짜 추가</ko>
         <bn>তারিখ যোগ করা হয়েছে</bn>
         <ru>Дата Добавлена</ru>
-        <sq>Date Added</sq>
+        <sq>Date e shtuar</sq>
         <it>data aggiunta</it>
         <de>Datum hinzugefügt</de>
         <it>data aggiunta</it>
@@ -240,7 +240,7 @@
         <ko>로드 페이지 ...</ko>
         <bn>পৃষ্ঠাগুলি লোড হচ্ছে ...</bn>
         <ru>Загрузка страницы ...</ru>
-        <sq>faqe Loading ...</sq>
+        <sq>Ngarkimi faqeve ...</sq>
         <it>Caricamento pagine ...</it>
         <de>Laden Seiten ...</de>
         <it>Caricamento pagine ...</it>
@@ -259,7 +259,7 @@
         <ko>당신이 게시에 사용하고자하는 페이스 북 페이지를 선택합니다.</ko>
         <bn>নির্বাচন ফেসবুক পেজ আপনি প্রকাশনার জন্য ব্যবহার করতে চান.</bn>
         <ru>Выберите, какие страницы Facebook вы хотите использовать для публикации.</ru>
-        <sq>Zgjidhni cilat Facebook faqe ju dëshironi të përdorni për publikim.</sq>
+        <sq>Zgjidhni cilat faqe te Facebook ju dëshironi të përdorni për publikim.</sq>
         <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
         <de>Wählen Sie die Facebook-Seiten, die Sie für die Veröffentlichung verwenden möchten.</de>
         <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>

@@ -12,7 +12,7 @@
         <ko>콘텐츠 원본 설정</ko>
         <bn>বিষয়বস্তু উত্স সেটিংস</bn>
         <ru>Настройки контента Источник</ru>
-        <sq>Settings Përmbajtja Burimi</sq>
+        <sq> Opsionet e  përmbajtjes se Burimit</sq>
         <it>Impostazioni Source Content</it>
         <de>Inhaltsquelle Einstellungen</de>
         <it>Impostazioni Source Content</it>
@@ -31,7 +31,7 @@
         <ko>새로운 콘텐츠 원본 추가</ko>
         <bn>নতুন বিষয়বস্তু উত্স যোগ</bn>
         <ru>Добавить источник содержимого</ru>
-        <sq>Add New Burimi Content</sq>
+        <sq>Shto burim te ri permbajtjeje</sq>
         <it>Aggiungi nuova origine contenuti</it>
         <de>Hinzufügen neuer Inhaltsquelle</de>
         <it>Aggiungi nuova origine contenuti</it>
@@ -50,7 +50,7 @@
         <ko>링크</ko>
         <bn>লিংক</bn>
         <ru>Ссылка</ru>
-        <sq>lidhje</sq>
+        <sq>link</sq>
         <it>collegamento</it>
         <de>Link</de>
         <it>collegamento</it>
@@ -107,7 +107,7 @@
         <ko>보기 피드</ko>
         <bn>ফিড দেখুন</bn>
         <ru>Просмотр поток</ru>
-        <sq>Shiko Feed</sq>
+        <sq>Shiko Lajmet</sq>
         <it>Inserisci la città</it>
         <de>Feed anzeigen</de>
         <it>Inserisci la città</it>
@@ -145,8 +145,8 @@
         <ko>떨어져서</ko>
         <bn>বন্ধ</bn>
         <ru>выключено</ru>
-        <sq>nga</sq>
-        <it>via</it>
+        <sq>Off</sq>
+        <it>Off</it>
         <de>Aus</de>
         <it>via</it>
         <ur>بند</ur>
@@ -221,7 +221,7 @@
         <ko>구하다</ko>
         <bn>সংরক্ষণ করুন</bn>
         <ru>Сохранить</ru>
-        <sq>Save</sq>
+        <sq>Ruaj</sq>
         <it>Salvare</it>
         <de>sparen</de>
         <it>Salvare</it>
@@ -240,7 +240,7 @@
         <ko>콘텐츠 원본 추가</ko>
         <bn>বিষয়বস্তু উত্স যোগ</bn>
         <ru>Добавить источник содержимого</ru>
-        <sq>Shto Përmbajtja Burimi</sq>
+        <sq>Shto Përmbajtjen e Burimit</sq>
         <it>Aggiungi contenuto Fonte</it>
         <de>Inhalt hinzufügen Quelle</de>
         <it>Aggiungi contenuto Fonte</it>
@@ -259,7 +259,7 @@
         <ko>내용이 어디에서 오는 먼저 알려주십시오.</ko>
         <bn>যেখানে বিষয়বস্তু থেকে আসছে প্রথম আমাদেরকে বলুন.</bn>
         <ru>Сначала скажите нам, где содержание приходит от.</ru>
-        <sq>Së pari na tregoni se ku përmbajtja po vjen nga.</sq>
+        <sq>Së pari na tregoni se nga po vjen përmbajtja.</sq>
         <it>In primo luogo dirci dove il contenuto proviene.</it>
         <de>Erste uns sagen, wo der Inhalt stammt.</de>
         <it>In primo luogo dirci dove il contenuto proviene.</it>
@@ -297,8 +297,8 @@
         <ko>먹이</ko>
         <bn>ভোজন</bn>
         <ru>Корм</ru>
-        <sq>ushqim</sq>
-        <it>Alimentazione</it>
+        <sq>Lajmet</sq>
+        <it>Feed</it>
         <de>Füttern</de>
         <it>Alimentazione</it>
         <ur>کھانا کھلانا</ur>
@@ -316,8 +316,8 @@
         <ko>파일</ko>
         <bn>ফাইল</bn>
         <ru>файл</ru>
-        <sq>skedar</sq>
-        <it>File</it>
+        <sq>Dokumenti</sq>
+        <it>Documenti</it>
         <de>Datei</de>
         <it>File</it>
         <ur>فائل</ur>
@@ -430,7 +430,7 @@
         <ko>모든 콘텐츠 원본보기</ko>
         <bn>সকল বিষয়বস্তুর উৎস দেখুন</bn>
         <ru>Все Источники контента</ru>
-        <sq>Shiko të gjitha burimeve të përmbajtjes</sq>
+        <sq>Shiko të gjitha burimet e përmbajtjes</sq>
         <it>Visualizza tutte le origini di contenuto</it>
         <de>Alle Inhaltsquellen</de>
         <it>Visualizza tutte le origini di contenuto</it>
@@ -449,7 +449,7 @@
         <ko>어떤 피드 추가하지</ko>
         <bn>কোন ফিড যোগ করা হয়েছে</bn>
         <ru>Каналов нет Добавлено</ru>
-        <sq>No Feeds Added</sq>
+        <sq>Asnje lajm i shtuar</sq>
         <it>Nessun Feed Aggiunto</it>
         <de>Keine Feeds hinzugefügt</de>
         <it>Nessun Feed Aggiunto</it>
@@ -484,7 +484,7 @@ Você tem certeza que quer excluir esta fonte de conteúdo e todas as mensagens 
         <ko>주의 : 콘텐츠 원본을 삭제하면 또한 큐에서이 콘텐츠 원본에서 모든 메시지를 삭제합니다. 이미 대기중인 메시지를 삭제하지 않고이 콘텐츠 소스에서 새 메시지를 가져 오기를 중단하려면 대신 비활성 활성의 콘텐츠 소스 상태를 변경하십시오. 당신은 당신이 콘텐츠 소스 및 모든 관련 메시지를 삭제 하시겠습니까?</ko>
         <bn>দৃষ্টি আকর্ষণ করছি: একটি বিষয়বস্তু উৎস মুছলে তা আপনার কিউ 'র মধ্যে এই বিষয়বস্তুর উৎস থেকে সব বার্তা মুছে ফেলা হবে. আপনি বার্তা যে ইতিমধ্যে সারিবদ্ধ করা হয়েছে মুছে এই বিষয়বস্তুর উৎস থেকে নতুন বার্তা আমদানি বন্ধ করতে চান তাহলে, দয়া করে এর পরিবর্তে নিষ্ক্রিয় করতে সক্রিয় থেকে বিষয়বস্তু উৎস অবস্থা পরিবর্তন. আপনি কি নিশ্চিত যে আপনি এই বিষয়বস্তুতে উৎস এবং সব যুক্ত বার্তা মুছে ফেলতে ইচ্ছুক?</bn>
         <ru>ВНИМАНИЕ: Удаление источника контента будет также удалить все сообщения из этого источника контента в очереди. Если вы хотите прекратить импорт новых сообщений из этого источника контента, не удаляя сообщения, которые уже были в очереди, пожалуйста, измените статус исходного содержимого из активного в неактивное вместо этого. Вы уверены, что хотите удалить этот источник контента и все связанные с ним сообщения?</ru>
-        <sq>KUJDES: Fshirja e një burim përmbajtje do të fshirë të gjitha mesazhet nga ky burim përmbajtjes në radhë tuaj. Nëse ju do të donte për të ndaluar importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin burim të përmbajtjes nga aktive në joaktiv vend. Jeni te sigurte qe doni te fshini kete burim përmbajtje dhe të gjitha mesazhet e lidhur?</sq>
+        <sq>KUJDES: Fshirja e një burim përmbajtje do të fshijë të gjitha mesazhet nga ky burim përmbajtjeje në radhën tuaj. Nëse ju do doni  të ndaloni importimin e mesazheve të reja nga ky burim përmbajtjeje pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin e burimit të përmbajtjes nga aktive në joaktiv. Jeni te sigurte qe doni te fshini kete burim përmbajtje dhe të gjitha mesazhet e lidhur?</sq>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece. Sei sicuro di voler eliminare questa origine di contenuto e di tutti i messaggi associati?</it>
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt. Sind Sie sicher, dass Sie diese Inhaltsquelle und alle zugehörigen Nachrichten zu löschen?</de>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece. Sei sicuro di voler eliminare questa origine di contenuto e di tutti i messaggi associati?</it>

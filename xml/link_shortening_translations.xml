@@ -12,7 +12,7 @@
         <ko>긴 URL :</ko>
         <bn>দীর্ঘ URL:</bn>
         <ru>Длинный URL:</ru>
-        <sq>Të gjatë URL:</sq>
+        <sq>URL e gjatë:</sq>
         <it>URL lungo:</it>
         <de>Lange URL:</de>
         <it>URL lungo:</it>
@@ -164,7 +164,7 @@
         <ko>링크 관리</ko>
         <bn>লিংক পরিচালনা</bn>
         <ru>Управление ссылками</ru>
-        <sq>Menaxho Links</sq>
+        <sq>Menaxho adresat website-it</sq>
         <it>Gestisci collegamenti</it>
         <de>Links verwalten</de>
         <it>Gestisci collegamenti</it>
@@ -183,8 +183,8 @@
         <ko>링크 단축 서비스를 사용하여 클릭, 참조 자, 잠재 고객에 대한 기타 세부 사항에 대한 자세한 추적을 할 수 있습니다.</ko>
         <bn>একটি লিঙ্ক সংকুচিতকারী সেবা ব্যবহার ক্লিকের, রেফারার, এবং আপনার শ্রোতাদের অন্য বিবরণ বিস্তারিত ট্র্যাকিং সম্ভব.</bn>
         <ru>Использование службы ссылка укорочение позволяет организовать отслеживание кликов, ссылающихся и другие сведения о вашей аудитории.</ru>
-        <sq>Duke përdorur një shërbim lidhje shkurtimin mundëson gjurmimin detajuar të klikimeve, referrers, dhe detaje të tjera në lidhje me audiencën tuaj.</sq>
-        <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
+        <sq>Duke përdorur shkurtimin e adresa te website-it mundësohet gjurmimi detajuar i klikimeve, referimeve, dhe detajeve të tjera në lidhje me audiencën tuaj.</sq>
+        <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, rinvii, e altri dettagli circa il vostro pubblico.</it>
         <de>einen Link Verkürzung Dienstes ermöglicht eine detaillierte Verfolgung von Klicks, Referrer und andere Details zu Ihrem Publikum.</de>
         <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
         <ur>ایک لنک کمی سروس کا استعمال کرتے ہوئے کلکس، تجویز کنندگان، اور اپنے ناظرین کے بارے میں دیگر تفصیلات کی تفصیلی نظر رکھنے کے قابل بناتا ہے.</ur>
@@ -202,8 +202,8 @@
         <ko>SocialFlow, 당신은 우리 자신의 trib.al 또는 sflow.us 축약와 링크를 추적 할 수 있습니다; 인증</ko>
         <bn>SocialFlow সঙ্গে, আপনি আমাদের নিজের trib.al বা sflow.us সংক্ষিপ্ত সঙ্গে সংযোগগুলি ট্র্যাক করতে পারেন; ক্ষমতাপ্রদান একটি</bn>
         <ru>С SocialFlow, вы можете отслеживать связь с нашей собственной trib.al или sflow.us shorteners; уполномочить</ru>
-        <sq>Me SocialFlow, ju mund të gjetur lidhje me vetë trib.al tona ose shorteners sflow.us; autorizojë një</sq>
-        <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
+        <sq>Me SocialFlow, ju mund të gjurmoni lidhjen tuaj me trib.al  ose shkrutimin sflow.us; autorizo një</sq>
+        <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o sflow.us; autorizza un</it>
         <de>Mit SocialFlow können Sie Links mit unseren eigenen trib.al oder sflow.us Shortener verfolgen; ermächtigen, eine</de>
         <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
         <ur>SocialFlow ساتھ، آپ کو ہماری اپنی trib.al یا sflow.us کو مختصر کرنے کے ساتھ روابط کو ٹریک کر سکتے ہیں؛ اختیار ایک</ur>
@@ -278,7 +278,7 @@
         <ko>계정, 또는 (해당 도메인에 대한 DNS를 제어 제공) 사용자 정의 도메인으로 단축. 현재 모든 링크를 단축 할 수 있습니다; 우리는 또한 SocialFlow으로 트위터 나 페이스 북에 게시 된 링크를 단축.</ko>
         <bn>অ্যাকাউন্ট, বা আপনার নিজস্ব ডোমেইন সঙ্গে কমান (প্রদত্ত আপনি যে ডোমেইন এর DNS নিয়ন্ত্রণ). আপনি কোন লিংক এখানে খাটো করতে পারেন; আমরা SocialFlow টুইটারে বা ফেসবুকে প্রকাশিত সংযোগগুলি কমান.</bn>
         <ru>счет, или сократить с собственным пользовательским доменом (при условии, вы управляете DNS для этого домена). Вы можете сократить любую ссылку здесь; мы также сократить ссылки, опубликованные на Twitter или Facebook с помощью SocialFlow.</ru>
-        <sq>llogari, ose të shkurtojnë me domenin tuaj custom (me kusht që ju të kontrolluar DNS për këtë fushë). Ju mund të shkurtojnë çdo lidhje këtu; ne gjithashtu shkurtojnë lidhjet e publikuara në Twitter apo Facebook nga SocialFlow.</sq>
+        <sq>llogari, ose shkurto me domenin tuaj (me kusht që ju të kontrolluar DNS për këtë fushë). Ju mund të shkurtojnë çdo lidhje këtu; ne gjithashtu shkurtojme lidhjet e publikuara në Twitter apo Facebook nga SocialFlow.</sq>
         <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
         <de>Konto oder mit Ihrem eigenen Domain verkürzen (vorausgesetzt, Sie DNS-Steuerung für die Domäne). Sie können einen beliebigen Link hier zu verkürzen; wir verkürzen auch auf Twitter oder Facebook von SocialFlow veröffentlichten Links.</de>
         <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
@@ -297,8 +297,8 @@
         <ko>링크를 단축</ko>
         <bn>কমান লিংক</bn>
         <ru>Сократите Ссылка</ru>
-        <sq>shkurtuar Lidhje</sq>
-        <it>accorciare link</it>
+        <sq>Shkurto adresat e website-it</sq>
+        <it>Breva l'URL</it>
         <de>kürzen Verbindung</de>
         <it>accorciare link</it>
         <ur>لنک قصر</ur>
@@ -316,7 +316,7 @@
         <ko>사용자 지정 도메인 추가</ko>
         <bn>কাস্টম ডোমেন যোগ</bn>
         <ru>Добавление пользовательского домена</ru>
-        <sq>Shto Custom Domain</sq>
+        <sq>Shto fushen e personalizuar</sq>
         <it>Aggiungere dominio personalizzato</it>
         <de>Hinzufügen von benutzerdefinierten Domain</de>
         <it>Aggiungere dominio personalizzato</it>
@@ -525,8 +525,8 @@
         <ko>축약 관리</ko>
         <bn>সংক্ষিপ্ত পরিচালনা</bn>
         <ru>Управление Shorteners</ru>
-        <sq>Menaxho Shorteners</sq>
-        <it>gestire shorteners</it>
+        <sq>Menaxho Shkurtimet</sq>
+        <it>Gestisce breve l'URL </it>
         <de>verwalten Shorteners</de>
         <it>gestire shorteners</it>
         <ur>مختصر کرنے کا انتظام کریں</ur>
@@ -537,15 +537,15 @@
         <ja>リンク短縮サービス</ja>
         <pt>Encurtadores de Link</pt>
         <zh-CN>链接缩短服务</zh-CN>
-        <fr>Lien shorteners</fr>
+        <fr>Raccourcisseurs de liens</fr>
         <ar>رابط تقصير</ar>
         <zh-TW>鏈接縮短服務</zh-TW>
         <hi>लिंक shorteners</hi>
         <ko>링크 축약</ko>
         <bn>লিংক সংক্ষিপ্ত করা</bn>
         <ru>Ссылка Shorteners</ru>
-        <sq>Link Shorteners</sq>
-        <it>collegamento shorteners</it>
+        <sq>Shkurtimet e adresave te website-it</sq>
+        <it>Breve l'URL</it>
         <de>Link Shorteners</de>
         <it>collegamento shorteners</it>
         <ur>لنک کو مختصر کرنے</ur>
@@ -658,8 +658,8 @@
         <ko>링크 Shortener를 추가</ko>
         <bn>লিংক সংক্ষেপনকারীর যোগ</bn>
         <ru>Добавить Link Shortener</ru>
-        <sq>Shto Link Shortener</sq>
-        <it>Aggiungi link Shortener</it>
+        <sq>Shto shkurtimin e adreses</sq>
+        <it>Aggiungi i URL breve</it>
         <de>Link hinzufügen Shortener</de>
         <it>Aggiungi link Shortener</it>
         <ur>لنک اختصار شامل کریں</ur>
@@ -746,15 +746,15 @@
         <ja>関連づけられたソーシャルアカウント</ja>
         <pt>Conta Social Associada</pt>
         <zh-CN>相关的社会账户</zh-CN>
-        <fr>Associated compte Social</fr>
+        <fr>Compte Social associé</fr>
         <ar>الحساب الاجتماعية المرتبطة</ar>
         <zh-TW>相關的社會賬戶</zh-TW>
         <hi>एसोसिएटेड सामाजिक खाते</hi>
         <ko>관련 사회 계정</ko>
         <bn>অ্যাসোসিয়েটেড সামাজিক অ্যাকাউন্ট</bn>
         <ru>Associated Social Account</ru>
-        <sq>Llogaria Social Associated</sq>
-        <it>Associated account di social</it>
+        <sq>Llogaria e lidhur </sq>
+        <it>Il conto sociale associato </it>
         <de>Assoziierte Sozial Konto</de>
         <it>Associated account di social</it>
         <ur>ایسوسی سماجی اکاؤنٹ</ur>

@@ -259,7 +259,7 @@
         <ko>고객의 이익 :</ko>
         <bn>দর্শকের লাভ:</bn>
         <ru>Аудитория Прибыли:</ru>
-        <sq>Fitimet Audienca:</sq>
+        <sq>Fitimet e Audiences:</sq>
         <it>Utili Pubblico:</it>
         <de>Audience Gewinne:</de>
         <it>Utili Pubblico:</it>
@@ -278,7 +278,7 @@
         <ko>관객 참여</ko>
         <bn>শ্রোতার</bn>
         <ru>Привлечение аудитории</ru>
-        <sq>audienca Engagement</sq>
+        <sq>Aktivitet e audiences</sq>
         <it>coinvolgimento del pubblico</it>
         <de>Publikum Engagement</de>
         <it>coinvolgimento del pubblico</it>
@@ -297,7 +297,7 @@
         <ko>보기 메시지 보고서</ko>
         <bn>দেখুন বার্তা প্রতিবেদন</bn>
         <ru>Посмотреть сообщение Отчет</ru>
-        <sq>Shiko Mesazh Report</sq>
+        <sq>Shiko Reportin e mesazhit</sq>
         <it>Vista Segnala</it>
         <de>Nachricht anzeigen Bericht</de>
         <it>Vista Segnala</it>
@@ -335,7 +335,7 @@
         <ko>이전 클릭</ko>
         <bn>পূর্ববর্তী ক্লিকস</bn>
         <ru>Предыдущие Clicks</ru>
-        <sq>Clicks mëparshme</sq>
+        <sq>Klikimet e  mëparshme</sq>
         <it>Clic precedenti</it>
         <de>Zurück Klicks</de>
         <it>Clic precedenti</it>
@@ -354,7 +354,7 @@
         <ko>보고서 기간을 조정하고 데이터를 사용할 수있는 경우 이전 기간에 비해 성능 지표를 표시합니다.</ko>
         <bn>আপনার প্রতিবেদন সময়সীমার সামঞ্জস্যবিধান এবং পূর্ববর্তী সময়সীমার তুলনায় যদি তথ্য পাওয়া যায় কর্মসম্পাদক দেন.</bn>
         <ru>Настройте свой отчет временные рамки и показать показатели производительности по сравнению с предыдущим сроки, если имеются данные.</ru>
-        <sq>Rregulluar raportin afat kohor tuaj dhe të tregojnë treguesit e performancës në krahasim me afat kohor të mëparshëm, nëse të dhënave është në dispozicion.</sq>
+        <sq>Rregullo afatin kohor te raportittuaj dhe trego treguesit e performancës në krahasim me afatin kohor të mëparshëm, nëse të dhënat jane në dispozicion.</sq>
         <it>Regolare il rapporto temporale e mostra indicatori di performance rispetto al periodo precedente, se i dati sono disponibili.</it>
         <de>Passen Sie Ihren Bericht zeitlichen Rahmen und zeigen Leistungsindikatoren im Vergleich zum vorherigen Zeitraum, wenn Daten verfügbar sind.</de>
         <it>Regolare il rapporto temporale e mostra indicatori di performance rispetto al periodo precedente, se i dati sono disponibili.</it>
@@ -411,7 +411,7 @@
         <ko>팔로워</ko>
         <bn>অনুসারীবৃন্দ</bn>
         <ru>Последователи</ru>
-        <sq>Friends</sq>
+        <sq>Followers</sq>
         <it>Seguaci</it>
         <de>Verfolger</de>
         <it>Seguaci</it>

@@ -12,7 +12,7 @@
         <ko>새 사용자를 초대</ko>
         <bn>আমন্ত্রণ নতুন ইউজার</bn>
         <ru>Пригласить нового пользователя</ru>
-        <sq>Fto ri përdoruesin</sq>
+        <sq>Fto përdoruesin e ri</sq>
         <it>Invita nuovo utente</it>
         <de>Invite New User</de>
         <it>Invita nuovo utente</it>
@@ -50,7 +50,7 @@
         <ko>사용자 상태</ko>
         <bn>ব্যবহারকারীর স্থিতি</bn>
         <ru>Статус пользователь</ru>
-        <sq>User Status</sq>
+        <sq>Statusi perdouresit</sq>
         <it>Stato dell'utente</it>
         <de>Benutzerstatus</de>
         <it>Stato dell'utente</it>
@@ -69,7 +69,7 @@
         <ko>새 사용자 초대</ko>
         <bn>নতুন ব্যবহারকারীদের আমন্ত্রণ</bn>
         <ru>Пригласить новых пользователей</ru>
-        <sq>Fto Përdoruesit reja</sq>
+        <sq>Fto Përdorues te rinj</sq>
         <it>Invitare nuovi utenti</it>
         <de>Einladen neuer Benutzer</de>
         <it>Invitare nuovi utenti</it>
@@ -164,7 +164,7 @@
         <ko>사용자 권한</ko>
         <bn>ব্যবহারকারীর অনুমতি</bn>
         <ru>права доступа пользователей</ru>
-        <sq>Drejtat e përdoruesit</sq>
+        <sq>Te Drejtat e përdoruesit</sq>
         <it>Autorizzazioni utente</it>
         <de>Benutzerberechtigungen</de>
         <it>Autorizzazioni utente</it>
@@ -183,7 +183,7 @@
         <ko>미래 사회 계정에 대한 사용 권한 :</ko>
         <bn>ভবিষ্যত সামাজিক অ্যাকাউন্টগুলির জন্য অনুমতি:</bn>
         <ru>Разрешения для будущих социальных счетов:</ru>
-        <sq>Lejet për llogaritë sociale ardhmen:</sq>
+        <sq>Lejet për llogaritë sociale te tjera:</sq>
         <it>Autorizzazioni per futuri conti sociali:</it>
         <de>Berechtigungen für zukünftige Social-Konten:</de>
         <it>Autorizzazioni per futuri conti sociali:</it>
@@ -297,7 +297,7 @@
         <ko>클라이언트 관리 - 서비스를 취소 /에 추가 할 수 있습니다. 이 제어의 최고 레벨이다. 경고 : 다른 사용자에게이 작업을 할당하는 클라이언트 관리로 상태를 취소합니다.</ko>
         <bn>ক্লায়েন্ট এডমিন - যোগ / সেবা বাতিল করতে পারেন. এই নিয়ন্ত্রণের সর্বোচ্চ স্তর. সতর্কতা: অন্য ব্যবহারকারীকে এই বরাদ্দ ক্লায়েন্ট প্রশাসক হিসাবে আপনার অবস্থা প্রত্যাহার করবে.</bn>
         <ru>Клиент Admin - Может добавить / отменить услугу. Это самый высокий уровень контроля. Внимание: это присвоение другому пользователю отменит свой статус в качестве клиента администратора.</ru>
-        <sq>Client Admin - A mund të shtoni / anulluar shërbimin. Ky është niveli më i lartë i kontrollit. Warning: caktimin e kjo për një përdorues tjetër do të revokojë statusin tuaj si klient admin.</sq>
+        <sq>Klient Admin - Mund të shtoni / anulloni shërbimin. Ky është niveli më i lartë i kontrollit. Kujdes: caktimin e ktij rregulli  për një përdorues tjetër do të revokojë statusin tuaj si klient admin.</sq>
         <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
         <de>Client-Admin - hinzufügen können / stornieren Service. Dies ist der höchste Grad an Kontrolle. Achtung: dieser Benutzer auf eine andere Zuordnung wird Ihr Status als Client Server-Betreiber widerrufen.</de>
         <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
@@ -316,7 +316,7 @@
         <ko>계정 관리 - 추가 socail 계정을 제거하고 추가, 편집하고, 사용자를 제거 할 수 있습니다.</ko>
         <bn>অ্যাকাউন্ট এডমিন - যোগ করা যাবে এবং socail অ্যাকাউন্টগুলি এবং যোগ, সম্পাদনা, এবং ব্যবহারকারীদের মুছে ফেলুন.</bn>
         <ru>Администратор аккаунта - Можно добавлять и удалять socail учетные записи и добавлять, редактировать и удалять пользователей.</ru>
-        <sq>Llogaria Admin - A mund të shtoni dhe hiqni llogari socail dhe shtoni, modifikoni, dhe për të hequr përdoruesit.</sq>
+        <sq>Llogaria Admin - A mund të shtoni dhe hiqni llogari sociale dhe shtoni, modifikoni, dhe për të hequr përdoruesit.</sq>
         <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
         <de>Konto Admin - Kann hinzufügen und socail Konten entfernen und hinzufügen, bearbeiten und Benutzer entfernen.</de>
         <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
@@ -449,7 +449,7 @@
         <ko>사용자 세부 사항 및 권한</ko>
         <bn>ব্যবহারকারীর বিবরণ এবং অনুমতিসমূহ</bn>
         <ru>Детали пользователя и разрешения</ru>
-        <sq>User Details dhe të Drejtat</sq>
+        <sq>Detajet e perdoruesit dhe të Drejtat</sq>
         <it>Dettagli utente e autorizzazioni</it>
         <de>Benutzerdetails und Berechtigungen</de>
         <it>Dettagli utente e autorizzazioni</it>
@@ -582,7 +582,7 @@
         <ko>초대 보내기</ko>
         <bn>আমন্ত্রণ পাঠান</bn>
         <ru>Отправить приглашение</ru>
-        <sq>Dërgo Fto</sq>
+        <sq>Dërgo Ftese</sq>
         <it>Invia un invito</it>
         <de>Sende Einladung</de>
         <it>Invia un invito</it>

@@ -31,7 +31,7 @@
         <ko>라벨은보고 또는 나중에 쉽게 찾을 수 있도록 카테고리로 메시지를 구성하는 데 도움이.</ko>
         <bn>লেবেলগুলি রিপোর্ট বা পরে সহজেই খুঁজে পেতে জন্য বিভাগগুলিতে আপনার বার্তা সংগঠিত সাহায্য.</bn>
         <ru>Этикетки помогают упорядочить сообщения по категориям отчетности или легко найти позже.</ru>
-        <sq>Etiketa të ndihmuar në organizimin mesazhet në kategori për raportim apo të lehtë të gjeni më vonë.</sq>
+        <sq>Etiketat ndihmojn në organizimin e mesazheve nëper kategori për ta bere raportim me të lehtë ose gjetjen e mesazheve me te lehte  më vonë.</sq>
         <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
         <de>Labels helfen, Ihre Nachrichten in Kategorien organisieren für die Berichterstattung oder später leicht zu finden.</de>
         <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
@@ -50,7 +50,7 @@
         <ko>라벨은 귀하의 메시지와 함께 게시되지 않습니다 만,이 계정에 액세스 당신과 SocialFlow 사용자가 볼 수 있습니다.</ko>
         <bn>লেবেলগুলি আপনার বার্তা প্রকাশ করা হয় না এবং শুধুমাত্র আপনি এবং SocialFlow ব্যবহারকারীরা এই অ্যাকাউন্টটি অ্যাক্সেস দ্বারা দেখা যাবে.</bn>
         <ru>Этикетки не публикуются с вашим сообщением и могут быть видны только вам и SocialFlow доступа пользователей к этой учетной записи.</ru>
-        <sq>Etiketa nuk publikohen me mesazhin tuaj dhe mund të shihet vetëm nga ju dhe SocialFlow përdoruesve të hyrë në këtë llogari.</sq>
+        <sq>Etiketat nuk publikohen me mesazhin tuaj dhe mund të shihen vetëm nga ju dhe përdoruesit e SocialFlow kur hyne në këtë llogari.</sq>
         <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
         <de>Die Etiketten werden nicht mit Ihrer Nachricht veröffentlicht und kann nur von Ihnen und SocialFlow Benutzer Zugriff auf dieses Konto zu sehen.</de>
         <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
@@ -69,7 +69,7 @@
         <ko>라벨 예 : 가을 캠페인, 좋아하는, livetweet</ko>
         <bn>ট্যাগ উদাহরণ: পতন, ক্যাম্পেইন প্রিয়, livetweet</bn>
         <ru>Примеры маркировки: Падение кампании, любимая, livetweet</ru>
-        <sq>Shembuj Label: Fushata Fall, favorite, livetweet</sq>
+        <sq>Shembuj etikete: Fushata e vjeshtes, favorite, Tweet-real</sq>
         <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
         <de>Label-Beispiele: Fall-Kampagne, Favorit, livetweet</de>
         <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
@@ -88,7 +88,7 @@
         <ko>메시지가 성공적으로 표시되었습니다.</ko>
         <bn>বার্তা সফলভাবে লেবেল করা হয়েছে.</bn>
         <ru>Сообщение успешно были помечены.</ru>
-        <sq>Mesazhi ka qenë sukses etiketuar.</sq>
+        <sq>Mesazhi eshte etiketuar me sukses.</sq>
         <it>Il messaggio è stato correttamente etichettati.</it>
         <de>Nachricht wurde erfolgreich markiert worden.</de>
         <it>Il messaggio è stato correttamente etichettati.</it>
@@ -126,7 +126,7 @@
         <ko>뭔가 잘못된 메시지를 라벨 갔다.</ko>
         <bn>কিছু ভুল আপনার বার্তা লেবেল গিয়েছিলাম.</bn>
         <ru>Что-то пошло не маркируя ваше сообщение.</ru>
-        <sq>Diçka nuk shkoi mirë etiketimin mesazhin tuaj.</sq>
+        <sq>Diçka nuk shkoi mirë ne etiketimin e mesazhit tuaj.</sq>
         <it>Qualcosa è andato storto etichettare il messaggio.</it>
         <de>Etwas ging Beschriftung falsch Ihre Nachricht.</de>
         <it>Qualcosa è andato storto etichettare il messaggio.</it>

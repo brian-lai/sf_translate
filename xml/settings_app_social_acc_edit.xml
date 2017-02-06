@@ -69,7 +69,7 @@
         <ko>당신은 계정 그룹이 없습니다</ko>
         <bn>আপনি কোন একাউন্ট গ্রুপ আছে</bn>
         <ru>У вас нет учетной записи группы</ru>
-        <sq>Nuk keni asnjë faqe grupe llogari</sq>
+        <sq>Nuk keni asnjë grup llogarie</sq>
         <it>Non ci sono gruppi di account</it>
         <de>Sie haben keine Kontengruppen</de>
         <it>Non ci sono gruppi di account</it>
@@ -88,7 +88,7 @@
         <ko>액티브 콘텐츠 소스</ko>
         <bn>সক্রিয় বিষয়বস্তু সোর্স</bn>
         <ru>Активные Источники контента</ru>
-        <sq>Burimet aktive Përmbajtja</sq>
+        <sq>Burimet aktive te përmbajtjes</sq>
         <it>Attivi origini di contenuto</it>
         <de>Aktive Inhaltsquellen</de>
         <it>Attivi origini di contenuto</it>
@@ -107,7 +107,7 @@
         <ko>콘텐츠 원본 관리</ko>
         <bn>বিষয়বস্তু সোর্স পরিচালনা</bn>
         <ru>Управление источниками содержимого</ru>
-        <sq>Menaxho Burimet Përmbajtja</sq>
+        <sq>Menaxho Burimet Përmbajtjes</sq>
         <it>Gestisci origini di contenuto</it>
         <de>Inhaltsquellen verwalten</de>
         <it>Gestisci origini di contenuto</it>
@@ -126,7 +126,7 @@
         <ko>콘텐츠 대기열로 이동</ko>
         <bn>বিষয়বস্তু সারিতে যান</bn>
         <ru>Перейти к содержанию очереди</ru>
-        <sq>Shko në radhë Content</sq>
+        <sq>Shko te radha permbajtjes</sq>
         <it>Vai a coda di contenuti</it>
         <de>Zum Inhalt Queue</de>
         <it>Vai a coda di contenuti</it>
@@ -202,7 +202,7 @@
         <ko>당신은 콘텐츠 원본이 없습니다</ko>
         <bn>আপনি কোন বিষয়বস্তুর উৎস আছে</bn>
         <ru>У вас нет источников контента</ru>
-        <sq>Ju nuk keni burime përmbajtjes</sq>
+        <sq>Ju nuk keni burime te përmbajtjes</sq>
         <it>Non ci sono fonti di contenuti</it>
         <de>Sie haben keine Inhaltsquellen</de>
         <it>Non ci sono fonti di contenuti</it>
@@ -221,8 +221,8 @@
         <ko>당신은 더 링크 축약이 없습니다</ko>
         <bn>আপনি কোন লিংক Shortener আছে</bn>
         <ru>У вас нет ссылки Shortener</ru>
-        <sq>Ju nuk keni Shortener Lidhje</sq>
-        <it>Lei ha alcun legame shortener</it>
+        <sq>Ju nuk keni link Shortener </sq>
+        <it>No hai alcun link shortener</it>
         <de>Sie haben keinen Link Shortener</de>
         <it>Lei ha alcun legame shortener</it>
         <ur>آپ کے پاس کوئی لنک اختصار ہے</ur>
@@ -430,7 +430,7 @@
         <ko>우리는 귀하의 콘텐츠를 게시하는 가장 좋은 시간을 계산하자</ko>
         <bn>আমাদের শ্রেষ্ঠ সময় আপনার বিষয়বস্তু প্রকাশ গণনা করা যাক</bn>
         <ru>Давайте вычислим лучшее время, чтобы публиковать свой контент</ru>
-        <sq>Le të llogaritur kohën më të mirë për të publikuar përmbajtjen tuaj</sq>
+        <sq>Le të llogarisim kohën më të mirë për të publikuar përmbajtjen tuaj</sq>
         <it>Calcoliamo il momento migliore per pubblicare il contenuto</it>
         <de>Lassen Sie uns die beste Zeit, berechnen Sie Ihre Inhalte zu veröffentlichen</de>
         <it>Calcoliamo il momento migliore per pubblicare il contenuto</it>
@@ -468,7 +468,7 @@
         <ko>최적화 (시간대 : UTC)</ko>
         <bn>অপ্টিমিজ (সময় জোন: ইউটিসি)</bn>
         <ru>Оптимизация (часовой пояс: UTC)</ru>
-        <sq>Jam optimist (zonën kohore: UTC)</sq>
+        <sq>Zgjidh me te miren (zonën kohore: UTC)</sq>
         <it>Ottimizzare (fuso orario: UTC)</it>
         <de>Optimieren (Zeitzone: UTC)</de>
         <it>Ottimizzare (fuso orario: UTC)</it>
@@ -487,7 +487,7 @@
         <ko>사이에 게시</ko>
         <bn>মধ্যে প্রকাশ</bn>
         <ru>Опубликовать между</ru>
-        <sq>publikojë në mes të</sq>
+        <sq>publiko në mes të</sq>
         <it>pubblicare tra</it>
         <de>veröffentlichen zwischen</de>
         <it>pubblicare tra</it>
@@ -544,7 +544,7 @@
         <ko>최대 분 메시지 사이</ko>
         <bn>বার্তা মধ্যে সর্বোচ্চ মিনিট</bn>
         <ru>Максимальное количество минут между сообщениями</ru>
-        <sq>Max Minutes Midis Messages</sq>
+        <sq>Max Minutave  Midis mesazheve </sq>
         <it>Max minuti tra i messaggi</it>
         <de>Max Minuten zwischen Nachrichten</de>
         <it>Max minuti tra i messaggi</it>
@@ -601,8 +601,8 @@
         <ko>+ 또 다른 필터 추가</ko>
         <bn>+ আরেকটি ফিল্টার যোগ</bn>
         <ru>+ Добавить еще один фильтр</ru>
-        <sq>+ Shto tjetër Filter</sq>
-        <it>+ Aggiungere un altro filtro</it>
+        <sq>+ Fshij llogarine</sq>
+        <it>+ Rimuvi il conto</it>
         <de>+ Weiteren Filter hinzufügen</de>
         <it>+ Aggiungere un altro filtro</it>
         <ur>اکاؤنٹ</ur>
@@ -621,7 +621,7 @@
         <bn>অ্যাকাউন্ট অপসারণ</bn>
         <ru>Удалить учетную запись</ru>
         <sq>Hiq Llogari</sq>
-        <it>Rimuovi l'account</it>
+        <it>Rimuovi il conto</it>
         <de>Konto entfernen</de>
         <it>Rimuovi l'account</it>
         <ur>اس اکاؤنٹ</ur>
@@ -632,16 +632,14 @@
         <ja>コンテンツソースを追加</ja>
         <pt>Adicionar Fontes de Conteúdo</pt>
         <zh-CN>添加内容源</zh-CN>
-        <fr>Supprimer ce compte</fr>
-        <ar>إزالة هذا الحساب</ar>
-        <zh-TW>刪除此帳號</zh-TW>
-        <hi>इस खाता</hi>
-        <ko>이 계정 삭제</ko>
-        <bn>এই অ্যাকাউন্ট</bn>
-        <ru>Удалить эту учетную запись</ru>
-        <sq>Hiqe këtë llogari</sq>
-        <it>Rimuovere questo account</it>
-        <de>Entfernen Sie dieses Konto</de>
+ <fr>Ajouter des sources de contenu</fr>
+        <ar>إضافة مصادر المحتوى</ar>
+        <zh-TW>添加內容源</zh-TW>
+        <hi>सामग्री सूत्रों जोड़े</hi>
+        <ko>콘텐츠 원본 추가</ko>
+        <bn>বিষয়বস্তু সোর্স যোগ</bn>
+        <ru>Добавить Источники контента</ru>
+        <sq>Shto Burimet e Përmbajtjes</sq>
         <it>Rimuovere questo account</it>
         <ur>مواد کے ذرائع کا اضافہ کریں</ur>
     </entry>
@@ -651,15 +649,15 @@
         <ja>最適化および予約投稿の停止</ja>
         <pt>Pausar publicação otimizada e agendada</pt>
         <zh-CN>暂停优化，定时发布</zh-CN>
-        <fr>Ajouter des sources de contenu</fr>
+        <fr>Pause édition optimisée et prévue</fr>
         <ar>إضافة مصادر المحتوى</ar>
         <zh-TW>添加內容源</zh-TW>
         <hi>सामग्री सूत्रों जोड़ें</hi>
         <ko>콘텐츠 원본 추가</ko>
         <bn>বিষয়বস্তু সোর্স যোগ</bn>
         <ru>Добавить Источники контента</ru>
-        <sq>Shto Burimet Përmbajtja</sq>
-        <it>Aggiungere origini di contenuto</it>
+  <sq>Ndalo publikimin e optimizuar dhe të planifikuar</sq>
+        <it>Pausa pubblicazione ottimizzata e programmata</it>
         <de>In Inhaltsquellen</de>
         <it>Aggiungere origini di contenuto</it>
         <ur>اصلاح اور شیڈول پبلشنگ روک دیں</ur>
@@ -696,7 +694,7 @@
         <ko>큐에서 게시 일시 중지</ko>
         <bn>সারি থেকে প্রকাশ বিরাম</bn>
         <ru>Пауза публикации из очереди</ru>
-        <sq>Ndalo botuese nga radhë</sq>
+        <sq>Ndalo botimin nga radha</sq>
         <it>Pausa pubblicazione dalla coda</it>
         <de>Pause Veröffentlichung aus der Warteschlange</de>
         <it>Pausa pubblicazione dalla coda</it>
@@ -715,7 +713,7 @@
         <ko>큐에서 게시 재개</ko>
         <bn>সারি থেকে প্রকাশ পুনঃসূচনা</bn>
         <ru>Резюме публикации из очереди</ru>
-        <sq>Resume botuese nga radhë</sq>
+        <sq>Rifillo postimin nga rradha</sq>
         <it>Riprendi pubblicazione dalla coda</it>
         <de>Lebenslauf aus der Warteschlange zu veröffentlichen</de>
         <it>Riprendi pubblicazione dalla coda</it>
@@ -791,7 +789,7 @@
         <ko>정상 출판이 재개 될 때까지 최적화 또는 실패에 게시 할 예정 메시지를 보낼 수 있습니다.</ko>
         <bn>অপ্টিমাইজ বা ব্যর্থ হবে প্রকাশ করতে নির্ধারিত বার্তা পর্যন্ত স্বাভাবিক প্রকাশনা পুনরায় শুরু করা পাঠাতে.</bn>
         <ru>Сообщения Оптимизированные или запланированные публикации не смогут отправить до нормального публикация не будет возобновлена.</ru>
-        <sq>Mesazhet optimizuar ose të planifikuara për të publikuar do të dështojnë për të dërguar derisa botuese normal është rifilloi.</sq>
+        <sq>Mesazhet optimizuar ose të planifikuara për të publikuar do të dështojnë për të dërguar derisa postimi normal terifilloi.</sq>
         <it>Messaggi ottimizzati o in programma di pubblicare mancherà di inviare fino a quando si riprende la pubblicazione normale.</it>
         <de>Nachrichten optimiert oder geplant zu veröffentlichen zu senden scheitern, bis die normale Publishing wieder aufgenommen wird.</de>
         <it>Messaggi ottimizzati o in programma di pubblicare mancherà di inviare fino a quando si riprende la pubblicazione normale.</it>
@@ -810,7 +808,7 @@
         <ko>네, 일시 정지 출판</ko>
         <bn>হ্যাঁ, বিরতি প্রকাশনা</bn>
         <ru>Да, пауза издательство</ru>
-        <sq>Po, botuese pauzë</sq>
+        <sq>Po, bej pauze postimin</sq>
         <it>Sì, la pubblicazione di pausa</it>
         <de>Ja, Pause-Publishing</de>
         <it>Sì, la pubblicazione di pausa</it>
