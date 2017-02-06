@@ -12,7 +12,7 @@
         <ko>보고서 작성</ko>
         <bn>প্রতিবেদন তৈরি করুন</bn>
         <ru>Создать отчет</ru>
-        <sq>Krijo Raportin</sq>
+        <sq>Krijo raportin</sq>
         <it>Crea rapporto</it>
         <de>Bericht erstellen</de>
         <it>Crea rapporto</it>
@@ -33,10 +33,9 @@
         <ko>보고서 유형</ko>
         <bn>প্রতিবেদনের প্রকার</bn>
         <ru>Тип отчета</ru>
-        <sq>Raporti Lloji</sq>
+        <sq>Lloji Raportit</sq>
         <it>Tipo di rapporto</it>
-        <de>Berichtstyp</de>
-        <it>Tipo di rapporto</it>
+        <de>Berichtstyp</de>  
         <ur>رپورٹ کی قسم</ur>
         <es>Tipo de Reporte</es>
         <iw>סוג הדוח</iw>
@@ -47,17 +46,16 @@
         <ja>メッセージレポート</ja>
         <pt>Relatório de Mensagens</pt>
         <zh-CN>信息报告</zh-CN>
-        <fr>Message Signaler</fr>
+        <fr>Rapport de message</fr>
         <ar>تقرير رسالة</ar>
         <zh-TW>發消息舉報</zh-TW>
         <hi>संदेश की रिपोर्ट</hi>
         <ko>메시지 보고서</ko>
         <bn>বার্তা প্রতিবেদন</bn>
         <ru>Сообщение Отчет</ru>
-        <sq>mesazh Report</sq>
-        <it>Segnala il messaggio</it>
+        <sq>Raporti mesazhit</sq>
+        <it>Rapporto dei messaggi</it>
         <de>Ignorierter</de>
-        <it>Segnala il messaggio</it>
         <ur>پیغام کی رپورٹ</ur>
         <es>Reporte de Mensaje</es>
         <iw>דווח על ההודעה</iw>
@@ -68,17 +66,16 @@
         <ja>月間統合レポート</ja>
         <pt>Relatório Mensal Agregado</pt>
         <zh-CN>月度报表汇总</zh-CN>
-        <fr>Rapport complet mensuel</fr>
+        <fr>Rapport Mensuel Total</fr>
         <ar>تقرير الركام الشهري</ar>
         <zh-TW>月度報表匯總</zh-TW>
         <hi>मासिक सकल रिपोर्ट</hi>
         <ko>월별 집계 보고서</ko>
         <bn>মাসিক মোট রিপোর্ট</bn>
         <ru>Ежемесячный сводный отчет</ru>
-        <sq>Raport Mujor Agregati</sq>
-        <it>Rapporto mensile aggregata</it>
+        <sq>Raporti Total Mujor</sq>
+        <it>Aggregato Rapporto Mensile</it>
         <de>Monatliche Gesamtbericht</de>
-        <it>Rapporto mensile aggregata</it>
         <ur>ماہانہ مجموعی رپورٹ</ur>
         <es>Reporte Agregado Mensual</es>
         <iw>מדווח חודשי מצטבר</iw>
@@ -89,17 +86,16 @@
         <ja>ラベルレポート</ja>
         <pt>Relatório de Rótulo</pt>
         <zh-CN>标签报告</zh-CN>
-        <fr>Étiquette Rapport</fr>
+        <fr>Rapport de l'étiquette</fr>
         <ar>تقرير التسمية</ar>
         <zh-TW>標籤報告</zh-TW>
         <hi>लेबल रिपोर्ट</hi>
         <ko>라벨 보고서</ko>
         <bn>ট্যাগ প্রতিবেদন</bn>
         <ru>Отчет по ярлыкам</ru>
-        <sq>Label Raporti</sq>
-        <it>etichetta Rapporto</it>
+        <sq>Raporti Etiketave</sq>
+        <it>Il Rapporto di Etichette</it>
         <de>Label-Bericht</de>
-        <it>etichetta Rapporto</it>
         <ur>لیبل رپورٹ</ur>
         <es>Reporte de Etiqueta</es>
         <iw>דוח תוויות</iw>
@@ -110,17 +106,16 @@
         <ja>レポート名</ja>
         <pt>Nome do Relatório</pt>
         <zh-CN>报告名称</zh-CN>
-        <fr>Nom du rapport</fr>
+        <fr>Le Nom du Rapport</fr>
         <ar>تقرير اسم</ar>
         <zh-TW>報告名稱</zh-TW>
         <hi>रिपोर्ट नाम</hi>
         <ko>보고서 이름</ko>
         <bn>গালাগাল প্রতিবেদন নাম</bn>
         <ru>Имя отчета</ru>
-        <sq>Raporti Emri</sq>
-        <it>rapporto Nome</it>
+        <sq>Emri Raportit</sq>
+        <it>Il Nome del rapporto</it>
         <de>Berichtsname</de>
-        <it>rapporto Nome</it>
         <ur>رپورٹ کا نام</ur>
         <es>Nombre de Reporte</es>
         <iw>שם דוח</iw>
@@ -131,17 +126,16 @@
         <ja>レポート名を入力</ja>
         <pt>Dê um nome ao seu relatório</pt>
         <zh-CN>报告命名</zh-CN>
-        <fr>Nommez votre rapport</fr>
+        <fr>Écrire le nom du rapport</fr>
         <ar>اسم التقرير الخاص بك</ar>
         <zh-TW>報告命名</zh-TW>
         <hi>अपनी रिपोर्ट को नाम</hi>
         <ko>보고서의 이름을</ko>
         <bn>আপনার প্রতিবেদন নাম</bn>
         <ru>Назовите свой доклад</ru>
-        <sq>Emri raportin tuaj</sq>
-        <it>Un nome al rapporto</it>
+        <sq>Shkruaj emrin e raportit</sq>
+        <it>Scrivi il nome del rapporto</it>
         <de>Nennen Sie Ihren Bericht</de>
-        <it>Un nome al rapporto</it>
         <ur>اپنی رپورٹ کو نام دیں</ur>
         <es>Nombre su reporte</es>
         <iw>תן שם לדוח שלך</iw>
@@ -152,17 +146,16 @@
         <ja>アカウント</ja>
         <pt>Conta(s)</pt>
         <zh-CN>帐户</zh-CN>
-        <fr>Comptes)</fr>
+        <fr>Compte(s)</fr>
         <ar>حساب (ق)</ar>
         <zh-TW>帳戶</zh-TW>
         <hi>हिसाब किताब)</hi>
         <ko>계정 (들)</ko>
         <bn>অ্যাকাউন্ট (গুলি)</bn>
         <ru>Счета)</ru>
-        <sq>Llogaria (s)</sq>
-        <it>Account (s)</it>
+        <sq>Llogaria/Llogaritë</sq>
+        <it>Conto (i)</it>
         <de>Account (s)</de>
-        <it>Account (s)</it>
         <ur>اکاؤنٹ (زبانیں)</ur>
         <es>Cuenta</es>
         <iw>חשבונות)</iw>
@@ -173,17 +166,16 @@
         <ja>ラベル</ja>
         <pt>Rótulo(s)</pt>
         <zh-CN>标签</zh-CN>
-        <fr>Étiquettes)</fr>
+        <fr>Étiquette(s)</fr>
         <ar>تسميات)</ar>
         <zh-TW>標籤）</zh-TW>
         <hi>लेबल (एस)</hi>
         <ko>라벨 (들)</ko>
         <bn>লেবেল)</bn>
         <ru>Этикетка (ы)</ru>
-        <sq>Etiketë (s)</sq>
-        <it>Label (s)</it>
+        <sq>Etiketë/Etiketat</sq>
+        <it>Etichetta(e)</it>
         <de>Label (s)</de>
-        <it>Label (s)</it>
         <ur>لیبل (ے)</ur>
         <es>Etiqueta</es>
         <iw>תוויות)</iw>
@@ -194,7 +186,7 @@
         <ja>時間枠</ja>
         <pt>Período de Tempo</pt>
         <zh-CN>时间段</zh-CN>
-        <fr>Délai</fr>
+        <fr>Plage de temps</fr>
         <ar>إطار زمني</ar>
         <zh-TW>大體時間</zh-TW>
         <hi>समय सीमा</hi>
@@ -204,7 +196,6 @@
         <sq>Afati</sq>
         <it>Lasso di tempo</it>
         <de>Zeitrahmen</de>
-        <it>Lasso di tempo</it>
         <ur>وقت کی حد</ur>
         <es>Periodo de Tiempo</es>
         <iw>מסגרת זמן</iw>
@@ -222,10 +213,9 @@
         <ko>보고서 생성</ko>
         <bn>গালাগাল প্রতিবেদন জেনারেট করুন</bn>
         <ru>Создать отчет</ru>
-        <sq>Generate Raportin</sq>
-        <it>Genera rapporto</it>
+        <sq>Prodho raportin</sq>
+        <it>Genera il rapporto</it>
         <de>Bericht generieren</de>
-        <it>Genera rapporto</it>
         <ur>رپورٹ پیدا</ur>
         <es>Generar Reporte</es>
         <iw>להפיק דוח</iw>
@@ -236,17 +226,16 @@
         <ja>開始日を選択</ja>
         <pt>Escolher data de início</pt>
         <zh-CN>选择开始日期</zh-CN>
-        <fr>Choisissez la date de début</fr>
+        <fr>Choisissez la date de départ</fr>
         <ar>اختيار تاريخ بدء</ar>
         <zh-TW>匹克開始日期</zh-TW>
         <hi>आरंभ तिथि लेते हैं</hi>
         <ko>시작 날짜를 선택</ko>
         <bn>শুরুর তারিখ বাছুন</bn>
         <ru>Выберите дату начала</ru>
-        <sq>Marr datën e fillimit</sq>
-        <it>Scegli data di inizio</it>
+        <sq>Zgjidh datën e fillimit</sq>
+        <it>Scegli data d'inizio</it>
         <de>Wählen Sie Starttermin</de>
-        <it>Scegli data di inizio</it>
         <ur>شروع کرنے کی تاریخ اٹھاو</ur>
         <es>Escoja fecha de inicio</es>
         <iw>בחר תאריך ההתחלה</iw>
@@ -264,7 +253,7 @@
         <ko>종료 날짜를 선택</ko>
         <bn>শেষ তারিখ বাছুন</bn>
         <ru>Выберите дату окончания</ru>
-        <sq>Marr datën e përfundimit</sq>
+        <sq>Zgjidh datën e mbarimit</sq>
         <it>Scegli la data di fine</it>
         <de>Wählen Sie das Enddatum</de>
         <it>Scegli la data di fine</it>
@@ -425,17 +414,16 @@
         <ja>保存日</ja>
         <pt>Salvo em</pt>
         <zh-CN>保存日期</zh-CN>
-        <fr>Date de Saved</fr>
+        <fr>Date sauvegardée</fr>
         <ar>تاريخ الحفظ</ar>
         <zh-TW>保存日期</zh-TW>
         <hi>दिनांक को बचाया</hi>
         <ko>날짜 저장</ko>
         <bn>তারিখ সংরক্ষিত</bn>
         <ru>Дата Сохранено</ru>
-        <sq>Data ruajtura</sq>
-        <it>data salvata</it>
+        <sq>Data u ruajt</sq>
+        <it>Date salvate</it>
         <de>Datum gespeichert</de>
-        <it>data salvata</it>
         <ur>تاریخ کی محفوظ کردہ</ur>
         <es>Fecha Guardada</es>
         <iw>שמורה תאריך</iw>
@@ -452,17 +440,16 @@
         <ja>アクション</ja>
         <pt>Ações</pt>
         <zh-CN>操作</zh-CN>
-        <fr>actes</fr>
+        <fr>Actes</fr>
         <ar>الإجراءات</ar>
         <zh-TW>操作</zh-TW>
         <hi>प्रक्रिया</hi>
         <ko>행위</ko>
         <bn>ক্রিয়াকলাপ</bn>
         <ru>действия</ru>
-        <sq>veprimet</sq>
-        <it>azioni</it>
+        <sq>Veprimet</sq>
+        <it>Azioni</it>
         <de>Aktionen</de>
-        <it>azioni</it>
         <ur>عوامل</ur>
         <es>Comportamiento</es>
         <iw>פעולות</iw>
@@ -473,15 +460,15 @@
         <ja>見る</ja>
         <pt>Ver</pt>
         <zh-CN>视图</zh-CN>
-        <fr>Vue</fr>
+        <fr>La Vue</fr>
         <ar>رأي</ar>
         <zh-TW>視圖</zh-TW>
         <hi>राय</hi>
         <ko>전망</ko>
         <bn>দৃশ্য</bn>
         <ru>Посмотреть</ru>
-        <sq>Pamje</sq>
-        <it>vista</it>
+        <sq>Pamja</sq>
+        <it>La vista</it>
         <de>Aussicht</de>
         <it>vista</it>
         <ur>لنک</ur>
@@ -501,8 +488,8 @@
         <ko>이 파일은 .XLS 형식으로 제공된다. 당신은 Microsoft Excel 또는 이에 상응하는 프로그램에서 열 수 있습니다.</ko>
         <bn>এই ফাইলটি .xls ফর্ম্যাটে সরবরাহ করা হয়. আপনি মাইক্রোসফট এক্সেল বা একটি সমতুল্য প্রোগ্রাম খুলতে পারে.</bn>
         <ru>Этот файл предоставлен в формате .xls. Вы можете открыть его в Microsoft Excel или эквивалентной программы.</ru>
-        <sq>Kjo skedë është dhënë në formatin xls. Ju mund të hapur atë në Microsoft Excel ose një program ekuivalent.</sq>
-        <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
+        <sq>Kjo dosje  është dhënë në formatin xls. Ju mund ta hapni atë në Microsoft Excel ose në një program ekuivalent.</sq>
+        <it>Questa cartella è presentato nel formato .xls. Si può aprire in Microsoft Excel o con un programma equivalente.</it>
         <de>Diese Datei wird im XLS-Format zur Verfügung gestellt. Sie können es in Microsoft Excel oder einem gleichwertigen Programm öffnen.</de>
         <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
         <ur>یہ فائل .xls کی شکل میں فراہم کی جاتی ہے. آپ کو مائیکروسافٹ ایکسل یا ایک برابر کے پروگرام میں اسے کھول سکتے ہیں.</ur>

@@ -12,8 +12,8 @@
         <ko>사용자 계정 설정</ko>
         <bn>ব্যবহারকারীর অ্যাকাউন্ট সেটিংস</bn>
         <ru>Настройки учетных записей пользователей</ru>
-        <sq>Cilësimet e llogarisë User</sq>
-        <it>Impostazioni account utente</it>
+        <sq>Cilësimet e llogarisë se perdoruesit</sq>
+        <it>Impostazioni del  utente di conti</it>
         <de>Benutzerkonto-Einstellungen</de>
         <it>Impostazioni account utente</it>
         <ur>صارف اکاؤنٹ کی ترتیبات</ur>
@@ -33,7 +33,7 @@
         <ko>이름 (우선 성)</ko>
         <bn>নাম (প্রথম সর্বশেষ)</bn>
         <ru>Имя (First Last)</ru>
-        <sq>Emri (First Last)</sq>
+        <sq>Emri (Emer Mbiemer)</sq>
         <it>Nome (Nome Cognome)</it>
         <de>Namen (Vorname Nachname)</de>
         <it>Nome (Nome Cognome)</it>
@@ -54,7 +54,7 @@
         <ko>이메일 주소</ko>
         <bn>ই-মেইল ঠিকানা</bn>
         <ru>Адрес электронной почты</ru>
-        <sq>Email Adresa</sq>
+        <sq>Adresa Email</sq>
         <it>Indirizzo email</it>
         <de>E-Mail-Addresse</de>
         <it>Indirizzo email</it>
@@ -76,7 +76,7 @@
         <bn>পাসওয়ার্ড</bn>
         <ru>пароль</ru>
         <sq>fjalëkalim</sq>
-        <it>parola d'ordine</it>
+        <it>Password</it>
         <de>Passwort</de>
         <it>parola d'ordine</it>
         <ur>پاس ورڈ</ur>
@@ -159,7 +159,7 @@
         <ko>시간대</ko>
         <bn>সময় অঞ্চল</bn>
         <ru>Часовой пояс</ru>
-        <sq>Time Zone</sq>
+        <sq>Zona kohore</sq>
         <it>Fuso orario</it>
         <de>Zeitzone</de>
         <it>Fuso orario</it>
@@ -243,7 +243,7 @@
         <ko>승격 메시지 이메일</ko>
         <bn>Promotable বার্তা ইমেইল</bn>
         <ru>Сообщения электронной почты Сообщение перспективными</ru>
-        <sq>Emails Promotable Mesazh</sq>
+        <sq>Sponzorizimi i mesazheve nepermjet email-it</sq>
         <it>Messaggi di posta elettronica messaggi promotable</it>
         <de>Heraufstufbare Nachricht E-Mails</de>
         <it>Messaggi di posta elettronica messaggi promotable</it>
@@ -285,7 +285,7 @@
         <ko>다음과 같은 클라이언트 계정에 작업을 액세스 할 수 있습니다 (들)</ko>
         <bn>আপনি নিম্নলিখিত ক্লায়েন্টদের অ্যাকাউন্টে কাজ এক্সেস আছে (গুলি)</bn>
         <ru>У вас есть доступ к работе на следующий счет клиентов (ы)</ru>
-        <sq>Ju keni qasje të punojnë në klientët llogarinë e mëposhtme (s)</sq>
+        <sq>Ju keni akses të punojnë në klientët llogarinë e mëposhtme (s)</sq>
         <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
         <de>Sie haben Zugriff auf die folgenden Kunden Rechnung zu arbeiten (s)</de>
         <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
@@ -306,7 +306,7 @@
         <ko>사용 출판 계정</ko>
         <bn>Enabled প্রকাশনা অ্যাকাউন্টস</bn>
         <ru>Включенные счетов Издательства</ru>
-        <sq>Llogaritë enabled Botime</sq>
+        <sq>Llogarite qe kane postime te mundesuara</sq>
         <it>Conti Editoria abilitati</it>
         <de>Aktiviert Publishing-Konten</de>
         <it>Conti Editoria abilitati</it>

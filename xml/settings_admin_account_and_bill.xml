@@ -12,8 +12,8 @@
         <ko>클라이언트 계정 Setttings</ko>
         <bn>ক্লায়েন্ট অ্যাকাউন্ট Setttings</bn>
         <ru>Setttings учетной записи клиента</ru>
-        <sq>Setttings llogarisë klient</sq>
-        <it>Setttings account cliente</it>
+        <sq>Cilesit e llogarisë se klient</sq>
+        <it>Impostazioni dei conti di cliente</it>
         <de>Kunden-Account Setttings</de>
         <it>Setttings account cliente</it>
         <ur>کلائنٹ اکاؤنٹ Setttings</ur>
@@ -96,7 +96,7 @@
         <ko>사용자 선택</ko>
         <bn>ব্যবহারকারী নির্বাচন</bn>
         <ru>Выбор пользователя</ru>
-        <sq>Zgjidh User</sq>
+        <sq>Zgjidh perdoruesin</sq>
         <it>Selezionare utente</it>
         <de>Wählen Sie Benutzer</de>
         <it>Selezionare utente</it>
@@ -117,7 +117,7 @@
         <ko>클라이언트 계정 관리자</ko>
         <bn>ক্লায়েন্ট অ্যাকাউন্ট প্রশাসক</bn>
         <ru>Администратор учетной записи клиента</ru>
-        <sq>Klienti Administrator llogari</sq>
+        <sq>Klienti Administrator llogaris</sq>
         <it>Administrator Account client</it>
         <de>Kunden-Account-Administrator</de>
         <it>Administrator Account client</it>
@@ -138,7 +138,7 @@
         <ko>사용자 선택</ko>
         <bn>ব্যবহারকারী নির্বাচন</bn>
         <ru>Выбор пользователя</ru>
-        <sq>Zgjidh User</sq>
+        <sq>Zgjidh Perdoruesin</sq>
         <it>Selezionare utente</it>
         <de>Wählen Sie Benutzer</de>
         <it>Selezionare utente</it>
@@ -180,7 +180,7 @@
         <ko>클라이언트 이후</ko>
         <bn>ক্লায়েন্ট যেহেতু</bn>
         <ru>Клиент С</ru>
-        <sq>klienti Që</sq>
+        <sq>klient Që</sq>
         <it>Dal client</it>
         <de>-Client Da</de>
         <it>Dal client</it>
@@ -201,7 +201,7 @@
         <ko>서비스 등급</ko>
         <bn>পরিষেবা টিয়ার</bn>
         <ru>Услуги уровня</ru>
-        <sq>Tier shërbimit</sq>
+        <sq>Niveli shërbimit</sq>
         <it>Livello di servizio</it>
         <de>Service-Tier</de>
         <it>Livello di servizio</it>
@@ -222,7 +222,7 @@
         <ko>기업 계획</ko>
         <bn>এন্টারপ্রাইজ পরিকল্পনা</bn>
         <ru>План предприятия</ru>
-        <sq>Plan Enterprise</sq>
+        <sq>Plani kompanise</sq>
         <it>Enterprise Piano</it>
         <de>Unternehmen planen</de>
         <it>Enterprise Piano</it>
@@ -285,7 +285,7 @@
         <ko>다음 빌 날짜</ko>
         <bn>পরবর্তী বিল তারিখগুলি</bn>
         <ru>Следующий счет Даты</ru>
-        <sq>Datat e ardhshme Bill</sq>
+        <sq>Datat e ardhshme te fatures</sq>
         <it>Prossima fattura Date</it>
         <de>Weiter Bill Termine</de>
         <it>Prossima fattura Date</it>
@@ -306,7 +306,7 @@
         <ko>Reciept받는 사람</ko>
         <bn>Reciept প্রাপক</bn>
         <ru>Reciept Получатели</ru>
-        <sq>Marrësit Reciept</sq>
+        <sq>Marrësit e faturave</sq>
         <it>Destinatari ricevuta</it>
         <de>reciept Empfänger</de>
         <it>Destinatari ricevuta</it>
@@ -327,7 +327,7 @@
         <ko>영수증</ko>
         <bn>প্রাপ্তি</bn>
         <ru>денежные поступления</ru>
-        <sq>Pranimet</sq>
+        <sq>Faturat</sq>
         <it>ricevute</it>
         <de>Einkünfte</de>
         <it>ricevute</it>
@@ -726,7 +726,7 @@
         <ko>기본 결제 방법</ko>
         <bn>প্রাথমিক পেমেন্ট পদ্ধতি</bn>
         <ru>Основной метод оплаты</ru>
-        <sq>Metoda e pagesës Primar</sq>
+        <sq>Metoda e pagesës Primare</sq>
         <it>Metodo di pagamento principale</it>
         <de>Primäre Zahlungsmethode</de>
         <it>Metodo di pagamento principale</it>
@@ -747,7 +747,7 @@
         <ko>찾을 수 없음 카드 없음</ko>
         <bn>কোন কার্ড পাওয়া</bn>
         <ru>Нет карты Найдено</ru>
-        <sq>No Card Found</sq>
+        <sq>Nuk gjendet karte</sq>
         <it>No Card Trovato</it>
         <de>Keine Karte gefunden</de>
         <it>No Card Trovato</it>
@@ -789,7 +789,7 @@
         <ko>기본으로 만드는</ko>
         <bn>প্রাথমিক করা</bn>
         <ru>Сделать начальное</ru>
-        <sq>bëni fillore</sq>
+        <sq>bëni prioritet</sq>
         <it>Rendi principale</it>
         <de>Make Primary</de>
         <it>Rendi principale</it>

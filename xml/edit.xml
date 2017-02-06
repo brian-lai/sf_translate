@@ -12,7 +12,7 @@
         <ko>참고 : 링크가 게시에 단축</ko>
         <bn>নোট: লিংক প্রকাশনার কমান</bn>
         <ru>Примечание: Ссылки на публикации сократить</ru>
-        <sq>Shënim: Lidhjet shkurtojë në publikim</sq>
+        <sq>Shënim: Adresa e website-it shkurtohet në publikim</sq>
         <it>Nota: Collegamenti accorciano a pubblicazione</it>
         <de>Hinweis: Die Links bei Veröffentlichung verkürzen</de>
         <it>Nota: Collegamenti accorciano a pubblicazione</it>
@@ -39,7 +39,7 @@
         <ko>마지막에 의해 편집 됨</ko>
         <bn>সর্বশেষ সম্পাদিত</bn>
         <ru>Последний раз редактировалось на</ru>
-        <sq>Fundit edituar nga ne</sq>
+        <sq>Modifikimi i fundit nga    ne e</sq>
         <it>Ultima modifica di su</it>
         <de>Zuletzt von auf bearbeitet</de>
         <it>Ultima modifica di su</it>
@@ -60,7 +60,7 @@
         <ko>로 설정</ko>
         <bn>সেট</bn>
         <ru>Установлен в</ru>
-        <sq>të vendosur për të</sq>
+        <sq>Vendosur në </sq>
         <it>Impostato</it>
         <de>Einstellen</de>
         <it>Impostato</it>
@@ -103,7 +103,7 @@
         <bn>এখন পাঠান</bn>
         <ru>Отправить сейчас</ru>
         <sq>Dergo tani</sq>
-        <it>Spedisci ora</it>
+        <it>Invia ora</it>
         <de>Jetzt abschicken</de>
         <it>Spedisci ora</it>
         <ur>ابھی حساب</ur>

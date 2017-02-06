@@ -33,8 +33,8 @@
         <ko>소셜 계정</ko>
         <bn>সামাজিক অ্যাকাউন্ট</bn>
         <ru>социальные счета</ru>
-        <sq>llogaria social</sq>
-        <it>account di social</it>
+        <sq>llogaria sociale</sq>
+        <it>Conti sociali</it>
         <de>Sozial Konto</de>
         <it>account di social</it>
         <ur>سماجی اکاؤنٹ</ur>
@@ -54,7 +54,7 @@
         <ko>이 페이지가 제대로 작동하기 전에.</ko>
         <bn>আগে এই পৃষ্ঠার ঠিকমত কাজ করবে.</bn>
         <ru>перед тем на этой странице будет работать должным образом.</ru>
-        <sq>para se kjo faqe do të funksionojë si duhet.</sq>
+        <sq>para se kjo faqe të funksionojë si duhet.</sq>
         <it>prima di questa pagina funzionerà correttamente.</it>
         <de>bevor diese Seite ordnungsgemäß funktionieren wird.</de>
         <it>prima di questa pagina funzionerà correttamente.</it>
@@ -159,7 +159,7 @@
         <ko>뭔가 잘못된 메시지를 삭제 갔다.</ko>
         <bn>কিছু ভুল আপনার বার্তা মোছার সময় গিয়েছিলাম.</bn>
         <ru>Что-то пошло не так как удалить сообщение.</ru>
-        <sq>Diçka nuk shkoi mirë fshirë mesazhin tuaj.</sq>
+        <sq>Diçka nuk shkoi mirë kur fshitë mesazhin tuaj.</sq>
         <it>Qualcosa è andato storto cancellando il messaggio.</it>
         <de>Etwas ging Löschen falsch Ihre Nachricht.</de>
         <it>Qualcosa è andato storto cancellando il messaggio.</it>
@@ -180,7 +180,7 @@
         <ko>죄송합니다, 오류가 발생했습니다</ko>
         <bn>দুঃখিত, একটি ত্রুটি ছিল</bn>
         <ru>Извините, произошла ошибка</ru>
-        <sq>Na vjen keq, nuk ishte një gabim</sq>
+        <sq>Na vjen keq,ishte një gabim</sq>
         <it>Spiacente, c'è stato un errore</it>
         <de>Entschuldigung, da war ein Fehler</de>
         <it>Spiacente, c'è stato un errore</it>
@@ -201,7 +201,7 @@
         <ko>죄송합니다, 오류가 발생했습니다</ko>
         <bn>দুঃখিত, একটি ত্রুটি ছিল</bn>
         <ru>Извините, произошла ошибка</ru>
-        <sq>Na vjen keq, nuk ishte një gabim</sq>
+        <sq>Na vjen keq, ishte një gabim</sq>
         <it>Spiacente, c'è stato un errore</it>
         <de>Entschuldigung, da war ein Fehler</de>
         <it>Spiacente, c'è stato un errore</it>
@@ -215,15 +215,15 @@
         <ja>メッセージがマークされました</ja>
         <pt>Suas mensagens foram marcadas</pt>
         <zh-CN>您的信息被标记</zh-CN>
-        <fr>Votre message (s) ont été marqués</fr>
+        <fr>Votre message  ont été marqués</fr>
         <ar>وتميزت رسالة الخاص بك (ق)</ar>
         <zh-TW>您的留言（S）被標記</zh-TW>
         <hi>आपका संदेश (s) चिह्नित किया गया</hi>
         <ko>메시지 (들) 표시된</ko>
         <bn>আপনার বার্তা (গুলি) চিহ্নিত করা হয়েছিল</bn>
         <ru>Ваше сообщение (s) были отмечены</ru>
-        <sq>Mesazhi juaj (s) u shënuan</sq>
-        <it>Il tuo messaggio (s) sono stati segnati</it>
+        <sq>Mesazhi juaj  u shënua</sq>
+        <it>I tuoi messaggi  sono stati segnati</it>
         <de>Ihre Nachricht (en) wurden markiert</de>
         <it>Il tuo messaggio (s) sono stati segnati</it>
         <ur>آپ کا پیغام (ے) سے نشان لگا دیا گیا تھا</ur>
@@ -453,7 +453,7 @@
         <ko>년</ko>
         <bn>বছর</bn>
         <ru>лет</ru>
-        <sq>years</sq>
+        <sq>vite</sq>
         <it>anni</it>
         <de>Jahre</de>
         <it>anni</it>
@@ -474,8 +474,8 @@
         <ko>1 세기</ko>
         <bn>1 শতাব্দী</bn>
         <ru>1 век</ru>
-        <sq>1 shekullit</sq>
-        <it>1 ° secolo</it>
+        <sq>1 shekulli</sq>
+        <it>1 secolo</it>
         <de>1 Jahrhundert</de>
         <it>1 ° secolo</it>
         <ur>1 صدی</ur>
@@ -537,7 +537,7 @@
         <ko>뭔가 타임 라인을 검색하는 문제가 있습니다.</ko>
         <bn>কোনো কিছু আপনার টাইমলাইনে পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
         <ru>Что-то пошло не так получение временной шкалы.</ru>
-        <sq>Diçka ka shkuar keq retrieving afat kohor tuaj.</sq>
+        <sq>Diçka ka shkuar keq duke nxjerr afat kohor.</sq>
         <it>Qualcosa è andato storto recupero vostra timeline.</it>
         <de>Etwas schief gegangen Timeline abrufen.</de>
         <it>Qualcosa è andato storto recupero vostra timeline.</it>
@@ -600,7 +600,7 @@
         <ko>이 메시지 홍보</ko>
         <bn>এই বার্তা প্রচার করুন</bn>
         <ru>Рекламировать сообщение</ru>
-        <sq>Regjistroni këtë mesazh</sq>
+        <sq>Sponsorizo këtë mesazh</sq>
         <it>Promuovi questo Messaggio</it>
         <de>Fördern Sie diese Nachricht</de>
         <it>Promuovi questo Messaggio</it>
@@ -642,7 +642,7 @@
         <ko>재활용 메시지</ko>
         <bn>রিসাইকেল বার্তা</bn>
         <ru>Переработать сообщение</ru>
-        <sq>mesazhi Recycle</sq>
+        <sq>Riperdor mesazhin</sq>
         <it>messaggio Riciclare</it>
         <de>Recycle Nachricht</de>
         <it>messaggio Riciclare</it>
@@ -663,7 +663,7 @@
         <ko>뭔가 대기열을 검색하는 문제가 있습니다.</ko>
         <bn>কোনো কিছু আপনার কিউ পুনরুদ্ধারের ভুল সর্বস্বান্ত হয়েছে.</bn>
         <ru>Что-то пошло не так получении вашей очереди.</ru>
-        <sq>Diçka ka shkuar keq retrieving radhë tuaj.</sq>
+        <sq>Diçka ka shkuar keq ngarkuar radhë tuaj.</sq>
         <it>Qualcosa è andato storto recuperare la coda.</it>
         <de>Etwas schief gegangen Warteschlange abgerufen werden.</de>
         <it>Qualcosa è andato storto recuperare la coda.</it>
@@ -684,7 +684,7 @@
         <ko>때까지 최적화</ko>
         <bn>যতক্ষণ না অনুকূলকৃত</bn>
         <ru>оптимизировали до</ru>
-        <sq>optimizuar deri</sq>
+        <sq>Zgjedhja me e mire eshte bere deri</sq>
         <it>Ottimizzato fino</it>
         <de>Optimiert bis</de>
         <it>Ottimizzato fino</it>
@@ -705,7 +705,7 @@
         <ko>에서 최적화</ko>
         <bn>থেকে অপ্টিমাইজ করা</bn>
         <ru>Оптимизированный из</ru>
-        <sq>optimizuar nga</sq>
+        <sq>Zgjedhja me e mire eshte bere nga</sq>
         <it>Ottimizzato da</it>
         <de>Optimiert aus</de>
         <it>Ottimizzato da</it>
@@ -768,7 +768,7 @@
         <ko>마지막 편집</ko>
         <bn>সর্বশেষ সম্পাদিত</bn>
         <ru>Последний раз редактировалось</ru>
-        <sq>Fundit edituar nga</sq>
+        <sq>Modifikuar ne fund nga </sq>
         <it>Ultima modifica di</it>
         <de>Zuletzt bearbeitet von</de>
         <it>Ultima modifica di</it>
@@ -852,7 +852,7 @@
         <ko>어떤 검색어가 없습니다</ko>
         <bn>কোন অনুসন্ধান শর্তাবলী</bn>
         <ru>Нет Условия поиска</ru>
-        <sq>Nuk Kërko Kushtet</sq>
+        <sq>Nuk ka tekst per te  Kërkuar </sq>
         <it>Non ci sono termini di ricerca</it>
         <de>Keine Suchbegriffe</de>
         <it>Non ci sono termini di ricerca</it>
@@ -887,15 +887,15 @@
         <ja>Twitterへ公開する場合、メッセージは140文字に制限されます。</ja>
         <pt>Sua mensagem é limitada a 140 caracteres ao publicar no Twitter.</pt>
         <zh-CN>发布到 Twitter 时，你的信息被限制在140个字符。</zh-CN>
-        <fr>Votre message est limité à 140 caractères lors de la publication à Twitter.</fr>
+        <fr>Votre message est limité à 140 caractères quand publié sur Twitter.</fr>
         <ar>يقتصر رسالة إلى 140 حرفا عند نشر على تويتر.</ar>
         <zh-TW>發布到Twitter時，你的信息被限制在140個字符。</zh-TW>
         <hi>जब ट्विटर पर प्रकाशन आपका संदेश 140 अक्षरों तक सीमित है।</hi>
         <ko>트위터에 게시 할 때 메시지는 140 자로 제한됩니다.</ko>
         <bn>যখন টুইটারে প্রকাশ আপনার বার্তা 140 অক্ষরের মধ্যে সীমিত আছে.</bn>
         <ru>Ваше сообщение ограничено 140 символами при публикации в Twitter.</ru>
-        <sq>Mesazhi juaj është e kufizuar në 140 karaktere, kur botuese në Twitter.</sq>
-        <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
+        <sq>Mesazhi juaj është e kufizuar në 140 karaktere, kur postohet  në Twitter.</sq>
+        <it>Il suo messaggio è limitato a 140 caratteri quando e stato pubblicato su Twitter.</it>
         <de>Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
         <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
         <ur>فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
@@ -957,7 +957,7 @@
         <ko>날짜와 시간 범위를 확인하십시오.</ko>
         <bn>আপনার তারিখ এবং সময় পরিসীমা যাচাই করুন.</bn>
         <ru>Пожалуйста, проверьте дату и интервал времени.</ru>
-        <sq>Ju lutem verifikoni datën tuaj dhe varg kohë.</sq>
+        <sq>Ju lutem verifikoni datën tuaj dhe zgjatjen kohore.</sq>
         <it>Si prega di verificare la data e l'intervallo di tempo.</it>
         <de>Bitte überprüfen Sie das Datum und Zeitbereich.</de>
         <it>Si prega di verificare la data e l'intervallo di tempo.</it>
@@ -978,7 +978,7 @@
         <ko>귀하의 메시지가 대기열에 최적화 된 설정입니다!</ko>
         <bn>আপনার বার্তা আপনার কিউ 'র মধ্যে অপ্টিমাইজ করা সেট করা হয়!</bn>
         <ru>Ваше сообщение в очереди устанавливается оптимизированный!</ru>
-        <sq>Mesazhi juaj është në radhë tuaj të vendosur për të optimizuar!</sq>
+        <sq>Mesazhi juaj është në radhë tuaj të vendosur si zgjedhja me e mire!</sq>
         <it>Il suo messaggio è in coda impostato ottimizzato!</it>
         <de>Ihre Nachricht wird in die Warteschlange gesetzt optimiert!</de>
         <it>Il suo messaggio è in coda impostato ottimizzato!</it>
@@ -999,7 +999,7 @@
         <ko>귀하의 메시지가 곧 공개됩니다!</ko>
         <bn>আপনার বার্তা খুব শীঘ্রই প্রকাশ করা হবে!</bn>
         <ru>Ваше сообщение будет публиковать в ближайшее время!</ru>
-        <sq>Mesazhi juaj do të publikojë së shpejti!</sq>
+        <sq>Mesazhi juaj do të publikohet së shpejti!</sq>
         <it>Il tuo messaggio pubblicherà a breve!</it>
         <de>Ihre Nachricht wird in Kürze veröffentlichen!</de>
         <it>Il tuo messaggio pubblicherà a breve!</it>
@@ -1062,7 +1062,7 @@
         <ko>잘못된 날짜 (들)</ko>
         <bn>অবৈধ তারিখ (গুলি)</bn>
         <ru>Недопустимая дата (ы)</ru>
-        <sq>date Invalid (s)</sq>
+        <sq>date e pavlefshme</sq>
         <it>Data non valida (s)</it>
         <de>Datum ungültig (n)</de>
         <it>Data non valida (s)</it>
@@ -1083,7 +1083,7 @@
         <ko>이 페이지를 긁어 문제가 발생했습니다.</ko>
         <bn>একটি সমস্যা এই পৃষ্ঠার চাঁচুনি ছিল.</bn>
         <ru>Существовал проблема выскабливание эту страницу.</ru>
-        <sq>Pati një problem scraping këtë faqe.</sq>
+        <sq>Pati një problem me këtë faqe.</sq>
         <it>C'è stato un problema raschiando questa pagina.</it>
         <de>Es gab ein Problem Diese Seite Schaben.</de>
         <it>C'è stato un problema raschiando questa pagina.</it>
@@ -1104,7 +1104,7 @@
         <ko>링크를 확인하고 다시 시도하십시오.</ko>
         <bn>লিংক পরীক্ষা করে আবার চেষ্টা করুন.</bn>
         <ru>Пожалуйста, проверьте ссылку и попробуйте еще раз.</ru>
-        <sq>Ju lutem kontrolloni lidhjen dhe provoni përsëri.</sq>
+        <sq>Ju lutem kontrolloni adresen  dhe provoni përsëri.</sq>
         <it>Si prega di verificare il link e riprova.</it>
         <de>Bitte überprüfen Sie den Link und versuchen Sie es erneut.</de>
         <it>Si prega di verificare il link e riprova.</it>
@@ -1146,7 +1146,7 @@
         <ko>이미지를 업로드하는 중에 오류가 발생했습니다.</ko>
         <bn>আপনার ইমেজ আপলোড করার সময় একটি ত্রুটি হয়েছিল.</bn>
         <ru>Был Ошибка при загрузке изображения.</ru>
-        <sq>Pati një gabim gjatë ngarkimit imazhin tuaj.</sq>
+        <sq>Pati një gabim gjatë ngarkimit te imazhin tuaj.</sq>
         <it>Si è verificato un errore durante il caricamento delle immagini.</it>
         <de>Es ist ein Fehler aufgetreten Bild hochladen.</de>
         <it>Si è verificato un errore durante il caricamento delle immagini.</it>
@@ -1272,7 +1272,7 @@
         <ko>일정 날짜가 비어 있습니다</ko>
         <bn>সূচি তারিখ খালি</bn>
         <ru>дата Расписание пуст</ru>
-        <sq>date Orari është bosh</sq>
+        <sq>Orari është bosh</sq>
         <it>data di pianificazione è vuota</it>
         <de>Geplantes Datum ist leer</de>
         <it>data di pianificazione è vuota</it>
@@ -1293,7 +1293,7 @@
         <ko>일정 날짜를 입력 해주세요</ko>
         <bn>একটি সময়সূচী তারিখ লিখুন দয়া করে</bn>
         <ru>Пожалуйста, введите дату расписания</ru>
-        <sq>Ju lutem shkruani një datë orar</sq>
+        <sq>Ju lutem shkruani një datë</sq>
         <it>Si prega di inserire una data di pianificazione</it>
         <de>Bitte geben Sie einen Zeitplan Datum</de>
         <it>Si prega di inserire una data di pianificazione</it>
@@ -1314,7 +1314,7 @@
         <ko>귀하의 메시지가 최대한 빨리 게시됩니다!</ko>
         <bn>আপনার বার্তা যত শীঘ্র সম্ভব প্রকাশ করা হবে!</bn>
         <ru>Ваше сообщение будет публиковать как можно скорее!</ru>
-        <sq>Mesazhi juaj do të publikojë ASAP!</sq>
+        <sq>Mesazhi juaj do të publikohet sa me pareP!</sq>
         <it>Il tuo messaggio pubblicherà al più presto!</it>
         <de>Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
         <it>Il tuo messaggio pubblicherà al più presto!</it>
@@ -1377,8 +1377,8 @@
         <ko>당신의 웹 사이트를 권한 부여 Google 웹 로그 분석 계정 (들)</ko>
         <bn>আপনার ওয়েবসাইটে অনুমোদিত Google এনালিটিক্স অ্যাকাউন্ট (গুলি)</bn>
         <ru>Авторизация свой веб-сайт Google Analytics счет (ы)</ru>
-        <sq>Autorizues faqen tuaj te llogaria (s) Google Analytics</sq>
-        <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
+        <sq>Duke autorizuar faqen tuaj te llogaries  Google Analytics</sq>
+        <it>Autorizzazione del tuo sito web del Google Analytics</it>
         <de>Berechtigen Ihre Website Google Analytics-Konto (en)</de>
         <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
         <ur>اپنی ویب سائٹ اختیار تجزیاتی گوگل اکاؤنٹ (زبانیں)</ur>
@@ -1398,8 +1398,8 @@
         <ko>귀하의 웹 사이트에 Google 웹 로그 분석 계정을 승인하는 것은 더 나은 우리를 도와하여 메시지를 최적화합니다</ko>
         <bn>আপনার ওয়েবসাইটটি Google এনালিটিক্স অ্যাকাউন্ট (গুলি) অনুমোদিত আমাদের ভাল সাহায্য করবে দ্বারা আপনার বার্তা নিখুত</bn>
         <ru>Авторизация веб-сайт Google Analytics счета (ов) поможет нам лучше оптимизировать ваши сообщения,</ru>
-        <sq>Autorizues faqen llogarinë tuaj Google Analytics (s) do të na ndihmojë më mirë zgjedh mesazhet nga</sq>
-        <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
+        <sq>Duke autorizuar llogarinë tuaj te Google Analytics  do të na ndihmojë per te zgjedhur mesazhet me më mira prej</sq>
+        <it>Autorizzazione tuo sito web conto  di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
         <de>Berechtigen Ihre Website Google Analytics-Konto (en) wird uns helfen, besser optimieren Sie Ihre Nachrichten</de>
         <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
         <ur>آپ کی ویب سائٹ گوگل کے تجزیات کے اکاؤنٹ (زبانیں) اختیار بہتر ہمیں مدد کی طرف سے آپ کے پیغامات کو بہتر بنانے گا</ur>
@@ -1419,7 +1419,7 @@
         <ko>우리에게 당신의 메시지를 사이트 성능에 영향을 미치는 방법에 대한 더 나은 이해를 제공합니다.</ko>
         <bn>আমাদের কিভাবে আপনার বার্তা আপনার সাইটে কর্মক্ষমতা প্রভাবিত একটি ভাল বুঝতে প্রদান.</bn>
         <ru>дает нам лучшее понимание того, как ваши сообщения влияют на производительность сайта.</ru>
-        <sq>duke na dhënë një kuptim më të mirë se sa mesazhet ndikojë në punën faqen tuaj.</sq>
+        <sq>duke na dhënë një kuptim më të mirë se si mesazhet ndikojë performancen e faqes suaj.</sq>
         <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
         <de>die uns ein besseres Verständnis, wie Ihre Nachrichten die Leistung Ihrer Website beeinflussen.</de>
         <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
@@ -1440,7 +1440,7 @@
         <ko>Google 웹 로그 분석 권한을 부여!</ko>
         <bn>Google এনালিটিক্স করার অনুমোদন দেয়!</bn>
         <ru>Авторизоваться Google Analytics!</ru>
-        <sq>Autorizojë Google Analytics!</sq>
+        <sq>Autorizo Google Analytics!</sq>
         <it>Autorizzo Google Analytics!</it>
         <de>Autorisieren Google Analytics!</de>
         <it>Autorizzo Google Analytics!</it>
@@ -1461,7 +1461,7 @@
         <ko>선택한 기간에 대한 데이터가 없습니다.</ko>
         <bn>যদি তেমন অবস্থাতেও তথ্য নির্বাচিত সময়ের জন্য পাওয়া যায়.</bn>
         <ru>Нет доступных для выбранного периода времени данные.</ru>
-        <sq>Nuk ka të dhëna në dispozicion për një periudhë të zgjedhur kohore.</sq>
+        <sq>Nuk ka të dhëna në dispozicion për periudhën e zgjedhur kohore.</sq>
         <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
         <de>Keine Daten für den gewählten Zeitraum.</de>
         <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
@@ -1482,7 +1482,7 @@
         <ko>시간 프레임을 변경하거나하세요</ko>
         <bn>অনুগ্রহ করে আপনার সময় ফ্রেম পরিবর্তন বা</bn>
         <ru>Пожалуйста, измените временные рамки или</ru>
-        <sq>Ju lutemi të ndryshojë kuadrin kohën tuaj, ose</sq>
+        <sq>Ju lutemi ndryshoni kuadrin e kohës tuaj, ose</sq>
         <it>Si prega di modificare il periodo di tempo o</it>
         <de>Bitte ändern Sie Ihre Zeitrahmen oder</de>
         <it>Si prega di modificare il periodo di tempo o</it>
@@ -1503,7 +1503,7 @@
         <ko>일부 메시지를 게시</ko>
         <bn>কিছু বার্তা প্রকাশ</bn>
         <ru>опубликовать некоторые сообщения</ru>
-        <sq>publikojë disa mesazhe</sq>
+        <sq>publiko disa mesazhe</sq>
         <it>pubblicare alcuni messaggi</it>
         <de>veröffentlichen einige Nachrichten</de>
         <it>pubblicare alcuni messaggi</it>
@@ -1545,7 +1545,7 @@
         <ko>현재 클릭</ko>
         <bn>বর্তমান ক্লিকস</bn>
         <ru>Текущие клики</ru>
-        <sq>Clicks tanishme</sq>
+        <sq>Klikimet e tanishme</sq>
         <it>Clic attuali</it>
         <de>Aktuelle Klicks</de>
         <it>Clic attuali</it>
@@ -1566,8 +1566,8 @@
         <ko>현재 대상의 이득</ko>
         <bn>বর্তমান শ্রোতা লাভ</bn>
         <ru>В настоящее время прирост аудитории</ru>
-        <sq>Fitimet e tanishme Audienca</sq>
-        <it>Utili pubblico attuale</it>
+        <sq>Fitimet e tanishme nga Audienca</sq>
+        <it>Utili del  pubblico attuale</it>
         <de>Aktuelle Audience Gewinne</de>
         <it>Utili pubblico attuale</it>
         <ur>موجودہ سامعین فوائد</ur>
@@ -1587,8 +1587,8 @@
         <ko>과거의 시청자 이익</ko>
         <bn>অতীত শ্রোতা লাভ</bn>
         <ru>Прошлые Доходы аудитории</ru>
-        <sq>Fitimet e kaluara Audienca</sq>
-        <it>Utili Pubblico passati</it>
+        <sq>Fitimet e kaluara nga Audienca</sq>
+        <it>Utili del Pubblico passati</it>
         <de>Vergangene Publikum Gewinne</de>
         <it>Utili Pubblico passati</it>
         <ur>ماضی سامعین فوائد</ur>
@@ -1671,7 +1671,7 @@
         <ko>사용할 수있는 소셜 계정 없음</ko>
         <bn>কোন সামাজিক একাউন্ট পাওয়া যায়</bn>
         <ru>Нет социальных счетов Доступные</ru>
-        <sq>Asnjë Llogaritë sociale në dispozicion</sq>
+        <sq>Asnjë Llogari sociale eshte ne dispozicion</sq>
         <it>Nessun account sociali disponibili</it>
         <de>Keine Social Accounts verfügbar</de>
         <it>Nessun account sociali disponibili</it>
@@ -1692,7 +1692,7 @@
         <ko>소셜 계정 권한을 부여하려면 여기를 클릭하십시오!</ko>
         <bn>আপনার সামাজিক হিসাব অনুমোদন করার জন্য এখানে ক্লিক করুন!</bn>
         <ru>Пожалуйста, нажмите здесь, чтобы разрешить свои социальные счета!</ru>
-        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë sociale tuaj!</sq>
+        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë tuaja sociale!</sq>
         <it>Clicca qui per autorizzare account di social!</it>
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
         <it>Clicca qui per autorizzare account di social!</it>
@@ -1713,8 +1713,8 @@
         <ko>이벤트 데이터 로딩</ko>
         <bn>লোড করা হচ্ছে ইভেন্ট তথ্য</bn>
         <ru>Загрузка данных событий</ru>
-        <sq>Loading të dhënave Event</sq>
-        <it>Caricamento Dati evento</it>
+        <sq>Duke ngarkuar të dhënat e evenimenteve</sq>
+        <it>Caricamento i Dati del evento</it>
         <de>Laden von Ereignisdaten</de>
         <it>Caricamento Dati evento</it>
         <ur>واقعہ ڈیٹا لوڈ</ur>
@@ -1734,8 +1734,8 @@
         <ko>로드를 클릭 데이터</ko>
         <bn>লোড হচ্ছে ডেটা ক্লিক করুন</bn>
         <ru>Загрузка данных Нажмите</ru>
-        <sq>Loading Kliko Data</sq>
-        <it>Loading Clicca Dati</it>
+        <sq>Duke ngarkuar data e klikimeve</sq>
+        <it>Caricamento dati dai Clic</it>
         <de>Laden Klicken Sie auf Daten</de>
         <it>Loading Clicca Dati</it>
         <ur>لوڈ کر رہا ہے پر کلک ڈیٹا</ur>
@@ -1756,7 +1756,7 @@
         <bn>লোড হচ্ছে প্রতিক্রিয়া ডেটা</bn>
         <ru>Загрузка данных взаимодействий</ru>
         <sq>Loading Interactions të dhënave</sq>
-        <it>Caricamento Interazioni dati</it>
+        <it>Caricamento dati di Interazioni</it>
         <de>Laden Wechselwirkungen Daten</de>
         <it>Caricamento Interazioni dati</it>
         <ur>سہباگتا ڈیٹا لوڈ</ur>
@@ -1776,8 +1776,8 @@
         <ko>로드 대상 데이터</ko>
         <bn>দর্শকের লোড ডেটা</bn>
         <ru>Загрузка Данные по аудитории</ru>
-        <sq>Loading Audienca e të dhënave</sq>
-        <it>Caricamento Pubblico dati</it>
+        <sq>Duke ngarkuar të dhënat e audiences</sq>
+        <it>Caricamento i dati di Pubblico</it>
         <de>Laden Publikumsdaten</de>
         <it>Caricamento Pubblico dati</it>
         <ur>لوڈ ہو رہا ہے سامعین ڈیٹا</ur>
@@ -1797,7 +1797,7 @@
         <ko>누락 제목</ko>
         <bn>হারানো শিরোনাম</bn>
         <ru>Недостающее Название</ru>
-        <sq>Missing Titulli</sq>
+        <sq>Titulli mungon</sq>
         <it>Titolo mancante</it>
         <de>Fehlende Titel</de>
         <it>Titolo mancante</it>
@@ -1818,7 +1818,7 @@
         <ko>당신은 제목없이 보고서를 저장할 수 없습니다</ko>
         <bn>আপনাকে অবশ্যই একটি শিরোনাম ছাড়া একটি রিপোর্ট সংরক্ষণ করতে পারবেন না</bn>
         <ru>Вы не можете сохранить отчет без заголовка</ru>
-        <sq>Ju nuk mund të ruaj një raport pa titull</sq>
+        <sq>Ju nuk mund të ruani një raport pa titull</sq>
         <it>Non è possibile salvare un report senza un titolo</it>
         <de>Sie können einen Bericht ohne Titel speichern</de>
         <it>Non è possibile salvare un report senza un titolo</it>
@@ -1860,8 +1860,8 @@
         <ko>사용할 수있는 소셜 계정 없음</ko>
         <bn>কোন সামাজিক একাউন্ট পাওয়া যায়</bn>
         <ru>Нет социальных счетов Доступные</ru>
-        <sq>Asnjë Llogaritë sociale në dispozicion</sq>
-        <it>Nessun account sociali disponibili</it>
+        <sq>Asnjë Llogarit sociale nuk në dispozicion</sq>
+        <it>Nessun conti  sociali sono disponibili</it>
         <de>Keine Social Accounts verfügbar</de>
         <it>Nessun account sociali disponibili</it>
         <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
@@ -1881,8 +1881,8 @@
         <ko>소셜 계정 권한을 부여하려면 여기를 클릭하십시오!</ko>
         <bn>আপনার সামাজিক হিসাব অনুমোদন করার জন্য এখানে ক্লিক করুন!</bn>
         <ru>Пожалуйста, нажмите здесь, чтобы разрешить свои социальные счета!</ru>
-        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë sociale tuaj!</sq>
-        <it>Clicca qui per autorizzare account di social!</it>
+        <sq>Ju lutem klikoni këtu për të autorizuar llogaritë tuaja sociale!</sq>
+        <it>Clicca qui per autorizzare i conti sociali!</it>
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
         <it>Clicca qui per autorizzare account di social!</it>
         <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
@@ -1903,7 +1903,7 @@
         <bn>অনুগ্রহ করে দেখতে একটি অ্যাকাউন্ট নির্বাচন করুন.</bn>
         <ru>Пожалуйста, выберите учетную запись для просмотра.</ru>
         <sq>Ju lutem, përzgjidhni një llogari për të parë.</sq>
-        <it>Seleziona un account per visualizzare.</it>
+        <it>Seleziona un account per vedere.</it>
         <de>Bitte wählen Sie ein Konto anzuzeigen.</de>
         <it>Seleziona un account per visualizzare.</it>
         <ur>دیکھنے کیلئے ایک اکاؤنٹ منتخب کیجیے.</ur>
@@ -1923,7 +1923,7 @@
         <ko>종료 날짜는 시작 날짜 이전입니다!</ko>
         <bn>শেষ তারিখ আপনার স্টার্ট তারিখের আগে হয়!</bn>
         <ru>Дата окончания раньше даты начала!</ru>
-        <sq>Data e përfundimit është para datës tuaj të fillojë!</sq>
+        <sq>Data e përfundimit është para datës tuaj të fillimit!</sq>
         <it>La data di fine è prima della data di inizio!</it>
         <de>Enddatum ist vor Ihrem Startdatum!</de>
         <it>La data di fine è prima della data di inizio!</it>
@@ -1944,7 +1944,7 @@
         <ko>아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
         <bn>নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
         <ru>Исправьте элементы, выделенные красным цветом ниже.</ru>
-        <sq>Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <sq>Ju lutemi rregulloni sendet e theksuara në të kuqe më poshtë.</sq>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
@@ -1986,7 +1986,7 @@
         <ko>곧 완료됩니다.</ko>
         <bn>খুব শীঘ্রই সম্পূর্ণ হবে.</bn>
         <ru>Будет завершена в ближайшее время.</ru>
-        <sq>A do të jetë i plotë shpejti.</sq>
+        <sq>Do të jetë i plotë shpejti.</sq>
         <it>Sarà completata a breve.</it>
         <de>Wird in Kürze abgeschlossen sein.</de>
         <it>Sarà completata a breve.</it>
@@ -2070,7 +2070,7 @@
         <ko>아래에 빨간색으로 강조 항목을 수정하십시오.</ko>
         <bn>নিচে লাল হাইলাইট আইটেম ঠিক করুন.</bn>
         <ru>Исправьте элементы, выделенные красным цветом ниже.</ru>
-        <sq>Ju lutemi të rregulluar sendet e theksuara në të kuqe më poshtë.</sq>
+        <sq>Ju lutemi rregulloni sendet e theksuara në të kuqe më poshtë.</sq>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>

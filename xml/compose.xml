@@ -5,16 +5,16 @@
         <ja>メッセージ作成</ja>
         <pt>Compôr</pt>
         <zh-CN>撰写</zh-CN>
-        <fr>Composer</fr>
+        <fr>Créer</fr>
         <ar>تشكل</ar>
         <zh-TW>撰寫</zh-TW>
         <hi>लिखना</hi>
         <ko>짓다</ko>
         <bn>রচনা করা</bn>
         <ru>компоновать</ru>
-        <sq>kompozoj</sq>
+        <sq>Krijo</sq>
         <de>Komponieren</de>
-        <it>Comporre</it>
+        <it>Crea</it>
         <ur>تحریر کریں</ur>
         <es>Componer</es>
         <iw>לְהַלחִין</iw>
@@ -32,9 +32,9 @@
         <ko>이 계정에 게시</ko>
         <bn>এই হিসাব প্রকাশ</bn>
         <ru>Публикация этих счетов</ru>
-        <sq>Publikojë të këtyre llogarive</sq>
+        <sq>Publiko në këto llogari</sq>
         <de>Veröffentlichen Sie auf diese Konten</de>
-        <it>Pubblica su questi conti</it>
+        <it>Pubblica in questi conti</it>
         <ur>ان اکاؤنٹس پر شائع کریں</ur>
         <es>Publicar a estas cuentas</es>
         <iw>פרסם לחשבונות אלה</iw>
@@ -72,7 +72,7 @@
         <ko>최적화</ko>
         <bn>অপ্টিমিজ</bn>
         <ru>оптимизировать</ru>
-        <sq>jam optimist</sq>
+        <sq>Zgjidh më të mirën</sq>
         <de>Optimieren</de>
         <it>Ottimizzare</it>
         <ur>اصلاح کریں</ur>
@@ -85,16 +85,16 @@
         <ja>投稿</ja>
         <pt>Publicar</pt>
         <zh-CN>发布</zh-CN>
-        <fr>Publier</fr>
+        <fr>Publie</fr>
         <ar>نشر</ar>
         <zh-TW>發布</zh-TW>
         <hi>प्रकाशित करना</hi>
         <ko>게시</ko>
         <bn>প্রকাশ করা</bn>
         <ru>Публиковать</ru>
-        <sq>publikoj</sq>
+        <sq>Posto tani</sq>
         <de>Veröffentlichen</de>
-        <it>Pubblicare</it>
+        <it>Pubblica ora</it>
         <ur>شائع کریں</ur>
         <es>Publicar</es>
         <iw>לְפַרְסֵם</iw>
@@ -105,16 +105,16 @@
         <ja>予約</ja>
         <pt>Agendar</pt>
         <zh-CN>安排</zh-CN>
-        <fr>Programme</fr>
+        <fr>Programmer
         <ar>جدول</ar>
         <zh-TW>時間表</zh-TW>
         <hi>अनुसूची</hi>
         <ko>시간표</ko>
         <bn>তফসিল</bn>
         <ru>График</ru>
-        <sq>Orar</sq>
+        <sq>Zgjidh Orarin</sq>
         <de>Zeitplan</de>
-        <it>programma</it>
+        <it>Programma</it>
         <ur>شیڈول</ur>
         <es>Agendar</es>
         <iw>לוח זמנים</iw>
@@ -125,16 +125,16 @@
         <ja>保留</ja>
         <pt>Aguardar</pt>
         <zh-CN>保留</zh-CN>
-        <fr>Tenir</fr>
+        <fr>Tiennes</fr>
         <ar>عقد</ar>
         <zh-TW>保持</zh-TW>
         <hi>पकड़</hi>
         <ko>보류</ko>
         <bn>রাখা</bn>
         <ru>Держать</ru>
-        <sq>mbaj</sq>
+        <sq>Ji ne pritje</sq>
         <de>Halten</de>
-        <it>tenere</it>
+        <it>Aspetta in fila</it>
         <ur>پکڑو</ur>
         <es>Aguardar</es>
         <iw>לְהַחזִיק</iw>
@@ -152,9 +152,9 @@
         <ko>보낼 수 있습니다</ko>
         <bn>পাঠাতে পারেন</bn>
         <ru>Может отправить</ru>
-        <sq>mund Dërgo</sq>
+        <sq>Mund të dërgohet</sq>
         <de>Kann senden</de>
-        <it>Posso inviare</it>
+        <it>Si può inviare</it>
         <ur>بھیج سکتا</ur>
         <es>Puede Enviar</es>
         <iw>יכול לשלוח</iw>
@@ -172,9 +172,9 @@
         <ko>전송해야</ko>
         <bn>পাঠাতে হবে</bn>
         <ru>Должен Отправить</ru>
-        <sq>duhet Dërgo</sq>
+        <sq>Duhet të dërgohet</sq>
         <de>Muss senden</de>
-        <it>deve inviare</it>
+        <it>Si deve inviare</it>
         <ur>ضرور بھیجیں</ur>
         <es>Debe Enviar</es>
         <iw>חייב שלח</iw>
@@ -194,7 +194,7 @@
         <ru>из</ru>
         <sq>nga</sq>
         <de>von</de>
-        <it>da parte di</it>
+        <it>da</it>
         <ur>سے</ur>
         <es>de</es>
         <iw>מ</iw>
@@ -212,7 +212,7 @@
         <ko>지금</ko>
         <bn>এখন</bn>
         <ru>Теперь</ru>
-        <sq>tani</sq>
+        <sq>Tani</sq>
         <de>Jetzt</de>
         <it>Adesso</it>
         <ur>ابھی</ur>
@@ -232,7 +232,7 @@
         <ko>에</ko>
         <bn>থেকে</bn>
         <ru>к</ru>
-        <sq>te</sq>
+        <sq>tek</sq>
         <de>nach</de>
         <it>a</it>
         <ur>کرنے</ur>
@@ -254,7 +254,7 @@
         <ru>В любой момент</ru>
         <sq>Kurdo</sq>
         <de>Jederzeit</de>
-        <it>qualsiasi Tempo</it>
+        <it>Ogni volta</it>
         <ur>کسی بھی وقت</ur>
         <es>Cualquier Hora</es>
         <iw>בכל עת</iw>
@@ -263,7 +263,7 @@
         <key>Send within</key>
         <en>Send within</en>
         <ja>簡易期間設定</ja>
-        <pt>Enviar em</pt>
+        <pt>Envoyer par ces paramètres</pt>
         <zh-CN>在此时间内发送</zh-CN>
         <fr>Envoyer au sein</fr>
         <ar>إرسال في غضون</ar>
@@ -272,9 +272,9 @@
         <ko>내 보내기</ko>
         <bn>মধ্যে পাঠান</bn>
         <ru>Отправить в</ru>
-        <sq>Dërgo brenda</sq>
+        <sq>Dërgo me këto parametra</sq>
         <de>senden innerhalb</de>
-        <it>Invia all'interno</it>
+        <it>Invia con questi parametri</it>
         <ur>کے اندر اندر بھیج</ur>
         <es>Enviar dentro de</es>
         <iw>שלח בתוך</iw>
@@ -312,7 +312,7 @@
         <ko>3 시간</ko>
         <bn>3 ঘন্টা</bn>
         <ru>3 часа</ru>
-        <sq>3 ore</sq>
+        <sq>3 orë</sq>
         <de>3 Stunden</de>
         <it>3 ore</it>
         <ur>3 گھنٹے</ur>
@@ -332,7 +332,7 @@
         <ko>1 일</ko>
         <bn>1 দিন</bn>
         <ru>1 день</ru>
-        <sq>1 dite</sq>
+        <sq>1 ditë</sq>
         <de>1 Tag</de>
         <it>1 giorno</it>
         <ur>1 دن</ur>
@@ -412,7 +412,7 @@
         <ko>취소하다</ko>
         <bn>বাতিল</bn>
         <ru>Отмена</ru>
-        <sq>anuloj</sq>
+        <sq>Anullo</sq>
         <de>Stornieren</de>
         <it>Annulla</it>
         <ur>منسوخ کریں</ur>
@@ -425,16 +425,16 @@
         <ja>反響予測スコア</ja>
         <pt>Previsor de Ressonância</pt>
         <zh-CN>共振预测分数</zh-CN>
-        <fr>Resonance Prediction</fr>
+        <fr>Prévisions de résonance</fr>
         <ar>صدى التنبؤ</ar>
         <zh-TW>共振預測</zh-TW>
         <hi>अनुनाद भविष्यवाणी</hi>
         <ko>공명 예측</ko>
         <bn>অনুরণন প্রেডিক্সন</bn>
         <ru>Резонанс Предсказание</ru>
-        <sq>Resonance Prediction</sq>
+        <sq>Parashikim Rezonance</sq>
         <de>Resonance Prediction</de>
-        <it>Resonance Prediction</it>
+        <it>Predizione di risonanza</it>
         <ur>گونج پیشن گوئی</ur>
         <es>Predicción de Resonancia</es>
         <iw>חיזוי תהודה</iw>
@@ -443,18 +443,18 @@
         <key>Shorten Links</key>
         <en>Shorten Links</en>
         <ja>リンクを短縮</ja>
-        <pt>Encurtar links</pt>
+        <pt>Encurtar  links</pt>
         <zh-CN>缩短网站链接</zh-CN>
-        <fr>Raccourcir Liens</fr>
+        <fr>Raccourcir une adresse Web</fr>
         <ar>اختصار الروابط</ar>
         <zh-TW>縮短鏈接</zh-TW>
         <hi>लिंक छोटा</hi>
         <ko>링크를 단축</ko>
         <bn>লিংক কমান</bn>
         <ru>Сократите Ссылки</ru>
-        <sq>shkurtuar Links</sq>
+        <sq>Shkurto adresën e website-it</sq>
         <de>kürzen Verbindungen</de>
-        <it>accorciare Link</it>
+        <it>Riduci l'indirizzo del sito web</it>
         <ur>روابط قصر</ur>
         <es>Acortar Enlaces</es>
         <iw>לקצר קישורים</iw>
@@ -472,7 +472,7 @@
         <ko>참고 : 링크는 출판에 짧게</ko>
         <bn>নোট: লিংক প্রকাশনার খাটো করা হয়</bn>
         <ru>Примечание: Ссылки укорочены на публикации</ru>
-        <sq>Shënim: Lidhjet janë shkurtuar në publikim</sq>
+        <sq>Shënim: Adresa e website-it shkurtohet në momentin e publikimit</sq>
         <de>Hinweis: Die Links werden bei Veröffentlichung verkürzt</de>
         <it>Nota: I link sono accorciati a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر کر رہے ہیں</ur>
@@ -485,7 +485,7 @@
         <ja>タイムゾーン: ニューヨーク</ja>
         <pt>Fuso horário: Nova York</pt>
         <zh-CN>时区：纽约</zh-CN>
-        <fr>Time Zone: New York</fr>
+        <fr>Fuseau horaire: New York</fr>
         <ar>المنطقة الزمنية: نيويورك</ar>
         <zh-TW>時區：紐約</zh-TW>
         <hi>समय क्षेत्र: न्यूयॉर्क</hi>
@@ -512,7 +512,7 @@
         <ko>모든 재설정</ko>
         <bn>সব রিসেট</bn>
         <ru>Сбросить все</ru>
-        <sq>Reset All</sq>
+        <sq>Kthe parametrat nga fillimi</sq>
         <de>Alles zurücksetzen</de>
         <it>Resetta tutto</it>
         <ur>تمام ری سیٹ کر دیں</ur>
@@ -525,19 +525,18 @@
         <ja>完了</ja>
         <pt>Terminar</pt>
         <zh-CN>完</zh-CN>
-        <fr>terminer</fr>
+        <fr>Terminer</fr>
         <ar>نهاية</ar>
         <zh-TW>完</zh-TW>
         <hi>समाप्त</hi>
         <ko>끝</ko>
         <bn>শেষ</bn>
         <ru>Конец</ru>
-        <sq>fund</sq>
+        <sq>Fund</sq>
         <de>Fertig</de>
-        <it>finire</it>
+        <it>Fine</it>
         <ur>ختم</ur>
         <es>Terminar</es>
         <iw>סִיוּם</iw>
     </entry>
     <section>compose</section>
-</translations>

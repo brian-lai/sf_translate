@@ -12,7 +12,7 @@
         <ko>추적 및 분석 설정</ko>
         <bn>ট্র্যাকিং এবং অ্যানালিটিক্স সেটিংস</bn>
         <ru>Отслеживание и Настройки Google Analytics</ru>
-        <sq>Ndjekja dhe Analytics Settings</sq>
+        <sq>Ndjekja dhe opsionet e Analizes</sq>
         <it>Monitoraggio e Impostazioni Analytics</it>
         <de>Tracking und Analytics-Einstellungen</de>
         <it>Monitoraggio e Impostazioni Analytics</it>
@@ -75,7 +75,7 @@
         <ko>에 최적화</ko>
         <bn>এর জন্য অপ্টিমাইজ করা</bn>
         <ru>Оптимизированный для</ru>
-        <sq>optimizuar për</sq>
+        <sq>Zgjedhja me e mire për</sq>
         <it>Ottimizzato per</it>
         <de>Optimiert für</de>
         <it>Ottimizzato per</it>
@@ -117,7 +117,7 @@
         <ko>반복 방문</ko>
         <bn>পুনরাবৃত্তি ভিজিট</bn>
         <ru>Повторные посещения</ru>
-        <sq>Vizitat përsëritur</sq>
+        <sq>Vizitat e përsëritura</sq>
         <it>visite ripetute</it>
         <de>Wiederholte Besuche</de>
         <it>visite ripetute</it>
@@ -159,7 +159,7 @@
         <ko>Visitis을 반복</ko>
         <bn>পুনরাবৃত্তি Visitis</bn>
         <ru>Повторить Visitis</ru>
-        <sq>Përsëriteni Visitis</sq>
+        <sq>Perserit  Vizitat</sq>
         <it>ripetere Visitis</it>
         <de>Wiederholen Sie Eliophot</de>
         <it>ripetere Visitis</it>
@@ -201,8 +201,8 @@
         <ko>선택 과목</ko>
         <bn>ঐচ্ছিক</bn>
         <ru>необязательный</ru>
-        <sq>fakultativ</sq>
-        <it>facoltativo</it>
+        <sq>Opsionale</sq>
+        <it>opzionale</it>
         <de>optional</de>
         <it>facoltativo</it>
         <ur>اختیاری</ur>
@@ -222,7 +222,7 @@
         <ko>넓은 클라이언트</ko>
         <bn>ক্লায়েন্ট ওয়াইড</bn>
         <ru>Клиент Wide</ru>
-        <sq>klienti Wide</sq>
+        <sq>klienti i gjere</sq>
         <it>Cliente larga</it>
         <de>Client-Weit</de>
         <it>Cliente larga</it>

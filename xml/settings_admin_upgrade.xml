@@ -138,7 +138,7 @@
         <ko>계획 개요</ko>
         <bn>পরিকল্পনা সংক্ষিপ্ত বিবরণ</bn>
         <ru>План Обзор</ru>
-        <sq>Përmbledhje Plan</sq>
+        <sq>Përmbledhje e Planit</sq>
         <it>Quadro</it>
         <de>Planübersicht</de>
         <it>Quadro</it>
@@ -201,7 +201,7 @@
         <ko>사용자 지정 설치</ko>
         <bn>কাস্টম সেটআপ</bn>
         <ru>настройка пользовательских</ru>
-        <sq>Setup Custom</sq>
+        <sq>Instalimi i personalizuar </sq>
         <it>Installazione personalizzata</it>
         <de>Benutzerdefinierte Einrichtung</de>
         <it>Installazione personalizzata</it>
@@ -222,7 +222,7 @@
         <ko>최적화 된 출판</ko>
         <bn>অপ্টিমাইজ প্রকাশনা</bn>
         <ru>Оптимизированный Publishing</ru>
-        <sq>Botime optimizuar</sq>
+        <sq>Postimi i zgjedhjes me te mire</sq>
         <it>Editoria ottimizzata</it>
         <de>Optimierte Publishing</de>
         <it>Editoria ottimizzata</it>
@@ -243,7 +243,7 @@
         <ko>사용자 정의 보고서</ko>
         <bn>কাস্টম রিপোর্ট</bn>
         <ru>Пользовательские отчеты</ru>
-        <sq>Raportet Custom</sq>
+        <sq>Raportet e personalizuara</sq>
         <it>Rapporti personalizzati</it>
         <de>Benutzerdefinierte Berichte</de>
         <it>Rapporti personalizzati</it>
@@ -285,7 +285,7 @@
         <ko>제출</ko>
         <bn>জমা দিন</bn>
         <ru>Отправить</ru>
-        <sq>paraqes</sq>
+        <sq>Dorezo</sq>
         <it>invio</it>
         <de>einreichen</de>
         <it>invio</it>
@@ -383,15 +383,15 @@
         <ja>ブランドマーケッター</ja>
         <pt>Comerciante de Marca</pt>
         <zh-CN>品牌营销</zh-CN>
-        <fr>Marque Marketer</fr>
+        <fr>Marque </fr>
         <ar>المسوق العلامة التجارية</ar>
         <zh-TW>品牌營銷</zh-TW>
         <hi>ब्रांड का विपणन</hi>
         <ko>브랜드 마케팅</ko>
         <bn>ব্র্যান্ড Marketer</bn>
         <ru>Марка Маркетолог</ru>
-        <sq>markë Marketer</sq>
-        <it>Marca Marketer</it>
+        <sq>markë </sq>
+        <it>Marca </it>
         <de>Marke Marketer</de>
         <it>Marca Marketer</it>
         <ur>برانڈ مارکیٹر</ur>

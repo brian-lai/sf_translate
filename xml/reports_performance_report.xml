@@ -12,7 +12,7 @@
         <ko>보고서 저장</ko>
         <bn>সংরক্ষণ প্রতিবেদন</bn>
         <ru>Сохранить отчет</ru>
-        <sq>Save Report</sq>
+        <sq>Ruaj Reportin</sq>
         <it>Salva report</it>
         <de>Bericht speichern</de>
         <it>Salva report</it>
@@ -201,7 +201,7 @@
         <ko>좋아</ko>
         <bn>পছন্দগুলি</bn>
         <ru>Нравится</ru>
-        <sq>preferencë</sq>
+        <sq>Likes</sq>
         <it>Piace</it>
         <de>Likes</de>
         <it>Piace</it>
@@ -327,7 +327,7 @@
         <ko>페이지 '좋아요'</ko>
         <bn>পাতা পছন্দ</bn>
         <ru>Симпатии Страница</ru>
-        <sq>Faqe Likes</sq>
+        <sq>Pelqimet e faqes</sq>
         <it>Mi piace Pagina</it>
         <de>Seite Likes</de>
         <it>Mi piace Pagina</it>
@@ -411,7 +411,7 @@
         <ko>게시 된 날짜</ko>
         <bn>Published তারিখ</bn>
         <ru>Дата публикации</ru>
-        <sq>publikuar Date</sq>
+        <sq>Data publikuar</sq>
         <it>Data pubblicazione</it>
         <de>Veröffentlichungsdatum</de>
         <it>Data pubblicazione</it>
@@ -537,7 +537,7 @@
         <ko>보고서 기간을 조정합니다.</ko>
         <bn>আপনার প্রতিবেদন সময়সীমার সামঞ্জস্যবিধান.</bn>
         <ru>Настройте свой отчет временной промежуток.</ru>
-        <sq>Rregulluar raportin kohor tuaj.</sq>
+        <sq>Rregullo raportin kohor tuaj.</sq>
         <it>Regolare il rapporto temporale.</it>
         <de>Passen Sie Ihren Bericht Zeitrahmen.</de>
         <it>Regolare il rapporto temporale.</it>
@@ -558,8 +558,8 @@
         <ko>바, 누적 막대, 선 또는 영역 그래프에서 선택합니다.</ko>
         <bn>বার, স্তুপীকৃত বার, লাইন বা এলাকার গ্রাফ থেকে নির্বাচন করুন.</bn>
         <ru>Выберите из бара, многоярусные бар, линии или гистограмму.</ru>
-        <sq>Zgjidh nga bar, bar bërë pirg, linjës apo grafikët e zonës.</sq>
-        <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
+        <sq>Zgjidh nje bar, stacked bar, line or area graphs.</sq>
+        <it>Seleziona bar, stacked bar, line or area graphs.</it>
         <de>Wählen Sie aus Bar, gestapelt Balken-, Linien- oder Flächendiagramme.</de>
         <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
         <ur>بار، سجا دیئے بار، لکیر یا گراف سے منتخب کریں.</ur>
@@ -579,7 +579,7 @@
         <ko>관객 가용성, 역사적 언어 분석, 실시간 공명을 다음 SocialFlow AttentionScore ™ 가격은 소셜 계정과 관련 세 가지 요소를보고 100-1에서 규모에서 콘텐츠와 관객의 참여를 예상했다. AttentionScore ™에 대해 더 알아보기</ko>
         <bn>শ্রোতা প্রাপ্যতা, ঐতিহাসিক ভাষা বিশ্লেষণ, এবং রিয়েলটাইম অনুরণন: SocialFlow AttentionScore ™ হার তিন কারণের দিকে তাকালে যেমন তারা আপনার সামাজিক অ্যাকাউন্ট কহা 100 1 থেকে একটি স্কেল উপর আপনার কন্টেন্ট সঙ্গে পূর্বাভাস শ্রোতার. AttentionScore ™ সম্পর্কে আরো জানুন</bn>
         <ru>Скорости SocialFlow AttentionScore ™ предсказывал взаимодействие с аудиторией с содержанием по шкале от 1 до 100, глядя на три фактора, как они соотносятся с вашими социальными счетами: доступность аудитории, исторический анализ языка, и в режиме реального времени резонанс. Подробнее о AttentionScore ™</ru>
-        <sq>Normat e SocialFlow AttentionScore ™ parashikuar angazhimin e audiencës me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike, dhe realtime rezonancë. Mëso më shumë rreth AttentionScore ™</sq>
+        <sq>Normat e SocialFlow AttentionScore ™ parashikojn angazhimin e audiencës me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike, dhe realtime rezonancë. Mëso më shumë rreth AttentionScore ™</sq>
         <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
         <de>Die SocialFlow AttentionScore ™ Raten von 1 bis 100 durch einen Blick auf drei Faktoren Publikum Engagement mit Ihren Inhalten auf einer Skala vorhergesagt, da sie auf Ihre sozialen Konten beziehen: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-Resonanz. Erfahren Sie mehr über AttentionScore ™</de>
         <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
@@ -642,7 +642,7 @@
         <ko>차트 종류</ko>
         <bn>লেখচিত্র ধরন</bn>
         <ru>Тип диаграммы</ru>
-        <sq>Lloji Chart</sq>
+        <sq>Lloji Grafikut</sq>
         <it>Tipo di grafico</it>
         <de>Diagrammtyp</de>
         <it>Tipo di grafico</it>
@@ -664,7 +664,7 @@
         <bn>রেখাসমূহ</bn>
         <ru>линии</ru>
         <sq>Lines</sq>
-        <it>Linee</it>
+        <it>Lines</it>
         <de>Linien</de>
         <it>Linee</it>
         <ur>لکیریں</ur>
@@ -684,8 +684,8 @@
         <ko>바</ko>
         <bn>পানশালা</bn>
         <ru>брусья</ru>
-        <sq>bare</sq>
-        <it>Barre</it>
+        <sq>bars</sq>
+        <it>Bars</it>
         <de>Riegel</de>
         <it>Barre</it>
         <ur>باریں</ur>
@@ -705,8 +705,8 @@
         <ko>누적 된 바</ko>
         <bn>স্তুপীকৃত পানশালা</bn>
         <ru>Уложив Бары</ru>
-        <sq>bërë pirg Bare</sq>
-        <it>Bar Stacked</it>
+        <sq>Stacked Bars</sq>
+        <it>Stacked Bars</it>
         <de>Gestapelte Bars</de>
         <it>Bar Stacked</it>
         <ur>انبار باریں</ur>
@@ -747,7 +747,7 @@
         <ko>차트 스케일</ko>
         <bn>চার্ট আইশের</bn>
         <ru>масштаб диаграммы</ru>
-        <sq>Scale Chart</sq>
+        <sq>Kartela e renditjes</sq>
         <it>scala della carta</it>
         <de>Kartenmaßstab</de>
         <it>scala della carta</it>
@@ -831,7 +831,7 @@
         <ko>열을 추가, 제거 및 다시 정렬하는 데 사용합니다.</ko>
         <bn>এই ব্যবহার করুন, যোগ অপসারণ এবং নতুন করে সাজানো কলামে.</bn>
         <ru>Используйте эту функцию, чтобы добавлять, удалять и переставлять столбцы.</ru>
-        <sq>Përdorni këtë për të shtoni, hiqni dhe korrigjoj kolona.</sq>
+        <sq>Përdorni këtë për të shtuar, hequr dhe korrigjuar kolona.</sq>
         <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
         <de>Verwenden Sie diese Option zum Hinzufügen, Entfernen und Spalten neu anordnen.</de>
         <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>

@@ -33,7 +33,7 @@
         <ko>기본 메시지 상태</ko>
         <bn>ডিফল্ট বার্তা স্থিতি</bn>
         <ru>По умолчанию Сообщение о состоянии</ru>
-        <sq>Default mesazh Status</sq>
+        <sq> Statusi mesazhit</sq>
         <it>Predefinito Messaggio di stato</it>
         <de>Standardnachrichtenstatus</de>
         <it>Predefinito Messaggio di stato</it>
@@ -75,7 +75,7 @@
         <ko>최적화</ko>
         <bn>অপ্টিমাইজ</bn>
         <ru>оптимизированный</ru>
-        <sq>optimizuar</sq>
+        <sq>Zgjedhur me i miri</sq>
         <it>Ottimizzato</it>
         <de>Optimiert</de>
         <it>Ottimizzato</it>
@@ -96,7 +96,7 @@
         <ko>지금 게시</ko>
         <bn>এখন প্রকাশ</bn>
         <ru>Опубликовать сейчас</ru>
-        <sq>publikojë Tani</sq>
+        <sq>publiko Tani</sq>
         <it>Pubblica ora</it>
         <de>Jetzt veröffentlichen</de>
         <it>Pubblica ora</it>
@@ -558,7 +558,7 @@
         <ko>만기일에 의해 게시해야</ko>
         <bn>মেয়াদ শেষের তারিখ অনুসারে ছাপাতে হবে</bn>
         <ru>Должны публиковать по дате истечения срока действия</ru>
-        <sq>Duhet Publikimi nga data e skadimit</sq>
+        <sq>Duhet Publikuar nga data e skadimit</sq>
         <it>Devono pubblicare in base alla data di scadenza</it>
         <de>Muss nach Ablaufdatum veröffentlichen</de>
         <it>Devono pubblicare in base alla data di scadenza</it>
@@ -579,7 +579,7 @@
         <ko>콘텐츠 원본을 삭제</ko>
         <bn>বিষয়বস্তু উত্স মুছুন</bn>
         <ru>Удалить источник содержимого</ru>
-        <sq>Fshij Përmbajtja Burimi</sq>
+        <sq>Fshij Përmbajtjen e  Burimit</sq>
         <it>Eliminare il contenuto Fonte</it>
         <de>Löschen Inhaltsquelle</de>
         <it>Eliminare il contenuto Fonte</it>
@@ -608,7 +608,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>주의 : 콘텐츠 원본을 삭제하면 또한 큐에서이 콘텐츠 원본에서 모든 메시지를 삭제합니다. 이미 대기중인 메시지를 삭제하지 않고이 콘텐츠 소스에서 새 메시지를 가져 오기를 중단하려면 대신 비활성 활성의 콘텐츠 소스 상태를 변경하십시오.</ko>
         <bn>দৃষ্টি আকর্ষণ করছি: একটি বিষয়বস্তু উৎস মুছলে তা আপনার কিউ 'র মধ্যে এই বিষয়বস্তুর উৎস থেকে সব বার্তা মুছে ফেলা হবে. আপনি বার্তা যে ইতিমধ্যে সারিবদ্ধ করা হয়েছে মুছে এই বিষয়বস্তুর উৎস থেকে নতুন বার্তা আমদানি বন্ধ করতে চান তাহলে, দয়া করে এর পরিবর্তে নিষ্ক্রিয় করতে সক্রিয় থেকে বিষয়বস্তু উৎস অবস্থা পরিবর্তন.</bn>
         <ru>ВНИМАНИЕ: Удаление источника контента будет также удалить все сообщения из этого источника контента в очереди. Если вы хотите прекратить импорт новых сообщений из этого источника контента, не удаляя сообщения, которые уже были в очереди, пожалуйста, измените статус исходного содержимого из активного в неактивное вместо этого.</ru>
-        <sq>KUJDES: Fshirja e një burim përmbajtje do të fshirë të gjitha mesazhet nga ky burim përmbajtjes në radhë tuaj. Nëse ju do të donte për të ndaluar importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin burim të përmbajtjes nga aktive në joaktiv vend.</sq>
+        <sq>KUJDES: Fshirja e një burim përmbajtjeje do të fshijë të gjitha mesazhet nga ky burim përmbajtjes në radhën tuaj. Nëse ju do të doni  të ndaloni importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin e burimit të përmbajtjes nga aktive në joaktiv.</sq>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
@@ -633,7 +633,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>템플릿</ko>
         <bn>টেম্পলেটসমূহ</bn>
         <ru>Шаблоны</ru>
-        <sq>templates</sq>
+        <sq>modeli</sq>
         <it>Modelli</it>
         <de>Vorlagen</de>
         <it>Modelli</it>
@@ -654,7 +654,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>콘텐츠 소스 템플릿은 접두사, 접미사, 제목 등을 추가 할 수 있습니다.</ko>
         <bn>বিষয়বস্তু উৎস টেমপ্লেট আপনি প্রেফিক্স পোস্টসাফিক্স, শিরোনাম, এবং আরো অনেক কিছু যোগ করা যাক.</bn>
         <ru>шаблоны источника контента позволяют добавлять префикс, постфикс, заголовки, и многое другое.</ru>
-        <sq>Përmbajtja burim templates ju lejojnë të shtoni prefiksin, postfix, tituj, dhe më shumë.</sq>
+        <sq>Përmbajtja burimit te modelit ju lejon të shtoni prefiksin, postfix, tituj, dhe më shumë.</sq>
         <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
         <de>Inhaltsquelle Vorlagen können Sie fügen Präfix, Postfix, Titel und vieles mehr.</de>
         <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
@@ -675,7 +675,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>주형:</ko>
         <bn>টেমপ্লেট:</bn>
         <ru>Шаблон:</ru>
-        <sq>template:</sq>
+        <sq>Modeli:</sq>
         <it>Modello:</it>
         <de>Vorlage:</de>
         <it>Modello:</it>
@@ -1137,7 +1137,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>필터를 포함하거나 특정 단어가 포함 된 콘텐츠를 제외 할 수</ko>
         <bn>ফিল্টার আপনি অন্তর্ভুক্ত বা নির্দিষ্ট শব্দ ধারণকারী বিষয়বস্তু বাদ দিন</bn>
         <ru>Фильтры позволяют включать или исключать контент, содержащий определенные слова</ru>
-        <sq>Filtra të ju lejojnë të përfshijë ose të përjashtojë përmbajtje që përmban fjalë të caktuara</sq>
+        <sq>Filtra  ju lejojnë të përfshini ose të përjashtoni përmbajtjen që përmban fjalë të caktuara</sq>
         <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
         <de>Mit Filtern können Sie ein- oder ausschließen Inhalte, die bestimmte Wörter</de>
         <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
@@ -1242,7 +1242,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>추적 태그를 사용하면 콘텐츠를 Google 웹 로그 분석 및 Omniture의 태그를 포함 할 수 있습니다.</ko>
         <bn>ট্র্যাকিং ট্যাগ আপনি আপনার সামগ্রীতে Google এনালিটিক্স এবং Omniture ট্যাগ অন্তর্ভুক্ত যাক.</bn>
         <ru>Отслеживание теги позволяют включить в Google Analytics и Omniture теги к контенту.</ru>
-        <sq>tags ndjekja ju lejojnë të përfshijë Google Analytics dhe Omniture etiketa për përmbajtjen tuaj.</sq>
+        <sq>Ndjekja e Tags  ju lejon të përfshini Google Analytics dhe Omniture etiketa për përmbajtjen tuaj.</sq>
         <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
         <de>Tracking-Tags können Sie umfassen Google Analytics und Omniture-Tags, um Ihre Inhalte.</de>
         <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
@@ -1347,7 +1347,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>등 특정 기간, 간격에 대한 메시지의 최대 개수 설정 참고 :이 콘텐츠를 최적화 할 수 SocialFlow의 능력에 영향을 미칠 수있는 변경.</ko>
         <bn>নির্দিষ্ট সময়কাল, অন্তর, ইত্যাদি জন্য বার্তা সর্বোচ্চ সংখ্যা নির্ধারণ করুন দ্রষ্টব্য: পরিবর্তন এই SocialFlow বিষয়বস্তু নিখুত করার ক্ষমতা প্রভাবিত করতে পারে.</bn>
         <ru>Установить максимальное количество сообщений в течение определенных периодов времени, интервалы и т.д. Примечание: их изменение может повлиять на способность SocialFlow для оптимизации контента.</ru>
-        <sq>Set numri maksimal i mesazheve për periudha të caktuara kohore, intervale, etj Shënim: duke ndryshuar këto mund të ndikojë në aftësinë SocialFlow për të zgjedh përmbajtjen.</sq>
+        <sq>Vendos numrin maksimal te mesazheve për periudha të caktuara kohore, intervale, etj Shënim: ndryshimi ketyre mund të ndikojë në aftësinë SocialFlow për të zgjedh përmbajtjen.</sq>
         <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <de>Legt die maximale Anzahl von Nachrichten für bestimmte Zeiträume, Intervalle usw. Hinweis: Ändern können diese SocialFlow die Fähigkeit, Inhalte zu optimieren auswirken.</de>
         <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
@@ -1515,7 +1515,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>최적화에 대한 모든 재설정</ko>
         <bn>অপ্টিমাইজ করা সকল রিসেট</bn>
         <ru>Сбросить все оптимизированному</ru>
-        <sq>Reset All për të optimizuar</sq>
+        <sq>Vendos te gjitha ne opsionin e zgjedhjes me te mire</sq>
         <it>Ripristina tutto per ottimizzato</it>
         <de>Alle zurücksetzen auf Optimized</de>
         <it>Ripristina tutto per ottimizzato</it>
@@ -1536,7 +1536,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>최적화 재설정</ko>
         <bn>অপ্টিমাইজ রিসেট</bn>
         <ru>Возврат к Оптимизированный</ru>
-        <sq>Reset për të optimizuar</sq>
+        <sq>Rivendos për të zgjdhur me te miren</sq>
         <it>Ripristina ottimizzata</it>
         <de>Zurücksetzen auf Optimiert</de>
         <it>Ripristina ottimizzata</it>
@@ -1557,7 +1557,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>하루 최대 메시지</ko>
         <bn>প্রতিদিন সর্বোচ্চ বার্তা</bn>
         <ru>Максимальное количество сообщений в день</ru>
-        <sq>Max Messages në ditë</sq>
+        <sq>Max Mesazhevenë ditë</sq>
         <it>Max messaggi al giorno</it>
         <de>Max Nachrichten pro Tag</de>
         <it>Max messaggi al giorno</it>
@@ -1641,7 +1641,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>메시지 창</ko>
         <bn>বার্তা উইন্ডো</bn>
         <ru>окно сообщений</ru>
-        <sq>mesazhi Window</sq>
+        <sq>Dritarja mesazhit</sq>
         <it>finestra dei messaggi</it>
         <de>Nachrichtenfenster</de>
         <it>finestra dei messaggi</it>
@@ -1662,7 +1662,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>사이에 게시</ko>
         <bn>মধ্যে প্রকাশ</bn>
         <ru>Опубликовать Между</ru>
-        <sq>publikojë Midis</sq>
+        <sq>publiko Midis</sq>
         <it>pubblicare Tra</it>
         <de>veröffentlichen Zwischen</de>
         <it>pubblicare Tra</it>
@@ -1704,7 +1704,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>최소 메시지 간격</ko>
         <bn>নূন্যতম বার্তা ব্যবধান</bn>
         <ru>Минимальный интервал Сообщение</ru>
-        <sq>Minimum mesazh Interval</sq>
+        <sq>Minimumi Intervalit te mesazhit</sq>
         <it>Minimo Messaggio Intervallo</it>
         <de>Mindestmeldungsintervall</de>
         <it>Minimo Messaggio Intervallo</it>
@@ -1725,7 +1725,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>메시지 사이에 경과해야 sthat 분의 번호를 입력</ko>
         <bn>মিনিট sthat বার্তা মধ্যে অতিবাহিত আবশ্যক সংখ্যা লিখুন</bn>
         <ru>Введите количество минут sthat должно пройти между сообщениями</ru>
-        <sq>Futni numrin e minutë sthat duhet të kalon ndërmjet mesazheve</sq>
+        <sq>Futni numrin e minutave qe  duhet të kalojne ndërmjet mesazheve</sq>
         <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
         <de>Geben Sie die Anzahl der Minuten sthat zwischen Nachrichten verstreichen muss,</de>
         <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
@@ -1767,7 +1767,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>여러 메시지는 "지금 게시"로 설정하고 동시에 가져올 때, 당신은 바로 게시 할 하나 이상의 메시지를 설정할 수 있습니다. 나머지 메시지는 (해당되는 경우) 상태를 "유지"로 설정됩니다.</ko>
         <bn>একাধিক বার্তা "এখন Publish" নির্ধারণ করা হয় এবং একই সাথে আমদানি করা হয়, তখন আপনি সরাসরি প্রকাশ করার জন্য এক বা একাধিক বার্তা সেট করতে পারেন. অবশিষ্ট বার্তা (যদি প্রযোজ্য হয়) মর্যাদা "ধরুন" নির্ধারণ করা হবে.</bn>
         <ru>Когда несколько сообщений установлены на "Опубликовать сейчас" и импортируются одновременно, вы можете установить одно или несколько сообщений, чтобы опубликовать сразу. Остальные сообщения (если это применимо) будет установлен в положение "держать" статус.</ru>
-        <sq>Kur mesazhe të shumta janë të vendosur për të "Publikimi Now" dhe janë importuar në të njëjtën kohë, ju mund të vendosni një ose më shumë mesazhe për të publikuar menjëherë. Mesazhet e mbetur (nëse aplikohet) do të vendosen për të "mbajtur" status.</sq>
+        <sq>Kur mesazhe të shumta janë të vendosur për të "Publikimi Now" dhe janë importuar në të njëjtën kohë, ju mund të vendosni një ose më shumë mesazhe për të publikuar menjëherë. Mesazhet e mbetura (nëse aplikohet) do të vendosen për të "mbajtur" status.</sq>
         <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
         <de>Wenn mehrere Nachrichten werden auf "Jetzt veröffentlichen" und werden gleichzeitig importiert haben, können Sie eine oder mehrere Nachrichten setzen, sofort zu veröffentlichen. Die übrigen Meldungen (falls vorhanden) wird auf "Halten" Status.</de>
         <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
@@ -1830,7 +1830,7 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <ko>2 메시지</ko>
         <bn>2 বার্তা</bn>
         <ru>2 сообщения</ru>
-        <sq>2 Messages</sq>
+        <sq>2 Mesazhe</sq>
         <it>2 Messaggi</it>
         <de>2 Nachrichten</de>
         <it>2 Messaggi</it>
