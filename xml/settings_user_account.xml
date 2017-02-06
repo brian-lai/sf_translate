@@ -17,6 +17,8 @@
         <de>Benutzerkonto-Einstellungen</de>
         <it>Impostazioni account utente</it>
         <ur>صارف اکاؤنٹ کی ترتیبات</ur>
+        <es>Configuraciones de Cuenta de Usuario</es>
+        <iw>הגדרות חשבון משתמש</iw>
     </entry>
     <entry>
         <key>Name (First Last)</key>
@@ -36,6 +38,8 @@
         <de>Namen (Vorname Nachname)</de>
         <it>Nome (Nome Cognome)</it>
         <ur>نام (سب سے پہلے آخری)</ur>
+        <es>Nombre (Primero Último)</es>
+        <iw>שם (פרטי ומשפחה)</iw>
     </entry>
     <entry>
         <key>Email Address</key>
@@ -55,6 +59,8 @@
         <de>E-Mail-Addresse</de>
         <it>Indirizzo email</it>
         <ur>ای میل اڈریس</ur>
+        <es>Correo Electrónico</es>
+        <iw>כתובת דוא"ל</iw>
     </entry>
     <entry>
         <key>Password</key>
@@ -74,6 +80,8 @@
         <de>Passwort</de>
         <it>parola d'ordine</it>
         <ur>پاس ورڈ</ur>
+        <es>Contraseña</es>
+        <iw>סיסמה</iw>
     </entry>
     <entry>
         <key>Current Password</key>
@@ -93,6 +101,8 @@
         <de>Aktuelles Passwort</de>
         <it>Password attuale</it>
         <ur>موجودہ خفیہ لفظ</ur>
+        <es>Contraseña Actual</es>
+        <iw>סיסמה נוכחית</iw>
     </entry>
     <entry>
         <key>New Password</key>
@@ -112,6 +122,8 @@
         <de>Neues Kennwort</de>
         <it>nuova password</it>
         <ur>نیا پاس ورڈ</ur>
+        <es>Nueva Contraseña</es>
+        <iw>סיסמה חדשה</iw>
     </entry>
     <entry>
         <key>Confirm New Password</key>
@@ -131,6 +143,8 @@
         <de>Neues Passwort bestätigen</de>
         <it>Conferma la nuova password</it>
         <ur>نئے پاس ورڈ کی توثیق کریں</ur>
+        <es>Confirmar Contraseña Nueva</es>
+        <iw>תאשר סיסמא חדשה</iw>
     </entry>
     <entry>
         <key>Time Zone</key>
@@ -150,6 +164,8 @@
         <de>Zeitzone</de>
         <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
+        <es>Zona Horaria</es>
+        <iw>אזור זמן</iw>
     </entry>
     <entry>
         <key>Location</key>
@@ -169,6 +185,8 @@
         <de>Ort</de>
         <it>luogo</it>
         <ur>مقام</ur>
+        <es>Localización</es>
+        <iw>מקום</iw>
     </entry>
     <entry>
         <key>Phone Number</key>
@@ -188,6 +206,8 @@
         <de>Telefonnummer</de>
         <it>Numero di telefono</it>
         <ur>فون نمبر</ur>
+        <es>Número de Teléfono</es>
+        <iw>מספר טלפון</iw>
     </entry>
     <entry>
         <key>Subscriptions</key>
@@ -207,6 +227,8 @@
         <de>Abonnements</de>
         <it>Sottoscrizioni</it>
         <ur>سبسکرپشنز</ur>
+        <es>Suscripciones</es>
+        <iw>מנוי</iw>
     </entry>
     <entry>
         <key>Promotable Message Emails</key>
@@ -226,6 +248,8 @@
         <de>Heraufstufbare Nachricht E-Mails</de>
         <it>Messaggi di posta elettronica messaggi promotable</it>
         <ur>Promotable پیغام ای میلز</ur>
+        <es>Emails de Mensajes Promocionables</es>
+        <iw>הודעות דוא"ל מסר בדרך לקידום</iw>
     </entry>
     <entry>
         <key>Client Accounts</key>
@@ -245,6 +269,8 @@
         <de>Kundenkonten</de>
         <it>account cliente</it>
         <ur>کلائنٹ اکاؤنٹس</ur>
+        <es>Cuentas de Clientes</es>
+        <iw>חשבונות לקוח</iw>
     </entry>
     <entry>
         <key>You have access to work on the following clients account(s)</key>
@@ -264,6 +290,8 @@
         <de>Sie haben Zugriff auf die folgenden Kunden Rechnung zu arbeiten (s)</de>
         <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
         <ur>آپ مندرجہ ذیل گاہکوں کے اکاؤنٹ پر کام تک رسائی حاصل کریں (ے)</ur>
+        <es>Usted tiene acceso para trabajar en la siguiente cuenta(s) de cliente</es>
+        <iw>אתה צריך גישה לעבוד על חשבון הלקוחות הבאים (ים)</iw>
     </entry>
     <entry>
         <key>Enabled Publishing Accounts</key>
@@ -283,6 +311,8 @@
         <de>Aktiviert Publishing-Konten</de>
         <it>Conti Editoria abilitati</it>
         <ur>قابل بنایا پبلشنگ اکاؤنٹس</ur>
+        <es>Cuentas de publicación habilitadas</es>
+        <iw>חשבונות הוצאת מופעל</iw>
     </entry>
     <entry>
         <key>Resign</key>
@@ -302,6 +332,8 @@
         <de>Zurücktreten</de>
         <it>Dare le dimissioni</it>
         <ur>مستعفی</ur>
+        <es>Renunciar</es>
+        <iw>לְהִתְפַּטֵר</iw>
     </entry>
     <entry>
         <key>Unable to Resign</key>
@@ -321,6 +353,8 @@
         <de>Kann nicht resignieren</de>
         <it>Impossibile dare le dimissioni</it>
         <ur>استعفی دینے سے قاصر ہے</ur>
+        <es>Incapaz de Renunciar</es>
+        <iw>אין אפשרות להתפטר</iw>
     </entry>
     <section>settings_user_account</section>
 </translations>

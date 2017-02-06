@@ -17,6 +17,8 @@
         <de>Apps Einstellungen</de>
         <it>Impostazioni Applicazioni</it>
         <ur>آپلیکیشنز ترتیبات</ur>
+        <es>Configuraciones de Apps</es>
+        <iw>הגדרות Apps</iw>
     </entry>
     <entry>
         <key>Label</key>
@@ -36,6 +38,8 @@
         <de>Etikette</de>
         <it>Etichetta</it>
         <ur>لیبل</ur>
+        <es>Etiqueta</es>
+        <iw>תווית</iw>
     </entry>
     <entry>
         <key>Apps Settings</key>
@@ -55,6 +59,8 @@
         <de>Apps Einstellungen</de>
         <it>Impostazioni Applicazioni</it>
         <ur>آپلیکیشنز ترتیبات</ur>
+        <es>Configuraciones de Apps</es>
+        <iw>הגדרות Apps</iw>
     </entry>
     <entry>
         <key>Remove</key>
@@ -74,6 +80,8 @@
         <de>Entfernen</de>
         <it>Rimuovere</it>
         <ur>دور</ur>
+        <es>Remover</es>
+        <iw>לְהַסִיר</iw>
     </entry>
     <entry>
         <key>Are you sure you want to remove this app?</key>
@@ -93,6 +101,8 @@
         <de>Sind Sie sicher, dass Sie diese App zu entfernen?</de>
         <it>Sei sicuro di voler rimuovere questa applicazione?</it>
         <ur>آپ اس اپلی کیشن کو ہٹانے کے لئے چاہتے ہیں؟</ur>
+        <es>Está seguro que desea remover este app?</es>
+        <iw>האם אתה בטוח שברצונך להסיר את האפליקציה הזו?</iw>
     </entry>
     <entry>
         <key>App</key>
@@ -112,6 +122,8 @@
         <de>App</de>
         <it>App</it>
         <ur>اپلی کیشن</ur>
+        <es>App</es>
+        <iw>App</iw>
     </entry>
     <section>settings_application_apps</section>
 </translations>

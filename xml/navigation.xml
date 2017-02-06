@@ -17,6 +17,8 @@
         <de>Herzlich willkommen</de>
         <it>benvenuto</it>
         <ur>خوش آمدید</ur>
+        <es>Bienvenido</es>
+        <iw>ברוך הבא</iw>
     </entry>
     <entry>
         <key>Notifications</key>
@@ -36,6 +38,8 @@
         <de>Benachrichtigungen</de>
         <it>notifiche</it>
         <ur>نوٹیفیکیشن</ur>
+        <es>Notificaciones</es>
+        <iw>התראות</iw>
     </entry>
     <entry>
         <key>Optimized Publisher</key>
@@ -55,6 +59,8 @@
         <de>Optimierte Verlag</de>
         <it>Ottimizzato Editore</it>
         <ur>آپٹمائزڈ پبلیشر</ur>
+        <es>Publicador Optimizado</es>
+        <iw>לאור אופטימלי</iw>
     </entry>
     <entry>
         <key>Listen</key>
@@ -74,6 +80,8 @@
         <de>Hören</de>
         <it>Ascolta</it>
         <ur>سنیے</ur>
+        <es>Tendencias</es>
+        <iw>להקשיב</iw>
     </entry>
     <entry>
         <key>Reports</key>
@@ -93,6 +101,8 @@
         <de>Berichte</de>
         <it>Rapporti</it>
         <ur>رپورٹس</ur>
+        <es>Reportes</es>
+        <iw>דיווחים</iw>
     </entry>
     <entry>
         <key>Link Shortening</key>
@@ -112,6 +122,8 @@
         <de>Link-Verkürzungs</de>
         <it>collegamento accorciamento</it>
         <ur>لنک قصر</ur>
+        <es>Acortador de Enlaces</es>
+        <iw>קיצור קישור</iw>
     </entry>
     <entry>
         <key>Dashboard</key>
@@ -131,6 +143,8 @@
         <de>Instrumententafel</de>
         <it>scrivania</it>
         <ur>ڈیش بورڈ</ur>
+        <es>Panel</es>
+        <iw>לוּחַ מַחווָנִים</iw>
     </entry>
     <entry>
         <key>Performance Report</key>
@@ -150,6 +164,8 @@
         <de>Leistungsbericht</de>
         <it>Rapporto sul rendimento</it>
         <ur>کارکردگی کی رپورٹ</ur>
+        <es>Reporte de Desempeño</es>
+        <iw>דוח הופעה</iw>
     </entry>
     <entry>
         <key>Downloadable and Saved Reports</key>
@@ -169,6 +185,8 @@
         <de>Zum Herunterladen und Gespeicherte Berichte</de>
         <it>Scaricabili e rapporti salvati</it>
         <ur>ڈاؤن لوڈ کے قابل ہے اور محفوظ شدہ رپورٹیں</ur>
+        <es>Reportes Guardados y para Descargar</es>
+        <iw>דוחות שניתן להוריד שמורים</iw>
     </entry>
     <entry>
         <key>Settings</key>
@@ -188,6 +206,8 @@
         <de>Einstellungen</de>
         <it>impostazioni</it>
         <ur>ترتیبات</ur>
+        <es>Configuraciones</es>
+        <iw>הגדרות</iw>
     </entry>
     <entry>
         <key>User Account</key>
@@ -207,6 +227,8 @@
         <de>Benutzerkonto</de>
         <it>Account utente</it>
         <ur>صارف کے اکاؤنٹ</ur>
+        <es>Cuenta de Usuario</es>
+        <iw>חשבון משתמש</iw>
     </entry>
     <entry>
         <key>Application</key>
@@ -226,6 +248,8 @@
         <de>Anwendung</de>
         <it>Applicazione</it>
         <ur>درخواست</ur>
+        <es>Aplicación</es>
+        <iw>יישום</iw>
     </entry>
     <entry>
         <key>Social Accounts</key>
@@ -245,6 +269,8 @@
         <de>Social Accounts</de>
         <it>Conti sociali</it>
         <ur>سماجی اکاؤنٹس</ur>
+        <es>Cuentas Sociales</es>
+        <iw>חשבונות חברתיים</iw>
     </entry>
     <entry>
         <key>Content Sources</key>
@@ -264,6 +290,8 @@
         <de>Inhaltsquellen</de>
         <it>Fonti di contenuti</it>
         <ur>مواد کے ذرائع</ur>
+        <es>Fuentes de Contenido</es>
+        <iw>מקורות תוכן</iw>
     </entry>
     <entry>
         <key>Tracking and Analytics</key>
@@ -283,6 +311,8 @@
         <de>Tracking und Analytics</de>
         <it>Monitoraggio e analisi</it>
         <ur>ٹریکنگ اور تجزیات</ur>
+        <es>Monitoreo y Análisis</es>
+        <iw>מעקב Analytics</iw>
     </entry>
     <entry>
         <key>Apps</key>
@@ -302,6 +332,8 @@
         <de>Apps</de>
         <it>applicazioni</it>
         <ur>آپلیکیشنز</ur>
+        <es>Apps</es>
+        <iw>Apps</iw>
     </entry>
     <entry>
         <key>Admin</key>
@@ -321,6 +353,8 @@
         <de>Administrator</de>
         <it>Admin</it>
         <ur>ایڈمن</ur>
+        <es>Admin</es>
+        <iw>Admin</iw>
     </entry>
     <entry>
         <key>Account and Billing</key>
@@ -340,6 +374,8 @@
         <de>Account- und Rechnungs</de>
         <it>Account e fatturazione</it>
         <ur>اکاؤنٹ اور بلنگ</ur>
+        <es>Cuenta y Facturación</es>
+        <iw>חשבון וחיוב</iw>
     </entry>
     <entry>
         <key>Users and Permissions</key>
@@ -359,6 +395,8 @@
         <de>Benutzer und Berechtigungen</de>
         <it>Utenti e autorizzazioni</it>
         <ur>صارفین اور اجازت</ur>
+        <es>Usuarios y Permisos</es>
+        <iw>משתמשים והרשאות</iw>
     </entry>
     <entry>
         <key>Upgrade</key>
@@ -378,6 +416,8 @@
         <de>Aktualisierung</de>
         <it>aggiornamento</it>
         <ur>اپ گریڈ</ur>
+        <es>Upgrade</es>
+        <iw>שדרוג</iw>
     </entry>
     <entry>
         <key>About Us</key>
@@ -397,6 +437,8 @@
         <de>Über uns</de>
         <it>Riguardo a noi</it>
         <ur>ہمارے متعلق</ur>
+        <es>Sobre Nosotros</es>
+        <iw>עלינו</iw>
     </entry>
     <entry>
         <key>Careers</key>
@@ -416,6 +458,8 @@
         <de>Karriere</de>
         <it>Opportunità di lavoro</it>
         <ur>کیریئرز</ur>
+        <es>Carreras</es>
+        <iw>קריירה</iw>
     </entry>
     <entry>
         <key>Terms</key>
@@ -435,6 +479,8 @@
         <de>Bedingungen</de>
         <it>condizioni</it>
         <ur>شرائط</ur>
+        <es>Términos</es>
+        <iw>תנאים</iw>
     </entry>
     <entry>
         <key>Privacy Policy</key>
@@ -454,6 +500,8 @@
         <de>Datenschutz-Bestimmungen</de>
         <it>politica sulla riservatezza</it>
         <ur>رازداری کی پالیسی</ur>
+        <es>Política de Privacidad</es>
+        <iw>מדיניות פרטיות</iw>
     </entry>
     <entry>
         <key>Contact</key>
@@ -473,6 +521,8 @@
         <de>Kontakt</de>
         <it>contatto</it>
         <ur>رابطہ کریں</ur>
+        <es>Contacto</es>
+        <iw>איש קשר</iw>
     </entry>
     <entry>
         <key>Support</key>
@@ -492,6 +542,8 @@
         <de>Unterstützen</de>
         <it>Supporto</it>
         <ur>سپورٹ</ur>
+        <es>Soporte</es>
+        <iw>תמיכה</iw>
     </entry>
     <entry>
         <key>Account Settings</key>
@@ -511,6 +563,8 @@
         <de>Account Einstellungen</de>
         <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>
+        <es>Configuraciones de Cuenta</es>
+        <iw>הגדרות חשבון</iw>
     </entry>
     <entry>
         <key>Log Out</key>
@@ -530,6 +584,8 @@
         <de>Ausloggen</de>
         <it>Disconnettersi</it>
         <ur>لاگ آوٹ</ur>
+        <es>Desconectar</es>
+        <iw>להתנתק</iw>
     </entry>
     <entry>
         <key>Help</key>
@@ -549,6 +605,8 @@
         <de>Hilfe</de>
         <it>Aiuto</it>
         <ur>مدد</ur>
+        <es>Ayuda</es>
+        <iw>עֶזרָה</iw>
     </entry>
     <section>navigation</section>
 </translations>
