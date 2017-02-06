@@ -17,6 +17,8 @@
         <de>Lange URL:</de>
         <it>URL lungo:</it>
         <ur>لانگ URL:</ur>
+        <es>URL largo:</es>
+        <iw>כתובת ארוכה:</iw>
     </entry>
     <entry>
         <key>Created:</key>
@@ -36,6 +38,8 @@
         <de>Erstellt:</de>
         <it>Creato:</it>
         <ur>اپ ڈیٹ:</ur>
+        <es>Creado</es>
+        <iw>נוצר:</iw>
     </entry>
     <entry>
         <key>Clicks</key>
@@ -55,6 +59,8 @@
         <de>Klicks</de>
         <it>clic</it>
         <ur>کلکس</ur>
+        <es>Clics</es>
+        <iw>קליקים</iw>
     </entry>
     <entry>
         <key>Total:</key>
@@ -74,6 +80,8 @@
         <de>Gesamt:</de>
         <it>Totale:</it>
         <ur>کل:</ur>
+        <es>Total</es>
+        <iw>סה"כ:</iw>
     </entry>
     <entry>
         <key>All Time</key>
@@ -93,6 +101,8 @@
         <de>all Time</de>
         <it>Tutto il Tempo</it>
         <ur>تمام وقت</ur>
+        <es>Histórico Total</es>
+        <iw>כל הזמן</iw>
     </entry>
     <entry>
         <key>7d</key>
@@ -112,6 +122,8 @@
         <de>7d</de>
         <it>7d</it>
         <ur>7D</ur>
+        <es>7d</es>
+        <iw>7d</iw>
     </entry>
     <entry>
         <key>14d</key>
@@ -131,6 +143,8 @@
         <de>14d</de>
         <it>14d</it>
         <ur>14D</ur>
+        <es>14d</es>
+        <iw>14d</iw>
     </entry>
     <entry>
         <key>30d</key>
@@ -150,6 +164,8 @@
         <de>30d</de>
         <it>30d</it>
         <ur>30D</ur>
+        <es>30d</es>
+        <iw>30D</iw>
     </entry>
     <entry>
         <key>Manage Links</key>
@@ -169,12 +185,14 @@
         <de>Links verwalten</de>
         <it>Gestisci collegamenti</it>
         <ur>روابط انتظام کریں</ur>
+        <es>Administrar Enlaces</es>
+        <iw>ניהול קישורים</iw>
     </entry>
     <entry>
         <key>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</key>
         <en>Using a link shortening service enables detailed tracking of clicks, referrers, and other details about your audience.</en>
         <ja>リンク短縮サービスを使えば、クリック、リファラその他オーディエンスに関する詳細な追跡が可能となります。</ja>
-        <pt>Usar um serviço de encurtamento de links permite monitoramento detalhado de cliques, referrers, e outros detalhes sobre sua audiência.</pt>
+        <pt>Usar um serviço de encurtamento de links permite monitoramento detalhado de cliques, referers, e outros detalhes sobre sua audiência.</pt>
         <zh-CN>使用链接缩短服务能够点击，引荐和你的受众的其他细节的详细跟踪。</zh-CN>
         <fr>L'utilisation d'un service de liaison de raccourcissement permet un suivi détaillé des clics, référenceurs, et d'autres détails au sujet de votre auditoire.</fr>
         <ar>باستخدام خدمة ارتباط تقصير يمكن تتبع مفصل من النقرات، المشيرين، وغيرها من التفاصيل عن جمهورك.</ar>
@@ -188,6 +206,8 @@
         <de>einen Link Verkürzung Dienstes ermöglicht eine detaillierte Verfolgung von Klicks, Referrer und andere Details zu Ihrem Publikum.</de>
         <it>Utilizzo di un servizio di collegamento accorciamento consente un monitoraggio dettagliato di clic, referrer, e altri dettagli circa il vostro pubblico.</it>
         <ur>ایک لنک کمی سروس کا استعمال کرتے ہوئے کلکس، تجویز کنندگان، اور اپنے ناظرین کے بارے میں دیگر تفصیلات کی تفصیلی نظر رکھنے کے قابل بناتا ہے.</ur>
+        <es>El uso de un servicio de acortamiento de enalces permite un seguimiento detallado de los clics, referentes y otros detalles sobre su audiencia.</es>
+        <iw>באמצעות שירות קיצור קישור מפעיל מעקב מפורט של קליקים, מהפניות, ופרטים נוספים על הקהל שלך.</iw>
     </entry>
     <entry>
         <key>With SocialFlow, you can track links with our own trib.al or sflow.us shorteners; authorize a</key>
@@ -207,6 +227,8 @@
         <de>Mit SocialFlow können Sie Links mit unseren eigenen trib.al oder sflow.us Shortener verfolgen; ermächtigen, eine</de>
         <it>Con SocialFlow, è possibile tenere traccia collegamenti con la nostra trib.al o shorteners sflow.us; autorizzare un</it>
         <ur>SocialFlow ساتھ، آپ کو ہماری اپنی trib.al یا sflow.us کو مختصر کرنے کے ساتھ روابط کو ٹریک کر سکتے ہیں؛ اختیار ایک</ur>
+        <es>Con SocialFlow, usted puede rastrear enlaces con nuestros propios acortadores trib.al o sflow.us; autorice una</es>
+        <iw>עם SocialFlow, תוכל לעקוב אחר קישורים עם trib.al או מקצר sflow.us משלנו; לאשר</iw>
     </entry>
     <entry>
         <key>bitly</key>
@@ -226,6 +248,8 @@
         <de>bitly</de>
         <it>bitly</it>
         <ur>ہے bitly</ur>
+        <es>bitly</es>
+        <iw>bitly</iw>
     </entry>
     <entry>
         <key>or</key>
@@ -245,6 +269,8 @@
         <de>oder</de>
         <it>o</it>
         <ur>یا</ur>
+        <es>o</es>
+        <iw>אוֹ</iw>
     </entry>
     <entry>
         <key>goo.gl</key>
@@ -264,6 +290,8 @@
         <de>goo.gl</de>
         <it>goo.gl</it>
         <ur>goo.gl</ur>
+        <es>goo.gl</es>
+        <iw>goo.gl</iw>
     </entry>
     <entry>
         <key>account, or shorten with your own custom domain (provided you control DNS for that domain). You can shorten any link here; we also shorten links published to Twitter or Facebook by SocialFlow.</key>
@@ -283,6 +311,8 @@
         <de>Konto oder mit Ihrem eigenen Domain verkürzen (vorausgesetzt, Sie DNS-Steuerung für die Domäne). Sie können einen beliebigen Link hier zu verkürzen; wir verkürzen auch auf Twitter oder Facebook von SocialFlow veröffentlichten Links.</de>
         <it>conto, o accorciare con il tuo dominio personalizzato (a condizione di controllare DNS per quel dominio). È possibile abbreviare i link qui; abbiamo anche ridurre i link pubblicati su Twitter o Facebook per SocialFlow.</it>
         <ur>اکاؤنٹ، یا آپ اپنی مرضی ڈومین کے ساتھ قصر (بشرطیکہ آپ اس ڈومین کے لئے DNS کنٹرول). آپ یہاں کسی بھی لنک قصر کر سکتے ہیں؛ ہم نے SocialFlow طرف سے ٹویٹر یا فیس بک پر شائع لنکس قصر.</ur>
+        <es>cuenta, o acorte con un dominio personalizado (siempre y cuando controle el DNS para ese dominio). Puede acortar cualquier enlace aquí; también acortamos enlaces publicados a Twitter o Facebook por SocialFlow.</es>
+        <iw>חשבון, או לקצר עם תחום מותאם אישית משלך (בתנאי שאתה לשלוט DNS עבור התחום). אתה יכול לקצר כל קישור כאן; אנחנו גם לקצר קישורים שפורסמו לטוויטר או פייסבוק ידי SocialFlow.</iw>
     </entry>
     <entry>
         <key>Shorten Link</key>
@@ -302,6 +332,8 @@
         <de>kürzen Verbindung</de>
         <it>accorciare link</it>
         <ur>لنک قصر</ur>
+        <es>Acortar Enlace</es>
+        <iw>לקצר קישור</iw>
     </entry>
     <entry>
         <key>Add Custom Domain</key>
@@ -321,6 +353,8 @@
         <de>Hinzufügen von benutzerdefinierten Domain</de>
         <it>Aggiungere dominio personalizzato</it>
         <ur>اپنی مرضی ڈومین کا اضافہ کریں</ur>
+        <es>Añadir Dominio Personalizado</es>
+        <iw>הוסף דומיין מותאם אישית</iw>
     </entry>
     <entry>
         <key>Select Domain:</key>
@@ -340,6 +374,8 @@
         <de>Wählen Sie Domain:</de>
         <it>Seleziona Dominio:</it>
         <ur>ڈومین کا انتخاب کریں:</ur>
+        <es>Seleccione un Dominio</es>
+        <iw>בחר תחום:</iw>
     </entry>
     <entry>
         <key>trib.al</key>
@@ -359,6 +395,8 @@
         <de>trib.al</de>
         <it>trib.al</it>
         <ur>trib.al</ur>
+        <es>trib.al</es>
+        <iw>שִׁבטִי</iw>
     </entry>
     <entry>
         <key>dev.trib.al</key>
@@ -378,6 +416,8 @@
         <de>dev.trib.al</de>
         <it>dev.trib.al</it>
         <ur>dev.trib.al</ur>
+        <es>dev.trib.al</es>
+        <iw>dev.trib.al</iw>
     </entry>
     <entry>
         <key>Today</key>
@@ -397,6 +437,8 @@
         <de>Heute</de>
         <it>Oggi</it>
         <ur>آج</ur>
+        <es>Hoy</es>
+        <iw>היום</iw>
     </entry>
     <entry>
         <key>7d</key>
@@ -416,6 +458,8 @@
         <de>7d</de>
         <it>7d</it>
         <ur>7D</ur>
+        <es>7d</es>
+        <iw>7d</iw>
     </entry>
     <entry>
         <key>14d</key>
@@ -435,6 +479,8 @@
         <de>14d</de>
         <it>14d</it>
         <ur>14D</ur>
+        <es>14d</es>
+        <iw>14d</iw>
     </entry>
     <entry>
         <key>30d</key>
@@ -454,6 +500,8 @@
         <de>30d</de>
         <it>30d</it>
         <ur>30D</ur>
+        <es>30d</es>
+        <iw>30D</iw>
     </entry>
     <entry>
         <key>Date</key>
@@ -473,6 +521,8 @@
         <de>Datum</de>
         <it>Data</it>
         <ur>تاریخ</ur>
+        <es>Fecha</es>
+        <iw>תַאֲרִיך</iw>
     </entry>
     <entry>
         <key>Clicks</key>
@@ -492,6 +542,8 @@
         <de>Klicks</de>
         <it>clic</it>
         <ur>کلکس</ur>
+        <es>Clics</es>
+        <iw>קליקים</iw>
     </entry>
     <entry>
         <key>Action</key>
@@ -511,6 +563,8 @@
         <de>Aktion</de>
         <it>Azione</it>
         <ur>عمل</ur>
+        <es>Acción</es>
+        <iw>פעולה</iw>
     </entry>
     <entry>
         <key>Manage Shorteners</key>
@@ -530,6 +584,8 @@
         <de>verwalten Shorteners</de>
         <it>gestire shorteners</it>
         <ur>مختصر کرنے کا انتظام کریں</ur>
+        <es>Administrar Enlaces</es>
+        <iw>נהל מקצרי</iw>
     </entry>
     <entry>
         <key>Link Shorteners</key>
@@ -549,6 +605,8 @@
         <de>Link Shorteners</de>
         <it>collegamento shorteners</it>
         <ur>لنک کو مختصر کرنے</ur>
+        <es>Acortadores de Enlaces</es>
+        <iw>קישור מקצרי</iw>
     </entry>
     <entry>
         <key>Service</key>
@@ -568,6 +626,8 @@
         <de>Bedienung</de>
         <it>Servizio</it>
         <ur>سروس</ur>
+        <es>Servicio</es>
+        <iw>שֵׁרוּת</iw>
     </entry>
     <entry>
         <key>Bitly</key>
@@ -587,6 +647,8 @@
         <de>Bitly</de>
         <it>bitly</it>
         <ur>ہے bitly</ur>
+        <es>Bitly</es>
+        <iw>Bitly</iw>
     </entry>
     <entry>
         <key>Account Name</key>
@@ -606,6 +668,8 @@
         <de>Kontobezeichnung</de>
         <it>Nome utente</it>
         <ur>کھاتے کا نام</ur>
+        <es>Nombre de Cuenta</es>
+        <iw>שם החשבון</iw>
     </entry>
     <entry>
         <key>Domain</key>
@@ -625,6 +689,8 @@
         <de>Domain</de>
         <it>Dominio</it>
         <ur>ڈومین</ur>
+        <es>Dominio</es>
+        <iw>תְחוּם</iw>
     </entry>
     <entry>
         <key>API Key</key>
@@ -644,6 +710,8 @@
         <de>API-Schlüssel</de>
         <it>API Key</it>
         <ur>API کلید</ur>
+        <es>LLave API</es>
+        <iw>מפתח API</iw>
     </entry>
     <entry>
         <key>Add Link Shortener</key>
@@ -663,6 +731,8 @@
         <de>Link hinzufügen Shortener</de>
         <it>Aggiungi link Shortener</it>
         <ur>لنک اختصار شامل کریں</ur>
+        <es>Añadir Acortador de Enlaces</es>
+        <iw>הוסף קישור Shortener</iw>
     </entry>
     <entry>
         <key>Service</key>
@@ -682,6 +752,8 @@
         <de>Bedienung</de>
         <it>Servizio</it>
         <ur>سروس</ur>
+        <es>Servicio</es>
+        <iw>שֵׁרוּת</iw>
     </entry>
     <entry>
         <key>Domain</key>
@@ -701,6 +773,8 @@
         <de>Domain</de>
         <it>Dominio</it>
         <ur>ڈومین</ur>
+        <es>Dominio</es>
+        <iw>תְחוּם</iw>
     </entry>
     <entry>
         <key>Username</key>
@@ -720,6 +794,8 @@
         <de>Benutzername</de>
         <it>Nome utente</it>
         <ur>صارف کا نام</ur>
+        <es>Nombre de Usuario</es>
+        <iw>שם משתמש</iw>
     </entry>
     <entry>
         <key>API Key</key>
@@ -739,6 +815,8 @@
         <de>API-Schlüssel</de>
         <it>API Key</it>
         <ur>API کلید</ur>
+        <es>Llave API</es>
+        <iw>מפתח API</iw>
     </entry>
     <entry>
         <key>Associated Social Account</key>
@@ -758,5 +836,7 @@
         <de>Assoziierte Sozial Konto</de>
         <it>Associated account di social</it>
         <ur>ایسوسی سماجی اکاؤنٹ</ur>
+        <es>Cuenta Social Asociada</es>
+        <iw>חשבון החברתי המקושר</iw>
     </entry>
 </translations>

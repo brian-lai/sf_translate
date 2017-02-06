@@ -17,6 +17,8 @@
         <de>Hmmmmm ... Etwas schief gegangen Warteschlange abgerufen werden.</de>
         <it>Hmmmmm ... Qualcosa è andato storto recuperare la coda.</it>
         <ur>Hmmmmm ... کچھ آپ کی قطار بازگیر غلط چلا گیا ہے.</ur>
+        <es>Hmm... Ha ocurrido un error recuperando sus mensajes en espera</es>
+        <iw>המממ ... משהו השתבש יחזור התור שלך.</iw>
     </entry>
     <entry>
         <key>Hmmmmm... You must add a name for your group.</key>
@@ -36,6 +38,8 @@
         <de>Hmmmmm ... Sie müssen einen Namen für die Gruppe hinzufügen.</de>
         <it>Hmmmmm ... È necessario aggiungere un nome per il gruppo.</it>
         <ur>Hmmmmm ... آپ اپنے گروپ کے لئے ایک نام شامل کرنا ضروری ہے.</ur>
+        <es>Hmm... Debe añadir un nombre para su grupo</es>
+        <iw>המממ ... אתה חייב להוסיף שם עבור הקבוצה שלך.</iw>
     </entry>
     <entry>
         <key>You are at your account limit. Please click the upgrade button to add more accounts.</key>
@@ -55,6 +59,8 @@
         <de>Sie befinden sich in Ihrem Konto zu begrenzen. Bitte klicken Sie auf die Schaltfläche Upgrade, um weitere Konten hinzufügen.</de>
         <it>Sei al tuo limite conto. Si prega di fare clic sul pulsante di aggiornamento per aggiungere più account.</it>
         <ur>آپ اپنے اکاؤنٹ کی حد میں ہیں. مزید اکاؤنٹس شامل کرنے کے لئے اپ گریڈ کے بٹن پر کلک کریں براہ مہربانی.</ur>
+        <es>Usted está en el límite de su cuenta. Haga clic en el botón de upgrade para agregar más cuentas.</es>
+        <iw>הנך נמצא ב מגבלת חשבונך. אנא לחץ על כפתור השדרוג להוסיף חשבונות נוספים.</iw>
     </entry>
     <entry>
         <key>Success! Your message will publish ASAP!</key>
@@ -74,6 +80,8 @@
         <de>Erfolg! Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
         <it>Successo! Il tuo messaggio pubblicherà al più presto!</it>
         <ur>کامیابی! آپ کا پیغام ASAP شائع کریں گے!</ur>
+        <es>Éxito! Su mensaje sera publicado lo más pronto posible!</es>
+        <iw>הַצלָחָה! הודעתך תפרסם בהקדם האפשרי!</iw>
     </entry>
     <entry>
         <key>Success! Your information has been saved!</key>
@@ -93,6 +101,8 @@
         <de>Erfolg! Ihre Angaben wurden gespeichert!</de>
         <it>Successo! I tuoi dati è stato salvato!</it>
         <ur>کامیابی! آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
+        <es>Éxito! Su información ha sido guardada!</es>
+        <iw>הַצלָחָה! המידע שלך נשמר!</iw>
     </entry>
     <entry>
         <key>Hmmmmm... Something has gone wrong.</key>
@@ -112,6 +122,8 @@
         <de>Hmmmmm ... Etwas schief gegangen ist.</de>
         <it>Hmmmmm ... Qualcosa è andato storto.</it>
         <ur>Hmmmmm ... کچھ غلط چلا گیا ہے.</ur>
+        <es>Hmm... Ha ocurrido algún error</es>
+        <iw>המממ ... משהו השתבש.</iw>
     </entry>
     <entry>
         <key>User Saved. Settings for this user have been saved.</key>
@@ -131,6 +143,8 @@
         <de>Benutzer gespeichert. Einstellungen für diesen Benutzer gespeichert wurden.</de>
         <it>Salvato utente. Le impostazioni per questo utente sono state salvate.</it>
         <ur>یوزر بچا لیا. اس صارف کیلئے ترتیبات محفوظ ہوگئی ہیں.</ur>
+        <es>Usuario Guardado. Configuraciones para este usuario han sido guardadas.</es>
+        <iw>משתמש שמורה. הגדרות עבור משתמש זה נשמרו.</iw>
     </entry>
     <entry>
         <key>Your message is too long.  Your message is limited to 140 characters when publishing to Twitter.</key>
@@ -150,6 +164,8 @@
         <de>Ihre Nachricht ist zu lang. Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
         <it>Il suo messaggio è troppo lungo. Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
         <ur>آپ کا پیغام بہت طویل ہے. فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
+        <es>Su mensaje es muy largo. Su mensaje es limitado a 140 carácteres al publicar a Twitter.</es>
+        <iw>ההודעה שלך ארוכה מדי. המסר מוגבל ל -140 תווים בעת פרסום לטוויטר.</iw>
     </entry>
     <entry>
         <key>Success! Your messages were deleted.</key>
@@ -169,6 +185,8 @@
         <de>Erfolg Ihre Nachrichten wurden gelöscht.</de>
         <it>Successo i messaggi sono stati cancellati.</it>
         <ur>کامیابی! آپ کے پیغامات کو خارج کر دیا گیا تھا.</ur>
+        <es>Éxito. Sus mensajes han sido eliminados.</es>
+        <iw>הַצלָחָה! ההודעות שלך נמחקו.</iw>
     </entry>
     <entry>
         <key>Success! Your messages were marked hold.</key>
@@ -188,6 +206,8 @@
         <de>Erfolg Ihre Nachrichten wurden markiert halten.</de>
         <it>Successo tuoi messaggi sono stati contrassegnati attesa.</it>
         <ur>کامیابی! آپ کے پیغامات پکڑ نشان لگا دیا گیا تھا.</ur>
+        <es>Éxito. Sus mensajes fueron marcados para aguardar.</es>
+        <iw>הַצלָחָה! ההודעות שלך סומנו בהמתנה.</iw>
     </entry>
     <entry>
         <key>Success! Your messages were marked optimized.</key>
@@ -207,6 +227,8 @@
         <de>Successed Sie Nachrichten wurden optimiert markiert.</de>
         <it>Successed messaggi che sono stati segnati ottimizzato.</it>
         <ur>کامیابی! آپ کے پیغامات مرضی کے نشان لگا دیا گیا تھا.</ur>
+        <es>Éxito. Sus mensajes fueron marcados para optimizar.</es>
+        <iw>הַצלָחָה! ההודעות שלך סומנו מותאמת.</iw>
     </entry>
     <entry>
         <key>Success! Your message has been scheduled.</key>
@@ -226,6 +248,8 @@
         <de>Erfolg Ihre Nachricht wurde geplant.</de>
         <it>Il successo il messaggio è stato programmato.</it>
         <ur>کامیابی! آپ کا پیغام شیڈول کیا گیا ہے.</ur>
+        <es>Éxito. Su mensaje fue agendado.</es>
+        <iw>הַצלָחָה! הודעתך תוזמן.</iw>
     </entry>
     <entry>
         <key>No feed URLS found.  Sorry, we did not find any feeds.</key>
@@ -245,6 +269,8 @@
         <de>Keine Feed-URLs gefunden. Leider können wir finden konnten keine Feeds.</de>
         <it>Nessun URL dei feed trovato. Siamo spiacenti, ma non abbiamo trovato nessun feed.</it>
         <ur>کوئی فیڈ یو آر ایل کو پایا. معذرت، ہم کسی بھی فیڈز کو تلاش نہیں کیا.</ur>
+        <es>URLs de feed no encontrados. Disculpe, no encontramos ningún feed</es>
+        <iw>אין URLS נמצא עדכון כלשהו. מצטערים, לא מצאנו כל העדכונים.</iw>
     </entry>
     <entry>
         <key>Select Account.  You must select at least one account to add this feed to</key>
@@ -264,6 +290,8 @@
         <de>Wählen Sie Konto. Sie müssen mindestens ein Konto wählen diesen Feed hinzufügen</de>
         <it>Selezionare Account. È necessario selezionare almeno un account per aggiungere questo feed per</it>
         <ur>منتخب اکاؤنٹ. تم اس فیڈ شامل کرنے کے لئے کم از کم ایک اکاؤنٹ کا انتخاب کرنا ہوگا</ur>
+        <es>Seleccionar cuenta. Debe elegir por lo menos una cuenta al cual este feed será añadido.</es>
+        <iw>בחר חשבון. עליך לבחור לפחות חשבון אחד כדי להוסיף עדכון זה כדי</iw>
     </entry>
     <entry>
         <key>Feed added.  The feed has been successfully added.</key>
@@ -283,6 +311,8 @@
         <de>Feed hinzugefügt. Das Futter wurde erfolgreich hinzugefügt.</de>
         <it>Feed aggiunto. L'alimentazione è stato aggiunto correttamente.</it>
         <ur>فیڈ نے مزید کہا. فیڈ کامیابی سے شامل کر دی گئی ہے.</ur>
+        <es>Feed añadido. El feed fue añadido con éxito.</es>
+        <iw>נוסףערוץ. העדכון נוסף בהצלחה.</iw>
     </entry>
     <entry>
         <key>Success! Your information has been saved!</key>
@@ -302,6 +332,8 @@
         <de>Erfolg! Ihre Angaben wurden gespeichert!</de>
         <it>Successo! I tuoi dati è stato salvato!</it>
         <ur>کامیابی! آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
+        <es>Éxito! Su información fue guardada!</es>
+        <iw>הַצלָחָה! המידע שלך נשמר!</iw>
     </entry>
     <entry>
         <key>User Invited Invitation sent to</key>
@@ -321,6 +353,8 @@
         <de>User eingeladen Einladung verschickt an</de>
         <it>Utente invitato Invito spedito a</it>
         <ur>یوزر مدعو دعوت کے لئے بھیجا</ur>
+        <es>Usuario Invitado. Invitación enviado a</es>
+        <iw>הזמנת משתמש שהוזמנה נשלחה</iw>
     </entry>
     <entry>
         <key>User Removed.  User &lt;user&gt; has been removed from this client.</key>
@@ -346,6 +380,8 @@
         <de>E-Mail gesendet. Passwort-Reset E-Mail wurde gesendet</de>
         <it>Email inviata. email di reimpostazione password è stata inviata al</it>
         <ur>ای میل بھیج دی گئ. پاس ورڈ دوبارہ ترتیب دینے کا ای میل بھیجا گیا ہے</ur>
+        <es>Email enviado. correo electrónico de restablecimiento de contraseña ha sido enviada a</es>
+        <iw>הדוא"ל נשלח. דוא"ל איפוס סיסמא נשלח</iw>
     </entry>
     <entry>
         <key>Email Sent!  Please check your email to reset your password.</key>
@@ -365,6 +401,8 @@
         <de>E-Mail gesendet! Bitte überprüfen Sie Ihre E-Mail Ihr Passwort zurücksetzen können.</de>
         <it>Email inviata! Si prega di controllare la posta elettronica per reimpostare la password.</it>
         <ur>ای میل بھیج دی گئ! آپ کا پاس ورڈ دوبارہ ترتیب دینے کیلئے آپ کے ای میل کی جانچ پڑتال کریں.</ur>
+        <es>¡Email enviado! Por favor, consultar su correo electrónico para restablecer la contraseña.</es>
+        <iw>הדוא"ל נשלח! בדוק את הדוא"ל שלך כדי לאפס את הסיסמה שלך.</iw>
     </entry>
     <entry>
         <key>Message Deleted.  Message has successfully been deleted.</key>
@@ -384,6 +422,8 @@
         <de>Nachricht gelöscht. Nachricht wurde erfolgreich gelöscht.</de>
         <it>Messaggio cancellato. Il messaggio è stato cancellato con successo.</it>
         <ur>پیغام حذف. پیغام کامیابی سے خارج کر دیا گیا ہے.</ur>
+        <es>Mensaje borrado. Mensaje éxito ha sido eliminado.</es>
+        <iw>הודעה נמחקה. ההודעה נמחקה בהצלחה.</iw>
     </entry>
     <entry>
         <key>Your report has been deleted.</key>
@@ -403,6 +443,8 @@
         <de>Ihr Bericht wurde gelöscht.</de>
         <it>Il tuo rapporto è stato eliminato.</it>
         <ur>آپ کی رپورٹ حذف کردیا گیا ہے.</ur>
+        <es>Su reporte ha sido eliminado.</es>
+        <iw>הדו"ח שלך נמחק.</iw>
     </entry>
     <entry>
         <key>Something went wrong!  Your bitly credentials are invalid  Please verify them and try again.</key>
@@ -422,6 +464,8 @@
         <de>Etwas ist schief gelaufen! Ihre bitly Anmeldeinformationen sind ungültig Bitte überprüfen sie und versuchen Sie es erneut.</de>
         <it>Qualcosa è andato storto! Le credenziali non sono valide bitly Controllare e riprova.</it>
         <ur>کچھ غلط ہو گیا! آپ کا ہے bitly اسناد باطل ان کی توثیق کریں اور دوبارہ کوشش کریں.</ur>
+        <es>¡Algo salió mal! Sus credenciales no son válidas Bitly Por favor, compruebe y vuelva a intentarlo.</es>
+        <iw>משהו השתבש! אישורי bitly שלך אינם חוקיים ודא אותם ונסה שוב.</iw>
     </entry>
     <entry>
         <key>Message is blank please enter a message.</key>
@@ -441,6 +485,8 @@
         <de>Nachricht ist leer, bitte eine Nachricht eingeben.</de>
         <it>Messaggio è vuoto inserisci un messaggio.</it>
         <ur>پیغام خالی ہے ایک پیغام درج کریں.</ur>
+        <es>Mensaje está en blanco, introduzca un mensaje.</es>
+        <iw>הודעה ריקה אנא הכנס הודעה.</iw>
     </entry>
     <entry>
         <key>Schedule date is empty.  Please enter a schedule date.</key>
@@ -460,6 +506,8 @@
         <de>Geplantes Datum ist leer. Bitte geben Sie einen Zeitplan Datum.</de>
         <it>data di pianificazione è vuota. Si prega di inserire una data di pianificazione.</it>
         <ur>تاریخ کے شیڈول خالی ہے. ایک شیڈول کوڈ داخل کریں.</ur>
+        <es>fecha de programación está vacía. Por favor, introduzca una fecha de calendario.</es>
+        <iw>תאריך לוח זמנים ריק. נא להזין תאריך תזמון.</iw>
     </entry>
     <entry>
         <key>Success! Your message is in your queue set to optimized.</key>
@@ -479,6 +527,8 @@
         <de>Der Erfolg Ihrer Nachricht ist in der Warteschlange gesetzt optimiert.</de>
         <it>Successo messaggio è in coda insieme a ottimizzato.</it>
         <ur>کامیابی! آپ کا پیغام مرضی کے لئے مقرر کیا آپ کی قطار میں ہے.</ur>
+        <es>¡Éxito! Su mensaje está en la cola para fijar optimizado.</es>
+        <iw>הַצלָחָה! המסר שלך טמון התור שלך מוגדר מותאם.</iw>
     </entry>
     <entry>
         <key>Incomplete form!  Please fix the items highlighted in red below.</key>
@@ -498,6 +548,8 @@
         <de>Unvollständige Form! Bitte korrigieren Sie die rot markierten Elemente unten.</de>
         <it>forma incompleta! Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <ur>نامکمل فارم! ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
+        <es>forma incompleta! Por favor corrija los elementos resaltados en rojo a continuación.</es>
+        <iw>בצורה חלקית! אנא לתקן את הפריטים המסומנים באדום למטה.</iw>
     </entry>
     <entry>
         <key>Success! Your report has been submitted! Will be complete shortly.</key>
@@ -517,6 +569,8 @@
         <de>Erfolg Ihr Bericht wurde gesendet! Wird in Kürze abgeschlossen sein.</de>
         <it>Il successo il vostro rapporto è stato presentato! Sarà completata a breve.</it>
         <ur>کامیابی! آپ کی رپورٹ جمع کرائی گئی ہے! کچھ ہی دیر مکمل ہو جائے گا.</ur>
+        <es>¡Éxito! Su reporte ha sido enviado! Será completa en breve.</es>
+        <iw>הַצלָחָה! הדו"ח שלך נשלח! יהיה שלם בקרוב.</iw>
     </entry>
     <entry>
         <key>Paused</key>
@@ -536,6 +590,8 @@
         <de>Pausiert</de>
         <it>In pausa</it>
         <ur>موقوف</ur>
+        <es>En pausa</es>
+        <iw>מושהה</iw>
     </entry>
     <entry>
         <key>Publishing has been paused for this client service</key>
@@ -555,6 +611,8 @@
         <de>Publishing wurde für diesen Client-Dienst angehalten</de>
         <it>Editoria è stato sospeso per questo servizio al cliente</it>
         <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے موقوف کر دیا گیا</ur>
+        <es>Editorial ha sido detenido por este servicio del cliente</es>
+        <iw>ההוצאה הושהתה לשירות הלקוח</iw>
     </entry>
     <entry>
         <key>Resumed</key>
@@ -574,6 +632,8 @@
         <de>Resumed</de>
         <it>ripreso</it>
         <ur>سلسلہ دوبارہ شروع</ur>
+        <es>reanudado</es>
+        <iw>חודשה</iw>
     </entry>
     <entry>
         <key>Publishing has been resumed for this client service</key>
@@ -593,6 +653,8 @@
         <de>Publishing wurde für diesen Client-Dienst wieder aufgenommen</de>
         <it>Editoria è stato ripreso per questo servizio al cliente</it>
         <ur>پبلشنگ اس کلائنٹ کی خدمت کے لئے دوبارہ شروع کر دیا گیا ہے</ur>
+        <es>Se ha reanudado la publicación de este servicio al cliente</es>
+        <iw>ההוצאה שחודשה לשירות הלקוח</iw>
     </entry>
     <section>error_and_success_messages</section>
 </translations>

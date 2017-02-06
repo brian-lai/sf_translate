@@ -17,6 +17,8 @@
         <de>Inhaltsquelle Einstellungen</de>
         <it>Impostazioni Source Content</it>
         <ur>مواد کے ماخذ ترتیبات</ur>
+        <es>Configuraciones de Fuente de Contenido</es>
+        <iw>הגדרות מקור תוכן</iw>
     </entry>
     <entry>
         <key>Add New Content Source</key>
@@ -36,6 +38,8 @@
         <de>Hinzufügen neuer Inhaltsquelle</de>
         <it>Aggiungi nuova origine contenuti</it>
         <ur>نئے مواد ذریعہ شامل کریں</ur>
+        <es>Añadir Fuente de Contenido Nuevo</es>
+        <iw>הוספת מקור תוכן חדש</iw>
     </entry>
     <entry>
         <key>Link</key>
@@ -55,6 +59,8 @@
         <de>Link</de>
         <it>collegamento</it>
         <ur>لنک</ur>
+        <es>Link</es>
+        <iw>קישור</iw>
     </entry>
     <entry>
         <key>Active</key>
@@ -74,6 +80,8 @@
         <de>Aktiv</de>
         <it>Attivo</it>
         <ur>ایکٹو</ur>
+        <es>Activo</es>
+        <iw>פָּעִיל</iw>
     </entry>
     <entry>
         <key>Account</key>
@@ -93,6 +101,8 @@
         <de>Konto</de>
         <it>account</it>
         <ur>اکاؤنٹ</ur>
+        <es>Cuenta</es>
+        <iw>חֶשְׁבּוֹן</iw>
     </entry>
     <entry>
         <key>View Feed</key>
@@ -112,12 +122,14 @@
         <de>Feed anzeigen</de>
         <it>Inserisci la città</it>
         <ur>لنک فیڈ</ur>
+        <es>Ver Feed</es>
+        <iw>הצג הזנה</iw>
     </entry>
     <entry>
         <key>On</key>
         <en>On</en>
         <ja>On</ja>
-        <pt>On</pt>
+        <pt>Ativa</pt>
         <zh-CN>开</zh-CN>
         <fr>Sur</fr>
         <ar>على</ar>
@@ -131,12 +143,14 @@
         <de>Auf</de>
         <it>Sopra</it>
         <ur>پر</ur>
+        <es>On</es>
+        <iw>עַל</iw>
     </entry>
     <entry>
         <key>Off</key>
         <en>Off</en>
         <ja>Off</ja>
-        <pt>Off</pt>
+        <pt>Inativa</pt>
         <zh-CN>关</zh-CN>
         <fr>De</fr>
         <ar>إيقاف</ar>
@@ -150,6 +164,8 @@
         <de>Aus</de>
         <it>via</it>
         <ur>بند</ur>
+        <es>Off</es>
+        <iw>כבוי</iw>
     </entry>
     <entry>
         <key>You don't have any content sources yet.</key>
@@ -169,6 +185,8 @@
         <de>Sie haben noch keine Inhaltsquellen noch.</de>
         <it>Non avete ancora origini di contenuto.</it>
         <ur>ابھی تک آپ کوئی مواد کے ذرائع کی ضرورت نہیں ہے.</ur>
+        <es>No tiene niguna fuente de contenidos aún.</es>
+        <iw>אין לך שום מקורות תוכן עדיין.</iw>
     </entry>
     <entry>
         <key>Inactive Content Sources</key>
@@ -188,6 +206,8 @@
         <de>Inaktive Inhaltsquellen</de>
         <it>Inattivi origini di contenuto</it>
         <ur>غیر فعال مواد کے ذرائع</ur>
+        <es>Fuentes de Contenido Inactivos</es>
+        <iw>מקורות תוכן לא פעילים</iw>
     </entry>
     <entry>
         <key>Add to social account!</key>
@@ -207,6 +227,8 @@
         <de>In den sozialen Konto!</de>
         <it>Aggiungere al conto sociale!</it>
         <ur>سماجی اکاؤنٹ میں شامل کریں!</ur>
+        <es>Añadir a cuenta social!</es>
+        <iw>הוסף חשבון חברתי!</iw>
     </entry>
     <entry>
         <key>Save</key>
@@ -226,6 +248,8 @@
         <de>sparen</de>
         <it>Salvare</it>
         <ur>محفوظ کریں</ur>
+        <es>Guardar</es>
+        <iw>להציל</iw>
     </entry>
     <entry>
         <key>Add Content Source</key>
@@ -245,6 +269,8 @@
         <de>Inhalt hinzufügen Quelle</de>
         <it>Aggiungi contenuto Fonte</it>
         <ur>مواد کے ماخذ میں شامل کریں</ur>
+        <es>Añadir Fuente de Contenido</es>
+        <iw>הוספת מקור תוכן</iw>
     </entry>
     <entry>
         <key>First tell us where the content is coming from.</key>
@@ -264,6 +290,8 @@
         <de>Erste uns sagen, wo der Inhalt stammt.</de>
         <it>In primo luogo dirci dove il contenuto proviene.</it>
         <ur>سب سے پہلے ہمیں بتا مواد سے آ رہا ہے جہاں.</ur>
+        <es>Primero díganos de donde viene el contenido.</es>
+        <iw>ראשית לומר לנו איפה התוכן הוא בא.</iw>
     </entry>
     <entry>
         <key>Type of Content</key>
@@ -283,6 +311,8 @@
         <de>Art von Inhalten</de>
         <it>Tipo di contenuto</it>
         <ur>مواد کی قسم</ur>
+        <es>Tipo de Contenido</es>
+        <iw>סוג של תוכן</iw>
     </entry>
     <entry>
         <key>Feed</key>
@@ -302,6 +332,8 @@
         <de>Füttern</de>
         <it>Alimentazione</it>
         <ur>کھانا کھلانا</ur>
+        <es>Feed</es>
+        <iw>הזנה</iw>
     </entry>
     <entry>
         <key>File</key>
@@ -321,6 +353,8 @@
         <de>Datei</de>
         <it>File</it>
         <ur>فائل</ur>
+        <es>Archivo</es>
+        <iw>קוֹבֶץ</iw>
     </entry>
     <entry>
         <key>Copy an Existing Content Source</key>
@@ -340,6 +374,8 @@
         <de>Kopieren eines vorhandenen Inhaltsquelle</de>
         <it>Copiare un'origine di contenuto esistente</it>
         <ur>ایک موجودہ مواد اسکی نقل</ur>
+        <es>Copiar una Fuente de Contenido Existente</es>
+        <iw>העתקת מקור תוכן קיים</iw>
     </entry>
     <entry>
         <key>URL</key>
@@ -359,6 +395,8 @@
         <de>URL</de>
         <it>URL</it>
         <ur>URL</ur>
+        <es>URL</es>
+        <iw>כתובת האתר</iw>
     </entry>
     <entry>
         <key>Enter website address (URL)</key>
@@ -378,6 +416,8 @@
         <de>Geben Sie Website-Adresse (URL)</de>
         <it>Inserisci indirizzo del sito web (URL)</it>
         <ur>ویب سائٹ کا ایڈریس (URL) درج کریں</ur>
+        <es>Inserte dirección de página web (URL)</es>
+        <iw>הזן את כתובת האתר (URL)</iw>
     </entry>
     <entry>
         <key>Next</key>
@@ -397,6 +437,8 @@
         <de>Nächster</de>
         <it>Il prossimo</it>
         <ur>اگلے</ur>
+        <es>Siguiente</es>
+        <iw>הַבָּא</iw>
     </entry>
     <entry>
         <key>Feeds</key>
@@ -416,12 +458,14 @@
         <de>Feeds</de>
         <it>Feed</it>
         <ur>فیڈز</ur>
+        <es>Feeds</es>
+        <iw>הזנות</iw>
     </entry>
     <entry>
         <key>View All Content Sources</key>
         <en>View All Content Sources</en>
         <ja>全てのコンテンツソースを見る</ja>
-        <pt>Ver TODAS as Fontes de Conteúdo</pt>
+        <pt>Ver Todas as Fontes de Conteúdo</pt>
         <zh-CN>查看所有内容源</zh-CN>
         <fr>Voir toutes les sources de contenu</fr>
         <ar>عرض جميع مصادر المحتوى</ar>
@@ -435,6 +479,8 @@
         <de>Alle Inhaltsquellen</de>
         <it>Visualizza tutte le origini di contenuto</it>
         <ur>تمام مواد کے ذرائع دیکھیں</ur>
+        <es>Ver Todas las Fuentes de Contenido</es>
+        <iw>צפו בכל מקורות התוכן</iw>
     </entry>
     <entry>
         <key>No Feeds Added</key>
@@ -454,6 +500,8 @@
         <de>Keine Feeds hinzugefügt</de>
         <it>Nessun Feed Aggiunto</it>
         <ur>کوئی فیڈ شامل کر دیا گیا</ur>
+        <es>Ningún Feed Añadido</es>
+        <iw>לא נוספו עדכונים</iw>
     </entry>
     <entry>
         <key>ATTENTION: Deleting a content source will also delete all messages from this content source in your queue. 
@@ -489,6 +537,12 @@ Você tem certeza que quer excluir esta fonte de conteúdo e todas as mensagens 
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt. Sind Sie sicher, dass Sie diese Inhaltsquelle und alle zugehörigen Nachrichten zu löschen?</de>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece. Sei sicuro di voler eliminare questa origine di contenuto e di tutti i messaggi associati?</it>
         <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا. آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی. کیا آپ واقعی یہ مواد ذریعہ اور تمام متعلقہ پیغامات کو حذف کرنا چاہتے ہیں؟</ur>
+        <es>ATENCIÓN: La eliminación de una fuente de contenido también eliminará todos los mensajes de esta fuente de contenido en sus mensajes en espera.
+    
+        Si desea detener la importación de nuevos mensajes de esta fuente de contenido sin eliminar los mensajes que ya se han puesto en sus mensajes en espera, cambie el estado de la fuente de contenido de activo a inactivo.
+
+¿Está seguro de que desea eliminar esta fuente de contenido y todos los mensajes asociados?</es>
+        <iw>שים לב: מחיקת מקור תוכן תמחק גם את כל ההודעות ממקור תוכן זה בתור שלך. אם אתה רוצה להפסיק לייבא הודעות חדשות ממקור תוכן זה מבלי למחוק את ההודעות שכבר בתור, בבקשה לשנות את סטטוס מקור התוכן פעיל למצב לא פעיל במקום. האם אתה בטוח שאתה רוצה למחוק את מקור תוכן זה וכל ההודעה הקשורה?</iw>
     </entry>
     <entry>
         <key>Yes</key>
@@ -508,6 +562,8 @@ Você tem certeza que quer excluir esta fonte de conteúdo e todas as mensagens 
         <de>ja</de>
         <it>sì</it>
         <ur>جی ہاں</ur>
+        <es>Si</es>
+        <iw>כן</iw>
     </entry>
     <entry>
         <key>No</key>
@@ -527,6 +583,8 @@ Você tem certeza que quer excluir esta fonte de conteúdo e todas as mensagens 
         <de>Nein</de>
         <it>No</it>
         <ur>نہیں</ur>
+        <es>No</es>
+        <iw>לא</iw>
     </entry>
     <section>settings_app_content_so</section>
 </translations>

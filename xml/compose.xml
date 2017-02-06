@@ -17,6 +17,8 @@
         <de>Komponieren</de>
         <it>Crea</it>
         <ur>تحریر کریں</ur>
+        <es>Componer</es>
+        <iw>לְהַלחִין</iw>
     </entry>
     <entry>
         <key>Publish to these accounts</key>
@@ -35,6 +37,8 @@
         <de>Veröffentlichen Sie auf diese Konten</de>
         <it>Pubblica in questi conti</it>
         <ur>ان اکاؤنٹس پر شائع کریں</ur>
+        <es>Publicar a estas cuentas</es>
+        <iw>פרסם לחשבונות אלה</iw>
     </entry>
     <entry>
         <key>Time Zone:</key>
@@ -53,6 +57,8 @@
         <de>Zeitzone:</de>
         <it>Fuso orario:</it>
         <ur>ٹائم زون:</ur>
+        <es>Zona horaria</es>
+        <iw>אזור זמן:</iw>
     </entry>
     <entry>
         <key>Optimize</key>
@@ -71,6 +77,8 @@
         <de>Optimieren</de>
         <it>Ottimizzare</it>
         <ur>اصلاح کریں</ur>
+        <es>Optimizar</es>
+        <iw>מטב</iw>
     </entry>
     <entry>
         <key>Publish</key>
@@ -89,6 +97,8 @@
         <de>Veröffentlichen</de>
         <it>Pubblica ora</it>
         <ur>شائع کریں</ur>
+        <es>Publicar</es>
+        <iw>לְפַרְסֵם</iw>
     </entry>
     <entry>
         <key>Schedule</key>
@@ -107,6 +117,8 @@
         <de>Zeitplan</de>
         <it>Programma</it>
         <ur>شیڈول</ur>
+        <es>Agendar</es>
+        <iw>לוח זמנים</iw>
     </entry>
     <entry>
         <key>Hold</key>
@@ -125,6 +137,8 @@
         <de>Halten</de>
         <it>Aspetta in fila</it>
         <ur>پکڑو</ur>
+        <es>Aguardar</es>
+        <iw>לְהַחזִיק</iw>
     </entry>
     <entry>
         <key>Can Send</key>
@@ -143,6 +157,8 @@
         <de>Kann senden</de>
         <it>Si può inviare</it>
         <ur>بھیج سکتا</ur>
+        <es>Puede Enviar</es>
+        <iw>יכול לשלוח</iw>
     </entry>
     <entry>
         <key>Must Send</key>
@@ -161,6 +177,8 @@
         <de>Muss senden</de>
         <it>Si deve inviare</it>
         <ur>ضرور بھیجیں</ur>
+        <es>Debe Enviar</es>
+        <iw>חייב שלח</iw>
     </entry>
     <entry>
         <key>from</key>
@@ -179,6 +197,8 @@
         <de>von</de>
         <it>da</it>
         <ur>سے</ur>
+        <es>de</es>
+        <iw>מ</iw>
     </entry>
     <entry>
         <key>Now</key>
@@ -197,6 +217,8 @@
         <de>Jetzt</de>
         <it>Adesso</it>
         <ur>ابھی</ur>
+        <es>Ahora</es>
+        <iw>עַכשָׁיו</iw>
     </entry>
     <entry>
         <key>to</key>
@@ -215,6 +237,8 @@
         <de>nach</de>
         <it>a</it>
         <ur>کرنے</ur>
+        <es>a</es>
+        <iw>ל</iw>
     </entry>
     <entry>
         <key>Any Time</key>
@@ -233,6 +257,8 @@
         <de>Jederzeit</de>
         <it>Ogni volta</it>
         <ur>کسی بھی وقت</ur>
+        <es>Cualquier Hora</es>
+        <iw>בכל עת</iw>
     </entry>
     <entry>
         <key>Send within</key>
@@ -251,6 +277,8 @@
         <de>senden innerhalb</de>
         <it>Invia con questi parametri</it>
         <ur>کے اندر اندر بھیج</ur>
+        <es>Enviar dentro de</es>
+        <iw>שלח בתוך</iw>
     </entry>
     <entry>
         <key>1 hour</key>
@@ -269,6 +297,8 @@
         <de>1 Stunde</de>
         <it>1 ora</it>
         <ur>1 گھنٹے</ur>
+        <es>1 hora</es>
+        <iw>1 שעה</iw>
     </entry>
     <entry>
         <key>3 hours</key>
@@ -287,6 +317,8 @@
         <de>3 Stunden</de>
         <it>3 ore</it>
         <ur>3 گھنٹے</ur>
+        <es>3 horas</es>
+        <iw>3 שעות</iw>
     </entry>
     <entry>
         <key>1 day</key>
@@ -305,6 +337,8 @@
         <de>1 Tag</de>
         <it>1 giorno</it>
         <ur>1 دن</ur>
+        <es>1 día</es>
+        <iw>יום 1</iw>
     </entry>
     <entry>
         <key>3 days</key>
@@ -323,6 +357,8 @@
         <de>3 Tage</de>
         <it>3 giorni</it>
         <ur>3 دن</ur>
+        <es>3 días</es>
+        <iw>3 ימים</iw>
     </entry>
     <entry>
         <key>1 week</key>
@@ -341,6 +377,8 @@
         <de>1 Woche</de>
         <it>1 settimana</it>
         <ur>1 ہفتہ</ur>
+        <es>1 semana</es>
+        <iw>שבוע 1</iw>
     </entry>
     <entry>
         <key>2 weeks</key>
@@ -359,6 +397,8 @@
         <de>2 Wochen</de>
         <it>2 settimane</it>
         <ur>2 ہفتے</ur>
+        <es>2 semanas</es>
+        <iw>2 שבועות</iw>
     </entry>
     <entry>
         <key>Cancel</key>
@@ -377,6 +417,8 @@
         <de>Stornieren</de>
         <it>Annulla</it>
         <ur>منسوخ کریں</ur>
+        <es>Cancelar</es>
+        <iw>לְבַטֵל</iw>
     </entry>
     <entry>
         <key>Resonance Prediction</key>
@@ -395,6 +437,8 @@
         <de>Resonance Prediction</de>
         <it>Predizione di risonanza</it>
         <ur>گونج پیشن گوئی</ur>
+        <es>Predicción de Resonancia</es>
+        <iw>חיזוי תהודה</iw>
     </entry>
     <entry>
         <key>Shorten Links</key>
@@ -413,6 +457,8 @@
         <de>kürzen Verbindungen</de>
         <it>Riduci l'indirizzo del sito web</it>
         <ur>روابط قصر</ur>
+        <es>Acortar Enlaces</es>
+        <iw>לקצר קישורים</iw>
     </entry>
     <entry>
         <key>Note: Links are shortened at publication</key>
@@ -431,6 +477,8 @@
         <de>Hinweis: Die Links werden bei Veröffentlichung verkürzt</de>
         <it>Nota: I link sono accorciati a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر کر رہے ہیں</ur>
+        <es>Nota: enlaces son acortados al publicar</es>
+        <iw>הערה: קישורים מתקצרים ב פרסום</iw>
     </entry>
     <entry>
         <key>Time Zone: New York</key>
@@ -449,6 +497,8 @@
         <de>Time Zone: New York</de>
         <it>Fuso orario: New York</it>
         <ur>ٹائم زون: نیویارک</ur>
+        <es>Zona horaria: Nueva York</es>
+        <iw>אזור זמן: ניו יורק</iw>
     </entry>
     <entry>
         <key>Reset All</key>
@@ -467,6 +517,8 @@
         <de>Alles zurücksetzen</de>
         <it>Resetta tutto</it>
         <ur>تمام ری سیٹ کر دیں</ur>
+        <es>Recomponer todo</es>
+        <iw>לאפס הכל</iw>
     </entry>
     <entry>
         <key>Finish</key>
@@ -485,5 +537,7 @@
         <de>Fertig</de>
         <it>Fine</it>
         <ur>ختم</ur>
+        <es>Terminar</es>
+        <iw>סִיוּם</iw>
     </entry>
     <section>compose</section>

@@ -3,7 +3,7 @@
         <key>Note: Links shorten at publication</key>
         <en>Note: Links shorten at publication</en>
         <ja>注釈: 公開時にリンクが短縮されます</ja>
-        <pt>Nota: links encurtados ao publicar</pt>
+        <pt>Nota: Links são encurtados ao publicar</pt>
         <zh-CN>注意：发布时链接会缩短</zh-CN>
         <fr>Note: Les liens raccourcissent à la publication</fr>
         <ar>ملاحظة: روابط تقصير في نشر</ar>
@@ -17,6 +17,8 @@
         <de>Hinweis: Die Links bei Veröffentlichung verkürzen</de>
         <it>Nota: Collegamenti accorciano a pubblicazione</it>
         <ur>نوٹ: ویب سائٹس کی اشاعت میں قصر</ur>
+        <es>Nota: Enlaces se acortan al publicar</es>
+        <iw>הערה: קישורים לקצר ב פרסום</iw>
     </entry>
     <entry>
         <key>Added [[[&lt;date/time&gt;]]] pm from Manual</key>
@@ -42,6 +44,8 @@
         <de>Zuletzt von auf bearbeitet</de>
         <it>Ultima modifica di su</it>
         <ur>آخری بار ترمیم کے ذریعے</ur>
+        <es>Última edición por el</es>
+        <iw>נערך לאחרונה על ידי על</iw>
     </entry>
     <entry>
         <key>Set to</key>
@@ -61,6 +65,8 @@
         <de>Einstellen</de>
         <it>Impostato</it>
         <ur>تیار</ur>
+        <es>Ajustado a</es>
+        <iw>מכוון ל</iw>
     </entry>
     <entry>
         <key>Expires at</key>
@@ -80,6 +86,8 @@
         <de>Verfällt bei</de>
         <it>scade a</it>
         <ur>میں ختم</ur>
+        <es>expira a</es>
+        <iw>פוקע</iw>
     </entry>
     <entry>
         <key>Send Now</key>
@@ -99,6 +107,8 @@
         <de>Jetzt abschicken</de>
         <it>Spedisci ora</it>
         <ur>ابھی حساب</ur>
+        <es>Enviar ahora</es>
+        <iw>שלח עכשיו</iw>
     </entry>
     <entry>
         <key>Close</key>
@@ -118,6 +128,8 @@
         <de>Schließen</de>
         <it>Vicino</it>
         <ur>بند کریں</ur>
+        <es>Cerca</es>
+        <iw>לִסְגוֹר</iw>
     </entry>
     <entry>
         <key>Save Changes</key>
@@ -137,6 +149,8 @@
         <de>Änderungen speichern</de>
         <it>Salva I Cambiamenti</it>
         <ur>تبدیلیاں محفوظ کرو</ur>
+        <es>Guardar cambios</es>
+        <iw>שמור שינויים</iw>
     </entry>
     <section>edit</section>
 </translations>

@@ -17,6 +17,8 @@
         <de>Bericht erstellen</de>
         <it>Crea rapporto</it>
         <ur>رپورٹ تشکیل دیں</ur>
+        <es>Crear Reporte</es>
+        <iw>צור דוח</iw>
     </entry>
     <entry>
         <key>Report Type</key>
@@ -35,12 +37,14 @@
         <it>Tipo di rapporto</it>
         <de>Berichtstyp</de>  
         <ur>رپورٹ کی قسم</ur>
+        <es>Tipo de Reporte</es>
+        <iw>סוג הדוח</iw>
     </entry>
     <entry>
         <key>Message Report</key>
         <en>Message Report</en>
         <ja>メッセージレポート</ja>
-        <pt>Relatório de Mensagem</pt>
+        <pt>Relatório de Mensagens</pt>
         <zh-CN>信息报告</zh-CN>
         <fr>Rapport de message</fr>
         <ar>تقرير رسالة</ar>
@@ -53,12 +57,14 @@
         <it>Rapporto dei messaggi</it>
         <de>Ignorierter</de>
         <ur>پیغام کی رپورٹ</ur>
+        <es>Reporte de Mensaje</es>
+        <iw>דווח על ההודעה</iw>
     </entry>
     <entry>
         <key>Monthly Aggregate Report</key>
         <en>Monthly Aggregate Report</en>
         <ja>月間統合レポート</ja>
-        <pt>Relatório Agregado Mensal</pt>
+        <pt>Relatório Mensal Agregado</pt>
         <zh-CN>月度报表汇总</zh-CN>
         <fr>Rapport Mensuel Total</fr>
         <ar>تقرير الركام الشهري</ar>
@@ -71,6 +77,8 @@
         <it>Aggregato Rapporto Mensile</it>
         <de>Monatliche Gesamtbericht</de>
         <ur>ماہانہ مجموعی رپورٹ</ur>
+        <es>Reporte Agregado Mensual</es>
+        <iw>מדווח חודשי מצטבר</iw>
     </entry>
     <entry>
         <key>Label Report</key>
@@ -89,6 +97,8 @@
         <it>Il Rapporto di Etichette</it>
         <de>Label-Bericht</de>
         <ur>لیبل رپورٹ</ur>
+        <es>Reporte de Etiqueta</es>
+        <iw>דוח תוויות</iw>
     </entry>
     <entry>
         <key>Report Name</key>
@@ -107,6 +117,8 @@
         <it>Il Nome del rapporto</it>
         <de>Berichtsname</de>
         <ur>رپورٹ کا نام</ur>
+        <es>Nombre de Reporte</es>
+        <iw>שם דוח</iw>
     </entry>
     <entry>
         <key>Name your report</key>
@@ -125,6 +137,8 @@
         <it>Scrivi il nome del rapporto</it>
         <de>Nennen Sie Ihren Bericht</de>
         <ur>اپنی رپورٹ کو نام دیں</ur>
+        <es>Nombre su reporte</es>
+        <iw>תן שם לדוח שלך</iw>
     </entry>
     <entry>
         <key>Account(s)</key>
@@ -143,6 +157,8 @@
         <it>Conto (i)</it>
         <de>Account (s)</de>
         <ur>اکاؤنٹ (زبانیں)</ur>
+        <es>Cuenta</es>
+        <iw>חשבונות)</iw>
     </entry>
     <entry>
         <key>Label(s)</key>
@@ -161,6 +177,8 @@
         <it>Etichetta(e)</it>
         <de>Label (s)</de>
         <ur>لیبل (ے)</ur>
+        <es>Etiqueta</es>
+        <iw>תוויות)</iw>
     </entry>
     <entry>
         <key>Timeframe</key>
@@ -179,6 +197,8 @@
         <it>Lasso di tempo</it>
         <de>Zeitrahmen</de>
         <ur>وقت کی حد</ur>
+        <es>Periodo de Tiempo</es>
+        <iw>מסגרת זמן</iw>
     </entry>
     <entry>
         <key>Generate Report</key>
@@ -197,6 +217,8 @@
         <it>Genera il rapporto</it>
         <de>Bericht generieren</de>
         <ur>رپورٹ پیدا</ur>
+        <es>Generar Reporte</es>
+        <iw>להפיק דוח</iw>
     </entry>
     <entry>
         <key>Pick start date</key>
@@ -215,6 +237,8 @@
         <it>Scegli data d'inizio</it>
         <de>Wählen Sie Starttermin</de>
         <ur>شروع کرنے کی تاریخ اٹھاو</ur>
+        <es>Escoja fecha de inicio</es>
+        <iw>בחר תאריך ההתחלה</iw>
     </entry>
     <entry>
         <key>Pick end date</key>
@@ -234,6 +258,8 @@
         <de>Wählen Sie das Enddatum</de>
         <it>Scegli la data di fine</it>
         <ur>آخر تاریخ اٹھاو</ur>
+        <es>Escoja fecha de finalización</es>
+        <iw>פיק תאריך סיום</iw>
     </entry>
     <entry>
         <key>Date Saved</key>
@@ -253,6 +279,8 @@
         <de>Datum gespeichert</de>
         <it>data salvata</it>
         <ur>تاریخ کی محفوظ کردہ</ur>
+        <es>Fecha Guardada</es>
+        <iw>שמורה תאריך</iw>
     </entry>
     <entry>
         <key>Time Period</key>
@@ -272,6 +300,8 @@
         <de>Zeitperiode</de>
         <it>Periodo di tempo</it>
         <ur>وقت کی مدت</ur>
+        <es>Periodo de Tiempo</es>
+        <iw>תקופת זמן</iw>
     </entry>
     <entry>
         <key>Format</key>
@@ -291,6 +321,8 @@
         <de>Format</de>
         <it>Formato</it>
         <ur>ڈاک</ur>
+        <es>Formato</es>
+        <iw>פוּרמָט</iw>
     </entry>
     <entry>
         <key>Actions</key>
@@ -310,6 +342,8 @@
         <de>Aktionen</de>
         <it>azioni</it>
         <ur>عوامل</ur>
+        <es>Acciones</es>
+        <iw>פעולות</iw>
     </entry>
     <entry>
         <key>Complete</key>
@@ -329,6 +363,8 @@
         <de>Komplett</de>
         <it>Completare</it>
         <ur>مکمل</ur>
+        <es>Completo</es>
+        <iw>לְהַשְׁלִים</iw>
     </entry>
     <entry>
         <key>Generating</key>
@@ -348,6 +384,8 @@
         <de>Generieren</de>
         <it>Generazione</it>
         <ur>جنیریٹنگ</ur>
+        <es>Generando</es>
+        <iw>יצירה</iw>
     </entry>
     <entry>
         <key>Bookmarks</key>
@@ -367,6 +405,8 @@
         <de>Lesezeichen</de>
         <it>Preferiti</it>
         <ur>بک مارک</ur>
+        <es>Favoritos</es>
+        <iw>סימניות</iw>
     </entry>
     <entry>
         <key>Date Saved</key>
@@ -385,6 +425,8 @@
         <it>Date salvate</it>
         <de>Datum gespeichert</de>
         <ur>تاریخ کی محفوظ کردہ</ur>
+        <es>Fecha Guardada</es>
+        <iw>שמורה תאריך</iw>
     </entry>
     <entry>
         <key>&lt;date time&gt; am pm</key>
@@ -409,6 +451,8 @@
         <it>Azioni</it>
         <de>Aktionen</de>
         <ur>عوامل</ur>
+        <es>Comportamiento</es>
+        <iw>פעולות</iw>
     </entry>
     <entry>
         <key>View</key>
@@ -428,6 +472,8 @@
         <de>Aussicht</de>
         <it>vista</it>
         <ur>لنک</ur>
+        <es>Ver</es>
+        <iw>נוף</iw>
     </entry>
     <entry>
         <key>This file is provided in .xls format. You can open it in Microsoft Excel or an equivalent program.</key>
@@ -447,6 +493,8 @@
         <de>Diese Datei wird im XLS-Format zur Verfügung gestellt. Sie können es in Microsoft Excel oder einem gleichwertigen Programm öffnen.</de>
         <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
         <ur>یہ فائل .xls کی شکل میں فراہم کی جاتی ہے. آپ کو مائیکروسافٹ ایکسل یا ایک برابر کے پروگرام میں اسے کھول سکتے ہیں.</ur>
+        <es>Este archivo se proporciona en formato .xls. Puede abrirlo en un programa equivalente de Microsoft Excel o.</es>
+        <iw>קובץ זה מסופק בתבנית xls. אתה יכול לפתוח אותו ב- Microsoft Excel או תוכנית שווה ערך.</iw>
     </entry>
     <section>downloadable_and_saved_reports</section>
 </translations>
