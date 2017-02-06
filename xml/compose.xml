@@ -105,7 +105,7 @@
         <ja>予約</ja>
         <pt>Agendar</pt>
         <zh-CN>安排</zh-CN>
-        <fr>Programmer
+        <fr>Programmer</fr>
         <ar>جدول</ar>
         <zh-TW>時間表</zh-TW>
         <hi>अनुसूची</hi>
@@ -540,3 +540,4 @@
         <iw>סִיוּם</iw>
     </entry>
     <section>compose</section>
+</translations>
