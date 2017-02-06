@@ -24,3 +24,6 @@ translation stuff for socialflow
 - Chinese (simplified)
 - Spanish
 - Portuguese
+- Albanian
+- French
+- Italian
