@@ -15,7 +15,6 @@
         <sq>Ruaj Reportin</sq>
         <it>Salva report</it>
         <de>Bericht speichern</de>
-        <it>Salva report</it>
         <ur>محفوظ کریں اور رپورٹ</ur>
         <es>Guardar Reporte</es>
         <iw>שמור דו"ח</iw>
@@ -36,7 +35,6 @@
         <sq>Me shume opsione</sq>
         <it>Più opzioni</it>
         <de>Mehr Optionen</de>
-        <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
         <es>Más Opciones</es>
         <iw>אפשרויות נוספות</iw>
@@ -57,7 +55,6 @@
         <sq>Me shume opsione</sq>
         <it>Più opzioni</it>
         <de>Mehr Optionen</de>
-        <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
         <es>Más Opciones</es>
         <iw>אפשרויות נוספות</iw>
@@ -78,7 +75,6 @@
         <sq>llogaritë</sq>
         <it>conti</it>
         <de>Accounts</de>
-        <it>conti</it>
         <ur>اکاؤنٹس</ur>
         <es>Cuentas</es>
         <iw>חשבונות</iw>
@@ -99,7 +95,6 @@
         <sq>Cilësimet term</sq>
         <it>Impostazioni grafico</it>
         <de>Charteinstellungen</de>
-        <it>Impostazioni grafico</it>
         <ur>چارٹ ترتیبات</ur>
         <es>Configuración de Gráfico</es>
         <iw>הגדרות תרשים</iw>
@@ -120,7 +115,6 @@
         <sq>konvertimit</sq>
         <it>Conversione</it>
         <de>Umwandlung</de>
-        <it>Conversione</it>
         <ur>تبادلوں سے</ur>
         <es>Conversión</es>
         <iw>הֲמָרָה</iw>
@@ -141,7 +135,6 @@
         <sq>kontribut</sq>
         <it>Contributo</it>
         <de>Beitrag</de>
-        <it>Contributo</it>
         <ur>شراکت</ur>
         <es>Contribución</es>
         <iw>תְרוּמָה</iw>
@@ -162,7 +155,6 @@
         <sq>Comments</sq>
         <it>Commenti</it>
         <de>Bemerkungen</de>
-        <it>Commenti</it>
         <ur>تبصرے</ur>
         <es>Comentarios</es>
         <iw>תגובות</iw>
@@ -183,7 +175,6 @@
         <sq>përmend</sq>
         <it>menzioni</it>
         <de>Mentions</de>
-        <it>menzioni</it>
         <ur>ذکر</ur>
         <es>Menciones</es>
         <iw>מזכיר</iw>
@@ -204,7 +195,6 @@
         <sq>Likes</sq>
         <it>Piace</it>
         <de>Likes</de>
-        <it>Piace</it>
         <ur>پسندیدگیاں</ur>
         <es>Likes</es>
         <iw>Likes</iw>
@@ -225,7 +215,6 @@
         <sq>Ndarja</sq>
         <it>compartecipazione</it>
         <de>teilen</de>
-        <it>compartecipazione</it>
         <ur>اشتراک کرنا</ur>
         <es>Compartir</es>
         <iw>שיתוף</iw>
@@ -246,7 +235,6 @@
         <sq>retweets</sq>
         <it>retweet</it>
         <de>Retweets</de>
-        <it>retweet</it>
         <ur>ریٹویٹ</ur>
         <es>Retweets</es>
         <iw>retweets</iw>
@@ -267,7 +255,6 @@
         <sq>aksionet</sq>
         <it>azioni</it>
         <de>Anteile</de>
-        <it>azioni</it>
         <ur>حصص</ur>
         <es>Shares</es>
         <iw>מניות</iw>
@@ -288,7 +275,6 @@
         <sq>audiencë</sq>
         <it>Pubblico</it>
         <de>Publikum</de>
-        <it>Pubblico</it>
         <ur>سامعین</ur>
         <es>Audiencia</es>
         <iw>קהל</iw>
@@ -309,7 +295,6 @@
         <sq>ndjek</sq>
         <it>segue</it>
         <de>folgt</de>
-        <it>segue</it>
         <ur>مندرجہ ذیل ہے</ur>
         <es>Seguidores</es>
         <iw>הסרט עוקב אחרי</iw>
@@ -330,7 +315,6 @@
         <sq>Pelqimet e faqes</sq>
         <it>Mi piace Pagina</it>
         <de>Seite Likes</de>
-        <it>Mi piace Pagina</it>
         <ur>صفحہ پسند کرتا ہے</ur>
         <es>Likes de Página</es>
         <iw>סימוני 'אהבתי' עמוד</iw>
@@ -351,7 +335,6 @@
         <sq>(No Data)</sq>
         <it>(Nessun dato)</it>
         <de>(Keine Daten)</de>
-        <it>(Nessun dato)</it>
         <ur>(کوئی مواد نہیں)</ur>
         <es>(Sin Datos)</es>
         <iw>(אין מידע)</iw>
@@ -372,7 +355,6 @@
         <sq>llogaritë</sq>
         <it>conti</it>
         <de>Accounts</de>
-        <it>conti</it>
         <ur>اکاؤنٹس</ur>
         <es>Cuentas</es>
         <iw>חשבונות</iw>
@@ -393,7 +375,6 @@
         <sq>Retweets / Aksionet</sq>
         <it>Retweets / Azioni</it>
         <de>Retweets / Aktien</de>
-        <it>Retweets / Azioni</it>
         <ur>ریٹویٹ / حصص</ur>
         <es>Retweets/Shares</es>
         <iw>Retweets / מניות</iw>
@@ -414,7 +395,6 @@
         <sq>Data publikuar</sq>
         <it>Data pubblicazione</it>
         <de>Veröffentlichungsdatum</de>
-        <it>Data pubblicazione</it>
         <ur>اشاعت کی تاریخ</ur>
         <es>Fecha de Publicación</es>
         <iw>תאריך פרסום</iw>
@@ -435,7 +415,6 @@
         <sq>mesazh</sq>
         <it>Messaggio</it>
         <de>Nachricht</de>
-        <it>Messaggio</it>
         <ur>پیغام</ur>
         <es>Mensaje</es>
         <iw>הוֹדָעָה</iw>
@@ -456,7 +435,6 @@
         <sq>Mesazhi i jashtëm</sq>
         <it>Messaggio esterno</it>
         <de>Externe Nachricht</de>
-        <it>Messaggio esterno</it>
         <ur>بیرونی پیغام</ur>
         <es>Mensaje Externo</es>
         <iw>הודעה חיצונית</iw>
@@ -477,7 +455,6 @@
         <sq>Shiko Report</sq>
         <it>Visualizza rapporto</it>
         <de>Zeige Bericht</de>
-        <it>Visualizza rapporto</it>
         <ur>رپورٹ ملاحظہ کریں</ur>
         <es>Ver Reporte</es>
         <iw>צפה בדוח</iw>
@@ -498,7 +475,6 @@
         <sq>llogaritë</sq>
         <it>conti</it>
         <de>Accounts</de>
-        <it>conti</it>
         <ur>اکاؤنٹس</ur>
         <es>Cuentas</es>
         <iw>חשבונות</iw>
@@ -519,7 +495,6 @@
         <sq>Me shume opsione</sq>
         <it>Più opzioni</it>
         <de>Mehr Optionen</de>
-        <it>Più opzioni</it>
         <ur>مزید زرائے</ur>
         <es>Más Opciones</es>
         <iw>אפשרויות נוספות</iw>
@@ -540,7 +515,6 @@
         <sq>Rregullo raportin kohor tuaj.</sq>
         <it>Regolare il rapporto temporale.</it>
         <de>Passen Sie Ihren Bericht Zeitrahmen.</de>
-        <it>Regolare il rapporto temporale.</it>
         <ur>آپ کی رپورٹ ٹائم فریم کو ایڈجسٹ کریں.</ur>
         <es>Ajuste el intérvalo de tiempo de su reporte</es>
         <iw>התאם זמן הדוח שלך.</iw>
@@ -561,7 +535,6 @@
         <sq>Zgjidh nje bar, stacked bar, line or area graphs.</sq>
         <it>Seleziona bar, stacked bar, line or area graphs.</it>
         <de>Wählen Sie aus Bar, gestapelt Balken-, Linien- oder Flächendiagramme.</de>
-        <it>Seleziona dalla barra, a barre in pila, di linea o grafici zona.</it>
         <ur>بار، سجا دیئے بار، لکیر یا گراف سے منتخب کریں.</ur>
         <es>Seleccione entre barras, barras apiladas, líneas o gráficos de área.</es>
         <iw>בחר מסרגל, בר מוערם, קו או גרפים באזור.</iw>
@@ -582,7 +555,6 @@
         <sq>Normat e SocialFlow AttentionScore ™ parashikojn angazhimin e audiencës me përmbajtjen tuaj në një shkallë nga 1 deri në 100, duke shikuar në tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike, dhe realtime rezonancë. Mëso më shumë rreth AttentionScore ™</sq>
         <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
         <de>Die SocialFlow AttentionScore ™ Raten von 1 bis 100 durch einen Blick auf drei Faktoren Publikum Engagement mit Ihren Inhalten auf einer Skala vorhergesagt, da sie auf Ihre sozialen Konten beziehen: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-Resonanz. Erfahren Sie mehr über AttentionScore ™</de>
-        <it>I tassi SocialFlow AttentionScore ™ previsto coinvolgimento del pubblico con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale risonanza. Ulteriori informazioni su AttentionScore ™</it>
         <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس گونج: SocialFlow AttentionScore ™ ریٹس وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ ناظرین کی سگائ کی پیش گوئی کی. AttentionScore ™ کے بارے میں مزید معلومات حاصل کریں</ur>
         <es>SocialFlow AttentionScore™ evalúa la participación de la audiencia predecida con su contenido, en una escala del 1 al 100, examinando tres factores relacionados con sus cuentas sociales: disponibilidad del público, análisis del lenguaje histórico y resonancia en tiempo real. Aprenda más sobre AttentionScore™</es>
         <iw>שיעורי ™ SocialFlow AttentionScore חזו מעורבים קהל עם התוכן שלך בסולם מ -1 עד 100 ע"י הסתכלות שלושה גורמים ככל שהם מתייחסים לחשבונות המדיה החברתיים שלך: זמין לקהל, ניתוח שפה היסטורי, ותהודה בזמן אמת. מידע נוסף על AttentionScore ™</iw>
@@ -603,7 +575,6 @@
         <sq>Ndërveprimet përfshijnë retweets, përmend, komente, aksionet dhe sërën e përmbajtjes tuaj.</sq>
         <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
-        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
         <es>Interacciones incluyen retweets, menciones, comentarios, shares y liked de su contenido.</es>
         <iw>אינטראקציות כוללות retweets, מזכיר, הערות, מניות אוהבות של התוכן שלך.</iw>
@@ -624,7 +595,6 @@
         <sq>Cilësimet term</sq>
         <it>Impostazioni grafico</it>
         <de>Charteinstellungen</de>
-        <it>Impostazioni grafico</it>
         <ur>چارٹ ترتیبات</ur>
         <es>Configuraciones de Gráfico</es>
         <iw>הגדרות תרשים</iw>
@@ -645,7 +615,6 @@
         <sq>Lloji Grafikut</sq>
         <it>Tipo di grafico</it>
         <de>Diagrammtyp</de>
-        <it>Tipo di grafico</it>
         <ur>چارٹ کی قسم</ur>
         <es>Tipo de Gráfico</es>
         <iw>סוג תרשים</iw>
@@ -666,7 +635,6 @@
         <sq>Lines</sq>
         <it>Lines</it>
         <de>Linien</de>
-        <it>Linee</it>
         <ur>لکیریں</ur>
         <es>Lineas</es>
         <iw>קווים</iw>
@@ -687,7 +655,6 @@
         <sq>bars</sq>
         <it>Bars</it>
         <de>Riegel</de>
-        <it>Barre</it>
         <ur>باریں</ur>
         <es>Barras</es>
         <iw>ברים</iw>
@@ -708,7 +675,6 @@
         <sq>Stacked Bars</sq>
         <it>Stacked Bars</it>
         <de>Gestapelte Bars</de>
-        <it>Bar Stacked</it>
         <ur>انبار باریں</ur>
         <es>Barras Apiladas</es>
         <iw>ברי Stacked</iw>
@@ -729,7 +695,6 @@
         <sq>zonë</sq>
         <it>La zona</it>
         <de>Bereich</de>
-        <it>La zona</it>
         <ur>ایریا</ur>
         <es>Área</es>
         <iw>אֵזוֹר</iw>
@@ -750,7 +715,6 @@
         <sq>Kartela e renditjes</sq>
         <it>scala della carta</it>
         <de>Kartenmaßstab</de>
-        <it>scala della carta</it>
         <ur>چارٹ اسکیل</ur>
         <es>Escala de Gráfico</es>
         <iw>סולם תרשים</iw>
@@ -771,7 +735,6 @@
         <sq>absolut</sq>
         <it>Assoluto</it>
         <de>Absolute</de>
-        <it>Assoluto</it>
         <ur>مطلق</ur>
         <es>Absoluto</es>
         <iw>מוּחלָט</iw>
@@ -792,7 +755,6 @@
         <sq>normalizoj</sq>
         <it>Normalizzare</it>
         <de>Normalisieren</de>
-        <it>Normalizzare</it>
         <ur>معمول</ur>
         <es>Normalizar</es>
         <iw>נרמל</iw>
@@ -813,7 +775,6 @@
         <sq>Nuk ka të dhëna</sq>
         <it>Nessun dato</it>
         <de>Keine Daten</de>
-        <it>Nessun dato</it>
         <ur>کوئی مواد نہیں</ur>
         <es>No hay datos</es>
         <iw>אין מידע</iw>
@@ -834,7 +795,6 @@
         <sq>Përdorni këtë për të shtuar, hequr dhe korrigjuar kolona.</sq>
         <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
         <de>Verwenden Sie diese Option zum Hinzufügen, Entfernen und Spalten neu anordnen.</de>
-        <it>Utilizzare questa opzione per aggiungere, rimuovere e riordinare le colonne.</it>
         <ur>، شامل، کو ہٹانے اور پنرویوستیت کالموں کے لیے اس کا استعمال کریں.</ur>
         <es>Utilice esto para añadir, eliminar y reordenar columnas.</es>
         <iw>השתמש באפשרות זו כדי להוסיף, להסיר ולסדר מחדש עמודות.</iw>
@@ -855,7 +815,6 @@
         <sq>Ndërveprimet përfshijnë retweets, përmend, komente, aksionet dhe sërën e përmbajtjes tuaj.</sq>
         <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <de>Wechselwirkungen sind Retweets, Erwähnungen, Kommentare, Aktien und Vorlieben Ihrer Inhalte.</de>
-        <it>Le interazioni includono retweet, menzioni, i commenti, le azioni e artisti del calibro di contenuti.</it>
         <ur>سہباگتا ریٹویٹ، تذکرے، تبصرے، حصص اور آپ کے مواد کی پسند شامل ہیں.</ur>
         <es>Interacciones incluyen retweets, menciones, comentarios, shares y likes de su contenido.</es>
         <iw>אינטראקציות כוללות retweets, מזכיר, הערות, מניות אוהבות של התוכן שלך.</iw>

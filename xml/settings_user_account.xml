@@ -15,7 +15,6 @@
         <sq>Cilësimet e llogarisë se perdoruesit</sq>
         <it>Impostazioni del  utente di conti</it>
         <de>Benutzerkonto-Einstellungen</de>
-        <it>Impostazioni account utente</it>
         <ur>صارف اکاؤنٹ کی ترتیبات</ur>
         <es>Configuraciones de Cuenta de Usuario</es>
         <iw>הגדרות חשבון משתמש</iw>
@@ -36,7 +35,6 @@
         <sq>Emri (Emer Mbiemer)</sq>
         <it>Nome (Nome Cognome)</it>
         <de>Namen (Vorname Nachname)</de>
-        <it>Nome (Nome Cognome)</it>
         <ur>نام (سب سے پہلے آخری)</ur>
         <es>Nombre (Primero Último)</es>
         <iw>שם (פרטי ומשפחה)</iw>
@@ -57,7 +55,6 @@
         <sq>Adresa Email</sq>
         <it>Indirizzo email</it>
         <de>E-Mail-Addresse</de>
-        <it>Indirizzo email</it>
         <ur>ای میل اڈریس</ur>
         <es>Correo Electrónico</es>
         <iw>כתובת דוא"ל</iw>
@@ -78,7 +75,6 @@
         <sq>fjalëkalim</sq>
         <it>Password</it>
         <de>Passwort</de>
-        <it>parola d'ordine</it>
         <ur>پاس ورڈ</ur>
         <es>Contraseña</es>
         <iw>סיסמה</iw>
@@ -99,7 +95,6 @@
         <sq>Fjalëkalimi aktual</sq>
         <it>Password attuale</it>
         <de>Aktuelles Passwort</de>
-        <it>Password attuale</it>
         <ur>موجودہ خفیہ لفظ</ur>
         <es>Contraseña Actual</es>
         <iw>סיסמה נוכחית</iw>
@@ -120,7 +115,6 @@
         <sq>Fjalëkalim i ri</sq>
         <it>nuova password</it>
         <de>Neues Kennwort</de>
-        <it>nuova password</it>
         <ur>نیا پاس ورڈ</ur>
         <es>Nueva Contraseña</es>
         <iw>סיסמה חדשה</iw>
@@ -141,7 +135,6 @@
         <sq>Konfirmo fjalëkalimin e ri</sq>
         <it>Conferma la nuova password</it>
         <de>Neues Passwort bestätigen</de>
-        <it>Conferma la nuova password</it>
         <ur>نئے پاس ورڈ کی توثیق کریں</ur>
         <es>Confirmar Contraseña Nueva</es>
         <iw>תאשר סיסמא חדשה</iw>
@@ -162,7 +155,6 @@
         <sq>Zona kohore</sq>
         <it>Fuso orario</it>
         <de>Zeitzone</de>
-        <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
         <es>Zona Horaria</es>
         <iw>אזור זמן</iw>
@@ -183,7 +175,6 @@
         <sq>vend</sq>
         <it>luogo</it>
         <de>Ort</de>
-        <it>luogo</it>
         <ur>مقام</ur>
         <es>Localización</es>
         <iw>מקום</iw>
@@ -204,7 +195,6 @@
         <sq>Numri i telefonit</sq>
         <it>Numero di telefono</it>
         <de>Telefonnummer</de>
-        <it>Numero di telefono</it>
         <ur>فون نمبر</ur>
         <es>Número de Teléfono</es>
         <iw>מספר טלפון</iw>
@@ -225,7 +215,6 @@
         <sq>Abonimet</sq>
         <it>Sottoscrizioni</it>
         <de>Abonnements</de>
-        <it>Sottoscrizioni</it>
         <ur>سبسکرپشنز</ur>
         <es>Suscripciones</es>
         <iw>מנוי</iw>
@@ -246,7 +235,6 @@
         <sq>Sponzorizimi i mesazheve nepermjet email-it</sq>
         <it>Messaggi di posta elettronica messaggi promotable</it>
         <de>Heraufstufbare Nachricht E-Mails</de>
-        <it>Messaggi di posta elettronica messaggi promotable</it>
         <ur>Promotable پیغام ای میلز</ur>
         <es>Emails de Mensajes Promocionables</es>
         <iw>הודעות דוא"ל מסר בדרך לקידום</iw>
@@ -267,7 +255,6 @@
         <sq>Llogaritë Klienti</sq>
         <it>account cliente</it>
         <de>Kundenkonten</de>
-        <it>account cliente</it>
         <ur>کلائنٹ اکاؤنٹس</ur>
         <es>Cuentas de Clientes</es>
         <iw>חשבונות לקוח</iw>
@@ -288,7 +275,6 @@
         <sq>Ju keni akses të punojnë në klientët llogarinë e mëposhtme (s)</sq>
         <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
         <de>Sie haben Zugriff auf die folgenden Kunden Rechnung zu arbeiten (s)</de>
-        <it>Si ha accesso a lavorare sul seguente conto clienti (s)</it>
         <ur>آپ مندرجہ ذیل گاہکوں کے اکاؤنٹ پر کام تک رسائی حاصل کریں (ے)</ur>
         <es>Usted tiene acceso para trabajar en la siguiente cuenta(s) de cliente</es>
         <iw>אתה צריך גישה לעבוד על חשבון הלקוחות הבאים (ים)</iw>
@@ -309,7 +295,6 @@
         <sq>Llogarite qe kane postime te mundesuara</sq>
         <it>Conti Editoria abilitati</it>
         <de>Aktiviert Publishing-Konten</de>
-        <it>Conti Editoria abilitati</it>
         <ur>قابل بنایا پبلشنگ اکاؤنٹس</ur>
         <es>Cuentas de publicación habilitadas</es>
         <iw>חשבונות הוצאת מופעל</iw>
@@ -330,7 +315,6 @@
         <sq>japë dorëheqjen</sq>
         <it>Dare le dimissioni</it>
         <de>Zurücktreten</de>
-        <it>Dare le dimissioni</it>
         <ur>مستعفی</ur>
         <es>Renunciar</es>
         <iw>לְהִתְפַּטֵר</iw>
@@ -351,7 +335,6 @@
         <sq>Në gjendje të japë dorëheqjen</sq>
         <it>Impossibile dare le dimissioni</it>
         <de>Kann nicht resignieren</de>
-        <it>Impossibile dare le dimissioni</it>
         <ur>استعفی دینے سے قاصر ہے</ur>
         <es>Incapaz de Renunciar</es>
         <iw>אין אפשרות להתפטר</iw>

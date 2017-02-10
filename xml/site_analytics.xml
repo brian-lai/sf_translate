@@ -15,7 +15,6 @@
         <sq>Analytics Site</sq>
         <it>analisi del sito</it>
         <de>Site Analytics</de>
-        <it>analisi del sito</it>
         <ur>سائٹ کے تجزیے</ur>
         <es>Análisis de Sitio</es>
         <iw>Analytics האתר</iw>
@@ -36,7 +35,6 @@
         <sq>Autorizojë tjetër Domain</sq>
         <it>Autorizzare un altro dominio</it>
         <de>Autorisieren einer anderen Domäne</de>
-        <it>Autorizzare un altro dominio</it>
         <ur>دوسرے ڈومین اختیار</ur>
         <es>Autoriazr Otro Dominio</es>
         <iw>מתן הרשאה נוספת דומיין</iw>
@@ -57,7 +55,6 @@
         <sq>vizita</sq>
         <it>visite</it>
         <de>Besuche</de>
-        <it>visite</it>
         <ur>دورہ</ur>
         <es>Visitas</es>
         <iw>ביקורים</iw>
@@ -78,7 +75,6 @@
         <sq>Vizitat e Faqes</sq>
         <it>Visualizzazioni della pagina</it>
         <de>Seitenaufrufe</de>
-        <it>Visualizzazioni della pagina</it>
         <ur>صفحہ مناظر</ur>
         <es>Vistas de Página</es>
         <iw>תצוגות דף</iw>
@@ -99,7 +95,6 @@
         <sq>Koha në Site</sq>
         <it>Tempo sul sito</it>
         <de>Zeit auf der Website</de>
-        <it>Tempo sul sito</it>
         <ur>سائٹ پر وقت</ur>
         <es>Tiempo en el Sitio</es>
         <iw>משך הביקור באתר</iw>
@@ -120,7 +115,6 @@
         <sq>% Vlerësoni Kthimeve</sq>
         <it>% Frequenza di rimbalzo</it>
         <de>% Absprungrate</de>
-        <it>% Frequenza di rimbalzo</it>
         <ur>٪ اچھال کی شرح</ur>
         <es>% Tasa de rebote</es>
         <iw>% קצב הקפיצה</iw>
@@ -141,7 +135,6 @@
         <sq>% Vizitat e reja</sq>
         <it>% nuove visite</it>
         <de>% Neue Besuche</de>
-        <it>% nuove visite</it>
         <ur>٪ نئے ملاحظات</ur>
         <es>% Visitas Nuevas</es>
         <iw>% ביקורים חדשים</iw>
@@ -162,7 +155,6 @@
         <sq>Ngjarje</sq>
         <it>eventi</it>
         <de>Veranstaltungen</de>
-        <it>eventi</it>
         <ur>تقریبات</ur>
         <es>Eventos</es>
         <iw>אירועים</iw>
@@ -183,7 +175,6 @@
         <sq>vizita</sq>
         <it>visite</it>
         <de>Besuche</de>
-        <it>visite</it>
         <ur>دورہ</ur>
         <es>Visitas</es>
         <iw>ביקורים</iw>
@@ -204,7 +195,6 @@
         <sq>Total</sq>
         <it>Totale</it>
         <de>Gesamt</de>
-        <it>Totale</it>
         <ur>کل</ur>
         <es>Total</es>
         <iw>סה"כ</iw>
@@ -225,7 +215,6 @@
         <sq>Twitter (All Tweets)</sq>
         <it>Twitter (Tutti i tweet)</it>
         <de>Twitter (Alle Tweets)</de>
-        <it>Twitter (Tutti i tweet)</it>
         <ur>ٹویٹر (تمام ٹویٹس)</ur>
         <es>Twitter (Todos los Tweets)</es>
         <iw>טוויטר (כל הציוצים)</iw>
@@ -246,7 +235,6 @@
         <sq>Facebook (All Post)</sq>
         <it>Facebook (Tutti Post)</it>
         <de>Facebook (Alle Post)</de>
-        <it>Facebook (Tutti Post)</it>
         <ur>فیس بک (تمام پوسٹ)</ur>
         <es>Facebook (Todas las Publicaciones)</es>
         <iw>פייסבוק (כל ההודעה)</iw>
@@ -267,7 +255,6 @@
         <sq>tjetër</sq>
         <it>Altro</it>
         <de>Andere</de>
-        <it>Altro</it>
         <ur>دیگر</ur>
         <es>Otro</es>
         <iw>אַחֵר</iw>
@@ -288,7 +275,6 @@
         <sq>burimet</sq>
         <it>fonti</it>
         <de>Quellen</de>
-        <it>fonti</it>
         <ur>ذرائع</ur>
         <es>Fuentes</es>
         <iw>מקורות</iw>
@@ -309,7 +295,6 @@
         <sq>vizita</sq>
         <it>visite</it>
         <de>Besuche</de>
-        <it>visite</it>
         <ur>دورہ</ur>
         <es>Visitas</es>
         <iw>ביקורים</iw>
@@ -330,7 +315,6 @@
         <sq>Vizitat%</sq>
         <it>Visite%</it>
         <de>% Besuche</de>
-        <it>Visite%</it>
         <ur>٪ دورہ</ur>
         <es>% Visitas</es>
         <iw>ביקורי%</iw>
@@ -351,7 +335,6 @@
         <sq>Nuk ka të dhëna!</sq>
         <it>Nessun dato disponibile!</it>
         <de>Keine Daten verfügbar!</de>
-        <it>Nessun dato disponibile!</it>
         <ur>کوئی ڈیٹا دستیاب نہیں!</ur>
         <es>No Hay Datos Dispnibles!</es>
         <iw>אין נתונים זמינים!</iw>
@@ -372,7 +355,6 @@
         <sq>Ju lutemi zgjidhni një gamë të ndryshme kohore ose metrikë.</sq>
         <it>Scegliere un intervallo di tempo diverso o metrica.</it>
         <de>Bitte wählen Sie einen anderen Zeitbereich oder Metrik.</de>
-        <it>Scegliere un intervallo di tempo diverso o metrica.</it>
         <ur>ایک مختلف وقت کی حد یا میٹرک منتخب کریں.</ur>
         <es>Por favor escoja un intérvalo de tiempo o métrico diferente.</es>
         <iw>בחר טווח זמנים אחר או מטרי.</iw>

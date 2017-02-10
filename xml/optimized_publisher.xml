@@ -15,7 +15,6 @@
         <sq>[[[Cila është data e saktë dhe formati kohor për Japoninë? Për shembull është është muaji / dita ose ditë / muaj. A përdoret koha 24h apo koha 12h?]]]</sq>
         <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
         <de>[[[Was ist das richtige Datum und Zeitformat für Japan? Zum Beispiel ist Monat / Tag oder Tag / Monat. Haben sie den 24-Stunden oder 12 Stunden Zeit nutzen?]]]</de>
-        <it>[[[Qual è la data corretta e il formato dell'ora per il Giappone? Per esempio è è mese / giorno o giorno / mese. Usano il tempo 24h o 12h?]]]</it>
         <ur>[[[جاپان لئے صحیح تاریخ اور وقت کی شکل کیا ہے؟ مثال کے طور پر مہینہ / دن یا دن / ماہ یہ ہے. وہ 24H وقت یا 12H وقت استعمال کرتے ہیں؟]]]</ur>
         <es>[[[In Latin America 12h time is the most popular. Date format is day/month/year.]]]</es>
         <iw>[[[מהו התאריך הנכון ואת תבנית השעה עבור יפן? למשל זה חודש / יום או יום / חודש. האם הם משתמשים 24h זמן או 12h זמן?]]]</iw>
@@ -36,7 +35,6 @@
         <sq>llogaritë Twitter</sq>
         <it>il Conto Twitter</it>
         <de>Twitter-Konten</de>
-        <it>account Twitter</it>
         <ur>ٹویٹر اکاؤنٹس</ur>
         <es>Cuentas de Twitter</es>
         <iw>חשבונות טוויטר</iw>
@@ -57,7 +55,6 @@
         <sq>llogaritë Facebook</sq>
         <it>Il Conto Facebook</it>
         <de>Facebook-Konten</de>
-        <it>account di Facebook</it>
         <ur>فیس بک کے اکاؤنٹس</ur>
         <es>Cuentas de Facebook</es>
         <iw>חשבונות פייסבוק</iw>
@@ -78,7 +75,6 @@
         <sq>Fshih Statistika</sq>
         <it>nascondi Statistiche</it>
         <de>ausblenden Statistik</de>
-        <it>Hide Statistiche</it>
         <ur>اعدادوشمار چھپائیں</ur>
         <es>Esconder Estadísticas</es>
         <iw>סתר סטטיסטיקות</iw>
@@ -99,7 +95,6 @@
         <sq>Shfaq Stats</sq>
         <it>Visualizza statistiche</it>
         <de>Statistiken anzeigen</de>
-        <it>Visualizza statistiche</it>
         <ur>اعدادوشمار دکھائیں</ur>
         <es>Mostrar Estadísticas</es>
         <iw>סטטיסטיקת ראייה</iw>
@@ -120,7 +115,6 @@
         <sq>Shto Feed</sq>
         <it>Aggiungere feed</it>
         <de>Feed hinzufügen</de>
-        <it>Aggiungere feed</it>
         <ur>فیڈ شامل</ur>
         <es>Añadir Feed</es>
         <iw>הוסףערוץ</iw>
@@ -141,7 +135,6 @@
         <sq>Mbylle Shkruaj</sq>
         <it>Chiudi Scrivere</it>
         <de>Schließen Compose</de>
-        <it>Chiudi Compose</it>
         <ur>تحریر بند کریں</ur>
         <es>Cerrar Componer</es>
         <iw>להלחין Close</iw>
@@ -162,7 +155,6 @@
         <sq>Audienca aktive</sq>
         <it>Pubblico attivo</it>
         <de>Aktive Publikum</de>
-        <it>Pubblico attivo</it>
         <ur>فعال ناظرین</ur>
         <es>Audiencia Activa</es>
         <iw>קהל פעיל</iw>
@@ -183,7 +175,6 @@
         <sq>(Ora e fundit)</sq>
         <it>(ultima ora)</it>
         <de>(letzte Stunde)</de>
-        <it>(ultima ora)</it>
         <ur>(گزشتہ قیامت)</ur>
         <es>(última hora)</es>
         <iw>(שעה אחרונה)</iw>
@@ -204,7 +195,6 @@
         <sq>Duke u kthyert</sq>
         <it>ritornando</it>
         <de>Rückkehr</de>
-        <it>ritornando</it>
         <ur>ریٹرننگ</ur>
         <es>Volver</es>
         <iw>חוזר</iw>
@@ -225,7 +215,6 @@
         <sq>interaktiv</sq>
         <it>Interattivo</it>
         <de>Interactive</de>
-        <it>Interactive</it>
         <ur>انٹرایکٹو</ur>
         <es>Interactivo</es>
         <iw>אינטראקטיבי</iw>
@@ -246,7 +235,6 @@
         <sq>pasiv</sq>
         <it>Passivo</it>
         <de>Passiv</de>
-        <it>Passivo</it>
         <ur>غیر فعال</ur>
         <es>Pasivo</es>
         <iw>פַּסִיבִי</iw>
@@ -267,7 +255,6 @@
         <sq> Aktiviteti audiences përfshin klikimet, tweets, mentions, retweets, pëlqimet, komentet, dhe aksionet.</sq>
         <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
-        <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <ur>سامعین سرگرمی کلکس، ٹویٹس، تذکرے، ریٹویٹ، پسند کرتا ہے، تبصرے، اور حصص شامل ہیں.</ur>
         <es>Actividad de la Audiencia incluye clics, tweets, menciones, retweets, likes, comentarios y shares.</es>
         <iw>פעילות הקהל כולל קליקים, טוויטים, מזכיר, retweets, אוהב, תגובות ושיתופים.</iw>
@@ -288,7 +275,6 @@
         <sq>Kur kemi të dhëna të mjaftueshme, do tregojmë termat qe trenden për audiencën tuaj.</sq>
         <it>Quando abbiamo dati sufficienti, ci mostreràmo i termini di tendenza per il pubblico.</it>
         <de>Wenn wir genug Daten haben, zeigen wir Trending Bedingungen für Ihr Publikum.</de>
-        <it>Quando abbiamo dati sufficienti, ci mostrerà i termini di tendenza per il pubblico.</it>
         <ur>ہم نے کافی اعداد و شمار ہیں تو، ہم اپنے ناظرین کے لئے رجحان سازی کی اصطلاحات کو ظاہر.</ur>
         <es>Cuando tenemos suficiente información, mostramos términos de tendencia para su audiencia.</es>
         <iw>כאשר יש לנו מספיק נתונים, אנו מציגים במונחים במגמה עבור קהל היעד שלך.</iw>
@@ -309,7 +295,6 @@
         <sq>Nuk kishte mjaftueshem aktivitetit ne kohët e fundit në audiencën tuaj për të gjeneruar termat qe trenden. Ju lutem kontrolloni sërish më vonë.</sq>
         <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
         <de>Es gab nicht genug aktuellen Aktivitäten in Ihrem Publikum Trending Bedingungen zu generieren. Bitte überprüfen Sie es später erneut.</de>
-        <it>Non c'era abbastanza attività recenti nel vostro pubblico per generare termini di tendenza. Si prega di verificare più tardi.</it>
         <ur>رجحان سازی کی اصطلاحات پیدا کرنے کے لئے اپنے ناظرین میں کافی کی حالیہ سرگرمی نہیں تھا. بعد میں پھر سے چیک کریں.</ur>
         <es>No hubo actividad reciente suficiente en su audiencia para generar términos de tendencia. Por favor verifique más tarde.</es>
         <iw>לא היו מספיק פעילויות אחרונות הקהל שלך כדי ליצור תנאים במגמה. אנא נסה שוב מאוחר יותר.</iw>
@@ -330,7 +315,6 @@
         <sq>Nuk është aktiviteti i mjaftueshëm nga audienca per të gjeneruar postimet aktive. Ju lutemi, kontrolloni me vone.</sq>
         <it>Non ha attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
         <de>Es ist nicht genügend Publikum Aktivität Beiträge generieren. Bitte versuchen Sie es später.</de>
-        <it>Non vi è attività di pubblico sufficiente per generare messaggi attivi. Si prega di verificare in seguito.</it>
         <ur>فعال پیغامات پیدا کرنے کے لئے ناکافی سامعین سرگرمی نہیں ہے. بعد میں براہ مہربانی چیک کریں.</ur>
         <es>No ha habido suficiente actividad en su audiencia para generar publicaciones activas. Por favor verifique más tarde.</es>
         <iw>קיימת פעילות לקהל מספיק כדי ליצור הודעות. בדוק שוב מאוחר יותר.</iw>
@@ -351,7 +335,6 @@
         <sq>AttentionScore ™</sq>
         <it>AttentionScore ™</it>
         <de>AttentionScore ™</de>
-        <it>AttentionScore ™</it>
         <ur>AttentionScore ™</ur>
         <es>AttentionScore&amp;trade;</es>
         <iw>AttentionScore ™</iw>
@@ -372,7 +355,6 @@
         <sq>Normat e SocialFlow AttentionScore ™ parashikojn angazhimin e audiencen me postet tuaja në një shkallë nga 1 deri në 100, duke pare tre faktorë që kanë të bëjnë me llogaritë tuaja sociale: disponueshmërinë audiencës, analiza gjuhësore historike dhe rezonanca ne kohen reale. Meso më shumë rreth AttentionScore ™</sq>
         <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
         <de>Die SocialFlow AttentionScore ™ Raten vorhergesagt Publikum Engagement mit dem Inhalt auf einer Skala von 1 bis 100 um drei Faktoren suchen, wie sie beziehen sich auf Ihre sozialen Konten: Publikum Verfügbarkeit, historische Sprachanalyse und Echtzeit-resonance.Learn Mehr über AttentionScore ™</de>
-        <it>Il coinvolgimento del pubblico tariffe SocialFlow AttentionScore ™ previsto con i contenuti su una scala da 1 a 100, cercando in tre fattori in quanto si riferiscono agli account sociali: la disponibilità del pubblico, analisi del linguaggio storico, e in tempo reale resonance.Learn più su AttentionScore ™</it>
         <ur>سامعین دستیابی، تاریخی زبان کے تجزیہ، اور اپڈیٹس resonance.Learn AttentionScore ™ کے بارے میں مزید: وہ اپنے سوشل اکاؤنٹس سے متعلق تین عوامل کو دیکھ کر 100 1 سے ایک پیمانے پر آپ کے مواد کے ساتھ SocialFlow AttentionScore ™ ریٹس پیش گوئی سامعین کی مصروفیت</ur>
         <es>SocialFlow AttentionScore ™ evalúa la participación de la audiencia predecida con su contenido, en una escala del 1 al 100, examinando tres factores relacionados con sus cuentas sociales: disponibilidad del público, análisis del lenguaje histórico y resonancia en tiempo real. Aprenda más sobre AttentionScore™</es>
         <iw>שיעורי ™ SocialFlow AttentionScore חזה מעורב הקהל עם התוכן שלך בסולם מ -1 עד 100 ע"י הסתכלות שלושה גורמים ככל שהם מתייחסים לחשבונות המדיה החברתיים שלך: זמין לקהל, ניתוח שפה היסטורי, בזמן האמת resonance.Learn נוסף על AttentionScore ™</iw>
@@ -393,7 +375,6 @@
         <sq>Mesatarja rradhes</sq>
         <it>media coda</it>
         <de>Queue Durchschnitt</de>
-        <it>media coda</it>
         <ur>قطار اوسط</ur>
         <es>Promedio de Mensajes en Espera</es>
         <iw>תור ממוצע</iw>
@@ -414,7 +395,6 @@
         <sq>Mesatare publikimeve</sq>
         <it>pubblicato media</it>
         <de>Veröffentlicht Durchschnitt</de>
-        <it>pubblicato media</it>
         <ur>اشاعت اوسط</ur>
         <es>Promedio de Publicados</es>
         <iw>ממוצע פורסם</iw>
@@ -435,7 +415,6 @@
         <sq>Ndalo renditjen</sq>
         <it>Pausa Riordino</it>
         <de>Pause Neuordnen</de>
-        <it>Pausa Riordino</it>
         <ur>دوبارہ مرتب روک دیں</ur>
         <es>Pausar Reordenamiento</es>
         <iw>השהה סידור מחדש</iw>
@@ -456,7 +435,6 @@
         <sq>fillimi renditjes</sq>
         <it>Inizio Riordino</it>
         <de>Starten Sie neu ordnen</de>
-        <it>Inizio Riordino</it>
         <ur>شروع کریں دوبارہ مرتب</ur>
         <es>Comenzar Reordenamiento</es>
         <iw>התחל סידור מחדש</iw>
@@ -477,7 +455,6 @@
         <sq>kandidatët</sq>
         <it>I candidati</it>
         <de>Die Kandidaten</de>
-        <it>I candidati</it>
         <ur>امیدوار</ur>
         <es>Candidatos</es>
         <iw>מועמדים</iw>
@@ -498,7 +475,6 @@
         <sq>Ne pritje</sq>
         <it>In attesa</it>
         <de>In Wartestellung</de>
-        <it>In attesa</it>
         <ur>ہولڈ پر</ur>
         <es>Aguardando</es>
         <iw>בהמתנה</iw>
@@ -519,7 +495,6 @@
         <sq>filtër</sq>
         <it>Filtro</it>
         <de>Filter</de>
-        <it>Filtro</it>
         <ur>فلٹر</ur>
         <es>Filtro</es>
         <iw>לְסַנֵן</iw>
@@ -540,7 +515,6 @@
         <sq>Filter dhe përditësimin e statusit, shiko sipas burimit, rregullo rendin e renditjes.</sq>
         <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
         <de>Filter und Update-Status, Anzeige nach Quelle, anpassen Sortierreihenfolge.</de>
-        <it>Filtro e aggiornamento di stato, vista dalla fonte, regolare ordinamento.</it>
         <ur>فلٹر اور اپ ڈیٹ کی حیثیت، منبع کی طرف سے نقطہ نظر، قسم کا حکم ایڈجسٹ.</ur>
         <es>Filtrar y actualizar status, ver por fuente, ajustar orden de clasificación</es>
         <iw>סינון עדכון מצב, תצוגה על ידי מקור, להתאים סדר מיון.</iw>
@@ -561,7 +535,6 @@
         <sq>të gjithë</sq>
         <it>Tutti</it>
         <de>Alle</de>
-        <it>Tutti</it>
         <ur>تمام</ur>
         <es>Todos</es>
         <iw>את כל</iw>
@@ -582,7 +555,6 @@
         <sq>udhëzues</sq>
         <it>Manuale</it>
         <de>Handbuch</de>
-        <it>Manuale</it>
         <ur>دستی</ur>
         <es>Manual</es>
         <iw>מדריך ל</iw>
@@ -603,7 +575,6 @@
         <sq>statuset</sq>
         <it>Gli stati</it>
         <de>Stati</de>
-        <it>Gli stati</it>
         <ur>حیثیت</ur>
         <es>Status</es>
         <iw>סטטוסים</iw>
@@ -624,7 +595,6 @@
         <sq>të gjithë</sq>
         <it>Tutti</it>
         <de>Alle</de>
-        <it>Tutti</it>
         <ur>تمام</ur>
         <es>Todos</es>
         <iw>את כל</iw>
@@ -645,7 +615,6 @@
         <sq>Ndaj sipas</sq>
         <it>Ordina per</it>
         <de>Sortiere nach</de>
-        <it>Ordina per</it>
         <ur>بہ ترتیب</ur>
         <es>Ordenar por</es>
         <iw>מיין לפי</iw>
@@ -666,7 +635,6 @@
         <sq>pikë</sq>
         <it>Punto</it>
         <de>Ergebnis</de>
-        <it>Punto</it>
         <ur>اسکور</ur>
         <es>Puntuación</es>
         <iw>ציון</iw>
@@ -687,7 +655,6 @@
         <sq>Data (zbritëse)</sq>
         <it>Data (discendente)</it>
         <de>Datum (absteigend)</de>
-        <it>Data (discendente)</it>
         <ur>تاریخ (نزولی)</ur>
         <es>Fecha (descendiente)</es>
         <iw>תאריך (יורד)</iw>
@@ -708,7 +675,6 @@
         <sq>Data (rritëse)</sq>
         <it>Data (ascendente)</it>
         <de>Datum (aufsteigend)</de>
-        <it>Data (ascendente)</it>
         <ur>تاریخ (صعودی)</ur>
         <es>Fecha (ascendiente)</es>
         <iw>תאריך (עולה)</iw>
@@ -729,7 +695,6 @@
         <sq>Mbaron Data (zbritëse)</sq>
         <it>Data di scadenza (discendente)</it>
         <de>Ablaufdatum (absteigend)</de>
-        <it>Data di scadenza (discendente)</it>
         <ur>تاریخ ختم (نزولی)</ur>
         <es>Fecha de Expiración (descendiente)</es>
         <iw>התוקף עומד לפוג תאריך (יורד)</iw>
@@ -750,7 +715,6 @@
         <sq>Mbaron Data (rritëse)</sq>
         <it>Data di scadenza (ascendente)</it>
         <de>Ablaufdatum (aufsteigend)</de>
-        <it>Data di scadenza (ascendente)</it>
         <ur>تاریخ ختم (صعودی)</ur>
         <es>Fecha de Expitación (ascendiente)</es>
         <iw>התוקף עומד לפוג תאריך (עולה)</iw>
@@ -771,7 +735,6 @@
         <sq>Data e planifikuar (zbritëse)</sq>
         <it>In programma Data (discendente)</it>
         <de>Geplante Datum (absteigend)</de>
-        <it>In programma Data (discendente)</it>
         <ur>تاریخ شیڈول (نزولی)</ur>
         <es>Fecha Programada (descendiente)</es>
         <iw>תאריך מתוכנן (יורד)</iw>
@@ -792,7 +755,6 @@
         <sq>Data e planifikuar (rritëse)</sq>
         <it>In programma Data (ascendente)</it>
         <de>Geplante Datum (aufsteigend)</de>
-        <it>In programma Data (ascendente)</it>
         <ur>تاریخ شیڈول (صعودی)</ur>
         <es>Fecha Programada (ascendiente)</es>
         <iw>תאריך מתוכנן (עולה)</iw>
@@ -813,7 +775,6 @@
         <sq>Optimizuar Pas Date (zbritëse)</sq>
         <it>Ottimizzato dopo Data (discendente)</it>
         <de>Optimiert Nach Datum (absteigend)</de>
-        <it>Ottimizzato dopo Data (discendente)</it>
         <ur>تاریخ کے بعد آپٹمائزڈ (نزولی)</ur>
         <es>Optimizado Despues de Fecha (descendiente)</es>
         <iw>אופטימליים לאחר תאריך (יורד)</iw>
@@ -834,7 +795,6 @@
         <sq>Zgjidh opsionin me te mire Pas Date (rritëse)</sq>
         <it>Ottimizzato dopo Data (ascendente)</it>
         <de>Optimiert nach dem Datum (aufsteigend)</de>
-        <it>Ottimizzato dopo Data (ascendente)</it>
         <ur>تاریخ کے بعد آپٹمائزڈ (صعودی)</ur>
         <es>Optimizado Despues de Fecha (ascendiente)</es>
         <iw>אופטימליים לאחר תאריך (עולה)</iw>
@@ -855,7 +815,6 @@
         <sq>Recycle Si</sq>
         <it>riciclare</it>
         <de>Recycle Als</de>
-        <it>riciclare</it>
         <ur>ردی کے طور پر</ur>
         <es>Reciclar Como</es>
         <iw>מחזור כפי</iw>
@@ -876,7 +835,6 @@
         <sq>Kerkoni nje term</sq>
         <it>Inserire un termine di ricerca</it>
         <de>Geben Sie einen Suchbegriff</de>
-        <it>Inserire un termine di ricerca</it>
         <ur>ایک اصطلاح درج کریں</ur>
         <es>Inserte un Término de Búsqueda</es>
         <iw>זן מונח חיפוש</iw>
@@ -897,7 +855,6 @@
         <sq>Publikuar dite më parë</sq>
         <it>Pubblicato giorni fa</it>
         <de>Veröffentlicht Tag (e) vor</de>
-        <it>giorno Pubblicato (s) fa</it>
         <ur>اشاعت دن پہلے</ur>
         <es>Publicado  dia(s) atrás</es>
         <iw>פורסם יום (ים) לפני</iw>
@@ -918,7 +875,6 @@
         <sq>Javën (s) publikuar më parë</sq>
         <it>settimana Pubblicato (s) fa</it>
         <de>Veröffentlicht Woche (n)</de>
-        <it>settimana Pubblicato (s) fa</it>
         <ur>اشاعت ہفتے پہلے</ur>
         <es>Publicado  semana(s) atrás</es>
         <iw>פורסם בשבוע (ים) לפני</iw>
@@ -939,7 +895,6 @@
         <sq>Publikuar muaj më parë</sq>
         <it>mese Pubblicato (s) fa</it>
         <de>Veröffentlicht Monat (en)</de>
-        <it>mese Pubblicato (s) fa</it>
         <ur>اشاعت مہینوں پہلے</ur>
         <es>Publicado  mes(es) atrás</es>
         <iw>לפני חודש פורסם (ים)</iw>
@@ -960,7 +915,6 @@
         <sq>Ju keni asgjë për të shfaqur. Ju lutem kontrolloni filtrat tuaj ose shtoni përmbajtje.</sq>
         <it>Non hai nulla da visualizzare. Si prega di verificare i filtri o aggiungere contenuti.</it>
         <de>Sie haben nichts angezeigt werden soll. Bitte überprüfen Sie Ihre Filter oder Inhalte hinzufügen.</de>
-        <it>Non hai nulla da visualizzare. Si prega di verificare i filtri o aggiungere contenuti.</it>
         <ur>آپ کو ظاہر کرنے کے لئے کچھ بھی نہیں ہے. آپ کے فلٹرز چیک یا مواد شامل کریں براہ مہربانی.</ur>
         <es>No tiene nada que mostrar. Compruebe sus filtros o agregue contenido.</es>
         <iw>יש לך מה להציג. אנא בדוק את הגדרות הסינון או להוסיף תוכן.</iw>
@@ -981,7 +935,6 @@
         <sq>postime aktive</sq>
         <it>Messaggi</it>
         <de>Aktive Beiträge</de>
-        <it>Messaggi</it>
         <ur>ایکٹو مراسلات</ur>
         <es>Publicaciones Activas</es>
         <iw>הודעות פעילות</iw>
@@ -1002,7 +955,6 @@
         <sq>Mesazhet Publikuar me</sq>
         <it>Messaggi pubblicati per</it>
         <de>Nachrichten Veröffentlicht</de>
-        <it>Messaggi pubblicati per</it>
         <ur>پیغامات اشاعت</ur>
         <es>Mensajes Publicados a</es>
         <iw>הודעות שפורסמו</iw>
@@ -1023,7 +975,6 @@
         <sq>Nuk ka më shumë mesazhe për të shfaqur.</sq>
         <it>Niente più messaggi da visualizzare.</it>
         <de>Keine Meldungen mehr angezeigt werden soll.</de>
-        <it>Niente più messaggi da visualizzare.</it>
         <ur>کوئی زیادہ پیغامات کو ظاہر کرنے کے لئے.</ur>
         <es>No hay más mensajes para exhibir.</es>
         <iw>לא עוד הודעות לתצוגה.</iw>
@@ -1044,7 +995,6 @@
         <sq>Duan të shohin pjesën tjetër të radhë tuaj? Renditur sipas datës</sq>
         <it>Vuoi vedere il resto della coda? Ordinare per data</it>
         <de>Wollen Sie den Rest Ihrer Warteschlange zu sehen? Nach Datum sortieren</de>
-        <it>Vuoi vedere il resto della coda? Ordinare per data</it>
         <ur>آپ کی قطار کے باقی دیکھنا چاہتے ہیں؟ تاریخ کے مطابق ترتیب</ur>
         <es>Desea ver el resto de sus mensajes en espera? Ordenar por fecha</es>
         <iw>רוצה לראות את שאר התור שלך? מיין לפי תאריך</iw>
@@ -1065,7 +1015,6 @@
         <sq>Shtuar Via</sq>
         <it>Aggiunto Via</it>
         <de>Added Via</de>
-        <it>Aggiunto Via</it>
         <ur>شامل کر دیا گیا ویا</ur>
         <es>Via Añadido</es>
         <iw>Via נוסף</iw>
@@ -1086,7 +1035,6 @@
         <sq>Dërgoja Radhë</sq>
         <it>Invia alla coda</it>
         <de>Senden to Queue</de>
-        <it>Invia alla coda</it>
         <ur>قطار کو بھیجیں</ur>
         <es>Enviar a Mensajes en Espera</es>
         <iw>שלח לתור</iw>
@@ -1107,7 +1055,6 @@
         <sq># I komenteve</sq>
         <it># Di commenti</it>
         <de># Kommentare</de>
-        <it># Di commenti</it>
         <ur>تبصرے کی #</ur>
         <es># de comentarios</es>
         <iw># של תגובות</iw>
@@ -1128,7 +1075,6 @@
         <sq>I gjithe Twitter</sq>
         <it>Tutti Twitter</it>
         <de>Alle Twitter</de>
-        <it>Tutti Twitter</it>
         <ur>تمام ٹویٹر</ur>
         <es>Todo Twitter</es>
         <iw>כל Twitter</iw>
@@ -1149,7 +1095,6 @@
         <sq>Audienca juaj</sq>
         <it>il tuo pubblico</it>
         <de>Ihr Publikum</de>
-        <it>il tuo pubblico</it>
         <ur>اپنے شائقین</ur>
         <es>Su Audiencia</es>
         <iw>קהל היעד שלך</iw>
@@ -1170,7 +1115,6 @@
         <sq>cilësimet e llogarisë</sq>
         <it>Impostazioni dell 'account</it>
         <de>Account Einstellungen</de>
-        <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>
         <es>Configuraciones de Cuenta</es>
         <iw>הגדרות חשבון</iw>
@@ -1191,7 +1135,6 @@
         <sq>Botime Paused</sq>
         <it>Editoria in pausa</it>
         <de>Publishing Paused</de>
-        <it>Editoria in pausa</it>
         <ur>پبلشنگ روک دیا گیا</ur>
         <es>Publicar Pausado</es>
         <iw>מושהה לאור</iw>
@@ -1212,7 +1155,6 @@
         <sq>planifikuar</sq>
         <it>in programma</it>
         <de>geplant</de>
-        <it>in programma</it>
         <ur>شیڈول</ur>
         <es>programado</es>
         <iw>מתוכנן</iw>
@@ -1233,7 +1175,6 @@
         <sq>Mesazhet janë aktualisht të ndaluar nga botuese.</sq>
         <it>messaggi sono attualmente impedito di pubblicazione.</it>
         <de>Nachrichten werden derzeit von Veröffentlichung beendet.</de>
-        <it>messaggi sono attualmente impedito di pubblicazione.</it>
         <ur>پیغامات فی الحال پبلشنگ سے بند کر دیا ہے.</ur>
         <es>publicación de mensajes está pausado actualmente.</es>
         <iw>הודעות כרגע הפסיקו מפרסום.</iw>
@@ -1254,7 +1195,6 @@
         <sq>Ndërkohe qe postimi  është  ndaluar që ju mund të vazhdoni të shkruani dhe vini ne rradhe mesazhet. Vetëm Publikimi Tani mesazhet do të shpallë me sukses.</sq>
         <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
         <de>Während Verlags pausiert können Sie weiterhin Nachrichten verfassen und in die Warteschlange. Veröffentlichen Sie erst jetzt Nachrichten werden erfolgreich veröffentlichen.</de>
-        <it>Mentre la pubblicazione è in pausa è possibile continuare a comporre e mettere in coda i messaggi. Solo Pubblica Ora i messaggi pubblicheremo con successo.</it>
         <ur>پبلشنگ روک دیا گیا ہے، جبکہ آپ کو تحریر اور پیغامات قطار میں جاری رکھ سکتے ہیں. صرف اب شائع پیغامات کامیابی سے پوسٹ کیا جائے گا.</ur>
         <es>Mientras publicación está pausado, puede continuar componiendo y poner mensajes en espera. Sólo los mensajes Publicar Ahora se publicarán correctamente.</es>
         <iw>בעת פרסום מושהה תוכל להמשיך להלחין לתור הודעות. רק פרסמת כעת הודעות תפרסמנה בהצלחה.</iw>
@@ -1275,7 +1215,6 @@
         <sq>Mëso më shumë.</sq>
         <it>Per saperne di più.</it>
         <de>Erfahren Sie mehr.</de>
-        <it>Per saperne di più.</it>
         <ur>اورجانیے.</ur>
         <es>Aprenda Más.</es>
         <iw>למד עוד.</iw>
@@ -1296,7 +1235,6 @@
         <sq>Ndalo më shumë llogari?</sq>
         <it>Pause più account?</it>
         <de>Pause mehr Konten?</de>
-        <it>Pause più account?</it>
         <ur>مزید اکاؤنٹس روک دیں؟</ur>
         <es>Pausar más cuentas?</es>
         <iw>השהה חשבונות נוספים?</iw>
@@ -1317,7 +1255,6 @@
         <sq>Botime Rifilloi</sq>
         <it>Editoria Ripreso</it>
         <de>Publishing Resumed</de>
-        <it>Editoria Ripreso</it>
         <ur>پبلشنگ کا سلسلہ دوبارہ شروع</ur>
         <es>Publicación Reanudada</es>
         <iw>הוצאת חודשה</iw>
@@ -1338,7 +1275,6 @@
         <sq>Ndërsa radha eshte ndaluar,</sq>
         <it>Mentre la coda è stata messa in pausa,</it>
         <de>Während wurde die Warteschlange angehalten,</de>
-        <it>Mentre la coda è stata messa in pausa,</it>
         <ur>قطار روک دیا گیا تھا جبکہ،</ur>
         <es>Mientras los mensajes en espera estaba pausado,</es>
         <iw>בעוד התור הושהה,</iw>
@@ -1359,7 +1295,6 @@
         <sq>mesazhet</sq>
         <it>messaggi</it>
         <de>Nachrichten</de>
-        <it>messaggi</it>
         <ur>پیغامات</ur>
         <es>mensajes</es>
         <iw>הודעות</iw>
@@ -1380,7 +1315,6 @@
         <sq>humben </sq>
         <it>perso il loro</it>
         <de>verfehlten ihr</de>
-        <it>perso il loro</it>
         <ur>ان کو یاد کیا</ur>
         <es>perdieron su</es>
         <iw>בווסת</iw>
@@ -1401,7 +1335,6 @@
         <sq>ose dritare për të publikuar me te miren.</sq>
         <it>o finestra di pubblicare ottimizzato.</it>
         <de>oder optimierte Fenster zu veröffentlichen.</de>
-        <it>o finestra di pubblicare ottimizzato.</it>
         <ur>یا شائع کرنے کی کھڑکی مرضی.</ur>
         <es>o ventana optimizada para publicar.</es>
         <iw>או מותאם חלון לפרסם.</iw>
@@ -1422,7 +1355,6 @@
         <sq>Rishikimi dështuar për të dërguar mesazhe</sq>
         <it>Review non è riuscito a inviare messaggi</it>
         <de>Bewertung fehlgeschlagen Nachrichten zu versenden</de>
-        <it>Review non è riuscito a inviare messaggi</it>
         <ur>کا جائزہ لیں پیغامات بھیجنے میں ناکام</ur>
         <es>Revisar mensajes que no fueron enviados</es>
         <iw>הסקירה נכשלה לשלוח הודעות</iw>

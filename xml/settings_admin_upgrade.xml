@@ -15,7 +15,6 @@
         <sq>Enterprise Upgrade</sq>
         <it>Enterprise aggiornamento</it>
         <de>Enterprise-Upgrade-</de>
-        <it>Enterprise aggiornamento</it>
         <ur>انٹرپرائز اپ گریڈ</ur>
         <es>Upgrade Empresarial</es>
         <iw>שדרוג Enterprise</iw>
@@ -36,7 +35,6 @@
         <sq>Të dhënat e kontaktit</sq>
         <it>Informazioni sui contatti</it>
         <de>Kontakt Informationen</de>
-        <it>Informazioni sui contatti</it>
         <ur>رابطے کی معلومات</ur>
         <es>información de Contacto</es>
         <iw>פרטי התקשרות</iw>
@@ -57,7 +55,6 @@
         <sq>telefon</sq>
         <it>Telefono</it>
         <de>Telefon</de>
-        <it>Telefono</it>
         <ur>فون</ur>
         <es>Teléfono</es>
         <iw>טלפון</iw>
@@ -78,7 +75,6 @@
         <sq>Llojet e llogarisë:</sq>
         <it>tipi di account:</it>
         <de>Kontotypen:</de>
-        <it>tipi di account:</it>
         <ur>اکاؤنٹ کی اقسام:</ur>
         <es>Tipos de Cuenta:</es>
         <iw>סוגי חשבון:</iw>
@@ -99,7 +95,6 @@
         <sq>Lloji i kompanisë:</sq>
         <it>Tipo di azienda:</it>
         <de>Branche:</de>
-        <it>Tipo di azienda:</it>
         <ur>کمپنی کی قسم:</ur>
         <es>Tipo de Empresa:</es>
         <iw>סוג חברה:</iw>
@@ -120,7 +115,6 @@
         <sq>qëllimet:</sq>
         <it>obiettivi:</it>
         <de>Ziele:</de>
-        <it>obiettivi:</it>
         <ur>مقاصد:</ur>
         <es>Metas:</es>
         <iw>מטרות:</iw>
@@ -141,7 +135,6 @@
         <sq>Përmbledhje e Planit</sq>
         <it>Quadro</it>
         <de>Planübersicht</de>
-        <it>Quadro</it>
         <ur>پلان کا جائزہ</ur>
         <es>Vista General del Plan</es>
         <iw>סקירת תכנית</iw>
@@ -162,7 +155,6 @@
         <sq>Enterprise SocialFlow</sq>
         <it>SocialFlow Enterprise</it>
         <de>SocialFlow Unternehmen</de>
-        <it>SocialFlow Enterprise</it>
         <ur>SocialFlow انٹرپرائز</ur>
         <es>SocialFlow Empresarial</es>
         <iw>Enterprise SocialFlow</iw>
@@ -183,7 +175,6 @@
         <sq>10+ Llogaritë</sq>
         <it>10+ Conti</it>
         <de>10+ Accounts</de>
-        <it>10+ Conti</it>
         <ur>10+ اکاؤنٹس</ur>
         <es>10+ Cuentas</es>
         <iw>10+ חשבונות</iw>
@@ -204,7 +195,6 @@
         <sq>Instalimi i personalizuar </sq>
         <it>Installazione personalizzata</it>
         <de>Benutzerdefinierte Einrichtung</de>
-        <it>Installazione personalizzata</it>
         <ur>اپنی مرضی کے سیٹ اپ</ur>
         <es>Configuración Personalizada</es>
         <iw>התקנה מותאמת אישית</iw>
@@ -225,7 +215,6 @@
         <sq>Postimi i zgjedhjes me te mire</sq>
         <it>Editoria ottimizzata</it>
         <de>Optimierte Publishing</de>
-        <it>Editoria ottimizzata</it>
         <ur>آپٹمائزڈ پبلشنگ</ur>
         <es>Publicación Optimizada</es>
         <iw>הוצאה אופטימלית</iw>
@@ -246,7 +235,6 @@
         <sq>Raportet e personalizuara</sq>
         <it>Rapporti personalizzati</it>
         <de>Benutzerdefinierte Berichte</de>
-        <it>Rapporti personalizzati</it>
         <ur>اپنی مرضی کی رپورٹیں</ur>
         <es>Reportes Personalizados</es>
         <iw>דוחות מותאמים אישית</iw>
@@ -267,7 +255,6 @@
         <sq>Mbështetja në nivel ndërmarrje</sq>
         <it>supporto di livello enterprise</it>
         <de>Enterprise-Level-Support</de>
-        <it>supporto di livello enterprise</it>
         <ur>انٹرپرائز کی سطح کی حمایت</ur>
         <es>Soporte de Nivel Empresarial</es>
         <iw>תמיכה ברמת הארגון</iw>
@@ -288,7 +275,6 @@
         <sq>Dorezo</sq>
         <it>invio</it>
         <de>einreichen</de>
-        <it>invio</it>
         <ur>جمع کرائیں</ur>
         <es>Enviar</es>
         <iw>שלח</iw>
@@ -309,7 +295,6 @@
         <sq>Zgjidh nje</sq>
         <it>Scegline uno</it>
         <de>Wähle ein</de>
-        <it>Scegline uno</it>
         <ur>ایک کا انتخاب کریں</ur>
         <es>Elija Uno</es>
         <iw>תבחר אחד</iw>
@@ -330,7 +315,6 @@
         <sq>Facebook</sq>
         <it>Facebook</it>
         <de>Facebook</de>
-        <it>Facebook</it>
         <ur>فیس بک</ur>
         <es>Facebook</es>
         <iw>פייסבוק</iw>
@@ -351,7 +335,6 @@
         <sq>të dy</sq>
         <it>Entrambi</it>
         <de>Beide</de>
-        <it>Entrambi</it>
         <ur>دونوں</ur>
         <es>Ambos</es>
         <iw>שניהם</iw>
@@ -372,7 +355,6 @@
         <sq>me pakicë</sq>
         <it>Al dettaglio</it>
         <de>Verkauf</de>
-        <it>Al dettaglio</it>
         <ur>پرچون</ur>
         <es>Al por menor</es>
         <iw>קמעונאות</iw>
@@ -393,7 +375,6 @@
         <sq>markë </sq>
         <it>Marca </it>
         <de>Marke Marketer</de>
-        <it>Marca Marketer</it>
         <ur>برانڈ مارکیٹر</ur>
         <es>Vendedor de Marca</es>
         <iw>משווק מותג</iw>
@@ -414,7 +395,6 @@
         <sq>agjenci</sq>
         <it>Agenzia</it>
         <de>Agentur</de>
-        <it>Agenzia</it>
         <ur>ایجنسی</ur>
         <es>Agencia</es>
         <iw>סוֹכְנוּת</iw>

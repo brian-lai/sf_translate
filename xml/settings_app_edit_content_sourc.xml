@@ -15,7 +15,6 @@
         <sq>Përmbajtja Burimi:</sq>
         <it>Contenuti Fonte:</it>
         <de>Inhalt Quelle:</de>
-        <it>Contenuti Fonte:</it>
         <ur>مواد کے ماخذ:</ur>
         <es>Fuente de Contenido:</es>
         <iw>מקור התוכן:</iw>
@@ -36,7 +35,6 @@
         <sq> Statusi mesazhit</sq>
         <it>Predefinito Messaggio di stato</it>
         <de>Standardnachrichtenstatus</de>
-        <it>Predefinito Messaggio di stato</it>
         <ur>بنیادی پیغام حیثیت</ur>
         <es>Estado de Mensaje Predeterminado</es>
         <iw>מצב ברירת המחדל של הודעה</iw>
@@ -57,7 +55,6 @@
         <sq>Default Status</sq>
         <it>Stato di default</it>
         <de>Standard-Status</de>
-        <it>Stato di default</it>
         <ur>پہلے سے طے شدہ حیثیت</ur>
         <es>Estado Predeterminado</es>
         <iw>מצב ברירת מחדל</iw>
@@ -78,7 +75,6 @@
         <sq>Zgjedhur me i miri</sq>
         <it>Ottimizzato</it>
         <de>Optimiert</de>
-        <it>Ottimizzato</it>
         <ur>آپٹمائزڈ</ur>
         <es>Optimizado</es>
         <iw>אופטימלי</iw>
@@ -99,7 +95,6 @@
         <sq>publiko Tani</sq>
         <it>Pubblica ora</it>
         <de>Jetzt veröffentlichen</de>
-        <it>Pubblica ora</it>
         <ur>ابھی شائع کریں</ur>
         <es>Publicar Ahora</es>
         <iw>פרסם עכשיו</iw>
@@ -120,7 +115,6 @@
         <sq>Kopjo në një llogari tjetër Sociale</sq>
         <it>Copia in un altro account sociale</it>
         <de>Kopieren auf ein anderes Konto Social</de>
-        <it>Copia in un altro account sociale</it>
         <ur>ایک اور سماجی اکاؤنٹ میں کاپی کریں</ur>
         <es>Copiar a Otra Cuenta Social</es>
         <iw>העתק לחשבון אחר חברתי</iw>
@@ -141,7 +135,6 @@
         <sq>Kopjo në Llogari</sq>
         <it>Copia sul conto</it>
         <de>Kopieren Konto</de>
-        <it>Copia sul conto</it>
         <ur>اکاؤنٹ میں کاپی</ur>
         <es>Copiar a Cuenta</es>
         <iw>העתק חשבון</iw>
@@ -162,7 +155,6 @@
         <sq>mesazhet e skadimit</sq>
         <it>I messaggi di scadenza</it>
         <de>Nachrichten Expiration</de>
-        <it>I messaggi di scadenza</it>
         <ur>پیغامات میعاد ختم ہونے کی</ur>
         <es>Expiración de Mensajes</es>
         <iw>תפוגת הודעות</iw>
@@ -183,7 +175,6 @@
         <sq>Default</sq>
         <it>Predefinito</it>
         <de>Standard</de>
-        <it>Predefinito</it>
         <ur>پہلے سے طے شدہ</ur>
         <es>Predeterminado</es>
         <iw>בְּרִירַת מֶחדָל</iw>
@@ -204,7 +195,6 @@
         <sq>Asnjehere</sq>
         <it>Mai</it>
         <de>Nie</de>
-        <it>Mai</it>
         <ur>کبھی</ur>
         <es>Nunca</es>
         <iw>לעולם לא</iw>
@@ -225,7 +215,6 @@
         <sq>30 minuta</sq>
         <it>30 minuti</it>
         <de>30 Minuten</de>
-        <it>30 minuti</it>
         <ur>30 منٹ</ur>
         <es>30 Minutos</es>
         <iw>30 דקות</iw>
@@ -246,7 +235,6 @@
         <sq>1 orë</sq>
         <it>1 ora</it>
         <de>1 Stunde</de>
-        <it>1 ora</it>
         <ur>1 گھنٹہ</ur>
         <es>1 Hora</es>
         <iw>1 שעה</iw>
@@ -267,7 +255,6 @@
         <sq>6 Orë</sq>
         <it>6 ore</it>
         <de>6 Stunden</de>
-        <it>6 ore</it>
         <ur>6 گھنٹے</ur>
         <es>6 Horas</es>
         <iw>6 שעות</iw>
@@ -288,7 +275,6 @@
         <sq>9 Hours</sq>
         <it>9 Ore</it>
         <de>9 Stunden</de>
-        <it>9 Ore</it>
         <ur>9 گھنٹے</ur>
         <es>9 Horas</es>
         <iw>9 שעות</iw>
@@ -309,7 +295,6 @@
         <sq>12 Hours</sq>
         <it>12 ore</it>
         <de>12 Stunden</de>
-        <it>12 ore</it>
         <ur>12 گھنٹے</ur>
         <es>12 Horas</es>
         <iw>12 שעות</iw>
@@ -330,7 +315,6 @@
         <sq>1 dite</sq>
         <it>1 giorno</it>
         <de>1 Tag</de>
-        <it>1 giorno</it>
         <ur>1 دن</ur>
         <es>1 Día</es>
         <iw>יום 1</iw>
@@ -351,7 +335,6 @@
         <sq>2 dite</sq>
         <it>2 giorni</it>
         <de>2 Tage</de>
-        <it>2 giorni</it>
         <ur>2 دن</ur>
         <es>2 Días</es>
         <iw>2 ימים</iw>
@@ -372,7 +355,6 @@
         <sq>3 ditë</sq>
         <it>3 giorni</it>
         <de>3 Tage</de>
-        <it>3 giorni</it>
         <ur>3 دن</ur>
         <es>3 Días</es>
         <iw>3 ימים</iw>
@@ -393,7 +375,6 @@
         <sq>5 Ditë</sq>
         <it>5 giorni</it>
         <de>5 Tage</de>
-        <it>5 giorni</it>
         <ur>5 دن</ur>
         <es>5 Días</es>
         <iw>5 ימים</iw>
@@ -414,7 +395,6 @@
         <sq>1 javë</sq>
         <it>1 settimana</it>
         <de>1 Woche</de>
-        <it>1 settimana</it>
         <ur>1 ہفتہ</ur>
         <es>1 Semana</es>
         <iw>שבוע 1</iw>
@@ -435,7 +415,6 @@
         <sq>2 javë</sq>
         <it>2 settimane</it>
         <de>2 Wochen</de>
-        <it>2 settimane</it>
         <ur>2 ہفتے</ur>
         <es>2 Semanas</es>
         <iw>2 שבועות</iw>
@@ -456,7 +435,6 @@
         <sq>3 Weeks</sq>
         <it>3 settimane</it>
         <de>3 Wochen</de>
-        <it>3 settimane</it>
         <ur>3 ہفتے</ur>
         <es>3 Semanas</es>
         <iw>3 שבועות</iw>
@@ -477,7 +455,6 @@
         <sq>1 muaj</sq>
         <it>1 mese</it>
         <de>1 Monat</de>
-        <it>1 mese</it>
         <ur>1 مہینہ</ur>
         <es>1 Mes</es>
         <iw>1 חודש</iw>
@@ -498,7 +475,6 @@
         <sq>45 Days</sq>
         <it>45 Giorni</it>
         <de>45 Tage</de>
-        <it>45 Giorni</it>
         <ur>45 دن</ur>
         <es>45 Días</es>
         <iw>45 ימים</iw>
@@ -519,7 +495,6 @@
         <sq>Sjellja e skadimit</sq>
         <it>Comportamento di scadenza</it>
         <de>Ablaufverhalten</de>
-        <it>Comportamento di scadenza</it>
         <ur>میعاد ختم ہونے رویہ</ur>
         <es>Comportamiento de Expiración</es>
         <iw>התנהגות תפוגה</iw>
@@ -540,7 +515,6 @@
         <sq>Të përfundojë në datën e skadimit</sq>
         <it>Scadono alla data di scadenza</it>
         <de>Gültig bis auf Ablaufdatum</de>
-        <it>Scadono alla data di scadenza</it>
         <ur>آخری اپ ڈیٹ کی تاریخ میں میعاد ختم</ur>
         <es>Expirar en la fecha de expiración</es>
         <iw>לפוג ב תאריך התפוגה</iw>
@@ -561,7 +535,6 @@
         <sq>Duhet Publikuar nga data e skadimit</sq>
         <it>Devono pubblicare in base alla data di scadenza</it>
         <de>Muss nach Ablaufdatum veröffentlichen</de>
-        <it>Devono pubblicare in base alla data di scadenza</it>
         <ur>آخری اپ ڈیٹ کی تاریخ کی طرف سے کی اشاعت لازمی</ur>
         <es>Debe Publicar antes de la fecha de expiración</es>
         <iw>לפרסם לפי תאריך התפוגה</iw>
@@ -582,7 +555,6 @@
         <sq>Fshij Përmbajtjen e  Burimit</sq>
         <it>Eliminare il contenuto Fonte</it>
         <de>Löschen Inhaltsquelle</de>
-        <it>Eliminare il contenuto Fonte</it>
         <ur>مواد کے ماخذ چھپانا</ur>
         <es>Borrar Fuente de Contenido</es>
         <iw>מחק מקור תוכן</iw>
@@ -611,7 +583,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>KUJDES: Fshirja e një burim përmbajtjeje do të fshijë të gjitha mesazhet nga ky burim përmbajtjes në radhën tuaj. Nëse ju do të doni  të ndaloni importimin mesazhe të reja nga ky burim përmbajtjes pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin e burimit të përmbajtjes nga aktive në joaktiv.</sq>
         <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
         <de>ACHTUNG: eine Inhaltsquelle löschen, werden auch alle Mitteilungen dieses Inhaltsquelle in der Warteschlange löschen. Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
-        <it>ATTENZIONE: L'eliminazione di una fonte di contenuti anche eliminare tutti i messaggi da questa origine di contenuto nella coda. Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo, invece.</it>
         <ur>توجہ: ایک مواد مصدر حذف کر رہا ہے یہ بھی آپ کی قطار میں اس مواد کے ذریعہ سے تمام پیغامات کو حذف کر دے گا. آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی.</ur>
         <es>ATENCIÓN: La eliminación de una fuente de contenido también eliminará todos los mensajes de esta fuente de contenido en sus mensajes en espera.
     
@@ -636,7 +607,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>modeli</sq>
         <it>Modelli</it>
         <de>Vorlagen</de>
-        <it>Modelli</it>
         <ur>سانچے</ur>
         <es>Plantillas</es>
         <iw>תבניות</iw>
@@ -657,7 +627,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Përmbajtja burimit te modelit ju lejon të shtoni prefiksin, postfix, tituj, dhe më shumë.</sq>
         <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
         <de>Inhaltsquelle Vorlagen können Sie fügen Präfix, Postfix, Titel und vieles mehr.</de>
-        <it>modelli di origine di contenuto consentono di aggiungere il prefisso, postfix, titoli e altro ancora.</it>
         <ur>مواد کے ماخذ کے سانچوں آپ اپسرگ، postfix، عنوانات، اور مزید شامل ہیں.</ur>
         <es>Plantillas de fuente de contenido le permite añadir prefijo, sufijo, títulos y más.</es>
         <iw>תבניות מקור תוכן מאפשרות לך להוסיף קידומת, postfix, כותרות ועוד.</iw>
@@ -678,7 +647,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Modeli:</sq>
         <it>Modello:</it>
         <de>Vorlage:</de>
-        <it>Modello:</it>
         <ur>سانچے:</ur>
         <es>Plantilla:</es>
         <iw>תבנית:</iw>
@@ -699,7 +667,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Titulli] [link]</sq>
         <it>[Titolo] [link]</it>
         <de>[Title] [link]</de>
-        <it>[Titolo] [link]</it>
         <ur>[عنوان] [لنک]</ur>
         <es>[título][link]</es>
         <iw>[כותרת] [קישור]</iw>
@@ -720,7 +687,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Titulli]</sq>
         <it>[titolo]</it>
         <de>[Titel]</de>
-        <it>[titolo]</it>
         <ur>[عنوان]</ur>
         <es>[título]</es>
         <iw>[כותרת]</iw>
@@ -741,7 +707,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Link]</sq>
         <it>[Link]</it>
         <de>[Link]</de>
-        <it>[Link]</it>
         <ur>[لنک]</ur>
         <es>[link]</es>
         <iw>[קישור]</iw>
@@ -762,7 +727,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Link] [Titulli]</sq>
         <it>[Link] [titolo]</it>
         <de>[Link] [title]</de>
-        <it>[Link] [titolo]</it>
         <ur>[لنک] [عنوان]</ur>
         <es>[link] [título]</es>
         <iw>[קישור] [כותרת]</iw>
@@ -783,7 +747,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Prefix] [Titulli] [link]</sq>
         <it>[Prefisso] [titolo] [link]</it>
         <de>[Prefix] [title] [link]</de>
-        <it>[Prefisso] [titolo] [link]</it>
         <ur>[اپسرگ] [عنوان] [لنک]</ur>
         <es>[prefijo] [título] [link]</es>
         <iw>[קידומת] [כותרת] [קישור]</iw>
@@ -804,7 +767,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Prefix] [Titulli] [link] [postfix]</sq>
         <it>[Prefisso] [titolo] [link] [suffisso]</it>
         <de>[Prefix] [title] [link] [Postfix]</de>
-        <it>[Prefisso] [titolo] [link] [suffisso]</it>
         <ur>[اپسرگ] [عنوان] [لنک] [postfix]</ur>
         <es>[prefijo] [título] [link] [sufijo]</es>
         <iw>[קידומת] [כותרת] [קישור] [postfix]</iw>
@@ -825,7 +787,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Prefix] [Titulli] [link] [teksti parazgjedhur] [postfix]</sq>
         <it>[Prefisso] [titolo] [link] [testo predefinito] [Postfix]</it>
         <de>[Prefix] [title] [link] [Standardtext] [Postfix]</de>
-        <it>[Prefisso] [titolo] [link] [testo predefinito] [Postfix]</it>
         <ur>[اپسرگ] [عنوان] [لنک] [ڈیفالٹ ٹیکسٹ] [postfix]</ur>
         <es>[prefijo] [título] [link] [texto predeterminado] [sufijo]</es>
         <iw>[קידומת] [כותרת] [קישור] [טקסט ברירת המחדל] [postfix]</iw>
@@ -846,7 +807,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Prefix] [teksti parazgjedhur] [link] [postfix]</sq>
         <it>[Prefisso] [testo predefinito] [link] [suffisso]</it>
         <de>[Prefix] [Standardtext] [link] [Postfix]</de>
-        <it>[Prefisso] [testo predefinito] [link] [suffisso]</it>
         <ur>[اپسرگ] [ڈیفالٹ ٹیکسٹ] [لنک] [postfix]</ur>
         <es>[prefijo] [texto predeterminado] [link] [sufijo]</es>
         <iw>[קידומת] [ברירת מחדל טקסט] [קישור] [postfix]</iw>
@@ -867,7 +827,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Truncated_content] [link]</sq>
         <it>[Truncated_content] [link]</it>
         <de>[Truncated_content] [link]</de>
-        <it>[Truncated_content] [link]</it>
         <ur>[truncated_content] [لنک]</ur>
         <es>[contenido_truncado] [lnk]</es>
         <iw>[Truncated_content] [קישור]</iw>
@@ -888,7 +847,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Truncated_content]</sq>
         <it>[Truncated_content]</it>
         <de>[Truncated_content]</de>
-        <it>[Truncated_content]</it>
         <ur>[truncated_content]</ur>
         <es>[contenido_truncado]</es>
         <iw>[Truncated_content]</iw>
@@ -909,7 +867,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Përmbajtja]</sq>
         <it>[contenuto]</it>
         <de>[Inhalt]</de>
-        <it>[contenuto]</it>
         <ur>[مواد]</ur>
         <es>[contenido]</es>
         <iw>[תוֹכֶן]</iw>
@@ -930,7 +887,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Përmbajtja] [link]</sq>
         <it>[Content] [link]</it>
         <de>[Content] [link]</de>
-        <it>[Content] [link]</it>
         <ur>[مواد] [لنک]</ur>
         <es>[contenido] [link]</es>
         <iw>[תוכן] [קישור]</iw>
@@ -951,7 +907,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Titulli] [teksti parazgjedhur] [link]</sq>
         <it>[Titolo] [testo predefinito] [link]</it>
         <de>[Title] [default text] [link]</de>
-        <it>[Titolo] [testo predefinito] [link]</it>
         <ur>[عنوان] [ڈیفالٹ ٹیکسٹ] [لنک]</ur>
         <es>[título] [texto predeterminado] [link]</es>
         <iw>[כותרת] [ברירת מחדל טקסט] [קישור]</iw>
@@ -972,7 +927,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Titulli] [Përmbajtja cunguar] [link]</sq>
         <it>[Titolo] [contenuto troncato] [link]</it>
         <de>[Title] [abgeschnitten content] [link]</de>
-        <it>[Titolo] [contenuto troncato] [link]</it>
         <ur>[عنوان] [مقطوع مواد] [لنک]</ur>
         <es>[título] [contenido truncado] [link]</es>
         <iw>[כותרת] [תוכן מקוצץ] [קישור]</iw>
@@ -993,7 +947,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Titulli] [Përmbajtja] [link]</sq>
         <it>[Titolo] [content] [link]</it>
         <de>[Title] [content] [link]</de>
-        <it>[Titolo] [content] [link]</it>
         <ur>[عنوان] [مواد] [لنک]</ur>
         <es>[título] [contenido] [link]</es>
         <iw>[כותרת] [תוכן] [קישור]</iw>
@@ -1014,7 +967,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Parazgjedhur text]</sq>
         <it>[Testo predefinito]</it>
         <de>[Default text]</de>
-        <it>[Testo predefinito]</it>
         <ur>[ڈیفالٹ ٹیکسٹ]</ur>
         <es>[texto predeterminado]</es>
         <iw>[טקסט ברירת מחדל]</iw>
@@ -1035,7 +987,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Default Text</sq>
         <it>Testo predefinito</it>
         <de>Standardtext</de>
-        <it>Testo predefinito</it>
         <ur>طے شدہ متن</ur>
         <es>Texto Predeterminado</es>
         <iw>טקסט ברירת מחדל</iw>
@@ -1056,7 +1007,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>E pavendosur</sq>
         <it>Non impostato</it>
         <de>Nicht eingestellt</de>
-        <it>Non impostato</it>
         <ur>سیٹ نہیں ہے</ur>
         <es>No Configurado</es>
         <iw>לא מוכן</iw>
@@ -1077,7 +1027,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>parashtesë</sq>
         <it>Prefisso</it>
         <de>Präfix</de>
-        <it>Prefisso</it>
         <ur>اپسرگ</ur>
         <es>Prefijo</es>
         <iw>קידומת</iw>
@@ -1098,7 +1047,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>postfix</sq>
         <it>Postfix</it>
         <de>Postfix</de>
-        <it>Postfix</it>
         <ur>Postfix</ur>
         <es>Sufijo</es>
         <iw>Postfix</iw>
@@ -1119,7 +1067,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Filters</sq>
         <it>filtri</it>
         <de>Filter</de>
-        <it>filtri</it>
         <ur>فلٹرز</ur>
         <es>Filtros</es>
         <iw>מסנן</iw>
@@ -1140,7 +1087,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Filtra  ju lejojnë të përfshini ose të përjashtoni përmbajtjen që përmban fjalë të caktuara</sq>
         <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
         <de>Mit Filtern können Sie ein- oder ausschließen Inhalte, die bestimmte Wörter</de>
-        <it>I filtri consentono di includere o escludere i contenuti contenenti determinate parole</it>
         <ur>فلٹرز آپ شامل یا مخصوص الفاظ استعمال مواد خارج کرنے دو</ur>
         <es>Filtros le permite incluir o excluir contenido que contenga ciertas palabras</es>
         <iw>מסננים מאפשרים לך לכלול או לא לכלול תוכן המכילים מילים מסוימות</iw>
@@ -1161,7 +1107,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>vetëm Përfshi</sq>
         <it>solo Includere</it>
         <de>Nur Fügen</de>
-        <it>solo Includere</it>
         <ur>صرف شامل</ur>
         <es>Solo Incluir</es>
         <iw>בלבד כולל</iw>
@@ -1182,7 +1127,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>përjashtoj</sq>
         <it>Escludere</it>
         <de>Ausschließen</de>
-        <it>Escludere</it>
         <ur>علیحدہ کر دیں</ur>
         <es>Excluir</es>
         <iw>אל תכלול</iw>
@@ -1203,7 +1147,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>+ Shto tjetër Filter</sq>
         <it>+ Aggiungere un altro filtro</it>
         <de>+ Weiteren Filter hinzufügen</de>
-        <it>+ Aggiungere un altro filtro</it>
         <ur>+ ایک اور فلٹر شامل کریں</ur>
         <es>+ Añadir Otro Filtro</es>
         <iw>+ הוסף מסנן נוסף</iw>
@@ -1224,7 +1167,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Ndjekja Tags</sq>
         <it>tag di monitoraggio</it>
         <de>Tracking-Tags</de>
-        <it>tag di monitoraggio</it>
         <ur>ٹریکنگ ٹیگز</ur>
         <es>Etiquetas de Seguimiento</es>
         <iw>תגיות מעקב</iw>
@@ -1245,7 +1187,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Ndjekja e Tags  ju lejon të përfshini Google Analytics dhe Omniture etiketa për përmbajtjen tuaj.</sq>
         <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
         <de>Tracking-Tags können Sie umfassen Google Analytics und Omniture-Tags, um Ihre Inhalte.</de>
-        <it>tag di monitoraggio consentono di includere Google Analytics e Omniture tag ai tuoi contenuti.</it>
         <ur>ٹریکنگ ٹیگز آپ کو آپ کے مواد کے لئے گوگل کے تجزیات اور Omniture ٹیگز شامل ہونے دیں.</ur>
         <es>Etiquetas de Seguimiento le permite incluir etiquetas de Google Analytics y Omniture a su contenido.</es>
         <iw>תגי מעקב שתוכלו לכלול את Google Analytics ו- Omniture תגי התוכן שלך.</iw>
@@ -1266,7 +1207,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Google Analytics</sq>
         <it>statistiche di Google</it>
         <de>Google Analytics</de>
-        <it>statistiche di Google</it>
         <ur>گوگل کے تجزیات</ur>
         <es>Google Analytics</es>
         <iw>גוגל ניתוח נתונים</iw>
@@ -1287,7 +1227,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Tags tjera</sq>
         <it>Tags</it>
         <de>Andere Tags</de>
-        <it>Tags</it>
         <ur>دیگر ٹیگز</ur>
         <es>Otras Etiquetas</es>
         <iw>תגיות אחרות</iw>
@@ -1308,7 +1247,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Key - Vlera</sq>
         <it>Valore chiave</it>
         <de>Schlüsselwert</de>
-        <it>Valore chiave</it>
         <ur>کلیدی - ویلیو</ur>
         <es>Llave - Valor</es>
         <iw>ערך מפתח</iw>
@@ -1329,7 +1267,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Kufijtë e publikimit</sq>
         <it>Limiti Pubblicazione</it>
         <de>Veröffentlichung Limits</de>
-        <it>Limiti Pubblicazione</it>
         <ur>اشاعت کی حدود</ur>
         <es>Límites de Publicación</es>
         <iw>גבולות פרסום</iw>
@@ -1350,7 +1287,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Vendos numrin maksimal te mesazheve për periudha të caktuara kohore, intervale, etj Shënim: ndryshimi ketyre mund të ndikojë në aftësinë SocialFlow për të zgjedh përmbajtjen.</sq>
         <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <de>Legt die maximale Anzahl von Nachrichten für bestimmte Zeiträume, Intervalle usw. Hinweis: Ändern können diese SocialFlow die Fähigkeit, Inhalte zu optimieren auswirken.</de>
-        <it>Imposta numero massimo di messaggi per determinati periodi di tempo, intervalli, ecc Nota: cambiare queste possono influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <ur>مخصوص وقت کے ادوار، وقفے، وغیرہ کے لئے پیغامات کی زیادہ سے زیادہ تعداد مقرر کریں نوٹ: ان کے مواد کو بہتر کرنے کے SocialFlow کی صلاحیت پر اثر انداز ہو سکتا ہے کو تبدیل کرنے کے.</ur>
         <es>Establezca el número máximo de mensajes para determinados períodos de tiempo, intervalos, etc. Nota: estos cambios puede afectar la capacidad de SocialFlow para optimizar contenido.</es>
         <iw>מספר מרבי סט הודעות עבור פרקי זמן מסוימים, במרווחים, וכו 'הערה: שינוי אלה עלולים להשפיע על יכולת SocialFlow לבצע אופטימיזציה של תוכן.</iw>
@@ -1371,7 +1307,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Truncated_title] [link]</sq>
         <it>[Truncated_title] [link]</it>
         <de>[Truncated_title] [link]</de>
-        <it>[Truncated_title] [link]</it>
         <ur>[truncated_title] [لنک]</ur>
         <es>[título_truncado][link]</es>
         <iw>[Truncated_title] [קישור]</iw>
@@ -1392,7 +1327,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>[Truncated_title]</sq>
         <it>[Truncated_title]</it>
         <de>[Truncated_title]</de>
-        <it>[Truncated_title]</it>
         <ur>[truncated_title]</ur>
         <es>título_truncado</es>
         <iw>[Truncated_title]</iw>
@@ -1413,7 +1347,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>utm_source</sq>
         <it>utm_source</it>
         <de>utm_source</de>
-        <it>utm_source</it>
         <ur>utm_source</ur>
         <es>utm_source</es>
         <iw>utm_source</iw>
@@ -1434,7 +1367,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>utm_medium</sq>
         <it>utm_medium</it>
         <de>utm_medium</de>
-        <it>utm_medium</it>
         <ur>utm_medium</ur>
         <es>utm_medium</es>
         <iw>utm_medium</iw>
@@ -1455,7 +1387,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>utm_campaign</sq>
         <it>utm_campaign</it>
         <de>utm_campaign</de>
-        <it>utm_campaign</it>
         <ur>utm_campaign</ur>
         <es>utm_campaign</es>
         <iw>utm_campaign</iw>
@@ -1476,7 +1407,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>utm_content</sq>
         <it>utm_content</it>
         <de>utm_content</de>
-        <it>utm_content</it>
         <ur>utm_content</ur>
         <es>utm_content</es>
         <iw>utm_content</iw>
@@ -1497,7 +1427,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>utm_link</sq>
         <it>utm_link</it>
         <de>utm_link</de>
-        <it>utm_link</it>
         <ur>utm_link</ur>
         <es>utm_link</es>
         <iw>utm_link</iw>
@@ -1518,7 +1447,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Vendos te gjitha ne opsionin e zgjedhjes me te mire</sq>
         <it>Ripristina tutto per ottimizzato</it>
         <de>Alle zurücksetzen auf Optimized</de>
-        <it>Ripristina tutto per ottimizzato</it>
         <ur>آپٹمائزڈ لئے تمام ری سیٹ کر دیں</ur>
         <es>Reconfigurar Todo a Optimizado</es>
         <iw>איפוס הכל כדי אופטימלי</iw>
@@ -1539,7 +1467,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Rivendos për të zgjdhur me te miren</sq>
         <it>Ripristina ottimizzata</it>
         <de>Zurücksetzen auf Optimiert</de>
-        <it>Ripristina ottimizzata</it>
         <ur>آپٹمائزڈ کرنا ری سیٹ کر دیں</ur>
         <es>Reconfigurado a Optimizado</es>
         <iw>איפוס כדי אופטימלי</iw>
@@ -1560,7 +1487,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Max Mesazhevenë ditë</sq>
         <it>Max messaggi al giorno</it>
         <de>Max Nachrichten pro Tag</de>
-        <it>Max messaggi al giorno</it>
         <ur>فی دن زیادہ سے زیادہ پیغامات</ur>
         <es>Máximo de Mensajes por Día</es>
         <iw>הודעות מקס ליום</iw>
@@ -1581,7 +1507,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Shkruani numrin maksimal të mesazheve që mund të publikohet në 1 ditë</sq>
         <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 giorno</it>
         <de>Geben Sie die maximale Anzahl von Nachrichten, die an 1 Tag veröffentlicht werden können</de>
-        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 giorno</it>
         <ur>1 دن میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
         <es>Inserte el número máximo de mensajes que pueden ser publicados en 1 día</es>
         <iw>הזן את המספר המרבי של הודעות שיכולות להתפרסם 1 יום</iw>
@@ -1602,7 +1527,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Max Messages në orë</sq>
         <it>Max messaggi all'ora</it>
         <de>Max Nachrichten pro Stunde</de>
-        <it>Max messaggi all'ora</it>
         <ur>فی گھنٹہ زیادہ سے زیادہ پیغامات</ur>
         <es>Máximo de Mensajes Por Hora</es>
         <iw>הודעות מקס לשעה</iw>
@@ -1623,7 +1547,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Shkruani numrin maksimal të mesazheve që mund të publikohet në 1 orë</sq>
         <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 ora</it>
         <de>Geben Sie die maximale Anzahl der Nachrichten, die in 1 Stunde veröffentlicht werden können</de>
-        <it>Inserire il numero massimo di messaggi che possono essere pubblicati in 1 ora</it>
         <ur>1 گھنٹے میں شائع کیا جا سکتا ہے کہ پیغامات کی زیادہ سے زیادہ تعداد درج کریں</ur>
         <es>Inserte el número máximo de mensajes que pueden ser publicados en 1 hora</es>
         <iw>הזן את המספר המרבי של הודעות שיכולות להתפרסם 1 שעה</iw>
@@ -1644,7 +1567,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Dritarja mesazhit</sq>
         <it>finestra dei messaggi</it>
         <de>Nachrichtenfenster</de>
-        <it>finestra dei messaggi</it>
         <ur>پیغام ونڈو</ur>
         <es>Ventana de Mensajes</es>
         <iw>חלון הודעה</iw>
@@ -1665,7 +1587,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>publiko Midis</sq>
         <it>pubblicare Tra</it>
         <de>veröffentlichen Zwischen</de>
-        <it>pubblicare Tra</it>
         <ur>درمیان شائع</ur>
         <es>Publicar Entre</es>
         <iw>פרסם בין</iw>
@@ -1686,7 +1607,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>dhe</sq>
         <it>e</it>
         <de>und</de>
-        <it>e</it>
         <ur>اور</ur>
         <es>y</es>
         <iw>ו</iw>
@@ -1707,7 +1627,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Minimumi Intervalit te mesazhit</sq>
         <it>Minimo Messaggio Intervallo</it>
         <de>Mindestmeldungsintervall</de>
-        <it>Minimo Messaggio Intervallo</it>
         <ur>کم از کم کے پیغام وقفہ</ur>
         <es>Intervalo Mínimo de Mensaje</es>
         <iw>מינימום מסר מרווח</iw>
@@ -1728,7 +1647,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Futni numrin e minutave qe  duhet të kalojne ndërmjet mesazheve</sq>
         <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
         <de>Geben Sie die Anzahl der Minuten sthat zwischen Nachrichten verstreichen muss,</de>
-        <it>Inserire il numero di minuti di sthat deve intercorrere tra i messaggi</it>
         <ur>پیغامات درمیان گزر جانا چاہیے کہ منٹ کی تعداد درج کریں</ur>
         <es>Inserte el número de minutos que debe pasar entre mensajes</es>
         <iw>הזן את מספר הדקות חייבים לחלוף בין הודעות</iw>
@@ -1749,7 +1667,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Parandalimi Goditjet</sq>
         <it>evitare collisioni</it>
         <de>Prevent Collisions</de>
-        <it>evitare collisioni</it>
         <ur>روک تھام کوللسانس</ur>
         <es>Prevenir Colisiones</es>
         <iw>התנגשויות מנע</iw>
@@ -1770,7 +1687,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Kur mesazhe të shumta janë të vendosur për të "Publikimi Now" dhe janë importuar në të njëjtën kohë, ju mund të vendosni një ose më shumë mesazhe për të publikuar menjëherë. Mesazhet e mbetura (nëse aplikohet) do të vendosen për të "mbajtur" status.</sq>
         <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
         <de>Wenn mehrere Nachrichten werden auf "Jetzt veröffentlichen" und werden gleichzeitig importiert haben, können Sie eine oder mehrere Nachrichten setzen, sofort zu veröffentlichen. Die übrigen Meldungen (falls vorhanden) wird auf "Halten" Status.</de>
-        <it>Quando più messaggi sono impostati su "Pubblica ora" e vengono importati simultaneamente, è possibile impostare uno o più messaggi di pubblicare subito. I messaggi rimanenti (se del caso) saranno impostati a "hold" di stato.</it>
         <ur>ایک سے زیادہ پیغامات "اب شائع" کی تیاری میں ہیں اور ساتھ ہی درآمد کر رہے ہیں تو، آپ کو فورا شائع کرنے میں ایک یا زیادہ پیغامات کو مقرر کر سکتے ہیں. باقی پیغامات (قابل اطلاق ہو) کی حیثیت "پکڑ" کے لئے مقرر کیا جائے گا.</ur>
         <es>Cuando multiples mensajes están configurados como "Publicar Ahora" y son importados simultaneamente, usted puede configurar uno o más mensajes como publicar inmediatamente. Los mensajes restantes (si aplica) serán configurados como "aguardar".</es>
         <iw>כאשר מספר הודעות מוגדרות "פרסמו עכשיו" והם מיובאים זמנית, אתה יכול להגדיר הודעה אחת או יותר לפרסם מייד. המסרים הנותרים (אם רלוונטי) יוגדר "להחזיק" מעמד.</iw>
@@ -1791,7 +1707,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>dërgoj</sq>
         <it>Inviare</it>
         <de>Senden</de>
-        <it>Inviare</it>
         <ur>حساب</ur>
         <es>Enviar</es>
         <iw>לִשְׁלוֹחַ</iw>
@@ -1812,7 +1727,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>1 mesazh</sq>
         <it>1 messaggio</it>
         <de>1 Nachricht</de>
-        <it>1 messaggio</it>
         <ur>1 پیغام</ur>
         <es>1 Mensaje</es>
         <iw>הודעה 1</iw>
@@ -1833,7 +1747,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>2 Mesazhe</sq>
         <it>2 Messaggi</it>
         <de>2 Nachrichten</de>
-        <it>2 Messaggi</it>
         <ur>2 پیغامات</ur>
         <es>2 Mensajes</es>
         <iw>2 הודעות</iw>
@@ -1854,7 +1767,6 @@ Se você deseja parar a importação de novas mensagens desta fonte de conteúdo
         <sq>Dërgo të gjitha mesazhet (nuk rekomandohet)</sq>
         <it>Inviare tutti i messaggi (non raccomandato)</it>
         <de>Senden Sie alle Nachrichten (nicht empfohlen)</de>
-        <it>Inviare tutti i messaggi (non raccomandato)</it>
         <ur>تمام پیغامات (سفارش کی نہیں)</ur>
         <es>Enviar todos los mensajes (no recomendado)</es>
         <iw>שלח את כל ההודעות (לא מומלץ)</iw>

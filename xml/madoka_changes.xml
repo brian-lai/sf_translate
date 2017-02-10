@@ -35,7 +35,6 @@
         <sq>Nëse doni te ndaloni importimin e mesazheve te reja nga ky burim përmbajtjeje  pa fshirë mesazhet që tashmë janë në radhë, ju lutem ndryshoni statusin e burimit të përmbajtjes nga aktive në joaktiv.</sq>
         <it>Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo.</it>
         <de>Wenn Sie möchten, neuer Nachrichten aus dieser Inhaltsquelle zu importieren zu stoppen, ohne die Nachrichten löschen, die bereits in der Warteschlange wurden, finden Sie in der Inhaltsquelle Status von aktiv zu ändern, anstatt auf inaktiv gesetzt.</de>
-        <it>Se si desidera interrompere l'importazione di nuovi messaggi da questa fonte di contenuti senza cancellare i messaggi che sono già stati in coda, si prega di modificare lo stato fonte di contenuto da attivo a inattivo.</it>
         <ur>آپ پیغامات کو پہلے ہی قطار میں دیا گیا ہے کہ حذف کیے بغیر یہ مواد ذریعہ سے نئے پیغامات کی درآمد کو روکنے کے لئے چاہتے ہیں تو، اس کے بجائے غیر فعال کرنے کے لئے فعال سے مواد منبع کی حیثیت کو تبدیل کریں، براہ مہربانی.</ur>
         <es>Si desea detener la importación de nuevos mensajes de esta fuente de contenido sin eliminar los mensajes que ya se han puesto en espera, cambie el estado de la fuente de contenido de activo a inactivo.</es>
         <iw>אם אתה רוצה להפסיק לייבא הודעות חדשות ממקור תוכן זה מבלי למחוק את ההודעות שכבר בתור, בבקשה לשנות את סטטוס מקור התוכן פעיל למצב לא פעיל במקום.</iw>
@@ -56,7 +55,6 @@
         <sq>Shënim: Ndryshimi i  këtyre  mund të ndikojë në aftësinë e SocialFlow për të zgjedhur përmbajtjen më të mirë.</sq>
         <it>Nota: la modifica di questi può influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <de>Hinweis: Ändern können diese SocialFlow Fähigkeit auswirken Inhalte zu optimieren.</de>
-        <it>Nota: la modifica di questi può influire sulla capacità di SocialFlow di ottimizzare i contenuti.</it>
         <ur>نوٹ: ان بدلتے ہوئے مواد کو بہتر کرنے کے SocialFlow کی صلاحیت پر اثر انداز ہو سکتا ہے.</ur>
         <es>Nota: El cambio de estos puede afectar la capacidad de SocialFlow para optimizar contenido.</es>
         <iw>הערה: שינוי אלה עלולים להשפיע על יכולת SocialFlow לבצע אופטימיזציה של תוכן.</iw>
@@ -77,7 +75,6 @@
         <sq>Shto shkurtimin  ekzistues të website-it</sq>
         <it>Aggiungere l'abbrevazione esistente del sitio web</it>
         <de>Vorhandene hinzufügen Shortener</de>
-        <it>Aggiungere l'abbrevazione esistente del sitio web</it>
         <ur>موجودہ اختصار شامل کریں</ur>
         <es>Añadir Acortador de Enlaces Existente</es>
         <iw>הוספה קיים Shortener</iw>
@@ -98,7 +95,6 @@
         <sq>Egziston një gabim me informacionin në kartën tuaj të kreditit.</sq>
         <it>Errore con i dati della carta di credito.</it>
         <de>Fehler mit Ihrer Kreditkarteninformationen.</de>
-        <it>Errore con i dati della carta di credito.</it>
         <ur>آپ کے کریڈٹ کارڈ کی معلومات میں خامی.</ur>
         <es>Error con la información de su tarjeta de crédito</es>
         <iw>שגיאה עם פרטי כרטיס האשראי שלך.</iw>
@@ -119,7 +115,6 @@
         <sq>KUADRI PLANITT</sq>
         <it>Quadro</it>
         <de>PLAN IM ÜBERBLICK</de>
-        <it>Quadro</it>
         <ur>PLAN جائزہ</ur>
         <es>VISTA GENERAL DEL PLAN</es>
         <iw>סקירת תוכנית</iw>
@@ -140,7 +135,6 @@
         <sq>Opsionet e llogarisë</sq>
         <it>Le Opzioni dei conti</it>
         <de>Kontoeinstellungen</de>
-        <it>Le Opzioni dei conti </it>
         <ur>اکاؤنٹ اختیارات</ur>
         <es>Opciones de Cuenta</es>
         <iw>אפשרויות חשבון</iw>
@@ -201,7 +195,6 @@
         <sq>Mundësitë e pagesës</sq>
         <it>Opzioni di pagamento</it>
         <de>Zahlungsmöglichkeiten</de>
-        <it>Opzioni di pagamento</it>
         <ur>آدائیگی کے طریقے</ur>
         <es>Opciones de Pago</es>
         <iw>אפשרויות תשלום</iw>
@@ -222,7 +215,6 @@
         <sq>Ofertë Vjetore - 2 muaj pa pagesë për të gjitha llogaritë e reja</sq>
         <it>Annuale - ottenere 2 mesi gratis su tutti i nuovi account</it>
         <de>Jährlich - erhalten Sie 2 Monate kostenlos für alle neuen Konten</de>
-        <it>Annuale - ottenere 2 mesi gratis su tutti i nuovi account</it>
         <ur>سالانہ - حاصل تمام نئے اکاؤنٹس پر 2 ماہ کے مفت</ur>
         <es>Anual - Obtenga 2 meses gratis en todas las cuentas nuevas</es>
         <iw>שנתי - מקבל 2 חודשים חינם על כל החשבונות החדשים</iw>
@@ -243,7 +235,6 @@
         <sq>Muajore - fito llogari të reja për vetëm $1 në muajin e parë</sq>
         <it>Mese per mese - ottenere nuovi account per $ 1 per il primo mese</it>
         <de>Monat zu Monat - bekommen neue Konten für $ 1 für den ersten Monat</de>
-        <it>Mese per mese - ottenere nuovi account per $ 1 per il primo mese</it>
         <ur>ماہ بہ ماہ - پہلے مہینے کے لئے $ 1 کے لئے نئے اکاؤنٹس حاصل</ur>
         <es>Mes-a-Mes - Obtenga cuentas nuevas por $1 por el primer mes</es>
         <iw>חודש עד חודש - לקבל חשבונות חדשים עבור 1 $ עבור החודש הראשון</iw>
@@ -264,7 +255,6 @@
         <sq>Përdorni informacion në dosje</sq>
         <it>Utilizza le informazioni in archivio</it>
         <de>Verwenden Sie Informationen zur Datei</de>
-        <it>Utilizza le informazioni in archivio</it>
         <ur>فائل پر معلومات استعمال کریں</ur>
         <es>Utilizar Información en Archivo</es>
         <iw>משתמשים במידע על הקובץ</iw>
@@ -285,7 +275,6 @@
         <sq>Zgjidhni një mënyrë tjetër pagese</sq>
         <it>Sceglie un altro metodo di pagamento</it>
         <de>Wählen Sie eine andere Zahlungsmethode</de>
-        <it>Sceglie un altro metodo di pagamento</it>
         <ur>ایک مختلف ادائیگی کے طریقہ کار کا انتخاب کریں</ur>
         <es>Seleccionar un método de pago diferente</es>
         <iw>בחר אמצעי תשלום אחר</iw>
@@ -306,7 +295,6 @@
         <sq>Duke u nënshkruar, ju pranoni</sq>
         <it>Con la firma, accettate la nostra</it>
         <de>Wenn Sie sich erklären Sie sich mit unseren</de>
-        <it>Con la firma, accettate la nostra</it>
         <ur>سائن اپ کرنے کی طرف سے، آپ سے اتفاق کرتا ہوں کہ ہمارے</ur>
         <es>Al registrarse, usted acepta nuestro</es>
         <iw>על ידי הצטרפות, אתה מסכים שלנו</iw>
@@ -327,7 +315,6 @@
         <sq>Zgjidh një vend</sq>
         <it>Seleziona un Paese</it>
         <de>Wähle ein Land</de>
-        <it>Seleziona un Paese</it>
         <ur>ایک ملک منتخب کریں</ur>
         <es>Seleccione un país</es>
         <iw>בחר ארץ</iw>
@@ -348,7 +335,6 @@
         <sq>Termat e privatësisë</sq>
         <it>I condizioni sulla riservatezza</it>
         <de>Datenschutzrichtlinien</de>
-        <it>I condizioni sulla riservatezza</it>
         <ur>رازداری کی پالیسیوں</ur>
         <es>Políticas de privacidad</es>
         <iw>מדיניות פרטיות</iw>
@@ -370,7 +356,6 @@
         <sq>PËRMBLEDHJE E ÇMIMEVE</sq>
         <it>SINTESI DELLE SPESE</it>
         <de>ZUSAMMENFASSUNG DER GEBÜHREN</de>
-        <it>SINTESI DELLE SPESE</it>
         <ur>الزامات کی خلاصہ</ur>
         <es>RESUMEN DE CARGOS</es>
         <iw>סיכום של חיובים</iw>
@@ -391,7 +376,6 @@
         <sq>Vjetore: Merr dy muaj falas, kur ju paguani për një vit.</sq>
         <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <de>Jährlich: zwei kostenlose Monate erhalten, wenn Sie für ein Jahr zahlen.</de>
-        <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <ur>سالانہ: اگر آپ ایک سال کے لئے ادائیگی کرتے ہیں جب دو ماہ تک مفت حاصل کریں.</ur>
         <es>Anual: Obtenga dos meses grátis cuando paga por un año</es>
         <iw>שנתי: קבל חודשים חינם כאשר אתה משלם עבור שנה אחת.</iw>
@@ -412,7 +396,6 @@
         <sq>mujor</sq>
         <it>Mensile</it>
         <de>Monatlich</de>
-        <it>Mensile</it>
         <ur>ماہانہ</ur>
         <es>Mensual</es>
         <iw>יַרחוֹן</iw>
@@ -433,7 +416,6 @@
         <sq>Ulja pagesës mujore </sq>
         <it>Sconto del pagamento mensile</it>
         <de>Monatliche Zahlung Discount</de>
-        <it>Sconto pagamento mensile</it>
         <ur>ماہانہ ادائیگی ڈسکاؤنٹ</ur>
         <es>Descuento por Pago Mensual</es>
         <iw>דיסקונט תשלום חודשי</iw>
@@ -454,7 +436,6 @@
         <sq>Promo ulje pagese</sq>
         <it>Sconto Promo</it>
         <de>Promo Discount</de>
-        <it>Sconto Promo</it>
         <ur>پرومو ڈسکاؤنٹ</ur>
         <es>Descuento Promocional</es>
         <iw>דיסקונט פרומו</iw>
@@ -475,7 +456,6 @@
         <sq>Nëntotali</sq>
         <it>totale parziale</it>
         <de>Zwischensumme</de>
-        <it>totale parziale</it>
         <ur>ذیلی کل</ur>
         <es>Subtotal</es>
         <iw>סיכום ביניים</iw>
@@ -496,7 +476,6 @@
         <sq>Taks (NY dhe CA vetëm)</sq>
         <it>Imposta (NY e solo CA)</it>
         <de>Tax (NY und nur CA)</de>
-        <it>Imposta (NY e solo CA)</it>
         <ur>ٹیکس (NY اور CA صرف)</ur>
         <es>Impuesto (NY y CA solamente)</es>
         <iw>מס (ניו יורק אמריקה בלבד)</iw>
@@ -517,7 +496,6 @@
         <sq>Do paguani</sq>
         <it>Pagherà</it>
         <de>Sie werden in Rechnung gestellt</de>
-        <it>Pagherà</it>
         <ur>آپ وصول کی جائے گی</ur>
         <es>Usted será cobrado</es>
         <iw>תחויב</iw>
@@ -538,7 +516,6 @@
         <sq>PLAN</sq>
         <it>PIANO</it>
         <de>PLANEN</de>
-        <it>PIANO</it>
         <ur>PLAN</ur>
         <es>PLAN</es>
         <iw>לְתַכְנֵן</iw>
@@ -559,7 +536,6 @@
         <sq>Biznesi SocialFlow</sq>
         <it>SocialFlow Affari</it>
         <de>SocialFlow Geschäfts</de>
-        <it>SocialFlow Affari</it>
         <ur>SocialFlow بزنس</ur>
         <es>SocialFlow Negocios</es>
         <iw>עסקי SocialFlow</iw>
@@ -580,7 +556,6 @@
         <sq>2 ose më shumë Llogari</sq>
         <it>2 o più conti</it>
         <de>2 oder mehr Publishing-Konten</de>
-        <it>2 o più conti</it>
         <ur>2 یا زیادہ پبلشنگ اکاؤنٹس</ur>
         <es>2 o más Cuentas de Publicación</es>
         <iw>2 או חשבונות הוצאת ספרים עוד</iw>
@@ -601,7 +576,6 @@
         <sq>Raportet gjithëpërfshirës</sq>
         <it>rapporti completi</it>
         <de>Umfassende Berichte</de>
-        <it>Rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
         <es>Reportes Completos</es>
         <iw>דוחות מקיפים</iw>
@@ -622,8 +596,6 @@
         <sq>Mbështetje komuniteti</sq>
         <it>Il sostegno comunitario</it>
         <de>Gemeinschaftliche Unterstützung</de>
-        <it>
-Il sostegno comunitario</it>
         <ur>کمیونٹی سپورٹ</ur>
         <es>Soporte Comunitario</es>
         <iw>תמיכה בקהילה</iw>
@@ -644,7 +616,6 @@ Il sostegno comunitario</it>
         <sq>plan</sq>
         <it>Piano</it>
         <de>Planen</de>
-        <it>Piano</it>
         <ur>پلان</ur>
         <es>Plan</es>
         <iw>לְתַכְנֵן</iw>
@@ -665,7 +636,6 @@ Il sostegno comunitario</it>
         <sq>Pagesa</sq>
         <it>Costo</it>
         <de>Kosten</de>
-        <it>Costo</it>
         <ur>لاگت</ur>
         <es>Costo</es>
         <iw>עֲלוּת</iw>
@@ -686,7 +656,6 @@ Il sostegno comunitario</it>
         <sq>$ 0</sq>
         <it>$ 0</it>
         <de>$ 0</de>
-        <it>$ 0</it>
         <ur>$ 0</ur>
         <es>$0</es>
         <iw>$ 0</iw>
@@ -707,7 +676,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni asnjë përdorues për të modifikuar ende. Ftoni disa anëtarë të rinj për të filluar.</sq>
         <it>Non avete ancora utenti modificabili. Invita nuovi utenti per iniziare.</it>
         <de>Sie haben noch keine editierbaren Benutzer noch. Laden Sie einige neue Benutzer zu beginnen.</de>
-        <it>Non avete ancora utenti modificabili. Invitare nuovi utenti per iniziare.</it>
         <ur>ابھی تک آپ کوئی قابل تدوین صارفین کی ضرورت نہیں ہے. کچھ نئے صارفین کو مدعو شروع کرنے کے لئے.</ur>
         <es>Aún no tiene usuarios editables. Invite algunos usuarios nuevos para comenzar.</es>
         <iw>אין לך שום משתמשים לעריכה עדיין. זמן כמה משתמשים חדשים כדי להתחיל.</iw>
@@ -728,7 +696,6 @@ Il sostegno comunitario</it>
         <sq>(Asnjë emër i ruajturd)</sq>
         <it>(Nessun Nome salvato)</it>
         <de>(No gespeicherte Name)</de>
-        <it>(Nessun nome salvato)</it>
         <ur>(کوئی محفوظ نام)</ur>
         <es>(Nigún Nombre Guardado)</es>
         <iw>(אין שם שמורים)</iw>
@@ -769,7 +736,6 @@ Il sostegno comunitario</it>
         <sq>Më lajmëroni kur këto ngjarje ndodhin:</sq>
         <it>Inviami una notifica quando si verificano questi eventi:</it>
         <de>Benachrichtigen Sie mich, wenn diese Ereignisse auftreten:</de>
-        <it>Inviami una notifica quando si verificano questi eventi:</it>
         <ur>ان واقعات پائے جاتے ہیں جب مجھے مطلع کریں:</ur>
         <es>Notificarme cuando ocurran estos eventos:</es>
         <iw>יידע אותי כאשר אירועים אלה מתרחשים:</iw>
@@ -790,7 +756,6 @@ Il sostegno comunitario</it>
         <sq>Të reja nga SocialFlow</sq>
         <it>Aggiornamenti da SocialFlow</it>
         <de>Updates von SocialFlow</de>
-        <it>Aggiornamenti da SocialFlow</it>
         <ur>SocialFlow سے تازہ ترین معلومات کے</ur>
         <es>Actualizaciones de SocialFlow</es>
         <iw>עדכונים מ- SocialFlow</iw>
@@ -811,7 +776,6 @@ Il sostegno comunitario</it>
         <sq>Plani aktual:</sq>
         <it>Piano di corrente:</it>
         <de>Derzeitiger Plan:</de>
-        <it>Piano di corrente:</it>
         <ur>موجودہ پلان:</ur>
         <es>Plan Corriente:</es>
         <iw>התכנית הנוכחית:</iw>
@@ -832,7 +796,6 @@ Il sostegno comunitario</it>
         <sq>Numri i llogarive të përfshira:</sq>
         <it>Numero di account inclusi:</it>
         <de>Anzahl der Konten enthalten:</de>
-        <it>Numero di account inclusi:</it>
         <ur>اکاؤنٹس کی بڑی تعداد شامل:</ur>
         <es>Número de cuentas incluidas:</es>
         <iw>מספר החשבונות כלול:</iw>
@@ -853,7 +816,6 @@ Il sostegno comunitario</it>
         <sq>Të reja për Biznesin e SocialFlow</sq>
         <it>Aggiornamento a SocialFlow business</it>
         <de>Upgrade auf SocialFlow Geschäfts</de>
-        <it>Aggiornamento a SocialFlow business</it>
         <ur>SocialFlow کاروبار میں اپ گریڈ کریں</ur>
         <es>Upgrade a SocialFlow Business</es>
         <iw>שדרוג למחלקת עסקים SocialFlow</iw>
@@ -874,7 +836,6 @@ Il sostegno comunitario</it>
         <sq>Shto llogaritë Sociale</sq>
         <it>Aggiungere sui conti sociali</it>
         <de>Fügen Sie auf Social Accounts</de>
-        <it>Aggiungere sui conti sociali</it>
         <ur>سماجی اکاؤنٹس پر شامل کریں</ur>
         <es>Añadir en Cuentas Sociales</es>
         <iw>להוסיף על חשבונות חברתיים</iw>
@@ -915,7 +876,6 @@ Il sostegno comunitario</it>
         <sq>Nëse ju doni të përmirësoni versionin e llogarisë, ju lutem kontaktoni</sq>
         <it>Se si desidera aggiornare, si prega di contattare</it>
         <de>Wenn Sie aktualisieren möchten, wenden Sie sich bitte</de>
-        <it>Se si desidera aggiornare, si prega di contattare</it>
         <ur>آپ کو اپ گریڈ کرنا چاہتے ہیں تو، برائے مہربانی رابطہ کریں</ur>
         <es>Si desea upgrade, por favor contacte</es>
         <iw>אם אתם רוצים לשדרג, אנא צרו קשר</iw>
@@ -936,7 +896,6 @@ Il sostegno comunitario</it>
         <sq>upgrade@socialflow.com</sq>
         <it>upgrade@socialflow.com</it>
         <de>upgrade@socialflow.com</de>
-        <it>upgrade@socialflow.com</it>
         <ur>upgrade@socialflow.com</ur>
         <es>upgrade@socialflow.com</es>
         <iw>upgrade@socialflow.com</iw>
@@ -957,7 +916,6 @@ Il sostegno comunitario</it>
         <sq>Posto zgjedhjen më të mirë për</sq>
         <it>ottimizzare la pubblicazione per</it>
         <de>Optimierte Publishing für</de>
-        <it>ottimizzare la pubblicazione per</it>
         <ur>کیلئے شائع آپٹمائزڈ</ur>
         <es>Publicación Optimizada para</es>
         <iw>אופטימלי לאור עבור</iw>
@@ -978,7 +936,6 @@ Il sostegno comunitario</it>
         <sq>2 ose më shumë Llogari Twitter apo Facebook</sq>
         <it>2 o più conti  Twitter o Facebook</it>
         <de>2 oder mehr Twitter oder Facebook-Konten</de>
-        <it>2 o più conti Twitter o Facebook</it>
         <ur>2 یا زیادہ ٹویٹر یا فیس بک کے اکاؤنٹس</ur>
         <es>2 o más Cuentas de Facebook o Twitter</es>
         <iw>2 או יותר חשבונות טוויטר או פייסבוק</iw>
@@ -999,7 +956,6 @@ Il sostegno comunitario</it>
         <sq>deri në 30 Llogari Twitter apo Facebook</sq>
         <it>fino a 30 conti  Twitter o Facebook</it>
         <de>bis zu 30 Twitter oder Facebook-Konten</de>
-        <it>fino a 30 contit Twitter o Facebook</it>
         <ur>30 ٹویٹر یا فیس بک کے اکاؤنٹس</ur>
         <es>Hasta 30 Cuentas de Twitter o Facebook</es>
         <iw>עד 30 חשבונות טוויטר או פייסבוק</iw>
@@ -1020,7 +976,6 @@ Il sostegno comunitario</it>
         <sq>Shtoni edhe më shumë llogari duke filluar në</sq>
         <it>Aggiungere ancora più conti a partire da</it>
         <de>Fügen Sie noch mehr Konten ab</de>
-        <it>Aggiungere ancora più conti a partire da</it>
         <ur>سے شروع بھی زیادہ اکاؤنٹس کا اضافہ کریں</ur>
         <es>Añadir hasta más cuentas desde</es>
         <iw>להוסיף עוד יותר חשבונות החל מ</iw>
@@ -1041,7 +996,6 @@ Il sostegno comunitario</it>
         <sq>Krijo një Klient me detaje të ndryshme faturimit</sq>
         <it>Creare un client con diverse dettagli di fatturazione</it>
         <de>Erstellen Sie eine Client mit unterschiedlichen Rechnungsdetails</de>
-        <it>Creare un client con diverse dettagli di fatturazionei</it>
         <ur>مختلف بلنگ تفصیلات کے ساتھ ایک کلائنٹ بنائیں</ur>
         <es>Crear un Cliente con Diferentes Detalles de Facturación</es>
         <iw>צור לקוח עם פרטי חיוב שונים</iw>
@@ -1062,7 +1016,6 @@ Il sostegno comunitario</it>
         <sq>Dëshironi të shtoni llogari të SocialFlow me informacione të ndryshme të faturimit?</sq>
         <it>Vuoi aggiungere conti a SocialFlow con diversi dati di fatturazione?</it>
         <de>Möchten Konten SocialFlow mit unterschiedlichen Abrechnungsinformationen hinzufügen?</de>
-        <it>Vuoi aggiungere conti  a SocialFlow con diversi dati di fatturazione?</it>
         <ur>مختلف بلنگ کی معلومات SocialFlow کرنے اکاؤنٹس شامل کرنا چاہتے ہیں؟</ur>
         <es>Desea añadir cuentas a SocialFlow con información de facturación diferentes?</es>
         <iw>רוצה להוסיף חשבונות SocialFlow עם פרטי חיוב שונים?</iw>
@@ -1083,7 +1036,6 @@ Il sostegno comunitario</it>
         <sq>Krijo një klient të ri</sq>
         <it>Crea un Nuovo Cliente</it>
         <de>Erstellen neuer Kunde</de>
-        <it>Crea Nuovo Cliente</it>
         <ur>نئے گاہک بنائیں</ur>
         <es>Crear Nuevo Cliente</es>
         <iw>יצירת לקוח חדש</iw>
@@ -1104,7 +1056,6 @@ Il sostegno comunitario</it>
         <sq>Shërbimet e kompanisë</sq>
         <it>Servizi alle impreses</it>
         <de>Enterprise Services</de>
-        <it>Servizi alle imprese</it>
         <ur>انٹرپرائز سروسز</ur>
         <es>Servicios Empresariales</es>
         <iw>שירותים ארגוניים</iw>
@@ -1145,7 +1096,6 @@ Il sostegno comunitario</it>
         <sq>Kontakto grupin e shitjeve</sq>
         <it>Contatta l'ufficio vendite</it>
         <de>Kontakt zum Vertrieb</de>
-        <it>Contatta l'ufficio vendite</it>
         <ur>سیلز سے رابطہ کریں</ur>
         <es>Contactar Ventas</es>
         <iw>מכירות לתקשר</iw>
@@ -1166,7 +1116,6 @@ Il sostegno comunitario</it>
         <sq>Plotësisht ndikojnë proceset multifunksionale dhe zinxhirët e furnizimit pa tel. Dinamike të angazhohen metaservices biznesit për të dhënat e tregut të shtyrë. Bashkëpunim të rivendosur përdoruesit ndër-platformë para se të produkteve të prodhuara klientit qendër.</sq>
         <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <de>Auswirkungen Komplett multifunktionale Prozesse und drahtlose Lieferketten. Dynamisch Geschäft MetaServices für marktorientierte Daten engagieren. Kollaborativ wiederherstellen Cross-Plattform-Benutzer vor klientenzentrierte hergestellten Produkte.</de>
-        <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <ur>مکمل طور پر کثیر عمل اور وائرلیس سپلائی چین اثر انداز. متحرک طور پر مارکیٹ پر مبنی اعداد و شمار کے لئے کاروبار metaservices مشغول. مل کر کلائنٹ مرکوز تیار کردہ مصنوعات سے پہلے کراس پلیٹ فارم صارفین کو بحال.</ur>
         <es>Impacte completamente los procesos multifuncionales y las cadenas de suministro inalámbricas. Involucrese dinámicamente a metaservicios empresariales para datos orientados al mercado. Restablezca de forma colaborativa a usuarios de distintas plataformas antes de productos manufacturados centrados en el cliente.</es>
         <iw>לגמרי להשפיע תהליכים רבים תכליתיים שרשרות אספקה ​​אלחוטיות. דינאמי לעסוק metaservices העסקי עבור נתונים מונחה שוק. בשיתוף פעולה לשחזר משתמשים בפלטפורמות לפני מהמוצרים שהופקו הלקוח במרכז.</iw>
@@ -1187,7 +1136,6 @@ Il sostegno comunitario</it>
         <sq>Guxim zhvillohet vortals afatgjata me ndikim të lartë përmes zgjidhjeve vizionare. Profesionalisht shfrytëzuar portaleve të standardizuara vis-a-vis burimeve maksimizimin e rezultateve. Vazhdimisht të koordinuar më vete aplikacionet më tepër se komunitetet virtuale.</sq>
         <it>Assertivo evolversi vortals ad alto impatto a lungo termine attraverso soluzioni visionarie. Professionalmente sfruttare portali standardizzati vis-a-vis deliverable risorse massimizzando. Continuamente coordinare applicazioni stand-alone, piuttosto che le comunità virtuali.</it>
         <de>langfristige High-Impact Vortale durch visionäre Lösungen assertively entwickeln. Professionell nutzen standardisierte Portale vis-a-vis Ressourcenmaximierung zu erbringenden Leistungen. Stand-alone-Anwendungen eher als virtuelle Gemeinschaften Kontinuierlich koordinieren.</de>
-        <it>Assertivo evolversi vortals ad alto impatto a lungo termine attraverso soluzioni visionarie. Professionalmente sfruttare portali standardizzati vis-a-vis deliverable risorse massimizzando. Continuamente coordinare applicazioni stand-alone, piuttosto che le comunità virtuali.</it>
         <ur>Assertively بصیرت حل کے ذریعے طویل مدتی اعلی اثر vortals تیار. پیشہ ورانہ معیار کیا پورٹلز مقابلے- A- مقابلے وسائل بڑھانے ڈیلیورایبلز دوہن. کھڑے اکیلے ایپلی کیشنز کی بجائے مجازی کمیونٹیز محدد.</ur>
         <es>Asertivamente evolucionar portales de largo plazo y alto impacto a través de soluciones visionarias. Profesionalmente aproveche portales estandarizados frente a recursos que maximizan los resultados. Coordine continuamente aplicaciones autónomas en lugar de comunidades virtuales.</es>
         <iw>באסרטיביות להתפתח vortals השפעה גבוהה לטווח ארוך באמצעות פתרונות חזון. מבחינה מקצועית לרתום פורטלים סטנדרטיים לְעוּמַת תוצרים למקסם משאבים. רף לתאם יישומים עצמאיים ולא קהילות וירטואליות.</iw>
@@ -1208,7 +1156,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni asnjë fusha ende.</sq>
         <it>Non avete ancora domini.</it>
         <de>Sie haben noch keine Domains noch.</de>
-        <it>Non avete ancora domini.</it>
         <ur>ابھی تک آپ کوئی ڈومینز کی ضرورت نہیں ہے.</ur>
         <es>Usted no tiene dominios aún.</es>
         <iw>אין לך דומיינים עדיין.</iw>
@@ -1229,7 +1176,6 @@ Il sostegno comunitario</it>
         <sq>Plotësisht ndikon proceset multifunksionale dhe zinxhirët e furnizimit pa tel. Të angazhohen metasherbimet e  biznesit për të dhënat e tregut. Bashkërisht të rivendosim përdoruesit ndër te gjitha platformat para produkteve të prodhuara per klientit.</sq>
         <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <de>Auswirkungen Komplett multifunktionale Prozesse und drahtlose Lieferketten. Dynamisch Geschäft MetaServices für marktorientierte Daten engagieren. Kollaborativ wiederherstellen Cross-Plattform-Benutzer vor klientenzentrierte hergestellten Produkte.</de>
-        <it>Completamente impatto processi multifunzionali e catene di fornitura wireless. Dinamicamente impegnarsi metaservices di business per i dati orientati al mercato. In collaborazione ripristinare gli utenti multipiattaforma prima manufatti centrata sul cliente.</it>
         <ur>مکمل طور پر کثیر عمل اور وائرلیس سپلائی چین اثر انداز. متحرک طور پر مارکیٹ پر مبنی اعداد و شمار کے لئے کاروبار metaservices مشغول. مل کر کلائنٹ مرکوز تیار کردہ مصنوعات سے پہلے کراس پلیٹ فارم صارفین کو بحال.</ur>
         <es>Impacte completamente los procesos multifuncionales y las cadenas de suministro inalámbricas. Involucrese dinámicamente a metaservicios empresariales para datos orientados al mercado. Restablezca de forma colaborativa a usuarios de distintas plataformas antes de productos manufacturados centrados en el cliente.</es>
         <iw>לגמרי להשפיע תהליכים רבים תכליתיים שרשרות אספקה ​​אלחוטיות. דינאמי לעסוק metaservices העסקי עבור נתונים מונחה שוק. בשיתוף פעולה לשחזר משתמשים בפלטפורמות לפני מהמוצרים שהופקו הלקוח במרכז.</iw>
@@ -1270,7 +1216,6 @@ Il sostegno comunitario</it>
         <sq>Faleminderit!</sq>
         <it>Grazie!</it>
         <de>Danke!</de>
-        <it>Grazie!</it>
         <ur>آپ کا شکریہ!</ur>
         <es>Gracias!</es>
         <iw>תודה!</iw>
@@ -1291,7 +1236,6 @@ Il sostegno comunitario</it>
         <sq>Faleminderit për interesimin tuaj në SocialFlow Enterprise. Ne do të jemi në kontakt së shpejti.</sq>
         <it>Grazie per il vostro interesse in SocialFlow Enterprise. Saremo in contatto a breve.</it>
         <de>Vielen Dank für Ihr Interesse an SocialFlow Unternehmen. In Kürze werden wir in Kontakt stehen.</de>
-        <it>Grazie per il vostro interesse in SocialFlow Enterprise. Saremo in contatto a breve.</it>
         <ur>SocialFlow انٹرپرائز میں آپ کی دلچسپی کے لئے آپ کا شکریہ. ہم جلد ہی رابطے میں ہو جائے گا.</ur>
         <es>Gracias por su interés en SocialFlow Empresarial. Estaremos en contacto en breve.</es>
         <iw>אנו מודים לך על התעניינותך SocialFlow Enterprise. אנחנו נהיה בקשר בקרוב.</iw>
@@ -1352,7 +1296,6 @@ Il sostegno comunitario</it>
         <sq>grup</sq>
         <it>Gruppo</it>
         <de>Gruppe</de>
-        <it>Gruppo</it>
         <ur>گروپ</ur>
         <es>Grupo</es>
         <iw>קְבוּצָה</iw>
@@ -1373,7 +1316,6 @@ Il sostegno comunitario</it>
         <sq>i vlefshëm</sq>
         <it>Valido</it>
         <de>Gültig</de>
-        <it>Valido</it>
         <ur>درست</ur>
         <es>Válido</es>
         <iw>תָקֵף</iw>
@@ -1394,7 +1336,6 @@ Il sostegno comunitario</it>
         <sq>i pavlefshëm</sq>
         <it>Non valido</it>
         <de>Ungültig</de>
-        <it>Non valido</it>
         <ur>غلط</ur>
         <es>Inválido</es>
         <iw>לא חוקי</iw>
@@ -1415,7 +1356,6 @@ Il sostegno comunitario</it>
         <sq>Autorizo përsëri</sq>
         <it>ri-autorizzare</it>
         <de>reauthorize</de>
-        <it>ri-autorizzare</it>
         <ur>دوبارہ اجازت</ur>
         <es>Reautorizar</es>
         <iw>אשר מחדש</iw>
@@ -1436,7 +1376,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni asnjë llogari ende.</sq>
         <it>Non avete ancora conti.</it>
         <de>Sie haben noch keine Konten noch.</de>
-        <it>Non avete ancora conti.</it>
         <ur>ابھی تک آپ کوئی اکاؤنٹس نہیں.</ur>
         <es>Usted no tiene cuentas aún.</es>
         <iw>אין לך שום חשבונות עדיין.</iw>
@@ -1477,7 +1416,6 @@ Il sostegno comunitario</it>
         <sq>Informacioni klientit</sq>
         <it>Informazioni sul client</it>
         <de>Kundeninformation</de>
-        <it>Informazioni sul client</it>
         <ur>کلائنٹ معلومات</ur>
         <es>Información de Cliente</es>
         <iw>מידע לקוח</iw>
@@ -1498,7 +1436,6 @@ Il sostegno comunitario</it>
         <sq>* Website:</sq>
         <it>*Sito web:</it>
         <de>*Webseite:</de>
-        <it>*Sito web:</it>
         <ur>* ویب سائٹ:</ur>
         <es>*Website:</es>
         <iw>*אתר אינטרנט:</iw>
@@ -1519,7 +1456,6 @@ Il sostegno comunitario</it>
         <sq>Mundësitë e pagesës</sq>
         <it>Opzioni di pagamento</it>
         <de>Zahlungsmöglichkeiten</de>
-        <it>Opzioni di pagamento</it>
         <ur>آدائیگی کے طریقے</ur>
         <es>Opciones de Pago</es>
         <iw>אפשרויות תשלום</iw>
@@ -1540,7 +1476,6 @@ Il sostegno comunitario</it>
         <sq>Ju jeni duke paguar</sq>
         <it>Si sta pagando</it>
         <de>Sie zahlen derzeit</de>
-        <it>Si sta pagando</it>
         <ur>آپ فی الحال ادا کر رہے ہیں</ur>
         <es>Usted está pagando actualmente</es>
         <iw>אתה משלם כיום</iw>
@@ -1561,7 +1496,6 @@ Il sostegno comunitario</it>
         <sq>Mbani Faturimi vjetor dhe merr  2 muaj pa pagesë për të gjitha llogaritë tuaja</sq>
         <it>Mantenere fatturazione annuale e si ottene 2 mesi gratis su tutti i tuoi account</it>
         <de>Halten jährliche Abrechnung und Sie erhalten 2 Monate kostenlos auf alle Ihre Konten</de>
-        <it>Mantenere fatturazione annuale e si ottene 2 mesi gratis su tutti i tuoi account</it>
         <ur>سالانہ بلنگ رکھیں اور آپ کے تمام اکاؤنٹس پر 2 ماہ کے مفت حاصل</ur>
         <es>Mantener Facturación Anual y obtener 2 meses grátis en todas sus cuentas</es>
         <iw>שמור שנתי חיוב ולקבל 2 חודשים חינם על כל החשבונות שלך</iw>
@@ -1582,7 +1516,6 @@ Il sostegno comunitario</it>
         <sq>Kaloni tek faturimit muaj-me-muaj dhe merr llogaritë e reja për 99 ¢ gjatë muajit të parë.</sq>
         <it>Passa alla fatturazione me mese per mese e ottenere i nuovi conti per 99 ¢ per il primo mese.</it>
         <de>Wechseln Sie die Abrechnung mich Monat zu Monat und meine neue Konten für 99 ¢ für den ersten Monat.</de>
-        <it>Passa alla fatturazione me mese per mese e ottenere i nuovi conti per 99 ¢ per il primo mese.</it>
         <ur>مجھے ایک مہینہ ٹو ماہ کے بلنگ پر سوئچ کریں اور پہلے مہینے کے لئے 99 ¢ لئے میرے نئے اکاؤنٹ ملتا.</ur>
         <es>Cambiar a facturarme Mes-aMes y obtener mis cuentas por 99¢ por el primer mes.</es>
         <iw>לעבור לחיוב לי חודש עד חודש ולקבל החשבונות החדשים שלי ל -99 ¢ במשך החודש הראשון.</iw>
@@ -1603,7 +1536,6 @@ Il sostegno comunitario</it>
         <sq>Kaloni tek Faturimi vjetor dhe merr 2 muaj pa pagesë për të gjitha llogaritë tuaja</sq>
         <it>Passa alla fatturazione annuale e ottenere 2 mesi gratis su tutti i tuoi account</it>
         <de>Wechseln Sie in den Annual Billing und Sie erhalten 2 Monate kostenlos auf alle Ihre Konten</de>
-        <it>Passa alla fatturazione annuale e ottenere 2 mesi gratis su tutti i tuoi account</it>
         <ur>سالانہ بلنگ پر سوئچ کریں اور آپ کے تمام اکاؤنٹس پر 2 ماہ کے مفت حاصل</ur>
         <es>Cambiar a Facturación Anual y obtener 2 meses grátis en todas sus cuentas.</es>
         <iw>Switch to חיוב שנתי ולקבל 2 חודשים חינם על כל החשבונות שלך</iw>
@@ -1624,7 +1556,6 @@ Il sostegno comunitario</it>
         <sq>Mbani faturimit më Muaj në muaj dhe merr llogaritë e reja</sq>
         <it>Tienimi fatturazione mese per mese e ottenere i nuovi conti</it>
         <de>Halten Sie mich Monat zu Monat Abrechnung und meine neuen Konten erhalten</de>
-        <it>Tienimi fatturazione mese per mese e ottenere i nuovi conti </it>
         <ur>مجھے ایک مہینہ ٹو ماہ کے بلنگ رکھیں اور اپنے نئے اکاؤنٹس حاصل</ur>
         <es>Mantener facturación Mes-a-Mes y obtener mis cuentas nuevas</es>
         <iw>שמור חיוב לי חודש עד חודש ולקבל החשבונות החדשים שלי</iw>
@@ -1645,7 +1576,6 @@ Il sostegno comunitario</it>
         <sq>Informacioni Faturimit</sq>
         <it>Informazioni di fatturazione</it>
         <de>Abrechnungsdaten</de>
-        <it>Informazioni di fatturazione</it>
         <ur>بلنگ کی معلومات</ur>
         <es>Información de Facturación</es>
         <iw>פרטי חיוב</iw>
@@ -1666,7 +1596,6 @@ Il sostegno comunitario</it>
         <sq>për muajin e parë.</sq>
         <it>per il primo mese.</it>
         <de>für für den ersten Monat.</de>
-        <it>per il primo mese.</it>
         <ur>پہلے مہینے کے لئے.</ur>
         <es>por el primer mes.</es>
         <iw>במשך החודש הראשון.</iw>
@@ -1687,7 +1616,6 @@ Il sostegno comunitario</it>
         <sq>Duke nënshkruar, ju pranoni</sq>
         <it>Con la firma, accettate la nostra</it>
         <de>Wenn Sie sich erklären Sie sich mit unseren</de>
-        <it>Con la firma, accettate la nostra</it>
         <ur>سائن اپ کرنے کی طرف سے، آپ سے اتفاق کرتا ہوں کہ ہمارے</ur>
         <es>Al registrarse, usted acepta nuestras</es>
         <iw>על ידי הצטרפות, אתה מסכים שלנו</iw>
@@ -1728,7 +1656,6 @@ Il sostegno comunitario</it>
         <sq>PËRMBLEDHJE E ÇMIMEVE</sq>
         <it>SINTESI DELLE SPESE</it>
         <de>ZUSAMMENFASSUNG DER GEBÜHREN</de>
-        <it>SINTESI DELLE SPESE</it>
         <ur>الزامات کی خلاصہ</ur>
         <es>RESUMEN DE CARGOS</es>
         <iw>סיכום של חיובים</iw>
@@ -1749,7 +1676,6 @@ Il sostegno comunitario</it>
         <sq>plan</sq>
         <it>Piano</it>
         <de>Planen</de>
-        <it>Piano</it>
         <ur>پلان</ur>
         <es>Plan</es>
         <iw>לְתַכְנֵן</iw>
@@ -1770,7 +1696,6 @@ Il sostegno comunitario</it>
         <sq>Vjetore: Merr dy muaj falas, kur ju paguani për një vit.</sq>
         <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <de>Jährlich: zwei kostenlose Monate erhalten, wenn Sie für ein Jahr zahlen.</de>
-        <it>Annuale: Ottenere due mesi gratis quando si paga per un anno.</it>
         <ur>سالانہ: اگر آپ ایک سال کے لئے ادائیگی کرتے ہیں جب دو ماہ تک مفت حاصل کریں.</ur>
         <es>Anual: Obtenga dos meses grátis al pagar por un año.</es>
         <iw>שנתי: קבל חודשים חינם כאשר אתה משלם עבור שנה אחת.</iw>
@@ -1791,7 +1716,6 @@ Il sostegno comunitario</it>
         <sq>plan</sq>
         <it>Piano</it>
         <de>Planen</de>
-        <it>Piano</it>
         <ur>پلان</ur>
         <es>Plan</es>
         <iw>לְתַכְנֵן</iw>
@@ -1812,7 +1736,6 @@ Il sostegno comunitario</it>
         <sq>mujor</sq>
         <it>Mensile</it>
         <de>Monatlich</de>
-        <it>Mensile</it>
         <ur>ماہانہ</ur>
         <es>Mensual</es>
         <iw>יַרחוֹן</iw>
@@ -1833,7 +1756,6 @@ Il sostegno comunitario</it>
         <sq>kosto</sq>
         <it>Costo</it>
         <de>Kosten</de>
-        <it>Costo</it>
         <ur>لاگت</ur>
         <es>Costo</es>
         <iw>עֲלוּת</iw>
@@ -1854,7 +1776,6 @@ Il sostegno comunitario</it>
         <sq>Ulje cmimit mujora</sq>
         <it>Sconto del pagamento mensile</it>
         <de>Monatliche Zahlung Discount</de>
-        <it>Sconto del pagamento mensile</it>
         <ur>ماہانہ ادائیگی ڈسکاؤنٹ</ur>
         <es>Descuento de Pago Mensual</es>
         <iw>דיסקונט תשלום חודשי</iw>
@@ -1875,7 +1796,6 @@ Il sostegno comunitario</it>
         <sq>Ulje Promo</sq>
         <it>Sconto Promo</it>
         <de>Promo Discount</de>
-        <it>Sconto Promo</it>
         <ur>پرومو ڈسکاؤنٹ</ur>
         <es>Descuento Promocional</es>
         <iw>דיסקונט פרומו</iw>
@@ -1896,7 +1816,6 @@ Il sostegno comunitario</it>
         <sq>Nëntotali</sq>
         <it>totale parziale</it>
         <de>Zwischensumme</de>
-        <it>totale parziale</it>
         <ur>ذیلی کل</ur>
         <es>Subtotal</es>
         <iw>סיכום ביניים</iw>
@@ -1917,7 +1836,6 @@ Il sostegno comunitario</it>
         <sq>Taksa (NY dhe CA vetëm)</sq>
         <it>Imposta (NY e solo CA)</it>
         <de>Tax (NY und nur CA)</de>
-        <it>Imposta (NY e solo CA)</it>
         <ur>ٹیکس (NY اور CA صرف)</ur>
         <es>Impuesto (NY y CA solamente)</es>
         <iw>מס (ניו יורק אמריקה בלבד)</iw>
@@ -1938,7 +1856,6 @@ Il sostegno comunitario</it>
         <sq>KUADRI PLANIT</sq>
         <it>Quadro</it>
         <de>PLAN IM ÜBERBLICK</de>
-        <it>Quadro</it>
         <ur>PLAN جائزہ</ur>
         <es>VISTA GENERAL DEL PLAN</es>
         <iw>סקירת תוכנית</iw>
@@ -1959,7 +1876,6 @@ Il sostegno comunitario</it>
         <sq>2 ose më shumë Llogarit</sq>
         <it>2 o più conita</it>
         <de>2 oder mehr Publishing-Konten</de>
-        <it>2 o più conti</it>
         <ur>2 یا زیادہ پبلشنگ اکاؤنٹس</ur>
         <es>2 o más Cuentas de Publicación</es>
         <iw>2 או חשבונות הוצאת ספרים עוד</iw>
@@ -1980,7 +1896,6 @@ Il sostegno comunitario</it>
         <sq>Raportet gjithëpërfshirës</sq>
         <it>rapporti completi</it>
         <de>Umfassende Berichte</de>
-        <it>rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
         <es>Reportes Completos</es>
         <iw>דוחות מקיפים</iw>
@@ -2001,7 +1916,6 @@ Il sostegno comunitario</it>
         <sq>Mbështetje Komunitetity</sq>
         <it>Il sostegno comunitario</it>
         <de>Gemeinschaftliche Unterstützung</de>
-        <it>Il sostegno comunitario</it>
         <ur>کمیونٹی سپورٹ</ur>
         <es>Soporte Comunitario</es>
         <iw>תמיכה בקהילה</iw>
@@ -2022,7 +1936,6 @@ Il sostegno comunitario</it>
         <sq>Mos mendo më per publikimin. Rregjistrohu sot! </sq>
         <it>Non indovinare più sulla pubblicazione. Iscriviti oggi!</it>
         <de>Nehmen Sie das Rätselraten bei der Veröffentlichung. Heute anmelden!</de>
-        <it>Non indovinare più sulla pubblicazione. Iscriviti oggi!!</it>
         <ur>پبلشنگ کے guesswork لے لو. آج سائن اپ کریں!</ur>
         <es>Elimine las conjeturas de la publicación. ¡Regístrese hoy!</es>
         <iw>קח את הניחושים מתוך ההוצאה לאור. הירשם היום!</iw>
@@ -2043,7 +1956,6 @@ Il sostegno comunitario</it>
         <sq>STANDARD</sq>
         <it>STANDARD</it>
         <de>STANDARD</de>
-        <it>STANDARD</it>
         <ur>STANDARD</ur>
         <es>ESTANDAR</es>
         <iw>תֶקֶן</iw>
@@ -2064,7 +1976,6 @@ Il sostegno comunitario</it>
         <sq>muaj</sq>
         <it>mese</it>
         <de>Monat</de>
-        <it>mese</it>
         <ur>مہینہ</ur>
         <es>mes</es>
         <iw>חוֹדֶשׁ</iw>
@@ -2085,7 +1996,6 @@ Il sostegno comunitario</it>
         <sq>Zgjidh opsionin me te mire per te publikuar për 1 llogari  Twitter ose Facebook</sq>
         <it>ottimizzare l'editoria per un conto de Twitter o Facebook</it>
         <de>Optimierte Publishing für 1 Twitter oder Facebook Account</de>
-        <it>Ottimizzato Publishing per 1 Twitter o Facebook account</it>
         <ur>1 ٹویٹر یا فیس بک اکاؤنٹ کیلئے شائع آپٹمائزڈ</ur>
         <es>Publicación Optimizada para 1 Cuenta de Twitter o Facebook</es>
         <iw>אופטימלי לאור עבור 1 חשבון טוויטר או פייסבוק</iw>
@@ -2106,7 +2016,6 @@ Il sostegno comunitario</it>
         <sq>Plani vjetor me ulje ne dispozicion</sq>
         <it>Scontato Piano annuale disponibile</it>
         <de>Ermäßigte Jahresplan verfügbar</de>
-        <it>Scontato Piano annuale disponibile</it>
         <ur>رعایتی سالانہ دستیاب کی منصوبہ بندی</ur>
         <es>Plan Anual con descuento disponible</es>
         <iw>תכנית שנתית בהנחה זמינה</iw>
@@ -2127,7 +2036,6 @@ Il sostegno comunitario</it>
         <sq>Përdorues pa kufi</sq>
         <it>utenti illimitati</it>
         <de>unbegrenzte Benutzer</de>
-        <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
         <es>Usuarios Ilimitados</es>
         <iw>משתמשים ללא הגבלה</iw>
@@ -2148,7 +2056,6 @@ Il sostegno comunitario</it>
         <sq>Raportet gjithëpërfshirës</sq>
         <it>rapporti completi</it>
         <de>Umfassende Berichte</de>
-        <it>rapporti completi</it>
         <ur>جامع رپورٹیں</ur>
         <es>Reportes Completos</es>
         <iw>דוחות מקיפים</iw>
@@ -2169,7 +2076,6 @@ Il sostegno comunitario</it>
         <sq>Mbështetje komunitetity</sq>
         <it>Il sostegno comunitario</it>
         <de>Gemeinschaftliche Unterstützung</de>
-        <it>Il sostegno comunitario</it>
         <ur>کمیونٹی سپورٹ</ur>
         <es>Soporte Comunitario</es>
         <iw>תמיכה בקהילה</iw>
@@ -2190,7 +2096,6 @@ Il sostegno comunitario</it>
         <sq>Upgrade për Biznes</sq>
         <it>Facile aggiornamento a attivita commerciale</it>
         <de>Einfaches Upgrade to Business</de>
-        <it>Facile aggiornamento to Business</it>
         <ur>بزنس کے لئے آسان اپ گریڈ</ur>
         <es>Upgrade Fácil para Negocio</es>
         <iw>שדרוג קל עסקים</iw>
@@ -2211,7 +2116,6 @@ Il sostegno comunitario</it>
         <sq>Anullo kurdo.</sq>
         <it>Annullare in qualsiasi momento.</it>
         <de>Abbrechen jederzeit.</de>
-        <it>Annullare in qualsiasi momento.</it>
         <ur>کسی بھی وقت منسوخ.</ur>
         <es>Cancele en cualquier momento</es>
         <iw>לבטל בכל עת.</iw>
@@ -2232,7 +2136,6 @@ Il sostegno comunitario</it>
         <sq>Regjistrohu</sq>
         <it>Registrazione</it>
         <de>Anmelden</de>
-        <it>Registrazione</it>
         <ur>ممبر بنیں</ur>
         <es>Regístrese</es>
         <iw>הירשם</iw>
@@ -2253,7 +2156,6 @@ Il sostegno comunitario</it>
         <sq>BIZINESSS</sq>
         <it>ATTIVITÀ COMMERCIALE</it>
         <de>GESCHÄFT</de>
-        <it>ATTIVITÀ COMMERCIALE</it>
         <ur>BUSINESS</ur>
         <es>NEGOCIO</es>
         <iw>עֵסֶק</iw>
@@ -2274,7 +2176,6 @@ Il sostegno comunitario</it>
         <sq>duke filluar nga</sq>
         <it>a partire da</it>
         <de>beginnt um</de>
-        <it>a partire da</it>
         <ur>سے شروع</ur>
         <es>desde</es>
         <iw>מתחיל ב</iw>
@@ -2295,7 +2196,6 @@ Il sostegno comunitario</it>
         <sq>muaj</sq>
         <it>mese</it>
         <de>Monat</de>
-        <it>mese</it>
         <ur>مہینہ</ur>
         <es>mes</es>
         <iw>חוֹדֶשׁ</iw>
@@ -2316,7 +2216,6 @@ Il sostegno comunitario</it>
         <sq>Zgjidh me te miren opsion për 2 Llogari (Twitter ose Facebook)</sq>
         <it>Ottimizza per 2 Conti (Twitter o Facebook)</it>
         <de>Optimierte Publishing für 2 Accounts (Twitter oder Facebook)</de>
-        <it>Ottimizza per 2 Conti (Twitter o Facebook)</it>
         <ur>2 اکاؤنٹس کے لئے مرضی کے پبلشنگ (ٹویٹر یا فیس بک)</ur>
         <es>Publicación Optimizada para 2 Cuentas (Twitter o Facebook)</es>
         <iw>אופטימלי לאור עבור 2 חשבונות (טוויטר או פייסבוק)</iw>
@@ -2337,7 +2236,6 @@ Il sostegno comunitario</it>
         <sq>Llogaritë shtesë $ 79 / month çdo</sq>
         <it>Ulteriori Conti $ 79 / mese ciascuno</it>
         <de>Zusätzliche Accounts $ 79 / Monat je</de>
-        <it>Ulteriori Conti $ 79 / mese ciascuno</it>
         <ur>اضافی اکاؤنٹس $ 79 / ماہ سے ہر ایک</ur>
         <es>Cuentas Adicionales $79/mes cada una</es>
         <iw>חשבונות נוספים 79 $ / חודש כל</iw>
@@ -2358,7 +2256,6 @@ Il sostegno comunitario</it>
         <sq>Ulje per planin vjetor ne dispozicion</sq>
         <it>Scontato Piano annuale disponibile</it>
         <de>Ermäßigte Jahresplan verfügbar</de>
-        <it>Scontato Piano annuale disponibile</it>
         <ur>رعایتی سالانہ دستیاب کی منصوبہ بندی</ur>
         <es>Plan Anual con descuento disponible</es>
         <iw>תכנית שנתית בהנחה זמינה</iw>
@@ -2379,7 +2276,6 @@ Il sostegno comunitario</it>
         <sq>Përdorues pakufi</sq>
         <it>utenti illimitati</it>
         <de>unbegrenzte Benutzer</de>
-        <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
         <es>Usuarios Ilimitados</es>
         <iw>משתמשים ללא הגבלה</iw>
@@ -2400,7 +2296,6 @@ Il sostegno comunitario</it>
         <sq>Mund të anulloni në çdo kohë dhe ne do të kthejm çdo muaj të papërdorur.</sq>
         <it>Annullare in qualsiasi momento e vi rimborseremo eventuali mesi non utilizzati.</it>
         <de>Abbrechen jederzeit und wir erstatten alle nicht verwendeten Monate.</de>
-        <it>Annullare in qualsiasi momento e rimborseremo eventuali mesi non utilizzati.</it>
         <ur>کسی بھی وقت منسوخ اور ہم کسی بھی غیر استعمال شدہ مہینوں واپس کریں گے.</ur>
         <es>ancele en cualquier momento y le reembolsaremos los meses no utilizados.</es>
         <iw>לבטל בכל עת ואנו נחזיר כל חודשים בשימוש.</iw>
@@ -2421,7 +2316,6 @@ Il sostegno comunitario</it>
         <sq>NDËRMARRJE</sq>
         <it>ENTERPRISE</it>
         <de>UNTERNEHMEN</de>
-        <it>ENTERPRISE</it>
         <ur>ENTERPRISE</ur>
         <es>EMPRESARIAL</es>
         <iw>מִפְעָל</iw>
@@ -2442,7 +2336,6 @@ Il sostegno comunitario</it>
         <sq>Çmimet në Kërkesës</sq>
         <it>Prezzi su richiesta</it>
         <de>Preise auf Anfrage</de>
-        <it>Prezzi su richiesta</it>
         <ur>درخواست پر قیمتوں کا تعین</ur>
         <es>Precios a petición</es>
         <iw>תמחור על בקשה</iw>
@@ -2463,7 +2356,6 @@ Il sostegno comunitario</it>
         <sq>Optimizuar Botime për Llogaritë Sociale 10 + (Twitter ose Facebook)</sq>
         <it>Ottimizzato Publishing per 10+ Conti sociali (Twitter o Facebook)</it>
         <de>Optimierte Publishing für 10+ Social Accounts (Twitter oder Facebook)</de>
-        <it>Ottimizzato Publishing per 10+ Conti sociali (Twitter o Facebook)</it>
         <ur>10+ سماجی اکاؤنٹس کے لئے مرضی کے پبلشنگ (ٹویٹر یا فیس بک)</ur>
         <es>Publicación Optimizada para 10+ Cuentas Sociales (Twitter o Facebook)</es>
         <iw>אופטימלי לאור במשך יותר מ -10 חברתי חשבונות (טוויטר או פייסבוק)</iw>
@@ -2484,7 +2376,6 @@ Il sostegno comunitario</it>
         <sq>Përdoruesit pakufizuar</sq>
         <it>utenti illimitati</it>
         <de>unbegrenzte Benutzer</de>
-        <it>utenti illimitati</it>
         <ur>لا محدود صارفین</ur>
         <es>Usuarios Ilimitados</es>
         <iw>משתמשים ללא הגבלה</iw>
@@ -2505,7 +2396,6 @@ Il sostegno comunitario</it>
         <sq>Ne jemi këtu për të ndihmuar në krijimin e planit që është e drejtë për ju. Get në kontakt!</sq>
         <it>Siamo qui per aiutare a creare il piano che fa per voi. Entra in contatto!</it>
         <de>Wir sind hier um zu helfen, den Plan zu erstellen, der für Sie richtig ist. In Kontakt kommen!</de>
-        <it>Siamo qui per aiutare a creare il piano che fa per voi. Entra in contatto!</it>
         <ur>ہم آپ کے لئے صحیح ہے کہ منصوبہ بندی تخلیق کرنے میں مدد کے لئے یہاں ہیں. رابطے میں رہنا!</ur>
         <es>Estamos aquí para ayudarle a crear el plan adecuado para usted. ¡Póngase en contacto!</es>
         <iw>אנחנו כאן כדי לעזור ליצור את התכנית מתאימה לך. נהיה בקשר!</iw>
@@ -2526,7 +2416,6 @@ Il sostegno comunitario</it>
         <sq>Publikuar</sq>
         <it>Pubblicato</it>
         <de>Veröffentlicht</de>
-        <it>Pubblicato</it>
         <ur>اشاعت</ur>
         <es>Publicado</es>
         <iw>יצא לאור</iw>
@@ -2547,7 +2436,6 @@ Il sostegno comunitario</it>
         <sq>Mëso më shumë rreth AttentionScore</sq>
         <it>Ulteriori informazioni su AttentionScore</it>
         <de>Erfahren Sie mehr über AttentionScore</de>
-        <it>Ulteriori informazioni su AttentionScore</it>
         <ur>AttentionScore بارے میں مزید جانیں</ur>
         <es>Aprenda más acerca de AttentionScore</es>
         <iw>מידע נוסף על AttentionScore</iw>
@@ -2568,7 +2456,6 @@ Il sostegno comunitario</it>
         <sq>Timeline</sq>
         <it>Sequenza temporale</it>
         <de>Zeitleiste</de>
-        <it>Sequenza temporale</it>
         <ur>ٹائم لائن</ur>
         <es>Cronograma</es>
         <iw>ציר זמן</iw>
@@ -2589,7 +2476,6 @@ Il sostegno comunitario</it>
         <sq>shtoj</sq>
         <it>Aggiungere</it>
         <de>Hinzufügen</de>
-        <it>Aggiungere</it>
         <ur>شامل کریں</ur>
         <es>Añadir</es>
         <iw>לְהוֹסִיף</iw>
@@ -2610,7 +2496,6 @@ Il sostegno comunitario</it>
         <sq>Mesatare për përmbajtjen Publikuar parë</sq>
         <it>Media per i contenuti pubblicati in precedenza</it>
         <de>Die durchschnittliche Bewertung für bereits veröffentlichte Inhalte</de>
-        <it>Media per i contenuti pubblicati in precedenza</it>
         <ur>پہلے شائع مواد کے لئے اوسط</ur>
         <es>Promedio del Contenido Publicado Anteriormente</es>
         <iw>ממוצע לתוכן פורסם בעבר</iw>
@@ -2631,7 +2516,6 @@ Il sostegno comunitario</it>
         <sq>Parashikuar mesatare në qoftë optimizuar me SocialFlow</sq>
         <it>Previsto media se ottimizzato con SocialFlow</it>
         <de>Prognostizierte Durchschnittliche optimiert, wenn mit SocialFlow</de>
-        <it>Previsto media se ottimizzato con SocialFlow</it>
         <ur>SocialFlow ساتھ مرضی ہے تو اوسط پیش گوئی</ur>
         <es>Promedio previsto si es Optimizado con SocialFlow</es>
         <iw>חזוי ממוצע אם אופטימלי עם SocialFlow</iw>
@@ -2652,7 +2536,6 @@ Il sostegno comunitario</it>
         <sq>Nga rrjedh SocialFlow AttentionScore ?</sq>
         <it>Come è derivato il SocialFlow AttentionScore?</it>
         <de>Wie wird die SocialFlow AttentionScore abgeleitet?</de>
-        <it>Come è derivato il SocialFlow AttentionScore?</it>
         <ur>SocialFlow AttentionScore کس طرح حاصل کیا جاتا ہے؟</ur>
         <es>¿Cómo se deriva el SocialFlow AttentionScore?</es>
         <iw>איך נגזר SocialFlow AttentionScore?</iw>
@@ -2673,7 +2556,6 @@ Il sostegno comunitario</it>
         <sq>Ne shikojmë 3 gjëra për të përcaktuar SocialFlow AttentionScore:</sq>
         <it>Guardiamo a 3 cose per determinare il vostro SocialFlow AttentionScore:</it>
         <de>Wir schauen auf 3 Dinge, die Ihr SocialFlow AttentionScore zu bestimmen:</de>
-        <it>Guardiamo a 3 cose per determinare il vostro SocialFlow AttentionScore:</it>
         <ur>ہم نے آپ کی SocialFlow AttentionScore تعین کرنے کے لئے 3 چیزوں پر نظر ڈالیں:</ur>
         <es>Observamos 3 cosas para determinar tu SocialFlow AttentionScore:</es>
         <iw>אנחנו מסתכלים על 3 דברים כדי לקבוע AttentionScore SocialFlow שלך:</iw>
@@ -2694,7 +2576,6 @@ Il sostegno comunitario</it>
         <sq>Performanca historike e gjuhës: disa tema janë sezonale, dhe disa janë shumë popullor me audiencë më të ngrohtë kundrejt audiences se gjerë. Ne shikojmë në gjuhën e përdorur në mesazhet tuaja dhe krahasojm ate ndaj ecurisë së fundit të llojeve të ngjashme të përmbajtjes me kalimin e kohës.</sq>
         <it>Le prestazione storica del linguaggio: alcuni argomenti sono stagionali, e alcuni sono più popolare tra il pubblico di nicchia rispetto a un vasto pubblico. Guardiamo la lingua usata nei tuoi messaggi e confrontare quella contro le prestazione storica simili tipi di contenuti nel corso del tempo.</it>
         <de>Historische Entwicklung der Sprache: einige Themen sind saisonal, und einige sind beliebt bei Nischenpublikum gegen ein breites Publikum. Wir schauen auf die Sprache in Ihrer Nachricht benutzt und vergleichen Sie, dass gegen frühere Leistungen und ähnliche Arten von Inhalten über die Zeit.</de>
-        <it>Performance storica del linguaggio: alcuni argomenti sono stagionali, e alcuni sono più popolare tra il pubblico di nicchia rispetto a un vasto pubblico. Guardiamo la lingua usata nei tuoi messaggi e confrontare quella contro performance storica simili tipi di contenuti nel corso del tempo.</it>
         <ur>زبان کا تاریخی کارکردگی: کچھ موضوعات موسمی ہیں، اور کچھ وسیع سامعین کے مقابلے میں طاق ناظرین کے ساتھ زیادہ مقبول ہیں. ہمیں یقین ہے کہ وقت کے ساتھ مواد کی اسی طرح کی اقسام کی ماضی کی کارکردگی کے خلاف اپنے پیغامات میں استعمال کی گئی زبان پر نظر ڈالیں اور آپس میں موازنہ.</ur>
         <es>Rendimiento histórico del Lenguaje: algunos temas son estacionales, y algunos son más populares entre las audiencias niches contra audiencias amplias. Observamos el lenguaje utilizado en sus mensajes y comparamos esto con el rendimiento pasado de tipos de contenido similares a lo largo del tiempo.</es>
         <iw>ביצועים של שפה הסטוריים: נושאים מסוימים הם עונתיים, וכמה הם פופולריים יותר עם קהלי נישה לעומת קהלים רחבים. אנחנו מסתכלים על השפה המשמשת בהודעות שלך ולהשוות כי נגד ביצועי העבר של סוגים דומים של תוכן לאורך זמן.</iw>
@@ -2715,7 +2596,6 @@ Il sostegno comunitario</it>
         <sq>Aktiviteti audiences: Sa aktivë janë anëtarët e audiencës tuaj dhe çfarë janë duke klikuar ata tani?</sq>
         <it>Attività del publico: come attiva sono i membri del vostro pubblico e cosa stanno scattando in questo momento?</it>
         <de>Audience Aktivität: Wie aktiv sind die Mitglieder des Publikums und was sie klicken jetzt auf?</de>
-        <it>Pubblico Attività: come attiva sono i membri del vostro pubblico e cosa stanno scattando in questo momento?</it>
         <ur>سامعین سرگرمی: کس طرح فعال اپنے ناظرین اور کیا کے ارکان ابھی وہ پر کلک کر رہے ہو؟</ur>
         <es>Actividad de la audiencia: ¿Qué tan activos están los miembros de su audiencia y en qué están haciendo clic ahora mismo?</es>
         <iw>פעילות קהל: איך פעיל חברי הקהל שלך ומה הם לחיצה על עכשיו?</iw>
@@ -2736,7 +2616,6 @@ Il sostegno comunitario</it>
         <sq>Rezonanca ne kohe realeë: Kur është fjala për nje rrjet social te shepjtë dhe në kohë reale si Twitter dhe Facebook, temat mund të ndryshojnë ne moment -- SocialFlow mat, rendit dhe ri-rendit performancën e përgjithshme të përmbajtjes tuaj përkundrejt të gjitha burimeve të analizave.</sq>
         <it>La risonaza in tempo reale: Quando si tratta di un rapido movimento in tempo reale sulle  social network come Twitter e Facebook, le discussioni possono cambiare in un istante - SocialFlow costantemente misure, classifica e ri-posiziona le prestazioni complessive del suo sito web contro il reale dati in tempo fonti andremo ad analizzare.</it>
         <de>Echtzeit-Resonanz: Wenn es darum geht, eine sich schnell bewegende Echtzeit sozialen Netzwerken wie Twitter und Facebook, können Themen in einem Augenblick ändern - SocialFlow ständig Maßnahmen, rangiert und neu ordnet die Gesamtleistung Ihrer Inhalte gegen die Echt Zeitdatenquellen wir analysieren.</de>
-        <it>In tempo reale risonanza: Quando si tratta di un rapido movimento in tempo reale, social network come Twitter e Facebook, gli argomenti può cambiare in un istante - SocialFlow costantemente misure, classifica e ri-posiziona le prestazioni complessive del suo sito web contro il reale dati in tempo fonti andremo ad analizzare.</it>
         <ur>ریئل ٹائم گونج: - SocialFlow مسلسل اقدامات، رینکوں اور real- خلاف آپ کے مواد کی مجموعی کارکردگی کو دوبارہ صفوں جو ٹویٹر اور فیس بک کی طرح ایک تیزی سے چلنے اصل وقت سوشل نیٹ ورک کے لئے آتا ہے، موضوعات کا ایک پل میں تبدیل کر سکتے ہیں وقت اعداد و شمار کا تجزیہ ہم ذرائع.</ur>
         <es>Resonancia en tiempo real: Cuando se trata de redes sociales en tiempo real de rápido movimiento como Twitter y Facebook, los temas pueden cambiar en un instante - SocialFlow constantemente mide, clasifica y vuelve a clasificar el rendimiento general de su contenido contra las fuentas de datos en tiempo real que nosotros analizamos.</es>
         <iw>תהודה בזמן האמת: כאשר מדובר על רשתות חברתיות מהירות בזמן אמת, כגון טוויטר ופייסבוק, נושאים יכולים להשתנות כהרף עין - אמצעי SocialFlow כל זמן, מדרגת מחדש מדרגים את הביצועים הכוללים של התוכן שלך נגד האמת נתונים בזמן מקורות ננתח.</iw>
@@ -2757,7 +2636,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni akses në asnje llogari sociale. Ju lutemi kontaktoni administratorin e llogarisë tuaj.</sq>
         <it>Voi non hanno accesso a qualsiasi conti sociali. Si prega di contattare l'amministratore del conto.</it>
         <de>Sie haben keinen Zugang zu sozialen Konten. Bitte kontaktieren Sie Ihren Administrator-Konto.</de>
-        <it>Non si dispone di accesso a qualsiasi account sociali. Si prega di contattare l'amministratore del conto.</it>
         <ur>آپ کسی بھی سماجی اکاؤنٹس تک رسائی حاصل نہیں ہے. اپنے اکاؤنٹ منتظم سے رابطہ کریں.</ur>
         <es>Usted no tiene acceso a ninguna cuenta social. Por favor contacte a su administrador de cuenta.</es>
         <iw>אין לך גישה לחשבונות חברתיים. אנא פנה אל מנהל החשבון שלך.</iw>
@@ -2778,7 +2656,6 @@ Il sostegno comunitario</it>
         <sq>Për të parë statistikat e klikimeve këtu, publikoni disa përmbajtje me SocialFlow!</sq>
         <it>Per vedere le statistiche clicca qui, pubblica alcuni contenuti con SocialFlow!</it>
         <de>Um zu sehen, klicken Sie hier Statistiken, veröffentlichen einige Inhalte mit SocialFlow!</de>
-        <it>Per vedere le statistiche clicca qui, pubblicare alcuni contenuti con SocialFlow!</it>
         <ur>یہاں شماریات کلک ملاحظہ کرنے کے لئے، SocialFlow ساتھ کچھ مواد شائع!</ur>
         <es>Para ver estadísticas de clics aquí, publique algun contenido con SocialFlow!</es>
         <iw>כדי לראות לחץ סטטיסטי האלה, לפרסם תוכן כלשהו SocialFlow!</iw>
@@ -2799,7 +2676,6 @@ Il sostegno comunitario</it>
         <sq>Aktiviteti audiences përfshin klikimet, tweets, përmendjet, retweets, pëlqimet, komentet dhe ndarjet.</sq>
         <it>Aattività del publico comprende  scatti, tweet, retweet, cita, piaci, commenti e condivisioni.</it>
         <de>Audience Aktivität umfasst Klicks, Tweets, Erwähnungen, Retweets, mag, Kommentare und Aktien.</de>
-        <it>Pubblico attività include scatti, tweet, retweet, cita, piace, commenti e condivisioni.</it>
         <ur>سامعین سرگرمی کلکس، ٹویٹس، تذکرے، ریٹویٹ، پسند کرتا ہے، تبصرے اور حصص شامل ہیں.</ur>
         <es>Actividade de Audiencia incluye clics, tweets, menciones, retweets, likes, comentarios y shares.</es>
         <iw>פעילות הקהל כולל קליקים, טוויטים, מזכיר, retweets, אוהב, הערות ומניות.</iw>
@@ -2820,7 +2696,6 @@ Il sostegno comunitario</it>
         <sq>Renditja e perdoruesve</sq>
         <it>Classifica di utenti</it>
         <de>User Rang</de>
-        <it>user Rank</it>
         <ur>یوزر رینک</ur>
         <es>Rango de Usuario</es>
         <iw>דירוג משתמש</iw>
@@ -2841,7 +2716,6 @@ Il sostegno comunitario</it>
         <sq>Për të parë  statistikat e klikimeve  këtu, publiko disa përmbajtje me SocialFlow!</sq>
         <it>Per vedere le statistiche clicca qui, pubblica alcuni contenuti con SocialFlow!</it>
         <de>Um zu sehen, klicken Sie hier Statistiken, veröffentlichen einige Inhalte mit SocialFlow!</de>
-        <it>Per vedere le statistiche clicca qui, pubblica alcuni contenuti con SocialFlow!</it>
         <ur>یہاں شماریات کلک ملاحظہ کرنے کے لئے، SocialFlow ساتھ کچھ مواد شائع!</ur>
         <es>Para ver estadísticas de clics aquí, publique algun contenido con SocialFlow!</es>
         <iw>כדי לראות לחץ סטטיסטי האלה, לפרסם תוכן כלשהו SocialFlow!</iw>
@@ -2862,7 +2736,6 @@ Il sostegno comunitario</it>
         <sq>e diel</sq>
         <it>Domenica</it>
         <de>Sonne</de>
-        <it>Sole</it>
         <ur>اتوار</ur>
         <es>Dom</es>
         <iw>שמש</iw>
@@ -2883,7 +2756,6 @@ Il sostegno comunitario</it>
         <sq>E hene</sq>
         <it>Lunedi</it>
         <de>Mon</de>
-        <it>Mon</it>
         <ur>سوموار</ur>
         <es>Lun</es>
         <iw>Mon</iw>
@@ -2904,7 +2776,6 @@ Il sostegno comunitario</it>
         <sq>Marte</sq>
         <it>Martedi</it>
         <de>Di</de>
-        <it>mar</it>
         <ur>منگل</ur>
         <es>Mar</es>
         <iw>ג</iw>
@@ -2925,7 +2796,6 @@ Il sostegno comunitario</it>
         <sq>Merkure</sq>
         <it>Mercoledi</it>
         <de>Heiraten</de>
-        <it>sposare</it>
         <ur>بدھ</ur>
         <es>Mier</es>
         <iw>להתחתן</iw>
@@ -2946,7 +2816,6 @@ Il sostegno comunitario</it>
         <sq>Enjte</sq>
         <it>Giovedi</it>
         <de>Do</de>
-        <it>gio</it>
         <ur>جمعرات</ur>
         <es>Jue</es>
         <iw>יום חמישי</iw>
@@ -2967,7 +2836,6 @@ Il sostegno comunitario</it>
         <sq>Premte</sq>
         <it>Venderdi</it>
         <de>Fr</de>
-        <it>ven</it>
         <ur>جمعہ</ur>
         <es>Vier</es>
         <iw>יום שישי</iw>
@@ -2988,7 +2856,6 @@ Il sostegno comunitario</it>
         <sq>E Shtune</sq>
         <it>sabato</it>
         <de>Sa</de>
-        <it>Sat</it>
         <ur>ہفتہ</ur>
         <es>Sab</es>
         <iw>ישבה</iw>
@@ -3009,7 +2876,6 @@ Il sostegno comunitario</it>
         <sq>12a</sq>
         <it>12a</it>
         <de>12a</de>
-        <it>12a</it>
         <ur>12A</ur>
         <es>12a</es>
         <iw>12a</iw>
@@ -3030,7 +2896,6 @@ Il sostegno comunitario</it>
         <sq>1a</sq>
         <it>1a</it>
         <de>1a</de>
-        <it>1a</it>
         <ur>1A</ur>
         <es>1a</es>
         <iw>1a</iw>
@@ -3051,7 +2916,6 @@ Il sostegno comunitario</it>
         <sq>2a</sq>
         <it>2a</it>
         <de>2a</de>
-        <it>2a</it>
         <ur>2A</ur>
         <es>2a</es>
         <iw>2a</iw>
@@ -3072,7 +2936,6 @@ Il sostegno comunitario</it>
         <sq>3a</sq>
         <it>3a</it>
         <de>3a</de>
-        <it>3a</it>
         <ur>3A</ur>
         <es>3a</es>
         <iw>3a</iw>
@@ -3093,7 +2956,6 @@ Il sostegno comunitario</it>
         <sq>4a</sq>
         <it>4a</it>
         <de>4a</de>
-        <it>4a</it>
         <ur>4A</ur>
         <es>4a</es>
         <iw>4a</iw>
@@ -3114,7 +2976,6 @@ Il sostegno comunitario</it>
         <sq>5a</sq>
         <it>5a</it>
         <de>5a</de>
-        <it>5a</it>
         <ur>5A</ur>
         <es>5a</es>
         <iw>5a</iw>
@@ -3135,7 +2996,6 @@ Il sostegno comunitario</it>
         <sq>6a</sq>
         <it>6a</it>
         <de>6a</de>
-        <it>6a</it>
         <ur>6A</ur>
         <es>6a</es>
         <iw>6 א</iw>
@@ -3156,7 +3016,6 @@ Il sostegno comunitario</it>
         <sq>7a</sq>
         <it>7a</it>
         <de>7a</de>
-        <it>7a</it>
         <ur>7A</ur>
         <es>7a</es>
         <iw>7 א</iw>
@@ -3177,7 +3036,6 @@ Il sostegno comunitario</it>
         <sq>8a</sq>
         <it>8a</it>
         <de>8a</de>
-        <it>8a</it>
         <ur>8A</ur>
         <es>8a</es>
         <iw>8a</iw>
@@ -3198,7 +3056,6 @@ Il sostegno comunitario</it>
         <sq>9a</sq>
         <it>9 bis</it>
         <de>9a</de>
-        <it>9 bis</it>
         <ur>9A</ur>
         <es>9a</es>
         <iw>9 א</iw>
@@ -3219,7 +3076,6 @@ Il sostegno comunitario</it>
         <sq>10a</sq>
         <it>10a</it>
         <de>10a</de>
-        <it>10a</it>
         <ur>10A</ur>
         <es>10a</es>
         <iw>10a</iw>
@@ -3240,7 +3096,6 @@ Il sostegno comunitario</it>
         <sq>11a</sq>
         <it>11 bis</it>
         <de>11a</de>
-        <it>11 bis</it>
         <ur>11A</ur>
         <es>11a</es>
         <iw>11a</iw>
@@ -3261,7 +3116,6 @@ Il sostegno comunitario</it>
         <sq>12p</sq>
         <it>12p</it>
         <de>12p</de>
-        <it>12p</it>
         <ur>12P</ur>
         <es>12p</es>
         <iw>12p</iw>
@@ -3282,7 +3136,6 @@ Il sostegno comunitario</it>
         <sq>1p</sq>
         <it>1p</it>
         <de>1P</de>
-        <it>1p</it>
         <ur>1P</ur>
         <es>1p</es>
         <iw>1P</iw>
@@ -3303,7 +3156,6 @@ Il sostegno comunitario</it>
         <sq>2p</sq>
         <it>2p</it>
         <de>2p</de>
-        <it>2p</it>
         <ur>2P</ur>
         <es>2p</es>
         <iw>2p</iw>
@@ -3324,7 +3176,6 @@ Il sostegno comunitario</it>
         <sq>3p</sq>
         <it>3p</it>
         <de>3p</de>
-        <it>3p</it>
         <ur>3P</ur>
         <es>3p</es>
         <iw>3P</iw>
@@ -3345,7 +3196,6 @@ Il sostegno comunitario</it>
         <sq>4p</sq>
         <it>4p</it>
         <de>4p</de>
-        <it>4p</it>
         <ur>4P</ur>
         <es>4p</es>
         <iw>4p</iw>
@@ -3366,7 +3216,6 @@ Il sostegno comunitario</it>
         <sq>5p</sq>
         <it>5p</it>
         <de>5P</de>
-        <it>5p</it>
         <ur>5P</ur>
         <es>5p</es>
         <iw>5P</iw>
@@ -3387,7 +3236,6 @@ Il sostegno comunitario</it>
         <sq>6p</sq>
         <it>6p</it>
         <de>6p</de>
-        <it>6p</it>
         <ur>6P</ur>
         <es>6p</es>
         <iw>6P</iw>
@@ -3408,7 +3256,6 @@ Il sostegno comunitario</it>
         <sq>7p</sq>
         <it>7p</it>
         <de>7p</de>
-        <it>7p</it>
         <ur>7P</ur>
         <es>7p</es>
         <iw>7P</iw>
@@ -3429,7 +3276,6 @@ Il sostegno comunitario</it>
         <sq>8P</sq>
         <it>8p</it>
         <de>8P</de>
-        <it>8p</it>
         <ur>8P</ur>
         <es>8p</es>
         <iw>8P</iw>
@@ -3450,7 +3296,6 @@ Il sostegno comunitario</it>
         <sq>9P</sq>
         <it>9p</it>
         <de>9P</de>
-        <it>9p</it>
         <ur>9P</ur>
         <es>9p</es>
         <iw>9p</iw>
@@ -3471,7 +3316,6 @@ Il sostegno comunitario</it>
         <sq>10p</sq>
         <it>10p</it>
         <de>10p</de>
-        <it>10p</it>
         <ur>10P</ur>
         <es>10p</es>
         <iw>10p</iw>
@@ -3492,7 +3336,6 @@ Il sostegno comunitario</it>
         <sq>11p</sq>
         <it>11p</it>
         <de>11p</de>
-        <it>11p</it>
         <ur>11p</ur>
         <es>11p</es>
         <iw>11p</iw>
@@ -3513,7 +3356,6 @@ Il sostegno comunitario</it>
         <sq>34</sq>
         <it>34</it>
         <de>34</de>
-        <it>34</it>
         <ur>34</ur>
         <es>34</es>
         <iw>34</iw>
@@ -3534,7 +3376,6 @@ Il sostegno comunitario</it>
         <sq>78</sq>
         <it>78</it>
         <de>78</de>
-        <it>78</it>
         <ur>78</ur>
         <es>78</es>
         <iw>78</iw>
@@ -3555,7 +3396,6 @@ Il sostegno comunitario</it>
         <sq>Date ne vazhdim</sq>
         <it>Data contando</it>
         <de>Rolltermin</de>
-        <it>rotolamento Data</it>
         <ur>رولنگ تاریخ</ur>
         <es>Fecha Continua</es>
         <iw>תאריך רולינג</iw>
@@ -3576,7 +3416,6 @@ Il sostegno comunitario</it>
         <sq>Koha e saktë</sq>
         <it>Tempo esatto</it>
         <de>Genaue Zeit</de>
-        <it>Tempo esatto</it>
         <ur>عین مطابق وقت</ur>
         <es>Hora Exacta</es>
         <iw>זמן מדויק</iw>
@@ -3597,7 +3436,6 @@ Il sostegno comunitario</it>
         <sq>(Duke u ngarkuar)</sq>
         <it>(Caricamento in corso)</it>
         <de>(Laden)</de>
-        <it>(Caricamento in corso)</it>
         <ur>(لوڈنگ)</ur>
         <es>(Cargando)</es>
         <iw>(טוען)</iw>
@@ -3618,7 +3456,6 @@ Il sostegno comunitario</it>
         <sq>Meparshem</sq>
         <it>precedente</it>
         <de>Zurück</de>
-        <it>prev</it>
         <ur>پچھلا</ur>
         <es>Anterior</es>
         <iw>קודם</iw>
@@ -3639,7 +3476,6 @@ Il sostegno comunitario</it>
         <sq>Grupet</sq>
         <it>gruppi</it>
         <de>Gruppen</de>
-        <it>gruppi</it>
         <ur>گروپس</ur>
         <es>Grupos</es>
         <iw>קבוצות</iw>
@@ -3660,7 +3496,6 @@ Il sostegno comunitario</it>
         <sq>Trendi</sq>
         <it>Tendenza</it>
         <de>Trend</de>
-        <it>Tendenza</it>
         <ur>رجحان</ur>
         <es>Tendencia</es>
         <iw>מְגַמָה</iw>
@@ -3681,7 +3516,6 @@ Il sostegno comunitario</it>
         <sq>zgjidhni Muajin</sq>
         <it>Scegli il mese</it>
         <de>wählen Sie Monat</de>
-        <it>Scegli il mese</it>
         <ur>ماہ سے انتخاب کریں</ur>
         <es>Escoger Mes</es>
         <iw>בחר חודש</iw>
@@ -3702,7 +3536,6 @@ Il sostegno comunitario</it>
         <sq>janar 2010</sq>
         <it>gennaio 2010</it>
         <de>Januar 2010</de>
-        <it>gennaio 2010</it>
         <ur>جنوری، 2010</ur>
         <es>enero, 2010</es>
         <iw>בינואר 2010</iw>
@@ -3723,7 +3556,6 @@ Il sostegno comunitario</it>
         <sq>Duke ngarkuar Raportet ...</sq>
         <it>Caricamento Rapporti ...</it>
         <de>Laden Berichte ...</de>
-        <it>Caricamento Rapporti ...</it>
         <ur>لوڈ ہو رہا ہے رپورٹیں ...</ur>
         <es>Cargando Reportes...</es>
         <iw>דוחות Loading ...</iw>
@@ -3744,7 +3576,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni raporte të ruajtura</sq>
         <it>Non ci sono rapporti salvati</it>
         <de>Sie haben keine gespeicherten Berichte</de>
-        <it>Non ci sono rapporti salvati</it>
         <ur>آپ کے پاس کوئی محفوظ شدہ رپورٹیں ہے</ur>
         <es>No tiene reportes guardados</es>
         <iw>אין לך דוחות שמורים</iw>
@@ -3765,7 +3596,6 @@ Il sostegno comunitario</it>
         <sq>Mesazh Raporti Single</sq>
         <it>Rapporto Messaggio Singolo</it>
         <de>Einzelmeldung Bericht</de>
-        <it>Rapporto Messaggio Singolo</it>
         <ur>ایک پیغام کی رپورٹ</ur>
         <es>Reporte de Mensaje Único</es>
         <iw>דווח על הודעה יחידה</iw>
@@ -3786,7 +3616,6 @@ Il sostegno comunitario</it>
         <sq>Jetëgjatësia mesazhit</sq>
         <it>Durata del Messaggio</it>
         <de>Nachricht Lebensdauer</de>
-        <it>Durata del Messaggio</it>
         <ur>پیغام ہوگی</ur>
         <es>Ciclo de Vida del Mensaje</es>
         <iw>תוחלת חיים מסר</iw>
@@ -3807,7 +3636,6 @@ Il sostegno comunitario</it>
         <sq>Mesazhi</sq>
         <it>Messaggio</it>
         <de>Nachrichteninhalt</de>
-        <it>Messaggio</it>
         <ur>پیغام مواد</ur>
         <es>Contenido del Mensaje</es>
         <iw>תוכן ההודעה</iw>
@@ -3828,7 +3656,6 @@ Il sostegno comunitario</it>
         <sq>Hyrja Manuale:</sq>
         <it>Inserimento manuale da:</it>
         <de>Manuelle Eingabe von:</de>
-        <it>Inserimento manuale da:</it>
         <ur>کی طرف سے دستی انٹری:</ur>
         <es>Entrada Manual por:</es>
         <iw>הזנה ידנית על ידי:</iw>
@@ -3849,7 +3676,6 @@ Il sostegno comunitario</it>
         <sq>Publikuar nga:</sq>
         <it>Pubblicato da:</it>
         <de>Veröffentlicht von:</de>
-        <it>Pubblicato da:</it>
         <ur>کی طرف سے شائع:</ur>
         <es>Publicado por:</es>
         <iw>פורסם על ידי:</iw>
@@ -3870,7 +3696,6 @@ Il sostegno comunitario</it>
         <sq>Data Publikuar:</sq>
         <it>Data di pubblicazione:</it>
         <de>Datum der Veröffentlichung:</de>
-        <it>Data di pubblicazione:</it>
         <ur>تاریخ شائع:</ur>
         <es>Fecha Publicado</es>
         <iw>תאריך הפרסום:</iw>
@@ -3891,7 +3716,6 @@ Il sostegno comunitario</it>
         <sq>Dërguar si:</sq>
         <it>Inviato come:</it>
         <de>Sent als:</de>
-        <it>Inviato come:</it>
         <ur>کے طور پر بھیجا:</ur>
         <es>Enviado como:</es>
         <iw>נשלח בתור:</iw>
@@ -3912,7 +3736,6 @@ Il sostegno comunitario</it>
         <sq>SocialFlow</sq>
         <it>SocialFlow</it>
         <de>SocialFlow</de>
-        <it>SocialFlow</it>
         <ur>SocialFlow</ur>
         <es>SocialFlow</es>
         <iw>SocialFlow</iw>
@@ -3933,7 +3756,6 @@ Il sostegno comunitario</it>
         <sq>Fluksi mesazheve</sq>
         <it>Flusso dei messaggi</it>
         <de>Nachrichtenfluss</de>
-        <it>Flusso dei messaggi</it>
         <ur>پیغام روانی</ur>
         <es>Flujo de Mensaje</es>
         <iw>זרימת מסר</iw>
@@ -3954,7 +3776,6 @@ Il sostegno comunitario</it>
         <sq>Kliko dhe Vendet e mesazhit</sq>
         <it>clicca e le posizioni dei messaggi</it>
         <de>Klicken und Nachrichten Standorte</de>
-        <it>clicca e le posizioni dei messaggi</it>
         <ur>پر کلک کریں اور پیغام مقامات</ur>
         <es>Clic y Localizaciones del Mensaje</es>
         <iw>לחץ ומיקומי הודעה</iw>
@@ -3975,7 +3796,6 @@ Il sostegno comunitario</it>
         <sq>Opsionet e llogarisë së klient</sq>
         <it>Impostazioni del conto di cliente</it>
         <de>Client-Account-Einstellungen</de>
-        <it>Impostazioni del conto di cliente</it>
         <ur>کلائنٹ کے اکاؤنٹ کی ترتیبات</ur>
         <es>Configuraciones de Cuenta del Cliente</es>
         <iw>הגדרות חשבון הלקוח</iw>
@@ -3996,7 +3816,6 @@ Il sostegno comunitario</it>
         <sq>plan</sq>
         <it>Piano</it>
         <de>Planen</de>
-        <it>Piano</it>
         <ur>پلان</ur>
         <es>Plan</es>
         <iw>לְתַכְנֵן</iw>
@@ -4017,7 +3836,6 @@ Il sostegno comunitario</it>
         <sq>Plani - do të faturojë për</sq>
         <it>Piano - si fatturerà </it>
         <de>Plan - wird in Rechnung auf</de>
-        <it>Piano - si fatturerà</it>
         <ur>منصوبہ - بل گے</ur>
         <es>Plan - será facturado el</es>
         <iw>תוכנית - תחייב על</iw>
@@ -4038,7 +3856,6 @@ Il sostegno comunitario</it>
         <sq>Marrësit e Fatures</sq>
         <it>Destinatari delle fatture</it>
         <de>Receipt Empfänger</de>
-        <it>Destinatari delle fatture</it>
         <ur>رسید وصول کنندگان</ur>
         <es>Recipientes del Recibo</es>
         <iw>מקבלי קבלה</iw>
@@ -4059,7 +3876,6 @@ Il sostegno comunitario</it>
         <sq>mbaron në</sq>
         <it>termina</it>
         <de>endet in</de>
-        <it>termina</it>
         <ur>میں ختم ہونے والے</ur>
         <es>terminando el</es>
         <iw>מסתיים ב</iw>
@@ -4080,7 +3896,6 @@ Il sostegno comunitario</it>
         <sq>Lajmet nga Twitter</sq>
         <it>Feed di Twitter</it>
         <de>Twitter-Feed</de>
-        <it>Feed di Twitter</it>
         <ur>ٹویٹر فیڈ</ur>
         <es>Feed de Twitter</es>
         <iw>עדכוני טוויטר</iw>
@@ -4101,7 +3916,6 @@ Il sostegno comunitario</it>
         <sq>Emri Ekranit</sq>
         <it>Nome della schermata</it>
         <de>Künstlername</de>
-        <it>Nome della schermata</it>
         <ur>سکرین نام</ur>
         <es>Nombre de usuario</es>
         <iw>שם מסך</iw>
@@ -4122,7 +3936,6 @@ Il sostegno comunitario</it>
         <sq>Asnje mesazh nuk është shtuar për shkak të gabimeve në vijim. Ju lutemi  korrigjoni këto gabime dhe ngarko dokumentin përsëri.</sq>
         <it>Nessun messaggi sono state aggiunte a causa dei seguenti errori. Si prega di correggere questi errori e inviare nuovamente il file.</it>
         <de>Es wurden keine Nachrichten aufgrund der folgenden Fehler hinzugefügt. Bitte korrigieren Sie diese Fehler und die Datei erneut.</de>
-        <it>Nessun messaggi sono state aggiunte a causa dei seguenti errori. Si prega di correggere questi errori e inviare nuovamente il file.</it>
         <ur>کوئی پیغام درج ذیل غلطیوں کی وجہ سے شامل کیا گیا ہے. ان غلطیوں کو درست کریں اور فائل کو دوبارہ جمع کریں.</ur>
         <es>Nigún mensaje fue añadido debido a los siguientes errores. Por favor corrija esos errores y vuelva a enviar el archivo.</es>
         <iw>אין הודעות נוספו בשל השגיאות הבאות. תקן שגיאות אלה ושלחו שוב את הקובץ.</iw>
@@ -4143,7 +3956,6 @@ Il sostegno comunitario</it>
         <sq>Përdorni dokumentin në vijim si një model kur shtoni mesazhet. Shkruani mesazhin, një për rresht, pas vijës se titullit.</sq>
         <it>Utilizza il seguente foglio di calcolo come modello quando si aggiungono i messaggi. Inserire messaggi, uno per riga, dopo la riga di intestazione.</it>
         <de>Verwenden Sie die folgende Tabelle als Vorlage, wenn Nachrichten hinzufügen. Geben Sie Nachrichten, eine pro Zeile, nach der Kopfzeile.</de>
-        <it>Utilizza il seguente foglio di calcolo come modello quando si aggiungono i messaggi. Inserire messaggi, uno per riga, dopo la riga di intestazione.</it>
         <ur>پیغامات اضافہ جب ایک سانچے کے طور درج ذیل سپریڈ شیٹ کا استعمال. ہیڈر لائن کے بعد، پیغامات، فی لائن درج کریں.</ur>
         <es>Use la siguiente hoja de cálculo como plantilla al agregar mensajes. Introduzca los mensajes, uno por línea, después de la línea de encabezado.</es>
         <iw>השתמש בגיליון האלקטרוני הבא כתבנית בעת הוספת הודעות. זן הודעות, אחת בכל שורה, לאחר שורת הכותרת.</iw>
@@ -4164,7 +3976,6 @@ Il sostegno comunitario</it>
         <sq>Modeli mesazhit</sq>
         <it>Il modello di messaggio</it>
         <de>Nachrichtenvorlage</de>
-        <it>Il modello di messaggio</it>
         <ur>پیغام سانچہ</ur>
         <es>Plantilla de Mensaje</es>
         <iw>תבנית הודעה</iw>
@@ -4185,7 +3996,6 @@ Il sostegno comunitario</it>
         <sq>Zgjidhni dokumentin</sq>
         <it>Scegli il file</it>
         <de>Datei wählen</de>
-        <it>Scegli il file</it>
         <ur>فائل منتخب کریں</ur>
         <es>Escoger Archivo</es>
         <iw>בחר קובץ</iw>
@@ -4206,7 +4016,6 @@ Il sostegno comunitario</it>
         <sq>Zgjidhni llogarin</sq>
         <it>Scegli il conto</it>
         <de>wählen Sie Konto</de>
-        <it>Scegli il conto </it>
         <ur>اکاؤنٹ کا انتخاب کریں</ur>
         <es>Escoger Cuenta</es>
         <iw>בחר חשבון</iw>
@@ -4227,7 +4036,6 @@ Il sostegno comunitario</it>
         <sq>Kopjo Nga</sq>
         <it>Copia da</it>
         <de>Kopie von</de>
-        <it>Copia da</it>
         <ur>سے کاپی</ur>
         <es>Copiar de</es>
         <iw>תעתיק מ</iw>
@@ -4248,7 +4056,6 @@ Il sostegno comunitario</it>
         <sq>Furnizimi i lajmeve</sq>
         <it>Notizie</it>
         <de>Liste der Feeds</de>
-        <it>Notizie</it>
         <ur>فیڈ کی لسٹ</ur>
         <es>Lista de Feeds</es>
         <iw>רשימה של זנות</iw>
@@ -4269,7 +4076,6 @@ Il sostegno comunitario</it>
         <sq>në dispozicion</sq>
         <it>A disposizione</it>
         <de>Erhältlich</de>
-        <it>A disposizione</it>
         <ur>دستیاب</ur>
         <es>Disponible</es>
         <iw>זמין</iw>
@@ -4290,7 +4096,6 @@ Il sostegno comunitario</it>
         <sq>Shtoj</sq>
         <it>Aggiungere</it>
         <de>Hinzufügen</de>
-        <it>Aggiungere</it>
         <ur>شامل کریں</ur>
         <es>Añadir</es>
         <iw>לְהוֹסִיף</iw>
@@ -4311,7 +4116,6 @@ Il sostegno comunitario</it>
         <sq>i vlefshëm/e vlefshme</sq>
         <it>Valido</it>
         <de>Gültig</de>
-        <it>Valido</it>
         <ur>درست</ur>
         <es>Válido</es>
         <iw>תָקֵף</iw>
@@ -4332,7 +4136,6 @@ Il sostegno comunitario</it>
         <sq>e pavlefshëm/e pavlefshme</sq>
         <it>Non valido</it>
         <de>Ungültig</de>
-        <it>Non valido</it>
         <ur>غلط</ur>
         <es>Inválido</es>
         <iw>לא חוקי</iw>
@@ -4353,7 +4156,6 @@ Il sostegno comunitario</it>
         <sq>Autorizo përsëri</sq>
         <it>ri-autorizzare</it>
         <de>reauthorize</de>
-        <it>ri-autorizzare</it>
         <ur>دوبارہ اجازت</ur>
         <es>Reautorizar</es>
         <iw>אשר מחדש</iw>
@@ -4374,7 +4176,6 @@ Il sostegno comunitario</it>
         <sq>joaktiv</sq>
         <it>Inattivo</it>
         <de>Inaktiv</de>
-        <it>Inattivo</it>
         <ur>غیر فعال</ur>
         <es>Inactivo</es>
         <iw>לֹא פָּעִיל</iw>
@@ -4395,7 +4196,6 @@ Il sostegno comunitario</it>
         <sq>Ju nuk keni asnjë aplikacion të konfiguruar.</sq>
         <it>Non si dispone di alcuna configurazione di applicazioni.</it>
         <de>Sie haben noch keine Apps-Setup.</de>
-        <it>Non si dispone di alcuna configurazione di applicazioni.</it>
         <ur>آپ کسی بھی ایپس سیٹ اپ کی ضرورت نہیں ہے.</ur>
         <es>Usted no tiene aplicaciones configuradas.</es>
         <iw>אין לך שום הגדרת אפליקציות.</iw>
@@ -4416,7 +4216,6 @@ Il sostegno comunitario</it>
         <sq>Prezantohu</sq>
         <it>Presentati</it>
         <de>Sich vorstellen</de>
-        <it>Presentati</it>
         <ur>اپنا تعارف کراوء</ur>
         <es>Presentarse</es>
         <iw>הצג את עצמך</iw>
@@ -4437,7 +4236,6 @@ Il sostegno comunitario</it>
         <sq>Mirë se vini në SocialFlow! Ju lutemi plotësoni formularin e shkurtër më poshtë për të krijuar llogarinë tuaj.</sq>
         <it>Benvenuto in SocialFlow! Si prega di compilare il modulo breve qui sotto per creare il tuo conto.</it>
         <de>Willkommen bei SocialFlow! Bitte füllen Sie das folgende kurze Formular Ihr Konto zu erstellen.</de>
-        <it>Benvenuto in SocialFlow! Si prega di compilare il modulo breve qui sotto per creare il tuo conto.</it>
         <ur>SocialFlow میں خوش آمدید! اپنا اکاؤنٹ بنانے کے لئے ذیل میں مختصر فارم کو بھرنے کریں.</ur>
         <es>Bienvenido a SocialFlow! Por favor llene el formulario debajo para crear su cuenta.</es>
         <iw>ברוכים הבאים SocialFlow! אנא מלאו את הטופס הקצר שלהלן כדי ליצור את החשבון שלך.</iw>
@@ -4458,7 +4256,6 @@ Il sostegno comunitario</it>
         <sq>Posedoni një llogari?</sq>
         <it>Hai già un conto?</it>
         <de>Habe schon einen Account?</de>
-        <it>Hai già un conto?</it>
         <ur>پہلے سے ہی ایک اکاؤنٹ ہے؟</ur>
         <es>Ya tiene una cuenta?</es>
         <iw>כבר יש לך חשבון?</iw>
@@ -4479,7 +4276,6 @@ Il sostegno comunitario</it>
         <sq>Rregjistrohu ketu</sq>
         <it>Registrati qui</it>
         <de>Hier anmelden</de>
-        <it>Registrati qui</it>
         <ur>یہاں سائن ان کریں</ur>
         <es>Registrese Aquí</es>
         <iw>היכנס כאן</iw>
@@ -4500,7 +4296,6 @@ Il sostegno comunitario</it>
         <sq>kompani</sq>
         <it>Società</it>
         <de>Unternehmen</de>
-        <it>Società</it>
         <ur>کمپنی</ur>
         <es>Compañia</es>
         <iw>חֶברָה</iw>
@@ -4521,7 +4316,6 @@ Il sostegno comunitario</it>
         <sq>Konfirmo fjalëkalimin</sq>
         <it>conferma il password</it>
         <de>Bestätige das Passwort</de>
-        <it>conferma il password</it>
         <ur>پاس ورڈ کی توثیق</ur>
         <es>Confirmar Contraseña</es>
         <iw>אשר סיסמה</iw>
@@ -4542,7 +4336,6 @@ Il sostegno comunitario</it>
         <sq>Llogaritë e grupit social:</sq>
         <it>Il conto di gruppo sociale </it>
         <de>Social Kontengruppe:</de>
-        <it>Il conto di gruppo sociale:</it>
         <ur>سماجی اکاؤنٹ گروپ:</ur>
         <es>Grupo de Cuenta Social:</es>
         <iw>חברתי חשבון קבוצה:</iw>
@@ -4563,7 +4356,6 @@ Il sostegno comunitario</it>
         <sq>Të gjitha llogaritë janë shtuar</sq>
         <it>Tutti i conti sono stati aggiunti</it>
         <de>Alle Konten wurden hinzugefügt</de>
-        <it>Tutti i conti sono stati aggiunti</it>
         <ur>تمام اکاؤنٹس شامل کیا گیا ہے</ur>
         <es>Todas las cuentas han sido añadidas</es>
         <iw>כל החשבונות נוספו</iw>
@@ -4584,7 +4376,6 @@ Il sostegno comunitario</it>
         <sq>Shto tek Grupi</sq>
         <it>Aggiungi al gruppo</it>
         <de>Zur Gruppe hinzufügen</de>
-        <it>Aggiungi al gruppo</it>
         <ur>گروپ میں شامل کریں</ur>
         <es>Añadir al Grupo</es>
         <iw>הוסף קבוצה</iw>
@@ -4605,7 +4396,6 @@ Il sostegno comunitario</it>
         <sq>Ndrysho grupin</sq>
         <it>Cambia il gruppo</it>
         <de>Change Group</de>
-        <it>Cambia il gruppo</it>
         <ur>تبدیل گروپ</ur>
         <es>Cambiar Grupo</es>
         <iw>קבוצת השינוי</iw>
@@ -4626,7 +4416,6 @@ Il sostegno comunitario</it>
         <sq>Ndryshim</sq>
         <it>Cambiamento</it>
         <de>Veränderung</de>
-        <it>Cambiamento</it>
         <ur>تبدیل کریں</ur>
         <es>Modificar</es>
         <iw>שינוי</iw>
@@ -4647,7 +4436,6 @@ Il sostegno comunitario</it>
         <sq>00:00</sq>
         <it>00:00</it>
         <de>12 UHR MITTAGS</de>
-        <it>00:00</it>
         <ur>12AM</ur>
         <es>12AM</es>
         <iw>00:00</iw>
@@ -4668,7 +4456,6 @@ Il sostegno comunitario</it>
         <sq>01:00</sq>
         <it>01:00</it>
         <de>01.00</de>
-        <it>01:00</it>
         <ur>1AM</ur>
         <es>1AM</es>
         <iw>01:00</iw>
@@ -4689,7 +4476,6 @@ Il sostegno comunitario</it>
         <sq>02:00</sq>
         <it>02:00</it>
         <de>2 UHR MORGENS</de>
-        <it>02:00</it>
         <ur>2AM</ur>
         <es>2AM</es>
         <iw>02:00</iw>
@@ -4710,7 +4496,6 @@ Il sostegno comunitario</it>
         <sq>03:00</sq>
         <it>03:00</it>
         <de>03.00</de>
-        <it>03:00</it>
         <ur>3AM</ur>
         <es>3AM</es>
         <iw>3 בבוקר</iw>
@@ -4731,7 +4516,6 @@ Il sostegno comunitario</it>
         <sq>04:00</sq>
         <it>04:00</it>
         <de>04.00</de>
-        <it>04:00</it>
         <ur>آپ 4am</ur>
         <es>4AM</es>
         <iw>4 בבוקר</iw>
@@ -4752,7 +4536,6 @@ Il sostegno comunitario</it>
         <sq>05:00</sq>
         <it>05:00</it>
         <de>5 UHR MORGENS</de>
-        <it>5:00</it>
         <ur>5AM</ur>
         <es>5AM</es>
         <iw>5 בבוקר</iw>
@@ -4773,7 +4556,6 @@ Il sostegno comunitario</it>
         <sq>06:00</sq>
         <it>60:00</it>
         <de>6 UHR MORGENS</de>
-        <it>06:00</it>
         <ur>6AM</ur>
         <es>6AM</es>
         <iw>06:00</iw>
@@ -4794,7 +4576,6 @@ Il sostegno comunitario</it>
         <sq>07:00</sq>
         <it>07:00</it>
         <de>7 UHR MORGENS</de>
-        <it>07:00</it>
         <ur>7am کی</ur>
         <es>7AM</es>
         <iw>7 בבוקר</iw>
@@ -4815,7 +4596,6 @@ Il sostegno comunitario</it>
         <sq>08:00</sq>
         <it>08:00</it>
         <de>8 UHR MORGENS</de>
-        <it>08:00</it>
         <ur>8AM</ur>
         <es>8AM</es>
         <iw>08:00</iw>
@@ -4836,7 +4616,6 @@ Il sostegno comunitario</it>
         <sq>09:00</sq>
         <it>09:00</it>
         <de>9 UHR MORGENS</de>
-        <it>09:00</it>
         <ur>9AM</ur>
         <es>9AM</es>
         <iw>9 בבוקר</iw>
@@ -4857,7 +4636,6 @@ Il sostegno comunitario</it>
         <sq>10:00</sq>
         <it>10:00</it>
         <de>10 UHR MORGENS</de>
-        <it>10:00</it>
         <ur>10AM</ur>
         <es>10AM</es>
         <iw>10 בבוקר</iw>
@@ -4878,7 +4656,6 @@ Il sostegno comunitario</it>
         <sq>11:00</sq>
         <it>11:00</it>
         <de>11.00 Uhr</de>
-        <it>11:00</it>
         <ur>دن 11am</ur>
         <es>11AM</es>
         <iw>11 בבוקר</iw>
@@ -4899,7 +4676,6 @@ Il sostegno comunitario</it>
         <sq>12:00</sq>
         <it>12:00</it>
         <de>12 UHR</de>
-        <it>12:00</it>
         <ur>12PM</ur>
         <es>12PM</es>
         <iw>12:00</iw>
@@ -4920,7 +4696,6 @@ Il sostegno comunitario</it>
         <sq>13:00</sq>
         <it>13:00M</it>
         <de>01.00</de>
-        <it>13:00</it>
         <ur>1pm کے</ur>
         <es>1PM</es>
         <iw>01:00</iw>
@@ -4941,7 +4716,6 @@ Il sostegno comunitario</it>
         <sq>14:00</sq>
         <it>14:00</it>
         <de>02.00</de>
-        <it>14:00</it>
         <ur>2PM</ur>
         <es>2PM</es>
         <iw>02:00</iw>
@@ -4962,7 +4736,6 @@ Il sostegno comunitario</it>
         <sq>15:00</sq>
         <it>15:00</it>
         <de>03.00</de>
-        <it>15:00</it>
         <ur>3PM</ur>
         <es>3PM</es>
         <iw>03:00</iw>
@@ -4983,7 +4756,6 @@ Il sostegno comunitario</it>
         <sq>16:00</sq>
         <it>16:00</it>
         <de>4 UHR NACHMITTAGS</de>
-        <it>16:00</it>
         <ur>4PM</ur>
         <es>4PM</es>
         <iw>4 בצהריים</iw>
@@ -5004,7 +4776,6 @@ Il sostegno comunitario</it>
         <sq>17:00</sq>
         <it>17:00</it>
         <de>05.00</de>
-        <it>17:00</it>
         <ur>5PM</ur>
         <es>5PM</es>
         <iw>05:00</iw>
@@ -5025,7 +4796,6 @@ Il sostegno comunitario</it>
         <sq>18:00</sq>
         <it>18:00</it>
         <de>06.00</de>
-        <it>18:00</it>
         <ur>6PM</ur>
         <es>6PM</es>
         <iw>06:00</iw>
@@ -5046,7 +4816,6 @@ Il sostegno comunitario</it>
         <sq>19:00</sq>
         <it>19:00</it>
         <de>07.00</de>
-        <it>19:00</it>
         <ur>7PM</ur>
         <es>7PM</es>
         <iw>7 בערב</iw>
@@ -5067,7 +4836,6 @@ Il sostegno comunitario</it>
         <sq>20:00</sq>
         <it>20:00</it>
         <de>08.00 Uhr</de>
-        <it>20:00</it>
         <ur>8PM</ur>
         <es>8PM</es>
         <iw>08:00</iw>
@@ -5088,7 +4856,6 @@ Il sostegno comunitario</it>
         <sq>21:00</sq>
         <it>21:00</it>
         <de>09.00 Uhr</de>
-        <it>21:00</it>
         <ur>9PM</ur>
         <es>9PM</es>
         <iw>9 בערב</iw>
@@ -5109,7 +4876,6 @@ Il sostegno comunitario</it>
         <sq>22:00</sq>
         <it>22:00</it>
         <de>10.00 Uhr</de>
-        <it>22:00</it>
         <ur>10PM</ur>
         <es>10PM</es>
         <iw>10:00</iw>
@@ -5130,7 +4896,6 @@ Il sostegno comunitario</it>
         <sq>23:00</sq>
         <it>23:00</it>
         <de>11.00 Uhr</de>
-        <it>23:00</it>
         <ur>11pm کے</ur>
         <es>11PM</es>
         <iw>11:00</iw>
@@ -5151,7 +4916,6 @@ Il sostegno comunitario</it>
         <sq>Mesatare tuaj</sq>
         <it>La vostra media</it>
         <de>Ihre durchschnittliche</de>
-        <it>La vostra media</it>
         <ur>آپ کی اوسط</ur>
         <es>Su Promedio</es>
         <iw>הממוצע שלך</iw>
@@ -5172,7 +4936,6 @@ Il sostegno comunitario</it>
         <sq>Titulli raportit</sq>
         <it>Titolo del report</it>
         <de>Titel des Berichts</de>
-        <it>Titolo del report</it>
         <ur>رپورٹ کی سرخی</ur>
         <es>Título del Reporte</es>
         <iw>כותרת דווח</iw>
@@ -5193,7 +4956,6 @@ Il sostegno comunitario</it>
         <sq>Koha e saktë</sq>
         <it>Tempo esatto</it>
         <de>Genaue Zeit</de>
-        <it>Tempo esatto</it>
         <ur>عین مطابق وقت</ur>
         <es>Hora Exacta</es>
         <iw>זמן מדויק</iw>
@@ -5214,7 +4976,6 @@ Il sostegno comunitario</it>
         <sq>Termat e momentit  në Twitter</sq>
         <it>Termini del momento su Twitter</it>
         <de>Trending Begriffe auf Twitter</de>
-        <it>Termini del momento su Twitter</it>
         <ur>ٹویٹر پر رجحان ساز شرائط</ur>
         <es>Términos de tendencia en Twitter</es>
         <iw>תנאי טרנדים בטוויטר</iw>
@@ -5235,7 +4996,6 @@ Il sostegno comunitario</it>
         <sq>Termat e sotshme për audiencën tuaj</sq>
         <it>Termini del momento per il pubblico</it>
         <de>Trending Bedingungen für Ihr Publikum</de>
-        <it>Termini del momento per il pubblico</it>
         <ur>اپنے ناظرین کے لئے رجحان سازی شرائط</ur>
         <es>Términos de tendencia para Su Audiencia</es>
         <iw>תנאי טרנדים עבור קהל היעד שלך</iw>
@@ -5256,7 +5016,6 @@ Il sostegno comunitario</it>
         <sq>E Publikuar</sq>
         <it>Pubblicato</it>
         <de>Veröffentlicht</de>
-        <it>Pubblicato</it>
         <ur>اشاعت</ur>
         <es>Punlicado</es>
         <iw>יצא לאור</iw>
@@ -5277,7 +5036,6 @@ Il sostegno comunitario</it>
         <sq>Ngarko Kopertinen</sq>
         <it>Carica la miniatura</it>
         <de>hochladen Thumbnail</de>
-        <it>Carica la miniatura</it>
         <ur>اپ لوڈ کریں اظفورہ</ur>
         <es>Subir Miniatura</es>
         <iw>העלה תמונה ממוזערת</iw>
@@ -5298,7 +5056,6 @@ Il sostegno comunitario</it>
         <sq>Kopertina</sq>
         <it>Miniatura</it>
         <de>Miniaturansicht</de>
-        <it>Miniatura</it>
         <ur>تھمب نیل</ur>
         <es>Miniatura</es>
         <iw>תמונה ממוזערת</iw>
@@ -5319,7 +5076,6 @@ Il sostegno comunitario</it>
         <sq>Pa kopertin</sq>
         <it>Nessuna miniatura</it>
         <de>keine Vorschau</de>
-        <it>Nessuna miniatura</it>
         <ur>کوئی تھمب نیل</ur>
         <es>Sin Miniatura</es>
         <iw>אין תמונה ממוזערת</iw>
@@ -5340,7 +5096,6 @@ Il sostegno comunitario</it>
         <sq>Radhe</sq>
         <it>Fai la coda</it>
         <de>Warteschlange</de>
-        <it>Fai la coda</it>
         <ur>قطار</ur>
         <es>Mensajes en Espera</es>
         <iw>תוֹר</iw>
@@ -5361,7 +5116,6 @@ Il sostegno comunitario</it>
         <sq>Dërgoja</sq>
         <it>Invia A</it>
         <de>senden An</de>
-        <it>Invia A</it>
         <ur>میں بھیج</ur>
         <es>Enviar a las</es>
         <iw>שלח בשעה</iw>
@@ -5382,7 +5136,6 @@ Il sostegno comunitario</it>
         <sq>Data dhe Koha</sq>
         <it>Data e ora</it>
         <de>Terminzeit</de>
-        <it>Data e ora</it>
         <ur>تاریخ وقت</ur>
         <es>Fecha &amp; Hora</es>
         <iw>תאריך שעה</iw>
@@ -5403,7 +5156,6 @@ Il sostegno comunitario</it>
         <sq>Drafti mesazhit</sq>
         <it>Bozza del messaggio</it>
         <de>Nachricht Draft</de>
-        <it>Bozza del messaggio</it>
         <ur>پیغام مسودہ</ur>
         <es>Borrador de Mensaje</es>
         <iw>טיוטת הודעה</iw>
@@ -5424,7 +5176,6 @@ Il sostegno comunitario</it>
         <sq>Jeni të sigurt që doni të publikoni këtë mesazh?</sq>
         <it>Sei sicuro di voler pubblicare questo messaggio?</it>
         <de>Sind Sie sicher, dass Sie diese Nachricht zu veröffentlichen?</de>
-        <it>Sei sicuro di voler pubblicare questo messaggio?</it>
         <ur>اس پیغام کو شائع کرنے کے لئے چاہتے ہیں؟</ur>
         <es>Está seguro que desea publicar este mensaje?</es>
         <iw>האם אתה בטוח שברצונך לפרסם הודעה זו?</iw>
@@ -5445,7 +5196,6 @@ Il sostegno comunitario</it>
         <sq>Jeni te sigurte qe doni te "fshini këtë artikull?</sq>
         <it>Sei sicuro di voler eliminare questo articolo?</it>
         <de>Sind Sie sicher, dass Sie auf "diesen Artikel löschen?</de>
-        <it>Sei sicuro di voler eliminare questo articolo?</it>
         <ur>آپ "اس شے کو حذف کرنا چاہتے ہیں؟</ur>
         <es>Está seguro que desde eliminar este ítem?</es>
         <iw>האם אתה בטוח שאתה רוצה "למחוק את הפריט הזה?</iw>
@@ -5466,7 +5216,6 @@ Il sostegno comunitario</it>
         <sq>Sukses!</sq>
         <it>Successo!</it>
         <de>Erfolg!</de>
-        <it>Successo!</it>
         <ur>کامیابی!</ur>
         <es>Éxito!</es>
         <iw>הַצלָחָה!</iw>
@@ -5487,7 +5236,6 @@ Il sostegno comunitario</it>
         <sq>Mesazhi juaj tani është në pritje!</sq>
         <it>Il tuo messaggio è ora in attesa!</it>
         <de>Ihre Nachricht ist jetzt in der Warteschleife!</de>
-        <it>Il tuo messaggio è ora in attesa!</it>
         <ur>آپ کا پیغام ہولڈ پر اب ہے!</ur>
         <es>Su mensaje está aguantado!</es>
         <iw>הודעתך היא עכשיו בהמתנה!</iw>
@@ -5508,7 +5256,6 @@ Il sostegno comunitario</it>
         <sq>Vendi i datës është bosh!</sq>
         <it>La data è vuota!</it>
         <de>Geplantes Datum ist leer!</de>
-        <it>Data Schedule è vuoto!</it>
         <ur>تاریخ کے شیڈول خالی ہے!</ur>
         <es>Programar está vacío!</es>
         <iw>תאריך לוח זמנים ריק!</iw>
@@ -5529,7 +5276,6 @@ Il sostegno comunitario</it>
         <sq>Ju lutem shkruani një datë.</sq>
         <it>Per favore, scrivi una data.</it>
         <de>Bitte geben Sie einen Zeitplan Datum.</de>
-        <it>Per favore, scrivi una data</it>
         <ur>ایک شیڈول کوڈ داخل کریں.</ur>
         <es>Por favor programe una fecha</es>
         <iw>נא להזין תאריך תזמון.</iw>
@@ -5550,7 +5296,6 @@ Il sostegno comunitario</it>
         <sq>Skadon </sq>
         <it>scade</it>
         <de>Läuft aus am</de>
-        <it>scade </it>
         <ur>اختتامی میعاد</ur>
         <es>expira en</es>
         <iw>פג תוקף בתאריך</iw>
@@ -5571,7 +5316,6 @@ Il sostegno comunitario</it>
         <sq>kohë e pacaktuar</sq>
         <it>indefinitamente</it>
         <de>unbegrenzt</de>
-        <it>indefinitamente</it>
         <ur>غیر معینہ مدت تک</ur>
         <es>indefinidamente</es>
         <iw>ללא הגבלת זמן</iw>
@@ -5592,7 +5336,6 @@ Il sostegno comunitario</it>
         <sq>Mesazhi juaj është fshirë</sq>
         <it>I tuoi messaggi sono cancellati</it>
         <de>Ihre Nachricht (en) wurden gelöscht</de>
-        <it>I tuoi messaggi sono cancellati</it>
         <ur>آپ کا پیغام (ے) کو خارج کر دیا گیا تھا</ur>
         <es>Su mensaje(s) fue eliminado</es>
         <iw>הודעתך (ים) נמחקו</iw>
@@ -5613,7 +5356,6 @@ Il sostegno comunitario</it>
         <sq>Orë më parë</sq>
         <it>ore fa</it>
         <de>Vor Stunden</de>
-        <it>ore fa</it>
         <ur>گھنٹوں پہلے</ur>
         <es>hora(s) atrás</es>
         <iw>לפני שעות</iw>
@@ -5634,7 +5376,6 @@ Il sostegno comunitario</it>
         <sq>javë më parë</sq>
         <it>settimane fa</it>
         <de>vor Wochen</de>
-        <it>settimane fa</it>
         <ur>ہفتے پہلے</ur>
         <es>semana(s) atrás</es>
         <iw>לפני שבועות</iw>
@@ -5655,7 +5396,6 @@ Il sostegno comunitario</it>
         <sq>muaj më parë</sq>
         <it>mesi fa</it>
         <de>vor wenigen Monaten</de>
-        <it>mesi fa</it>
         <ur>مہینوں پہلے</ur>
         <es>mes(es) atrás</es>
         <iw>לפני חודשים</iw>
@@ -5676,7 +5416,6 @@ Il sostegno comunitario</it>
         <sq>vite më parë</sq>
         <it>anni fa</it>
         <de>Jahre zuvor</de>
-        <it>anni fa</it>
         <ur>کئی برس قبل</ur>
         <es>año(s) atrás</es>
         <iw>לפני שנים</iw>

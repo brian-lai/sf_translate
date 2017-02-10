@@ -15,7 +15,6 @@
         <sq>Cilësimet e llogarisë Social</sq>
         <it>Impostazioni account sociale</it>
         <de>Social-Kontoeinstellungen</de>
-        <it>Impostazioni account sociale</it>
         <ur>سوشل اکاؤنٹ کی ترتیبات</ur>
         <es>Configuraciones de Cuenta Social</es>
         <iw>הגדרות חשבון חברתי</iw>
@@ -36,7 +35,6 @@
         <sq>Shto Llogari Social</sq>
         <it>Aggiungi account sociale</it>
         <de>In Social Konto</de>
-        <it>Aggiungi account sociale</it>
         <ur>سوشل اکاؤنٹ شامل کریں</ur>
         <es>Añadir Cuenta Social</es>
         <iw>הוסף חשבון חברתי</iw>
@@ -57,7 +55,6 @@
         <sq>Shto Grupi</sq>
         <it>Aggiungere gruppo</it>
         <de>Gruppe hinzufügen</de>
-        <it>Aggiungere gruppo</it>
         <ur>گروپ میں شامل</ur>
         <es>Añadir Grupo</es>
         <iw>הוספת קבוצה</iw>
@@ -78,7 +75,6 @@
         <sq>Shto Llogaritë Social (Available | Upgrade)</sq>
         <it>Aggiungere Conti sociali (Disponibile | Upgrade)</it>
         <de>In Social-Accounts (| Aktualisierung)</de>
-        <it>Aggiungere Conti sociali (Disponibile | Upgrade)</it>
         <ur>سماجی اکاؤنٹس شامل کریں (دستیاب | اپ ڈیٹ کریں)</ur>
         <es>Añadir Cuentas Sociales ( Disponible | Upgrade )</es>
         <iw>להוסיף חברתי חשבונות (זמין | שדרוג)</iw>
@@ -99,7 +95,6 @@
         <sq>Autorizoj</sq>
         <it>Autorizzare</it>
         <de>Autorisieren</de>
-        <it>Autorizzare</it>
         <ur>اجازت دیں</ur>
         <es>Autorizar</es>
         <iw>לְאַשֵׁר</iw>
@@ -120,7 +115,6 @@
         <sq>LLogarite botuese aktuale</sq>
         <it>Il tuoi conti di pubblicazione corrente</it>
         <de>Ihre aktuelle Publishing-Konten</de>
-        <it>Il tuo account di pubblicazione corrente</it>
         <ur>اپنے موجودہ پبلشنگ اکاؤنٹس</ur>
         <es>Sus Cuentas para Publicar Actuales</es>
         <iw>חשבונות ההוצאה הנוכחיים שלך</iw>
@@ -141,7 +135,6 @@
         <sq>lloj</sq>
         <it>Digitare</it>
         <de>Art</de>
-        <it>Digitare</it>
         <ur>قسم</ur>
         <es>Tipo</es>
         <iw>סוּג</iw>
@@ -162,7 +155,6 @@
         <sq>emër</sq>
         <it>Nome</it>
         <de>Name</de>
-        <it>Nome</it>
         <ur>نام</ur>
         <es>Nombre</es>
         <iw>שֵׁם</iw>
@@ -183,7 +175,6 @@
         <sq>status</sq>
         <it>Stato</it>
         <de>Status</de>
-        <it>Stato</it>
         <ur>سٹیٹس</ur>
         <es>Status</es>
         <iw>סטָטוּס</iw>
@@ -204,7 +195,6 @@
         <sq>Date e shtuar</sq>
         <it>data aggiunta</it>
         <de>Datum hinzugefügt</de>
-        <it>data aggiunta</it>
         <ur>تاریخ شامل کر دیا گیا</ur>
         <es>Fecha Añadido</es>
         <iw>תאריך הוסף</iw>
@@ -225,7 +215,6 @@
         <sq>redaktoj</sq>
         <it>Modifica</it>
         <de>Bearbeiten</de>
-        <it>Modifica</it>
         <ur>تصیح</ur>
         <es>Editar</es>
         <iw>לַעֲרוֹך</iw>
@@ -246,7 +235,6 @@
         <sq>fshij</sq>
         <it>cancellare</it>
         <de>Löschen</de>
-        <it>cancellare</it>
         <ur>حذف کریں</ur>
         <es>Eliminar</es>
         <iw>לִמְחוֹק</iw>
@@ -267,7 +255,6 @@
         <sq>Ngarkimi faqeve ...</sq>
         <it>Caricamento pagine ...</it>
         <de>Laden Seiten ...</de>
-        <it>Caricamento pagine ...</it>
         <ur>لوڈنگ کے صفحات ...</ur>
         <es>Cargando páginas...</es>
         <iw>דפי Loading ...</iw>
@@ -288,7 +275,6 @@
         <sq>Zgjidhni cilat faqe te Facebook ju dëshironi të përdorni për publikim.</sq>
         <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
         <de>Wählen Sie die Facebook-Seiten, die Sie für die Veröffentlichung verwenden möchten.</de>
-        <it>Scegliere le pagine Facebook che si desidera utilizzare per la pubblicazione.</it>
         <ur>آپ پبلشنگ کے لئے استعمال کرنا چاہتے ہیں جس کے فیس بک کے صفحات میں سے انتخاب کریں.</ur>
         <es>Escoja cuales páginas de Facebook desea usar para publicar.</es>
         <iw>בחר את דפי פייסבוק ברצונך להשתמש עבור פרסום.</iw>
@@ -309,7 +295,6 @@
         <sq>Shto Tani</sq>
         <it>Aggiungere ora</it>
         <de>Jetzt hinzufügen</de>
-        <it>Aggiungere ora</it>
         <ur>ابھی شامل کریں</ur>
         <es>Añadir Ahora</es>
         <iw>הוסף עכשיו</iw>
@@ -330,7 +315,6 @@
         <sq>përfunduar</sq>
         <it>Finito</it>
         <de>Fertig</de>
-        <it>Finito</it>
         <ur>ختم</ur>
         <es>Terminado</es>
         <iw>גָמוּר</iw>
@@ -351,7 +335,6 @@
         <sq>Jeni te sigurte qe doni ta bëni këtë?</sq>
         <it>Sei sicuro di voler eseguire questa azione?</it>
         <de>Sind Sie sicher, dass Sie diese Aktion durchführen?</de>
-        <it>Sei sicuro di voler eseguire questa azione?</it>
         <ur>آپ کو یہ فعل انجام دینے کے لئے چاہتے ہیں؟</ur>
         <es>Está seguro que desea ejecutar esta acción?</es>
         <iw>האם אתה בטוח שברצונך לבצע פעולה זו?</iw>

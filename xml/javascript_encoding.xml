@@ -15,7 +15,6 @@
         <sq>Ju duhet të shtoni një</sq>
         <it>È necessario aggiungere un</it>
         <de>Sie müssen hinzufügen</de>
-        <it>È necessario aggiungere un</it>
         <ur>آپ کو شامل کرنے کی ضرورت</ur>
         <es>Necesita añadir un</es>
         <iw>אתה צריך להוסיף</iw>
@@ -36,7 +35,6 @@
         <sq>llogaria sociale</sq>
         <it>Conti sociali</it>
         <de>Sozial Konto</de>
-        <it>account di social</it>
         <ur>سماجی اکاؤنٹ</ur>
         <es>cuenta social</es>
         <iw>שיקולים חברתיים</iw>
@@ -57,7 +55,6 @@
         <sq>para se kjo faqe të funksionojë si duhet.</sq>
         <it>prima di questa pagina funzionerà correttamente.</it>
         <de>bevor diese Seite ordnungsgemäß funktionieren wird.</de>
-        <it>prima di questa pagina funzionerà correttamente.</it>
         <ur>پہلے اس صفحہ کو مناسب طریقے سے کام کریں گے.</ur>
         <es>para que esta página funcione apropiadamente</es>
         <iw>לפני בדף זה יעבוד כמו שצריך.</iw>
@@ -78,7 +75,6 @@
         <sq>A jeni i sigurt se doni të fshini këtë mesazh?</sq>
         <it>Sei sicuro di voler eliminare questo messaggio?</it>
         <de>Sind Sie sicher, dass Sie diese Nachricht löschen?</de>
-        <it>Sei sicuro di voler eliminare questo messaggio?</it>
         <ur>اس پیغام کو حذف کرنا چاہتے ہیں؟</ur>
         <es>Está seguro que desea eliminar este mensaje?</es>
         <iw>האם אתה בטוח שאתה רוצה למחוק הודעה זו?</iw>
@@ -99,7 +95,6 @@
         <sq>po</sq>
         <it>sì</it>
         <de>ja</de>
-        <it>sì</it>
         <ur>جی ہاں</ur>
         <es>si</es>
         <iw>כן</iw>
@@ -120,7 +115,6 @@
         <sq>jo</sq>
         <it>no</it>
         <de>Nein</de>
-        <it>no</it>
         <ur>نہیں</ur>
         <es>no</es>
         <iw>לא</iw>
@@ -141,7 +135,6 @@
         <sq>Ky mesazh tashmë është fshirë.</sq>
         <it>Questo messaggio è già stato cancellato.</it>
         <de>Diese Nachricht wurde bereits gelöscht.</de>
-        <it>Questo messaggio è già stato cancellato.</it>
         <ur>یہ پیغام پہلے ہی حذف کر دیا گیا ہے.</ur>
         <es>Este mensaje ya ha sido eliminado</es>
         <iw>הודעה זו כבר נמחקה.</iw>
@@ -162,7 +155,6 @@
         <sq>Diçka nuk shkoi mirë kur fshitë mesazhin tuaj.</sq>
         <it>Qualcosa è andato storto cancellando il messaggio.</it>
         <de>Etwas ging Löschen falsch Ihre Nachricht.</de>
-        <it>Qualcosa è andato storto cancellando il messaggio.</it>
         <ur>کچھ غلط ہو اپنا پیغام کو حذف کرنے گئے.</ur>
         <es>Ourrió algun error eliminando su mensaje.</es>
         <iw>משהו השתבש מחיקת הודעתך.</iw>
@@ -183,7 +175,6 @@
         <sq>Na vjen keq,ishte një gabim</sq>
         <it>Spiacente, c'è stato un errore</it>
         <de>Entschuldigung, da war ein Fehler</de>
-        <it>Spiacente, c'è stato un errore</it>
         <ur>معذرت، میں ایک خامی تھی</ur>
         <es>Disculpe, hubo un error</es>
         <iw>מצטערים, אירעה שגיאה</iw>
@@ -204,7 +195,6 @@
         <sq>Na vjen keq, ishte një gabim</sq>
         <it>Spiacente, c'è stato un errore</it>
         <de>Entschuldigung, da war ein Fehler</de>
-        <it>Spiacente, c'è stato un errore</it>
         <ur>معذرت، میں ایک خامی تھی</ur>
         <es>Disculpe, hubo un error</es>
         <iw>מצטערים, אירעה שגיאה</iw>
@@ -225,7 +215,6 @@
         <sq>Mesazhi juaj  u shënua</sq>
         <it>I tuoi messaggi  sono stati segnati</it>
         <de>Ihre Nachricht (en) wurden markiert</de>
-        <it>Il tuo messaggio (s) sono stati segnati</it>
         <ur>آپ کا پیغام (ے) سے نشان لگا دیا گیا تھا</ur>
         <es>Su mensaje(s) ha sido marcado</es>
         <iw>הודעתך (ים) סומנו</iw>
@@ -246,7 +235,6 @@
         <sq>Jeni te sigurte qe doni te</sq>
         <it>Sei sicuro di volere</it>
         <de>Bist du sicher, dass du das willst</de>
-        <it>Sei sicuro di volere</it>
         <ur>کیا آپ واقعی کرنا چاہتے ہیں</ur>
         <es>Está seguro que desea</es>
         <iw>אתה בטוח שאתה רוצה</iw>
@@ -267,7 +255,6 @@
         <sq>tani</sq>
         <it>proprio adesso</it>
         <de>gerade jetzt</de>
-        <it>proprio adesso</it>
         <ur>ابھی ابھی</ur>
         <es>justo ahora</es>
         <iw>זֶה עַתָה</iw>
@@ -288,7 +275,6 @@
         <sq>1 minutë</sq>
         <it>1 minuto</it>
         <de>1 Minute</de>
-        <it>1 minuto</it>
         <ur>1 منٹ</ur>
         <es>1 minuto</es>
         <iw>דקה 1</iw>
@@ -309,7 +295,6 @@
         <sq>minuta</sq>
         <it>minuti</it>
         <de>Protokoll</de>
-        <it>minuti</it>
         <ur>منٹ</ur>
         <es>minutos</es>
         <iw>דקות</iw>
@@ -330,7 +315,6 @@
         <sq>orë</sq>
         <it>ore</it>
         <de>Std.</de>
-        <it>ore</it>
         <ur>گھنٹے</ur>
         <es>horas</es>
         <iw>שעות</iw>
@@ -351,7 +335,6 @@
         <sq>ditë</sq>
         <it>giorni</it>
         <de>Tage</de>
-        <it>giorni</it>
         <ur>دن</ur>
         <es>días</es>
         <iw>ימים</iw>
@@ -372,7 +355,6 @@
         <sq>javë</sq>
         <it>settimane</it>
         <de>Wochen</de>
-        <it>settimane</it>
         <ur>ہفتے</ur>
         <es>semanas</es>
         <iw>שבועות</iw>
@@ -393,7 +375,6 @@
         <sq>1 muaj</sq>
         <it>1 mese</it>
         <de>1 Monat</de>
-        <it>1 mese</it>
         <ur>1 مہینہ</ur>
         <es>1 mes</es>
         <iw>1 חודש</iw>
@@ -414,7 +395,6 @@
         <sq>muaj</sq>
         <it>mesi</it>
         <de>Monate</de>
-        <it>mesi</it>
         <ur>مہینے</ur>
         <es>meses</es>
         <iw>חודשים</iw>
@@ -435,7 +415,6 @@
         <sq>1 vit</sq>
         <it>1 anno</it>
         <de>1 Jahr</de>
-        <it>1 anno</it>
         <ur>1 سال</ur>
         <es>1 año</es>
         <iw>1 שנה</iw>
@@ -456,7 +435,6 @@
         <sq>vite</sq>
         <it>anni</it>
         <de>Jahre</de>
-        <it>anni</it>
         <ur>سال</ur>
         <es>años</es>
         <iw>שנים</iw>
@@ -477,7 +455,6 @@
         <sq>1 shekulli</sq>
         <it>1 secolo</it>
         <de>1 Jahrhundert</de>
-        <it>1 ° secolo</it>
         <ur>1 صدی</ur>
         <es>1 siglo</es>
         <iw>1 המאה</iw>
@@ -498,7 +475,6 @@
         <sq>më parë</sq>
         <it>fa</it>
         <de>vor</de>
-        <it>fa</it>
         <ur>پہلے</ur>
         <es>atrás</es>
         <iw>לִפנֵי</iw>
@@ -519,7 +495,6 @@
         <sq>shekuj</sq>
         <it>Secoli</it>
         <de>Jahrhunderte</de>
-        <it>Secoli</it>
         <ur>صدیوں</ur>
         <es>Siglos</es>
         <iw>מאות שנים</iw>
@@ -540,7 +515,6 @@
         <sq>Diçka ka shkuar keq duke nxjerr afat kohor.</sq>
         <it>Qualcosa è andato storto recupero vostra timeline.</it>
         <de>Etwas schief gegangen Timeline abrufen.</de>
-        <it>Qualcosa è andato storto recupero vostra timeline.</it>
         <ur>کچھ اپنی ٹائم لائن بازگیر غلط چلا گیا ہے.</ur>
         <es>Ha ocurrido un error con su cronograma</es>
         <iw>משהו השתבש יחזור ציר הזמן שלך.</iw>
@@ -561,7 +535,6 @@
         <sq>Klikoni për të redaktuar titullin</sq>
         <it>Fare clic per modificare il titolo</it>
         <de>Klicken Sie auf Titel bearbeiten</de>
-        <it>Fare clic per modificare il titolo</it>
         <ur>عنوان میں ترمیم کے لئے کلک کریں</ur>
         <es>Haga clic para editar el título</es>
         <iw>לחץ כדי לערוך את הכותרת</iw>
@@ -582,7 +555,6 @@
         <sq>Kliko për të ndryshuar përshkrimin e</sq>
         <it>Clicca per pubblicare la descrizione</it>
         <de>Klicken Sie Beschreibung bearbeiten</de>
-        <it>Clicca per pubblicare la descrizione</it>
         <ur>تفصیل میں ترمیم کریں کرنے کے لئے یہاں دبائیں</ur>
         <es>Haga clicl para editar la descripción</es>
         <iw>לחץ כדי לערוך תיאור</iw>
@@ -603,7 +575,6 @@
         <sq>Sponsorizo këtë mesazh</sq>
         <it>Promuovi questo Messaggio</it>
         <de>Fördern Sie diese Nachricht</de>
-        <it>Promuovi questo Messaggio</it>
         <ur>اس پیغام کو فروغ</ur>
         <es>Promover este Mensaje</es>
         <iw>לקדם את המסר הזה</iw>
@@ -624,7 +595,6 @@
         <sq>shtuar</sq>
         <it>aggiunto</it>
         <de>Hinzugefügt</de>
-        <it>aggiunto</it>
         <ur>شامل کر دیا گیا</ur>
         <es>Ańadido</es>
         <iw>נוסף</iw>
@@ -645,7 +615,6 @@
         <sq>Riperdor mesazhin</sq>
         <it>messaggio Riciclare</it>
         <de>Recycle Nachricht</de>
-        <it>messaggio Riciclare</it>
         <ur>ردی پیغام</ur>
         <es>Reciclar mensaje</es>
         <iw>הודעת מחזור</iw>
@@ -666,7 +635,6 @@
         <sq>Diçka ka shkuar keq ngarkuar radhë tuaj.</sq>
         <it>Qualcosa è andato storto recuperare la coda.</it>
         <de>Etwas schief gegangen Warteschlange abgerufen werden.</de>
-        <it>Qualcosa è andato storto recuperare la coda.</it>
         <ur>کچھ آپ کی قطار بازگیر غلط چلا گیا ہے.</ur>
         <es>Ocurrió algun error recuperando su lista en espera.</es>
         <iw>משהו השתבש יחזור התור שלך.</iw>
@@ -687,7 +655,6 @@
         <sq>Zgjedhja me e mire eshte bere deri</sq>
         <it>Ottimizzato fino</it>
         <de>Optimiert bis</de>
-        <it>Ottimizzato fino</it>
         <ur>جب تک آپٹمائزڈ</ur>
         <es>Optimizar hasta</es>
         <iw>אופטימלי עד</iw>
@@ -708,7 +675,6 @@
         <sq>Zgjedhja me e mire eshte bere nga</sq>
         <it>Ottimizzato da</it>
         <de>Optimiert aus</de>
-        <it>Ottimizzato da</it>
         <ur>سے آپٹمائزڈ</ur>
         <es>Optimizar de</es>
         <iw>אופטימלי מן</iw>
@@ -729,7 +695,6 @@
         <sq>planifikuar për</sq>
         <it>Pianificato per</it>
         <de>Eingetragen für</de>
-        <it>Pianificato per</it>
         <ur>کے لئے شیڈول</ur>
         <es>Agendado para</es>
         <iw>נקבע ל</iw>
@@ -750,7 +715,6 @@
         <sq>Tablotë</sq>
         <it>Miniature</it>
         <de>thumbnails</de>
-        <it>Miniature</it>
         <ur>تمبنےل</ur>
         <es>Miniaturas</es>
         <iw>תמונות ממוזערות</iw>
@@ -771,7 +735,6 @@
         <sq>Modifikuar ne fund nga </sq>
         <it>Ultima modifica di</it>
         <de>Zuletzt bearbeitet von</de>
-        <it>Ultima modifica di</it>
         <ur>آخری کی طرف سے ترمیم</ur>
         <es>Última redacción por</es>
         <iw>נערך לאחרונה על ידי</iw>
@@ -792,7 +755,6 @@
         <sq>shtuar</sq>
         <it>aggiunto</it>
         <de>Hinzugefügt</de>
-        <it>aggiunto</it>
         <ur>شامل کر دیا گیا</ur>
         <es>Añadido</es>
         <iw>נוסף</iw>
@@ -813,7 +775,6 @@
         <sq>në</sq>
         <it>a</it>
         <de>beim</de>
-        <it>a</it>
         <ur>پر</ur>
         <es>en</es>
         <iw>בְּ-</iw>
@@ -834,7 +795,6 @@
         <sq>Dërgo në</sq>
         <it>Invia a</it>
         <de>senden an</de>
-        <it>Invia a</it>
         <ur>میں ارسال کریں</ur>
         <es>Enviar en</es>
         <iw>שלח ב</iw>
@@ -855,7 +815,6 @@
         <sq>Nuk ka tekst per te  Kërkuar </sq>
         <it>Non ci sono termini di ricerca</it>
         <de>Keine Suchbegriffe</de>
-        <it>Non ci sono termini di ricerca</it>
         <ur>کوئی تلاش کی شرائط</ur>
         <es>Sin términos de búsqueda</es>
         <iw>אין תנאי חיפוש</iw>
@@ -876,7 +835,6 @@
         <sq>Ju lutem shkruani tekstin për të kërkuar</sq>
         <it>Si prega di inserire il testo da ricercare</it>
         <de>Bitte geben Sie den Text zu suchen</de>
-        <it>Si prega di inserire il testo da ricercare</it>
         <ur>تلاش کرنے کے لئے متن درج کریں</ur>
         <es>Por favor inserte texo para buscar</es>
         <iw>נא להזין את הטקסט כדי לחפש</iw>
@@ -897,7 +855,6 @@
         <sq>Mesazhi juaj është e kufizuar në 140 karaktere, kur postohet  në Twitter.</sq>
         <it>Il suo messaggio è limitato a 140 caratteri quando e stato pubblicato su Twitter.</it>
         <de>Ihre Nachricht ist auf 140 Zeichen begrenzt, wenn auf Twitter veröffentlichen.</de>
-        <it>Il suo messaggio è limitato a 140 caratteri durante la pubblicazione di Twitter.</it>
         <ur>فالو کریں شائع جب آپ کا پیغام 140 حروف تک محدود ہے.</ur>
         <es>Su mensaje es limitado a 140 carácteres cuando publica a Twitter.</es>
         <iw>המסר מוגבל ל -140 תווים בעת פרסום לטוויטר.</iw>
@@ -918,7 +875,6 @@
         <sq>Mesazhi është bosh</sq>
         <it>Messaggio è vuoto</it>
         <de>Nachricht ist leer</de>
-        <it>Messaggio è vuoto</it>
         <ur>پیغام خالی ہے</ur>
         <es>Mensaje en blanco</es>
         <iw>הודעה ריקה</iw>
@@ -939,7 +895,6 @@
         <sq>Ju lutem shkruani një mesazh.</sq>
         <it>Si prega di inserire un messaggio.</it>
         <de>Bitte geben Sie eine Nachricht.</de>
-        <it>Si prega di inserire un messaggio.</it>
         <ur>ایک پیغام درج کریں.</ur>
         <es>Por favor inserte un mensaje</es>
         <iw>נא להזין הודעה.</iw>
@@ -960,7 +915,6 @@
         <sq>Ju lutem verifikoni datën tuaj dhe zgjatjen kohore.</sq>
         <it>Si prega di verificare la data e l'intervallo di tempo.</it>
         <de>Bitte überprüfen Sie das Datum und Zeitbereich.</de>
-        <it>Si prega di verificare la data e l'intervallo di tempo.</it>
         <ur>آپ کی تاریخ اور وقت کی حد کی تصدیق کریں.</ur>
         <es>Por favor verifique su fecha y rango de tiempo.</es>
         <iw>ודא הדייט שלך ואת טווח הזמן.</iw>
@@ -981,7 +935,6 @@
         <sq>Mesazhi juaj është në radhë tuaj të vendosur si zgjedhja me e mire!</sq>
         <it>Il suo messaggio è in coda impostato ottimizzato!</it>
         <de>Ihre Nachricht wird in die Warteschlange gesetzt optimiert!</de>
-        <it>Il suo messaggio è in coda impostato ottimizzato!</it>
         <ur>آپ کا پیغام آپ کی قطار میں مرضی کے لئے مقرر کیا جاتا ہے!</ur>
         <es>Su mensaje está en su lista en espera configurado como optimizar!</es>
         <iw>הודעתך בתור שלך מוגדרת אופטימיזציה!</iw>
@@ -1002,7 +955,6 @@
         <sq>Mesazhi juaj do të publikohet së shpejti!</sq>
         <it>Il tuo messaggio pubblicherà a breve!</it>
         <de>Ihre Nachricht wird in Kürze veröffentlichen!</de>
-        <it>Il tuo messaggio pubblicherà a breve!</it>
         <ur>آپ کا پیغام کچھ ہی دیر شائع کریں گے!</ur>
         <es>Su mensaje será publicado en breve!</es>
         <iw>הודעתך תפרסם בקרוב!</iw>
@@ -1023,7 +975,6 @@
         <sq>Mesazhi juaj u planifikuar!</sq>
         <it>Il messaggio è stato programmato!</it>
         <de>Ihre Nachricht wurde geplant!</de>
-        <it>Il messaggio è stato programmato!</it>
         <ur>آپ کا پیغام شیڈول کیا گیا ہے!</ur>
         <es>Su mensaje ha sido programado!</es>
         <iw>הודעתך תוזם!</iw>
@@ -1044,7 +995,6 @@
         <sq>Dicka shkoi keq.</sq>
         <it>Qualcosa è andato storto.</it>
         <de>Etwas ist schief gelaufen.</de>
-        <it>Qualcosa è andato storto.</it>
         <ur>کچھ غلط ہو گیا.</ur>
         <es>Ocurrió algun error.</es>
         <iw>משהו השתבש.</iw>
@@ -1065,7 +1015,6 @@
         <sq>date e pavlefshme</sq>
         <it>Data non valida (s)</it>
         <de>Datum ungültig (n)</de>
-        <it>Data non valida (s)</it>
         <ur>غلط تاریخ (ے)</ur>
         <es>Fecha(s) inválida</es>
         <iw>תאריך לא חוקי (ים)</iw>
@@ -1086,7 +1035,6 @@
         <sq>Pati një problem me këtë faqe.</sq>
         <it>C'è stato un problema raschiando questa pagina.</it>
         <de>Es gab ein Problem Diese Seite Schaben.</de>
-        <it>C'è stato un problema raschiando questa pagina.</it>
         <ur>اس صفحے scraping کی ایک دشواری تھی.</ur>
         <es>Hubo un problema leyendo esta página.</es>
         <iw>אירעה בעיה גירוד בדף זה.</iw>
@@ -1107,7 +1055,6 @@
         <sq>Ju lutem kontrolloni adresen  dhe provoni përsëri.</sq>
         <it>Si prega di verificare il link e riprova.</it>
         <de>Bitte überprüfen Sie den Link und versuchen Sie es erneut.</de>
-        <it>Si prega di verificare il link e riprova.</it>
         <ur>لنک کو چیک کریں اور دوبارہ کوشش کریں براہ مہربانی.</ur>
         <es>Por favor verifique el enlace e intente de nuevo</es>
         <iw>אנא בדוק את הקישור ולנסות שוב.</iw>
@@ -1128,7 +1075,6 @@
         <sq>Ju duhet të specifikoni vendin.</sq>
         <it>È necessario specificare il paese.</it>
         <de>Sie müssen das Land angeben.</de>
-        <it>È necessario specificare il paese.</it>
         <ur>آپ ملک کی وضاحت لازمی ہے.</ur>
         <es>Debe especificar el país.</es>
         <iw>אתה חייב לציין את הארץ.</iw>
@@ -1149,7 +1095,6 @@
         <sq>Pati një gabim gjatë ngarkimit te imazhin tuaj.</sq>
         <it>Si è verificato un errore durante il caricamento delle immagini.</it>
         <de>Es ist ein Fehler aufgetreten Bild hochladen.</de>
-        <it>Si è verificato un errore durante il caricamento delle immagini.</it>
         <ur>آپ کی تصویر اپ لوڈ کرنے میں ایک خامی تھی.</ur>
         <es>Hubo un error subiendo su imagen.</es>
         <iw>אירעה שגיאה בעת טעינת התמונה שלך.</iw>
@@ -1170,7 +1115,6 @@
         <sq>Ju lutemi provoni përsëri.</sq>
         <it>Riprova.</it>
         <de>Bitte versuche es erneut.</de>
-        <it>Riprova.</it>
         <ur>دوبارہ کوشش کریں.</ur>
         <es>Por favor intente de nuevo</es>
         <iw>בבקשה נסה שוב.</iw>
@@ -1191,7 +1135,6 @@
         <sq>Hmmmm ...</sq>
         <it>Hmmmm ...</it>
         <de>Hmmmm ...</de>
-        <it>Hmmmm ...</it>
         <ur>Hmmmm میں ...</ur>
         <es>Hmm...</es>
         <iw>הממממ ...</iw>
@@ -1212,7 +1155,6 @@
         <sq>Dicka shkoi keq.</sq>
         <it>Qualcosa è andato storto.</it>
         <de>Etwas ist schief gelaufen.</de>
-        <it>Qualcosa è andato storto.</it>
         <ur>کچھ غلط ہو گیا.</ur>
         <es>Ocurrió algun error.</es>
         <iw>משהו השתבש.</iw>
@@ -1233,7 +1175,6 @@
         <sq>Mesazhi është bosh</sq>
         <it>Messaggio è vuoto</it>
         <de>Nachricht ist leer</de>
-        <it>Messaggio è vuoto</it>
         <ur>پیغام خالی ہے</ur>
         <es>El mensaje está en blanco</es>
         <iw>הודעה ריקה</iw>
@@ -1254,7 +1195,6 @@
         <sq>Ju lutem shkruani një mesazh</sq>
         <it>Si prega di inserire un messaggio</it>
         <de>Bitte geben Sie eine Nachricht</de>
-        <it>Si prega di inserire un messaggio</it>
         <ur>ایک پیغام درج کریں</ur>
         <es>Por favor inserte un mensaje</es>
         <iw>נא להזין הודעה</iw>
@@ -1275,7 +1215,6 @@
         <sq>Orari është bosh</sq>
         <it>data di pianificazione è vuota</it>
         <de>Geplantes Datum ist leer</de>
-        <it>data di pianificazione è vuota</it>
         <ur>تاریخ کے شیڈول خالی ہے</ur>
         <es>La fecha para programar está vacia</es>
         <iw>תאריך לוח זמנים ריק</iw>
@@ -1296,7 +1235,6 @@
         <sq>Ju lutem shkruani një datë</sq>
         <it>Si prega di inserire una data di pianificazione</it>
         <de>Bitte geben Sie einen Zeitplan Datum</de>
-        <it>Si prega di inserire una data di pianificazione</it>
         <ur>ایک شیڈول کوڈ داخل کریں.</ur>
         <es>Por favor inserte una fecha para programar</es>
         <iw>נא להזין תאריך תזמון</iw>
@@ -1317,7 +1255,6 @@
         <sq>Mesazhi juaj do të publikohet sa me pareP!</sq>
         <it>Il tuo messaggio pubblicherà al più presto!</it>
         <de>Ihre Nachricht wird so schnell wie möglich zu veröffentlichen!</de>
-        <it>Il tuo messaggio pubblicherà al più presto!</it>
         <ur>آپ کا پیغام ASAP شائع کریں گے!</ur>
         <es>Su mensaje será publicado lo mas pronto posible!</es>
         <iw>הודעתך תפרסם בהקדם האפשרי!</iw>
@@ -1338,7 +1275,6 @@
         <sq>Dicka shkoi keq...</sq>
         <it>Qualcosa è andato storto...</it>
         <de>Etwas ist schief gelaufen...</de>
-        <it>Qualcosa è andato storto...</it>
         <ur>کچھ غلط ہو گیا...</ur>
         <es>Ocurrió algun error...</es>
         <iw>משהו השתבש...</iw>
@@ -1359,7 +1295,6 @@
         <sq>gabim</sq>
         <it>Errore</it>
         <de>Fehler</de>
-        <it>Errore</it>
         <ur>خرابی</ur>
         <es>Error</es>
         <iw>שְׁגִיאָה</iw>
@@ -1380,7 +1315,6 @@
         <sq>Duke autorizuar faqen tuaj te llogaries  Google Analytics</sq>
         <it>Autorizzazione del tuo sito web del Google Analytics</it>
         <de>Berechtigen Ihre Website Google Analytics-Konto (en)</de>
-        <it>Autorizzazione tuo sito web account Google Analytics (s)</it>
         <ur>اپنی ویب سائٹ اختیار تجزیاتی گوگل اکاؤنٹ (زبانیں)</ur>
         <es>Autorizando su cuenta(s) de Google Analytics de su sitio</es>
         <iw>מתן הרשאה האתר שלך לחשבון Google Analytics (ים)</iw>
@@ -1401,7 +1335,6 @@
         <sq>Duke autorizuar llogarinë tuaj te Google Analytics  do të na ndihmojë per te zgjedhur mesazhet me më mira prej</sq>
         <it>Autorizzazione tuo sito web conto  di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
         <de>Berechtigen Ihre Website Google Analytics-Konto (en) wird uns helfen, besser optimieren Sie Ihre Nachrichten</de>
-        <it>Autorizzazione tuo sito web account (s) di Google Analytics ci aiuterà meglio ottimizzare le messaggi</it>
         <ur>آپ کی ویب سائٹ گوگل کے تجزیات کے اکاؤنٹ (زبانیں) اختیار بہتر ہمیں مدد کی طرف سے آپ کے پیغامات کو بہتر بنانے گا</ur>
         <es>Autorizando su cuenta(s) de Google Analytics de su sitio nos ayudará a optimizar sus mensajes por</es>
         <iw>מתן הרשאת חשבון Google Analytics באתר שלך (הים) תעזור לנו לבצע אופטימיזציה טובה יותר ההודעות שלך על ידי</iw>
@@ -1422,7 +1355,6 @@
         <sq>duke na dhënë një kuptim më të mirë se si mesazhet ndikojë performancen e faqes suaj.</sq>
         <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
         <de>die uns ein besseres Verständnis, wie Ihre Nachrichten die Leistung Ihrer Website beeinflussen.</de>
-        <it>dandoci una migliore comprensione di come i messaggi influenzano le prestazioni del sito.</it>
         <ur>ہمیں کس طرح آپ کے پیغامات آپ کی ویب سائٹ کی کارکردگی کو متاثر کی بہتر تفہیم دینے کے.</ur>
         <es>darnos un mejor entendimiento de como sus mensajes afectan el desempeño de su sitio.</es>
         <iw>נותן לנו הבנה טובה יותר של כמה הודעות שלך להשפיע על הביצועים באתר שלך.</iw>
@@ -1443,7 +1375,6 @@
         <sq>Autorizo Google Analytics!</sq>
         <it>Autorizzo Google Analytics!</it>
         <de>Autorisieren Google Analytics!</de>
-        <it>Autorizzo Google Analytics!</it>
         <ur>گوگل کے تجزیات کی اجازت!</ur>
         <es>Autorice Google Analytics!</es>
         <iw>תן הרשאה Google Analytics!</iw>
@@ -1464,7 +1395,6 @@
         <sq>Nuk ka të dhëna në dispozicion për periudhën e zgjedhur kohore.</sq>
         <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
         <de>Keine Daten für den gewählten Zeitraum.</de>
-        <it>Nessun dato disponibile per il periodo di tempo selezionato.</it>
         <ur>کوئی ڈیٹا نہیں منتخب وقت کی مدت کے لئے دستیاب.</ur>
         <es>No hay datos disponibles para el intérvalo de tiempo seleccionado</es>
         <iw>אין נתונים זמינים עבור תקופת הזמן שנבחרה.</iw>
@@ -1485,7 +1415,6 @@
         <sq>Ju lutemi ndryshoni kuadrin e kohës tuaj, ose</sq>
         <it>Si prega di modificare il periodo di tempo o</it>
         <de>Bitte ändern Sie Ihre Zeitrahmen oder</de>
-        <it>Si prega di modificare il periodo di tempo o</it>
         <ur>آپ کے وقت کی حد کو تبدیل یا براہ کرم</ur>
         <es>Por favor modifique su rango de tiempo o</es>
         <iw>אנא שנה מסגרת הזמן שלך או</iw>
@@ -1506,7 +1435,6 @@
         <sq>publiko disa mesazhe</sq>
         <it>pubblicare alcuni messaggi</it>
         <de>veröffentlichen einige Nachrichten</de>
-        <it>pubblicare alcuni messaggi</it>
         <ur>کچھ پیغامات شائع</ur>
         <es>Publique algunos mensajes</es>
         <iw>לפרסם כמה הודעות</iw>
@@ -1527,7 +1455,6 @@
         <sq>duke përdorur SocialFlow!</sq>
         <it>utilizzando SocialFlow!</it>
         <de>mit SocialFlow!</de>
-        <it>utilizzando SocialFlow!</it>
         <ur>SocialFlow استعمال کرتے ہوئے!</ur>
         <es>usando SocialFlow!</es>
         <iw>באמצעות SocialFlow!</iw>
@@ -1548,7 +1475,6 @@
         <sq>Klikimet e tanishme</sq>
         <it>Clic attuali</it>
         <de>Aktuelle Klicks</de>
-        <it>Clic attuali</it>
         <ur>موجودہ کلکس</ur>
         <es>Clics Actuales</es>
         <iw>קליקים נוכחיים</iw>
@@ -1569,7 +1495,6 @@
         <sq>Fitimet e tanishme nga Audienca</sq>
         <it>Utili del  pubblico attuale</it>
         <de>Aktuelle Audience Gewinne</de>
-        <it>Utili pubblico attuale</it>
         <ur>موجودہ سامعین فوائد</ur>
         <es>Ganancias de Audiencia Actuales</es>
         <iw>רווחי קהל נוכחיים</iw>
@@ -1590,7 +1515,6 @@
         <sq>Fitimet e kaluara nga Audienca</sq>
         <it>Utili del Pubblico passati</it>
         <de>Vergangene Publikum Gewinne</de>
-        <it>Utili Pubblico passati</it>
         <ur>ماضی سامعین فوائد</ur>
         <es>Ganancias de Audiencia Pasadas</es>
         <iw>רווחי קהל עבר</iw>
@@ -1611,7 +1535,6 @@
         <sq>Ndërveprimet e tanishme</sq>
         <it>Interazioni attuali</it>
         <de>Aktuelle Wechselwirkungen</de>
-        <it>Interazioni attuali</it>
         <ur>موجودہ سہباگتا</ur>
         <es>Interacciones Actuales</es>
         <iw>אינטראקציות נוכחיות</iw>
@@ -1632,7 +1555,6 @@
         <sq>Ndërveprimet e kaluara</sq>
         <it>interazioni passate</it>
         <de>Historische Wechselwirkungen</de>
-        <it>interazioni passate</it>
         <ur>سابقہ ​​تعامل</ur>
         <es>Interacciones Pasadas</es>
         <iw>אינטראקציות קודמות</iw>
@@ -1653,7 +1575,6 @@
         <sq>Ju lutem, përzgjidhni një llogari shoqëror për të parë.</sq>
         <it>Si prega di selezionare un account di social per visualizzare.</it>
         <de>Bitte wählen Sie einen sozialen Konto anzuzeigen.</de>
-        <it>Si prega di selezionare un account di social per visualizzare.</it>
         <ur>دیکھنے کے لئے ایک سماجی اکاؤنٹ منتخب کیجیے.</ur>
         <es>Por favor seleccione una cuenta social para visualizar.</es>
         <iw>אנא בחר חשבון חברתי להציג.</iw>
@@ -1674,7 +1595,6 @@
         <sq>Asnjë Llogari sociale eshte ne dispozicion</sq>
         <it>Nessun account sociali disponibili</it>
         <de>Keine Social Accounts verfügbar</de>
-        <it>Nessun account sociali disponibili</it>
         <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
         <es>Niguna Cuenta Social Disponible</es>
         <iw>אין מספר ביטוח חשבונות זמינים</iw>
@@ -1695,7 +1615,6 @@
         <sq>Ju lutem klikoni këtu për të autorizuar llogaritë tuaja sociale!</sq>
         <it>Clicca qui per autorizzare account di social!</it>
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
-        <it>Clicca qui per autorizzare account di social!</it>
         <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
         <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales</es>
         <iw>אנא לחץ כאן כדי לאשר החשבונות הלאומיים שלך!</iw>
@@ -1716,7 +1635,6 @@
         <sq>Duke ngarkuar të dhënat e evenimenteve</sq>
         <it>Caricamento i Dati del evento</it>
         <de>Laden von Ereignisdaten</de>
-        <it>Caricamento Dati evento</it>
         <ur>واقعہ ڈیٹا لوڈ</ur>
         <es>Cargando Datos de Evento</es>
         <iw>טוען אירוע נתונים</iw>
@@ -1737,7 +1655,6 @@
         <sq>Duke ngarkuar data e klikimeve</sq>
         <it>Caricamento dati dai Clic</it>
         <de>Laden Klicken Sie auf Daten</de>
-        <it>Loading Clicca Dati</it>
         <ur>لوڈ کر رہا ہے پر کلک ڈیٹا</ur>
         <es>Cargando Datos de Clic</es>
         <iw>נתונים לחץ Loading</iw>
@@ -1758,7 +1675,6 @@
         <sq>Loading Interactions të dhënave</sq>
         <it>Caricamento dati di Interazioni</it>
         <de>Laden Wechselwirkungen Daten</de>
-        <it>Caricamento Interazioni dati</it>
         <ur>سہباگتا ڈیٹا لوڈ</ur>
         <es>Cargando Datos de Interacciones</es>
         <iw>טוען אינטראקציות נתונים</iw>
@@ -1779,7 +1695,6 @@
         <sq>Duke ngarkuar të dhënat e audiences</sq>
         <it>Caricamento i dati di Pubblico</it>
         <de>Laden Publikumsdaten</de>
-        <it>Caricamento Pubblico dati</it>
         <ur>لوڈ ہو رہا ہے سامعین ڈیٹا</ur>
         <es>Cargando Datos de Audiencia</es>
         <iw>נתוני קהל Loading</iw>
@@ -1800,7 +1715,6 @@
         <sq>Titulli mungon</sq>
         <it>Titolo mancante</it>
         <de>Fehlende Titel</de>
-        <it>Titolo mancante</it>
         <ur>لاپتہ سرخی</ur>
         <es>Sin Título</es>
         <iw>כותרת חסרה</iw>
@@ -1821,7 +1735,6 @@
         <sq>Ju nuk mund të ruani një raport pa titull</sq>
         <it>Non è possibile salvare un report senza un titolo</it>
         <de>Sie können einen Bericht ohne Titel speichern</de>
-        <it>Non è possibile salvare un report senza un titolo</it>
         <ur>آپ کو ایک عنوان کے بغیر ایک رپورٹ کر بچا نہیں سکتا</ur>
         <es>No puede guardar un reporte sin título</es>
         <iw>אתה לא יכול לשמור דוח ללא כותרת</iw>
@@ -1842,7 +1755,6 @@
         <sq>Informacioni juaj u ruajt!</sq>
         <it>I tuoi dati è stato salvato!</it>
         <de>Ihre Angaben wurden gespeichert!</de>
-        <it>I tuoi dati è stato salvato!</it>
         <ur>آپ کی معلومات کو محفوظ کر لیا گیا ہے!</ur>
         <es>Su información ha sido guardada!</es>
         <iw>המידע שלך נשמר!</iw>
@@ -1863,7 +1775,6 @@
         <sq>Asnjë Llogarit sociale nuk në dispozicion</sq>
         <it>Nessun conti  sociali sono disponibili</it>
         <de>Keine Social Accounts verfügbar</de>
-        <it>Nessun account sociali disponibili</it>
         <ur>دستیاب نہیں سماجی اکاؤنٹس</ur>
         <es>No Hay Cuentas Sociales Disponibles</es>
         <iw>אין מספר ביטוח חשבונות זמינים</iw>
@@ -1884,7 +1795,6 @@
         <sq>Ju lutem klikoni këtu për të autorizuar llogaritë tuaja sociale!</sq>
         <it>Clicca qui per autorizzare i conti sociali!</it>
         <de>Bitte klicken Sie hier, um Ihre Social-Konten zu genehmigen!</de>
-        <it>Clicca qui per autorizzare account di social!</it>
         <ur>اپنے سوشل اکاؤنٹس کی اجازت کرنے کے لئے یہاں کلک کریں براہ مہربانی!</ur>
         <es>Por favor haga clic aquí para autorizar sus Cuentas Sociales!</es>
         <iw>אנא לחץ כאן כדי לאשר החשבונות הלאומיים שלך!</iw>
@@ -1905,7 +1815,6 @@
         <sq>Ju lutem, përzgjidhni një llogari për të parë.</sq>
         <it>Seleziona un account per vedere.</it>
         <de>Bitte wählen Sie ein Konto anzuzeigen.</de>
-        <it>Seleziona un account per visualizzare.</it>
         <ur>دیکھنے کیلئے ایک اکاؤنٹ منتخب کیجیے.</ur>
         <es>Por favor seleccione una cuenta para visualizar.</es>
         <iw>אנא בחר חשבון כדי להציג.</iw>
@@ -1926,7 +1835,6 @@
         <sq>Data e përfundimit është para datës tuaj të fillimit!</sq>
         <it>La data di fine è prima della data di inizio!</it>
         <de>Enddatum ist vor Ihrem Startdatum!</de>
-        <it>La data di fine è prima della data di inizio!</it>
         <ur>ختم ہونے کی تاریخ آپ کے آغاز کی تاریخ سے پہلے ہے!</ur>
         <es>La fecha de finalización es antes de su fecha de inicio!</es>
         <iw>תאריך הסיום לפני תאריך ההתחלה שלך!</iw>
@@ -1947,7 +1855,6 @@
         <sq>Ju lutemi rregulloni sendet e theksuara në të kuqe më poshtë.</sq>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
-        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
         <es>Por favor corrija los elementos marcados en rojo debajo.</es>
         <iw>אנא לתקן את הפריטים המסומנים באדום למטה.</iw>
@@ -1968,7 +1875,6 @@
         <sq>Raporti juaj është dorëzuar!</sq>
         <it>Il tuo rapporto è stato presentato!</it>
         <de>Ihr Bericht wurde vor Ort!</de>
-        <it>Il tuo rapporto è stato presentato!</it>
         <ur>آپ کی رپورٹ جمع کرائی گئی ہے!</ur>
         <es>Su reporte ha sido enviado!</es>
         <iw>הדו"ח שלך נשלח!</iw>
@@ -1989,7 +1895,6 @@
         <sq>Do të jetë i plotë shpejti.</sq>
         <it>Sarà completata a breve.</it>
         <de>Wird in Kürze abgeschlossen sein.</de>
-        <it>Sarà completata a breve.</it>
         <ur>کچھ ہی دیر مکمل ہو جائے گا.</ur>
         <es>Estará completo en breve.</es>
         <iw>יהיה שלם בקרוב.</iw>
@@ -2010,7 +1915,6 @@
         <sq>në pritje të</sq>
         <it>in attesa di</it>
         <de>anstehend</de>
-        <it>in attesa di</it>
         <ur>زیر التوا</ur>
         <es>Pendiente</es>
         <iw>ממתין ל</iw>
@@ -2031,7 +1935,6 @@
         <sq>Raporti juaj është fshirë!</sq>
         <it>Il tuo rapporto è stato cancellato!</it>
         <de>Ihr Bericht wurde gelöscht!</de>
-        <it>Il tuo rapporto è stato cancellato!</it>
         <ur>آپ کی رپورٹ پر خارج کر دیا گیا ہے!</ur>
         <es>Su reporte ha sido eliminado!</es>
         <iw>הדו"ח שלך נמחק!</iw>
@@ -2052,7 +1955,6 @@
         <sq>Forma jo e plotë!</sq>
         <it>Forma incompleta!</it>
         <de>Unvollständige Formular!</de>
-        <it>Forma incompleta!</it>
         <ur>نامکمل فارم!</ur>
         <es>Formulario Incompleto!</es>
         <iw>בצורה חלקית!</iw>
@@ -2073,7 +1975,6 @@
         <sq>Ju lutemi rregulloni sendet e theksuara në të kuqe më poshtë.</sq>
         <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <de>Bitte korrigieren Sie die rot markierten Elemente unten.</de>
-        <it>Si prega di correggere gli elementi evidenziati in rosso qui sotto.</it>
         <ur>ذیل میں سرخ رنگ میں روشنی ڈالی اشیاء کو ٹھیک کریں.</ur>
         <es>Por favor corrija los elementos marcados en rojo debajo.</es>
         <iw>אנא לתקן את הפריטים המסומנים באדום למטה.</iw>

@@ -15,7 +15,6 @@
         <sq>Krijo raportin</sq>
         <it>Crea rapporto</it>
         <de>Bericht erstellen</de>
-        <it>Crea rapporto</it>
         <ur>رپورٹ تشکیل دیں</ur>
         <es>Crear Reporte</es>
         <iw>צור דוח</iw>
@@ -256,7 +255,6 @@
         <sq>Zgjidh datën e mbarimit</sq>
         <it>Scegli la data di fine</it>
         <de>Wählen Sie das Enddatum</de>
-        <it>Scegli la data di fine</it>
         <ur>آخر تاریخ اٹھاو</ur>
         <es>Escoja fecha de finalización</es>
         <iw>פיק תאריך סיום</iw>
@@ -277,7 +275,6 @@
         <sq>Data ruajtura</sq>
         <it>data salvata</it>
         <de>Datum gespeichert</de>
-        <it>data salvata</it>
         <ur>تاریخ کی محفوظ کردہ</ur>
         <es>Fecha Guardada</es>
         <iw>שמורה תאריך</iw>
@@ -298,7 +295,6 @@
         <sq>Periudha kohore</sq>
         <it>Periodo di tempo</it>
         <de>Zeitperiode</de>
-        <it>Periodo di tempo</it>
         <ur>وقت کی مدت</ur>
         <es>Periodo de Tiempo</es>
         <iw>תקופת זמן</iw>
@@ -319,7 +315,6 @@
         <sq>format</sq>
         <it>Formato</it>
         <de>Format</de>
-        <it>Formato</it>
         <ur>ڈاک</ur>
         <es>Formato</es>
         <iw>פוּרמָט</iw>
@@ -340,7 +335,6 @@
         <sq>veprimet</sq>
         <it>azioni</it>
         <de>Aktionen</de>
-        <it>azioni</it>
         <ur>عوامل</ur>
         <es>Acciones</es>
         <iw>פעולות</iw>
@@ -361,7 +355,6 @@
         <sq>i plotë</sq>
         <it>Completare</it>
         <de>Komplett</de>
-        <it>Completare</it>
         <ur>مکمل</ur>
         <es>Completo</es>
         <iw>לְהַשְׁלִים</iw>
@@ -382,7 +375,6 @@
         <sq>Gjenerimi</sq>
         <it>Generazione</it>
         <de>Generieren</de>
-        <it>Generazione</it>
         <ur>جنیریٹنگ</ur>
         <es>Generando</es>
         <iw>יצירה</iw>
@@ -403,7 +395,6 @@
         <sq>bookmarks</sq>
         <it>Preferiti</it>
         <de>Lesezeichen</de>
-        <it>Preferiti</it>
         <ur>بک مارک</ur>
         <es>Favoritos</es>
         <iw>סימניות</iw>
@@ -470,7 +461,6 @@
         <sq>Pamja</sq>
         <it>La vista</it>
         <de>Aussicht</de>
-        <it>vista</it>
         <ur>لنک</ur>
         <es>Ver</es>
         <iw>נוף</iw>
@@ -491,7 +481,6 @@
         <sq>Kjo dosje  është dhënë në formatin xls. Ju mund ta hapni atë në Microsoft Excel ose në një program ekuivalent.</sq>
         <it>Questa cartella è presentato nel formato .xls. Si può aprire in Microsoft Excel o con un programma equivalente.</it>
         <de>Diese Datei wird im XLS-Format zur Verfügung gestellt. Sie können es in Microsoft Excel oder einem gleichwertigen Programm öffnen.</de>
-        <it>Questo file è fornito in formato .xls. È possibile aprirlo in Microsoft Excel o un programma equivalente.</it>
         <ur>یہ فائل .xls کی شکل میں فراہم کی جاتی ہے. آپ کو مائیکروسافٹ ایکسل یا ایک برابر کے پروگرام میں اسے کھول سکتے ہیں.</ur>
         <es>Este archivo se proporciona en formato .xls. Puede abrirlo en un programa equivalente de Microsoft Excel o.</es>
         <iw>קובץ זה מסופק בתבנית xls. אתה יכול לפתוח אותו ב- Microsoft Excel או תוכנית שווה ערך.</iw>

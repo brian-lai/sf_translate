@@ -15,7 +15,6 @@
         <sq>Fto përdoruesin e ri</sq>
         <it>Invita nuovo utente</it>
         <de>Invite New User</de>
-        <it>Invita nuovo utente</it>
         <ur>نئے صارف کو مدعو کریں</ur>
     <es>Invitar Nuevo Usuario</es><iw>זמן משתמש חדש</iw></entry>
     <entry>
@@ -34,7 +33,6 @@
         <sq>Email</sq>
         <it>E-mail</it>
         <de>Email</de>
-        <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
     <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
@@ -53,7 +51,6 @@
         <sq>Statusi perdouresit</sq>
         <it>Stato dell'utente</it>
         <de>Benutzerstatus</de>
-        <it>Stato dell'utente</it>
         <ur>رکن کا درجہ</ur>
     <es>Status de Usuario</es><iw>סטטוס משתמש</iw></entry>
     <entry>
@@ -72,7 +69,6 @@
         <sq>Fto Përdorues te rinj</sq>
         <it>Invitare nuovi utenti</it>
         <de>Einladen neuer Benutzer</de>
-        <it>Invitare nuovi utenti</it>
         <ur>نئے صارفین کو مدعو کریں</ur>
     <es>Invitar Nuevos Usuarios</es><iw>להזמין משתמשים חדשים</iw></entry>
     <entry>
@@ -91,7 +87,6 @@
         <sq>Emri i plotë</sq>
         <it>Nome e cognome</it>
         <de>Vollständiger Name</de>
-        <it>Nome e cognome</it>
         <ur>پورا نام</ur>
     <es>Nombre Completo</es><iw>שם מלא</iw></entry>
     <entry>
@@ -110,7 +105,6 @@
         <sq>Email</sq>
         <it>E-mail</it>
         <de>Email</de>
-        <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
     <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
@@ -129,7 +123,6 @@
         <sq>vend</sq>
         <it>Nazione</it>
         <de>Land</de>
-        <it>Nazione</it>
         <ur>ملک</ur>
     <es>País</es><iw>מדינה</iw></entry>
     <entry>
@@ -148,7 +141,6 @@
         <sq>Ora</sq>
         <it>Fuso orario</it>
         <de>Zeitzone</de>
-        <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
     <es>Zona Horaria</es><iw>אזור זמן</iw></entry>
     <entry>
@@ -167,7 +159,6 @@
         <sq>Te Drejtat e përdoruesit</sq>
         <it>Autorizzazioni utente</it>
         <de>Benutzerberechtigungen</de>
-        <it>Autorizzazioni utente</it>
         <ur>صارف کی اجازت</ur>
     <es>Permisos de Usuario</es><iw>הרשאות משתמש</iw></entry>
     <entry>
@@ -186,7 +177,6 @@
         <sq>Lejet për llogaritë sociale te tjera:</sq>
         <it>Autorizzazioni per futuri conti sociali:</it>
         <de>Berechtigungen für zukünftige Social-Konten:</de>
-        <it>Autorizzazioni per futuri conti sociali:</it>
         <ur>مستقبل سماجی اکاؤنٹس کے لئے اجازت:</ur>
     <es>Permisos para Cuentas Sociales Futuras:</es><iw>הרשאות עבור חשבונות חברתיים עתיד:</iw></entry>
     <entry>
@@ -205,7 +195,6 @@
         <sq>Lexo vetem</sq>
         <it>Sola lettura</it>
         <de>Schreibgeschützt</de>
-        <it>Sola lettura</it>
         <ur>صرف پڑھو</ur>
     <es>Leer Solamente</es><iw>לקריאה בלבד</iw></entry>
     <entry>
@@ -224,7 +213,6 @@
         <sq>Lexo / Shkruaj</sq>
         <it>Leggere scrivere</it>
         <de>Lesen Schreiben</de>
-        <it>Leggere scrivere</it>
         <ur>پڑھ لکھ</ur>
     <es>Leer/Escribir</es><iw>קרוא וכתוב</iw></entry>
     <entry>
@@ -243,7 +231,6 @@
         <sq>Lexo / Shkruaj / Admin</sq>
         <it>Lettura / scrittura / Amministratore</it>
         <de>Lesen / Schreiben / Admin</de>
-        <it>Lettura / scrittura / Amministratore</it>
         <ur>پڑھنا / لکھنا / ایڈمن</ur>
     <es>Leer/Escribir/Admin</es><iw>קריאה / כתיבה / Admin</iw></entry>
     <entry>
@@ -262,7 +249,6 @@
         <sq>Nuk lejohet hyrja</sq>
         <it>Nessun accesso</it>
         <de>Kein Zugang</de>
-        <it>Nessun accesso</it>
         <ur>داخلہ ممنوع ہے</ur>
     <es>Sin Acceso</es><iw>אין גישה</iw></entry>
     <entry>
@@ -281,7 +267,6 @@
         <sq>Rolet tjera</sq>
         <it>ruoli aggiuntivi</it>
         <de>Weitere Rollen</de>
-        <it>ruoli aggiuntivi</it>
         <ur>اضافی رول</ur>
     <es>Roles Adicionales</es><iw>תפקידים נוספים</iw></entry>
     <entry>
@@ -300,7 +285,6 @@
         <sq>Klient Admin - Mund të shtoni / anulloni shërbimin. Ky është niveli më i lartë i kontrollit. Kujdes: caktimin e ktij rregulli  për një përdorues tjetër do të revokojë statusin tuaj si klient admin.</sq>
         <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
         <de>Client-Admin - hinzufügen können / stornieren Service. Dies ist der höchste Grad an Kontrolle. Achtung: dieser Benutzer auf eine andere Zuordnung wird Ihr Status als Client Server-Betreiber widerrufen.</de>
-        <it>Admin cliente - Può aggiungere a / annullare il servizio. Questo è il più alto livello di controllo. Attenzione: l'assegnazione di questo a un altro utente revocherà lo stato di come admin cliente.</it>
         <ur>کلائنٹ ایڈمن - سروس منسوخ / کرنے کے لئے شامل کر سکتے ہیں. اس کنٹرول کی بلند ترین سطح ہے. انتباہ: کسی دوسرے صارف کو اس کے بتائے کلائنٹ منتظم کے طور پر آپ کی حیثیت کو منسوخ کرے گا.</ur>
     <es>Admin de Cliente - Puede añadir/cancelar servicio. Este es el nivel más alto de control. Advertencia: asignar esto a otro usuario revocará su estado como administrador del cliente.</es><iw>Admin הלקוח - ניתן להוסיף / לבטל את השירות. זוהי הרמה הגבוהה ביותר של שליטה. אזהרה: הקצאה זה למשתמש אחר יהיה לבטל את מעמדך כ- admin הלקוח.</iw></entry>
     <entry>
@@ -319,7 +303,6 @@
         <sq>Llogaria Admin - A mund të shtoni dhe hiqni llogari sociale dhe shtoni, modifikoni, dhe për të hequr përdoruesit.</sq>
         <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
         <de>Konto Admin - Kann hinzufügen und socail Konten entfernen und hinzufügen, bearbeiten und Benutzer entfernen.</de>
-        <it>Amministratore account - possono aggiungere e rimuovere account socail e aggiungere, modificare e rimuovere utenti.</it>
         <ur>اکاؤنٹ ایڈمن - شامل کر سکتے ہیں اور socail اکاؤنٹس کو دور کرنے اور شامل، میں ترمیم کریں، اور صارفین کو خارج کر دیں.</ur>
     <es>Admin de Cuenta - Puede añadir y eliminar cuentas sociales y añadir, editar y eliminar usuarios.</es><iw>חשבון Admin - ניתן להוסיף ולהסיר חשבונות socail ולהוסיף, לערוך, ולהסיר משתמשים.</iw></entry>
     <entry>
@@ -338,7 +321,6 @@
         <sq>Faturimi Kontaktoni - Kontrollon të gjitha vetitë e financave të lidhura. Mund të shikoni statuments financiare</sq>
         <it>Fatturazione Contatto - Controlla tutte le impostazioni relative finanza. Può visualizzare statuments finanziari</it>
         <de>Billing Kontakt - Steuert alle Finanz-Einstellungen. Kann sehen finanzielle statuments</de>
-        <it>Fatturazione Contatto - Controlla tutte le impostazioni relative finanza. Può visualizzare statuments finanziari</it>
         <ur>بلنگ رابطہ کریں - تمام فنانس سے متعلق ترتیبات کو کنٹرول. مالی بیانات دیکھ سکتا</ur>
     <es>Contacto de Facturación - Controla todas las configuraciones relacionas a finanzas. Puede ver estados financieros</es><iw>קשר לחיוב - שולט בכל ההגדרות הקשורים כספים. יכול להציג דוחות כספיים</iw></entry>
     <entry>
@@ -357,7 +339,6 @@
         <sq>Grupi llogari</sq>
         <it>account Group</it>
         <de>Kontengruppe</de>
-        <it>account Group</it>
         <ur>اکاؤنٹ گروپ</ur>
     <es>Grupo de Cuenta</es><iw>חשבון קבוצה</iw></entry>
     <entry>
@@ -376,7 +357,6 @@
         <sq>Lexo vetem</sq>
         <it>Sola lettura</it>
         <de>Schreibgeschützt</de>
-        <it>Sola lettura</it>
         <ur>صرف پڑھو</ur>
     <es>Leer Solamente</es><iw>לקריאה בלבד</iw></entry>
     <entry>
@@ -395,7 +375,6 @@
         <sq>Lexo / Shkruaj</sq>
         <it>Leggere scrivere</it>
         <de>Lesen Schreiben</de>
-        <it>Leggere scrivere</it>
         <ur>پڑھ لکھ</ur>
     <es>Leer/Escribir</es><iw>קרוא וכתוב</iw></entry>
     <entry>
@@ -414,7 +393,6 @@
         <sq>Lexo / Shkruaj / Admin</sq>
         <it>Lettura / scrittura / Amministratore</it>
         <de>Lesen / Schreiben / Admin</de>
-        <it>Lettura / scrittura / Amministratore</it>
         <ur>پڑھنا / لکھنا / ایڈمن</ur>
     <es>Leer/Escribir/Admin</es><iw>קריאה / כתיבה / Admin</iw></entry>
     <entry>
@@ -433,7 +411,6 @@
         <sq>Nuk lejohet hyrja</sq>
         <it>Nessun accesso</it>
         <de>Kein Zugang</de>
-        <it>Nessun accesso</it>
         <ur>داخلہ ممنوع ہے</ur>
     <es>Sin Acceso</es><iw>אין גישה</iw></entry>
     <entry>
@@ -452,7 +429,6 @@
         <sq>Detajet e perdoruesit dhe të Drejtat</sq>
         <it>Dettagli utente e autorizzazioni</it>
         <de>Benutzerdetails und Berechtigungen</de>
-        <it>Dettagli utente e autorizzazioni</it>
         <ur>یوزر کی تفصیلات اور اجازت</ur>
     <es>Detalles y Permisos de Usuario</es><iw>פרטי משתמש והרשאות</iw></entry>
     <entry>
@@ -471,7 +447,6 @@
         <sq>Rivendosni fjalëkalimin</sq>
         <it>Resetta la password</it>
         <de>Passwort zurücksetzen</de>
-        <it>Resetta la password</it>
         <ur>پاس ورڈ ری سیٹ</ur>
     <es>Reconfigurar Contraseña</es><iw>לאפס את הסיסמה</iw></entry>
     <entry>
@@ -490,7 +465,6 @@
         <sq>Hiq përdoruesin</sq>
         <it>rimuovere l'utente</it>
         <de>Benutzer entfernen</de>
-        <it>rimuovere l'utente</it>
         <ur>صارف کو ہٹائیں</ur>
     <es>Eliminar Usuario</es><iw>הסר משתמש</iw></entry>
     <entry>
@@ -509,7 +483,6 @@
         <sq>Email</sq>
         <it>E-mail</it>
         <de>Email</de>
-        <it>E-mail</it>
         <ur>دوستوں کوارسال کریں</ur>
     <es>Email</es><iw>אֶלֶקטרוֹנִי</iw></entry>
     <entry>
@@ -528,7 +501,6 @@
         <sq>vend</sq>
         <it>Nazione</it>
         <de>Land</de>
-        <it>Nazione</it>
         <ur>ملک</ur>
     <es>País</es><iw>מדינה</iw></entry>
     <entry>
@@ -547,7 +519,6 @@
         <sq>Ora</sq>
         <it>Fuso orario</it>
         <de>Zeitzone</de>
-        <it>Fuso orario</it>
         <ur>ٹائم زون</ur>
     <es>Zona Horaria</es><iw>אזור זמן</iw></entry>
     <entry>
@@ -566,7 +537,6 @@
         <sq>Shtuar On</sq>
         <it>Aggiunto a</it>
         <de>Hinzugefügt zu</de>
-        <it>Aggiunto a</it>
         <ur>پر شامل</ur>
     <es>Añadido El</es><iw>נוסף על</iw></entry>
     <entry>
@@ -585,7 +555,6 @@
         <sq>Dërgo Ftese</sq>
         <it>Invia un invito</it>
         <de>Sende Einladung</de>
-        <it>Invia un invito</it>
         <ur>مدعو ارسال کریں</ur>
     <es>Enviar Invitación</es><iw>שלח הזמנה</iw></entry>
     <section>settings_admin_users_and_permis</section>

@@ -15,7 +15,6 @@
         <sq>Shkruani një term kërkimi</sq>
         <it>Inserisci un termine di ricerca</it>
         <de>Geben Sie einen Suchbegriff</de>
-        <it>Inserisci un termine di ricerca</it>
         <ur>ایک اصطلاح درج کریں</ur>
         <es>Inserte un término de busqueda</es>
         <iw>הקלידו מונח לחיפוש</iw>
@@ -36,7 +35,6 @@
         <sq>ditë më parë</sq>
         <it>giorni fa</it>
         <de>Vor Tagen</de>
-        <it>giorni fa</it>
         <ur>دنوں پہلے</ur>
         <es>dias atrás</es>
         <iw>לפני ימים</iw>
@@ -57,7 +55,6 @@
         <sq>ditë më parë</sq>
         <it>giorni fa</it>
         <de>vor einem Tag</de>
-        <it>giorni fa</it>
         <ur>دن پہلے</ur>
         <es>dia atrás</es>
         <iw>יום לפני</iw>
@@ -78,7 +75,6 @@
         <sq>javë më parë</sq>
         <it>settimane fa</it>
         <de>vor Wochen</de>
-        <it>settimane fa</it>
         <ur>ہفتے پہلے</ur>
         <es>semanas atrás</es>
         <iw>לפני שבועות</iw>
@@ -99,7 +95,6 @@
         <sq>javë më parë</sq>
         <it>una settimana fa</it>
         <de>Woche zuvor</de>
-        <it>una settimana fa</it>
         <ur>ایک ہفتے پہلے</ur>
         <es>semana atrás</es>
         <iw>לפני שבוע</iw>
@@ -120,7 +115,6 @@
         <sq>muaj më parë</sq>
         <it>mesi fa</it>
         <de>vor wenigen Monaten</de>
-        <it>mesi fa</it>
         <ur>مہینوں پہلے</ur>
         <es>meses atrás</es>
         <iw>לפני חודשים</iw>
@@ -141,7 +135,6 @@
         <sq>muaj me pare</sq>
         <it>un mese fa</it>
         <de>letzten Monat</de>
-        <it>un mese fa</it>
         <ur>مہینہ پہلے</ur>
         <es>mese atrás</es>
         <iw>לפני חודש</iw>
@@ -162,7 +155,6 @@
         <sq>vite më parë</sq>
         <it>anni fa</it>
         <de>Jahre zuvor</de>
-        <it>anni fa</it>
         <ur>کئی برس قبل</ur>
         <es>años atrás</es>
         <iw>לפני שנים</iw>
@@ -183,7 +175,6 @@
         <sq>vit më parë</sq>
         <it>anno fa</it>
         <de>vor einem Jahr</de>
-        <it>anno fa</it>
         <ur>سال پہلے</ur>
         <es>año atrás</es>
         <iw>לפני שנה</iw>
@@ -204,7 +195,6 @@
         <sq>Do të ndjekesh një hashtag apo përdorues, të mbash gjurmët  kur përmendesh, ose retweet-esh, apo gjurmosh një bisedë të veçantë? Kliko "Menazho kollonat" në të djathtë dhe shtoni më shumë kerkesa.</sq>
         <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
         <de>Möchten Sie einen Hashtag oder Benutzer zu folgen, zu verfolgen, wenn Sie erwähnt sind oder retweeted oder ein bestimmtes Gespräch verfolgen? Klicken Sie auf "Spalten verwalten" Tab auf der rechten Seite und mehr Streams hinzuzufügen.</de>
-        <it>Vuoi seguire un hashtag o utente, tenere traccia di quando si sono richiamati in retweeted, o tenere traccia di una conversazione specifica? Fai clic su "Gestisci colonne" scheda a destra e aggiungere più flussi.</it>
         <ur>، ایک hashtag یا صارف کی پیروی کی یاد رکھیں آپ کا ذکر کیا یا ٹویٹ کر رہے ہیں جب، یا ایک مخصوص گفتگو ٹریک کرنا چاہتے ہیں؟ درست کرنے کے لئے ٹیب "کالم انتظام کریں" پر کلک کریں اور زیادہ اسٹریمز میں شامل کریں.</ur>
         <es>Quiere seguir un hashtag o un usuario, monitorear cuando e mencionan o hacen retweet, o monitorear una conversación específica? Haga clic en "Administrar columnas" a la derecha y añade más streams.</es>
         <iw>רוצה לעקוב אחר hashtag או הוראות, לעקוב אחר כאשר אתה מוזכר או retweeted, או לעקוב אחר שיחה ספציפית? לחץ על "ניהול עמודות" הכרטיסייה בצד ימין ולהוסיף זרמים יותר.</iw>
@@ -225,7 +215,6 @@
         <sq>Menaxho kollonat</sq>
         <it>gestire Colonne</it>
         <de>Spalten verwalten</de>
-        <it>gestire Colonne</it>
         <ur>کالم انتظام کریں</ur>
         <es>Administrar Columnas</es>
         <iw>ניהול עמודות</iw>
@@ -246,7 +235,6 @@
         <sq>Kollonat</sq>
         <it>colonne</it>
         <de>Spalten</de>
-        <it>colonne</it>
         <ur>کالم</ur>
         <es>Columnas</es>
         <iw>עמודות</iw>
@@ -267,7 +255,6 @@
         <sq>Trasmitimilive</sq>
         <it>Trasmissione in diretta</it>
         <de>Live Stream</de>
-        <it>Trasmissione in diretta</it>
         <ur>لائیو سٹریم</ur>
         <es>Streams en Vivo</es>
         <iw>שידור חי</iw>
@@ -288,7 +275,6 @@
         <sq>Skaduar</sq>
         <it>Scaduto</it>
         <de>Abgelaufen</de>
-        <it>Scaduto</it>
         <ur>میعاد ختم ہوگئی</ur>
         <es>Expirado</es>
         <iw>לא בתוקף</iw>
@@ -309,7 +295,6 @@
         <sq>me porosi</sq>
         <it>costume</it>
         <de>Brauch</de>
-        <it>costume</it>
         <ur>اپنی مرضی کے مطابق</ur>
         <es>Personalizado</es>
         <iw>המותאם אישית</iw>
@@ -330,7 +315,6 @@
         <sq>Modifiko dhe Retweet</sq>
         <it>Modifica e Retweet</it>
         <de>Bearbeiten und Retweet</de>
-        <it>Modifica e Retweet</it>
         <ur>میں ترمیم کریں اور ریٹویٹ</ur>
         <es>Editar y Retweet</es>
         <iw>עריכת Retweet</iw>
@@ -351,7 +335,6 @@
         <sq>përgjigje</sq>
         <it>rispondere</it>
         <de>Antworten</de>
-        <it>rispondere</it>
         <ur>جواب</ur>
         <es>Responder</es>
         <iw>תשובה</iw>
@@ -372,7 +355,6 @@
         <sq>Postimi ne mur</sq>
         <it>Messaggi in bacheca</it>
         <de>Pinnwandeinträge</de>
-        <it>Messaggi in bacheca</it>
         <ur>وال مراسلات</ur>
         <es>Muro de Publicaciones</es>
         <iw>קיר הודעות</iw>
@@ -393,7 +375,6 @@
         <sq>zgjeroj</sq>
         <it>Espandere</it>
         <de>Erweitern</de>
-        <it>Espandere</it>
         <ur>پھیلائیں</ur>
         <es>Expandir</es>
         <iw>לְהַרְחִיב</iw>
@@ -414,7 +395,6 @@
         <sq>Komentet e fundit</sq>
         <it>Commenti recenti</it>
         <de>Letzte Kommentare</de>
-        <it>Commenti recenti</it>
         <ur>حالیہ تبصرے</ur>
         <es>Comentarios Recientes</es>
         <iw>תגובות אחרונות</iw>
@@ -435,7 +415,6 @@
         <sq>Na vjen keq, nuk ka komente</sq>
         <it>Siamo spiacenti, non ci sono commenti</it>
         <de>Leider gibt es keine Kommentare</de>
-        <it>Siamo spiacenti, non ci sono commenti</it>
         <ur>معذرت، کوئی تبصرے نہیں ہیں</ur>
         <es>Disculpe, no hay comentarios</es>
         <iw>מצטערים, אין הערות</iw>

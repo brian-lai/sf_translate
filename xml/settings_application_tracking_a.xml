@@ -15,7 +15,6 @@
         <sq>Ndjekja dhe opsionet e Analizes</sq>
         <it>Monitoraggio e Impostazioni Analytics</it>
         <de>Tracking und Analytics-Einstellungen</de>
-        <it>Monitoraggio e Impostazioni Analytics</it>
         <ur>ٹریکنگ اور تجزیات ترتیبات</ur>
         <es>Configuraciones de Seguimiento y Análisis</es>
         <iw>מעקב הגדרות Analytics</iw>
@@ -36,7 +35,6 @@
         <sq>Website Analytics</sq>
         <it>analisi dei siti web</it>
         <de>Website Analytics</de>
-        <it>analisi dei siti web</it>
         <ur>ویب سائٹ کے تجزیات</ur>
         <es>Análisis de Sitio Web</es>
         <iw>Analytics לאתר</iw>
@@ -57,7 +55,6 @@
         <sq>Shto Google Analytics</sq>
         <it>Aggiungere Google Analytics</it>
         <de>In Google Analytics</de>
-        <it>Aggiungere Google Analytics</it>
         <ur>گوگل کے تجزیات کا اضافہ کریں</ur>
         <es>Añadir Google Analytics</es>
         <iw>הוסף את Google Analytics</iw>
@@ -78,7 +75,6 @@
         <sq>Zgjedhja me e mire për</sq>
         <it>Ottimizzato per</it>
         <de>Optimiert für</de>
-        <it>Ottimizzato per</it>
         <ur>کے لئے مرضی کے</ur>
         <es>Optimizado para</es>
         <iw>מותאם במיוחד</iw>
@@ -99,7 +95,6 @@
         <sq>Vizitat e reja</sq>
         <it>nuove visite</it>
         <de>Neue Besuche</de>
-        <it>nuove visite</it>
         <ur>نئے ملاحظات</ur>
         <es>Nuevas Visitas</es>
         <iw>ביקורים חדשים</iw>
@@ -120,7 +115,6 @@
         <sq>Vizitat e përsëritura</sq>
         <it>visite ripetute</it>
         <de>Wiederholte Besuche</de>
-        <it>visite ripetute</it>
         <ur>دہرائیں دورہ</ur>
         <es>Visitas Repetidas</es>
         <iw>ביקורים חוזרים</iw>
@@ -141,7 +135,6 @@
         <sq>Vizitat e reja</sq>
         <it>nuove visite</it>
         <de>Neue Besuche</de>
-        <it>nuove visite</it>
         <ur>نئے ملاحظات</ur>
         <es>Nuevas Visitas</es>
         <iw>ביקורים חדשים</iw>
@@ -162,7 +155,6 @@
         <sq>Perserit  Vizitat</sq>
         <it>ripetere Visitis</it>
         <de>Wiederholen Sie Eliophot</de>
-        <it>ripetere Visitis</it>
         <ur>دہرائیں دورہ</ur>
         <es>Visitas Repetidas</es>
         <iw>ביקורים חוזרים</iw>
@@ -183,7 +175,6 @@
         <sq>Ju nuk keni asnjë shorteners ende.</sq>
         <it>Non ha ancora nessun shorteners.</it>
         <de>Sie haben noch keine Verkürzungen noch.</de>
-        <it>Non ha ancora nessun shorteners.</it>
         <ur>ابھی تک آپ کوئی مختصر کرنے کی ضرورت نہیں ہے.</ur>
         <es>No tiene ningun acortador aún.</es>
         <iw>אין לך שום מקצר עדיין.</iw>
@@ -204,7 +195,6 @@
         <sq>Opsionale</sq>
         <it>opzionale</it>
         <de>optional</de>
-        <it>facoltativo</it>
         <ur>اختیاری</ur>
         <es>opcional</es>
         <iw>אופציונאלי</iw>
@@ -225,7 +215,6 @@
         <sq>klienti i gjere</sq>
         <it>Cliente larga</it>
         <de>Client-Weit</de>
-        <it>Cliente larga</it>
         <ur>وائڈ کلائنٹ</ur>
         <es>Todo el Cliente</es>
         <iw>לקוח Wide</iw>

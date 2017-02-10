@@ -15,7 +15,6 @@
         <sq>LABEL</sq>
         <it>ETICHETTA</it>
         <de>ETIKETTE</de>
-        <it>ETICHETTA</it>
         <ur>LABEL</ur>
         <es>ETIQUETA</es>
         <iw>תווית</iw>
@@ -36,7 +35,6 @@
         <sq>Etiketat ndihmojn në organizimin e mesazheve nëper kategori për ta bere raportim me të lehtë ose gjetjen e mesazheve me te lehte  më vonë.</sq>
         <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
         <de>Labels helfen, Ihre Nachrichten in Kategorien organisieren für die Berichterstattung oder später leicht zu finden.</de>
-        <it>Le etichette consentono di organizzare i messaggi in categorie per la segnalazione o per trovare facilmente in seguito.</it>
         <ur>لیبل رپورٹنگ یا بعد میں آسانی سے تلاش کرنے کے لئے اقسام میں آپ کے پیغامات کو منظم کرنے میں مدد.</ur>
         <es>Etiquetas ayudan a organizar sus mensajes en categorías para reportes o para encontrar fácilmente más adelante.</es>
         <iw>תוויות לעזור לארגן את ההודעות שלך לקטגוריות לדיווח או למצוא בקלות מאוחר יותר.</iw>
@@ -57,7 +55,6 @@
         <sq>Etiketat nuk publikohen me mesazhin tuaj dhe mund të shihen vetëm nga ju dhe përdoruesit e SocialFlow kur hyne në këtë llogari.</sq>
         <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
         <de>Die Etiketten werden nicht mit Ihrer Nachricht veröffentlicht und kann nur von Ihnen und SocialFlow Benutzer Zugriff auf dieses Konto zu sehen.</de>
-        <it>Le etichette non sono pubblicati con il tuo messaggio e possono essere viste solo da te e SocialFlow utenti che accedono questo account.</it>
         <ur>لیبل آپ کے پیغام کے ساتھ شائع نہیں ہیں اور صرف آپ اور SocialFlow اس اکاؤنٹ تک رسائی حاصل صارفین کی طرف سے دیکھا جا سکتا ہے.</ur>
         <es>Las etiquetas no se publican con su mensaje y sólo pueden ser vistos por ti y SocialFlow usuarios que acceden a esta cuenta.</es>
         <iw>תוויות אינן מתפרסמות עם המסר שלך ניתן לראות רק על היד ומשתמש SocialFlow לגישה לחשבון זה.</iw>
@@ -78,7 +75,6 @@
         <sq>Shembuj etikete: Fushata e vjeshtes, favorite, Tweet-real</sq>
         <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
         <de>Label-Beispiele: Fall-Kampagne, Favorit, livetweet</de>
-        <it>Esempi di etichetta: campagna autunno, favorito, livetweet</it>
         <ur>لیبل مثالیں: موسم خزاں مہم، پسندیدہ، livetweet</ur>
         <es>ejemplos de etiqueta: campaña de otoño, favorito, livetweet</es>
         <iw>דוגמאות לייבל: קמפיין סתיו, אהוב, livetweet</iw>
@@ -99,7 +95,6 @@
         <sq>Mesazhi eshte etiketuar me sukses.</sq>
         <it>Il messaggio è stato correttamente etichettati.</it>
         <de>Nachricht wurde erfolgreich markiert worden.</de>
-        <it>Il messaggio è stato correttamente etichettati.</it>
         <ur>پیغام کامیابی کا لیبل لگا دیا گیا ہے.</ur>
         <es>Mensaje éxito ha sido etiquetado.</es>
         <iw>הודעה סומנה בתווית בהצלחה.</iw>
@@ -120,7 +115,6 @@
         <sq>Ky mesazh tashmë është emërtuar.</sq>
         <it>Questo messaggio è già stato etichettato.</it>
         <de>Diese Nachricht wurde bereits markiert worden.</de>
-        <it>Questo messaggio è già stato etichettato.</it>
         <ur>یہ پیغام پہلے سے ہی لگا دیا گیا ہے.</ur>
         <es>Este mensaje ya ha sido etiquetado.</es>
         <iw>הודעה זו כבר מסומנת.</iw>
@@ -141,7 +135,6 @@
         <sq>Diçka nuk shkoi mirë ne etiketimin e mesazhit tuaj.</sq>
         <it>Qualcosa è andato storto etichettare il messaggio.</it>
         <de>Etwas ging Beschriftung falsch Ihre Nachricht.</de>
-        <it>Qualcosa è andato storto etichettare il messaggio.</it>
         <ur>کچھ غلط ہو آپ کا پیغام لیبل گئے.</ur>
         <es>Algo salió mal al etiquetado de su mensaje.</es>
         <iw>משהו השתבש תיוג ההודעה שלך.</iw>

@@ -15,7 +15,6 @@
         <sq>Mirësevjen</sq>
         <it>benvenuto</it>
         <de>Herzlich willkommen</de>
-        <it>benvenuto</it>
         <ur>خوش آمدید</ur>
         <es>Bienvenido</es>
         <iw>ברוך הבא</iw>
@@ -36,7 +35,6 @@
         <sq>Njoftime</sq>
         <it>notifiche</it>
         <de>Benachrichtigungen</de>
-        <it>notifiche</it>
         <ur>نوٹیفیکیشن</ur>
         <es>Notificaciones</es>
         <iw>התראות</iw>
@@ -57,7 +55,6 @@
         <sq>Publikimi me i mire</sq>
         <it>Ottimizzato Editore</it>
         <de>Optimierte Verlag</de>
-        <it>Ottimizzato Editore</it>
         <ur>آپٹمائزڈ پبلیشر</ur>
         <es>Publicador Optimizado</es>
         <iw>לאור אופטימלי</iw>
@@ -78,7 +75,6 @@
         <sq>dëgjo</sq>
         <it>Ascolta</it>
         <de>Hören</de>
-        <it>Ascolta</it>
         <ur>سنیے</ur>
         <es>Tendencias</es>
         <iw>להקשיב</iw>
@@ -99,7 +95,6 @@
         <sq>raportet</sq>
         <it>Rapporti</it>
         <de>Berichte</de>
-        <it>Rapporti</it>
         <ur>رپورٹس</ur>
         <es>Reportes</es>
         <iw>דיווחים</iw>
@@ -120,7 +115,6 @@
         <sq>Shkurtimi adreses</sq>
         <it>collegamento accorciamento</it>
         <de>Link-Verkürzungs</de>
-        <it>collegamento accorciamento</it>
         <ur>لنک قصر</ur>
         <es>Acortador de Enlaces</es>
         <iw>קיצור קישור</iw>
@@ -141,7 +135,6 @@
         <sq>Faqja kryesore</sq>
         <it>scrivania</it>
         <de>Instrumententafel</de>
-        <it>scrivania</it>
         <ur>ڈیش بورڈ</ur>
         <es>Panel</es>
         <iw>לוּחַ מַחווָנִים</iw>
@@ -162,7 +155,6 @@
         <sq>Raporti i Performancës</sq>
         <it>Rapporto sul rendimento</it>
         <de>Leistungsbericht</de>
-        <it>Rapporto sul rendimento</it>
         <ur>کارکردگی کی رپورٹ</ur>
         <es>Reporte de Desempeño</es>
         <iw>דוח הופעה</iw>
@@ -183,7 +175,6 @@
         <sq>Raportet e Shkarkuara dhe të ruajtura</sq>
         <it>I rapporti scaricati e salvati</it>
         <de>Zum Herunterladen und Gespeicherte Berichte</de>
-        <it>Scaricabili e rapporti salvati</it>
         <ur>ڈاؤن لوڈ کے قابل ہے اور محفوظ شدہ رپورٹیں</ur>
         <es>Reportes Guardados y para Descargar</es>
         <iw>דוחות שניתן להוריד שמורים</iw>
@@ -204,7 +195,6 @@
         <sq>Opsionet</sq>
         <it>impostazioni</it>
         <de>Einstellungen</de>
-        <it>impostazioni</it>
         <ur>ترتیبات</ur>
         <es>Configuraciones</es>
         <iw>הגדרות</iw>
@@ -225,7 +215,6 @@
         <sq>Llogaria perdoruesi</sq>
         <it>L'utente del conto</it>
         <de>Benutzerkonto</de>
-        <it>Account utente</it>
         <ur>صارف کے اکاؤنٹ</ur>
         <es>Cuenta de Usuario</es>
         <iw>חשבון משתמש</iw>
@@ -246,7 +235,6 @@
         <sq>Aplikacion</sq>
         <it>Applicazione</it>
         <de>Anwendung</de>
-        <it>Applicazione</it>
         <ur>درخواست</ur>
         <es>Aplicación</es>
         <iw>יישום</iw>
@@ -267,7 +255,6 @@
         <sq>Llogaritë sociale</sq>
         <it>Conti sociali</it>
         <de>Social Accounts</de>
-        <it>Conti sociali</it>
         <ur>سماجی اکاؤنٹس</ur>
         <es>Cuentas Sociales</es>
         <iw>חשבונות חברתיים</iw>
@@ -288,7 +275,6 @@
         <sq>Burimet e Përmbajtjes</sq>
         <it>Fonti di contenuti</it>
         <de>Inhaltsquellen</de>
-        <it>Fonti di contenuti</it>
         <ur>مواد کے ذرائع</ur>
         <es>Fuentes de Contenido</es>
         <iw>מקורות תוכן</iw>
@@ -309,7 +295,6 @@
         <sq>Ndjekja dhe Analiza</sq>
         <it>Monitoraggio e analisi</it>
         <de>Tracking und Analytics</de>
-        <it>Monitoraggio e analisi</it>
         <ur>ٹریکنگ اور تجزیات</ur>
         <es>Monitoreo y Análisis</es>
         <iw>מעקב Analytics</iw>
@@ -330,7 +315,6 @@
         <sq>Apps</sq>
         <it>applicazioni</it>
         <de>Apps</de>
-        <it>applicazioni</it>
         <ur>آپلیکیشنز</ur>
         <es>Apps</es>
         <iw>Apps</iw>
@@ -351,7 +335,6 @@
         <sq>admin</sq>
         <it>Admin</it>
         <de>Administrator</de>
-        <it>Admin</it>
         <ur>ایڈمن</ur>
         <es>Admin</es>
         <iw>Admin</iw>
@@ -372,7 +355,6 @@
         <sq>Llogaria dhe Faturimi</sq>
         <it>Il Conto e fatturazione</it>
         <de>Account- und Rechnungs</de>
-        <it>Account e fatturazione</it>
         <ur>اکاؤنٹ اور بلنگ</ur>
         <es>Cuenta y Facturación</es>
         <iw>חשבון וחיוב</iw>
@@ -393,7 +375,6 @@
         <sq>Përdoruesit dhe lejet </sq>
         <it>Utenti e autorizzazioni</it>
         <de>Benutzer und Berechtigungen</de>
-        <it>Utenti e autorizzazioni</it>
         <ur>صارفین اور اجازت</ur>
         <es>Usuarios y Permisos</es>
         <iw>משתמשים והרשאות</iw>
@@ -414,7 +395,6 @@
         <sq>upgrade</sq>
         <it>aggiornamento</it>
         <de>Aktualisierung</de>
-        <it>aggiornamento</it>
         <ur>اپ گریڈ</ur>
         <es>Upgrade</es>
         <iw>שדרוג</iw>
@@ -435,7 +415,6 @@
         <sq>Rreth nesh</sq>
         <it>Riguardo a noi</it>
         <de>Über uns</de>
-        <it>Riguardo a noi</it>
         <ur>ہمارے متعلق</ur>
         <es>Sobre Nosotros</es>
         <iw>עלינו</iw>
@@ -456,7 +435,6 @@
         <sq>Karriera</sq>
         <it>Opportunità di lavoro</it>
         <de>Karriere</de>
-        <it>Opportunità di lavoro</it>
         <ur>کیریئرز</ur>
         <es>Carreras</es>
         <iw>קריירה</iw>
@@ -477,7 +455,6 @@
         <sq>Kushtet</sq>
         <it>condizioni</it>
         <de>Bedingungen</de>
-        <it>condizioni</it>
         <ur>شرائط</ur>
         <es>Términos</es>
         <iw>תנאים</iw>
@@ -498,7 +475,6 @@
         <sq>Termat e privatësisë</sq>
         <it>politica sulla riservatezza</it>
         <de>Datenschutz-Bestimmungen</de>
-        <it>politica sulla riservatezza</it>
         <ur>رازداری کی پالیسی</ur>
         <es>Política de Privacidad</es>
         <iw>מדיניות פרטיות</iw>
@@ -519,7 +495,6 @@
         <sq>kontakt</sq>
         <it>contatto</it>
         <de>Kontakt</de>
-        <it>contatto</it>
         <ur>رابطہ کریں</ur>
         <es>Contacto</es>
         <iw>איש קשר</iw>
@@ -540,7 +515,6 @@
         <sq>Suport</sq>
         <it>Supporto</it>
         <de>Unterstützen</de>
-        <it>Supporto</it>
         <ur>سپورٹ</ur>
         <es>Soporte</es>
         <iw>תמיכה</iw>
@@ -561,7 +535,6 @@
         <sq>Cilësimet e llogarisë</sq>
         <it>Impostazioni del conto</it>
         <de>Account Einstellungen</de>
-        <it>Impostazioni dell 'account</it>
         <ur>اکاؤنٹ کی ترتیبات</ur>
         <es>Configuraciones de Cuenta</es>
         <iw>הגדרות חשבון</iw>
@@ -582,7 +555,6 @@
         <sq>Shkyç</sq>
         <it>Disconnettersi</it>
         <de>Ausloggen</de>
-        <it>Disconnettersi</it>
         <ur>لاگ آوٹ</ur>
         <es>Desconectar</es>
         <iw>להתנתק</iw>
@@ -603,7 +575,6 @@
         <sq>Ndihmë</sq>
         <it>Aiuto</it>
         <de>Hilfe</de>
-        <it>Aiuto</it>
         <ur>مدد</ur>
         <es>Ayuda</es>
         <iw>עֶזרָה</iw>
